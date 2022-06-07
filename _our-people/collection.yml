@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Form Teachers/Form Teachers Sec 2.md
       - Form Teachers/Form Teachers Sec 1.md
       - Form Teachers/.keep
       - Senior Teachers.md
