@@ -80,36 +80,36 @@ Information on Secondary 1 (2022) Registration ***(OTHERS hyperlink??)***
 
 #### GCE N-Level Examination 2021
 
-Briefing Slides for Candidates
+[Briefing Slides for Candidates](/files/GCE%20N%20Level%20Briefing%20to%20Students.pdf)
 
 #### GCE O-Level Mother Tongue Language Listening Comprehension Examination 2021
 
-Briefing Slides for Candidates
+[Briefing Slides for Candidates](/files/BRIEFING%20FOR%20CANDIDATES-MT-LC-2021.pdf)
 
 
 #### BV Highlights
 
-BV Highlights - Semester 1
+BV Highlights - Semester **(file too big)**
 
 
 #### 2021 Class Timetables (Semester 2)
 
-Secondary 1 Class Timetable <br>
-Secondary 2 Class Timetable <br>
-Secondary 3 Class Timetable <br>
-Secondary 4 & 5 Class Timetable
+[Secondary 1 Class Timetable](/files/2021%20Sec%201%20Class%20Timetable_Sem2.pdf) <br>
+[Secondary 2 Class Timetable](/files/2021%20Sec%202%20Class%20Timetable_Sem2.pdf) <br>
+[Secondary 3 Class Timetable](/files/2021%20Sec%203%20Class%20Timetable_Sem2.pdf) <br>
+[Secondary 4 & 5 Class Timetable](/files/2021%20Sec%204%20and%205%20Class%20Timetable_Sem2.pdf)
 
 
 #### GCE O-Level Mid-Year Examination 2021
 
-Briefing Slides for Candidates
-Seating Plan for Candidates
+[Briefing Slides for Candidates](/files/GCE%20O%20Level%20Mid-Year%20Examinations%202021%20Briefing%20Slides.pdf) <br>
+[Seating Plan for Candidates](/files/Seating%20Plan.pdf)
 
 
 #### Information on Choosing a Post-Secondary Education Pathway 
 
-Information Note on 2021 DSA-JC Exercise <br>
-Information Note on 2021 ITE-EAE Exercise <br>
-Parent Kit - Post Secondary Transition <br>
-Polytechnic Early Admissions Exercise 2021 Factsheet <br>
-Polytechnic Early Admissions Exercise 2021 FAQ
+[Information Note on 2021 DSA-JC Exercise](/files/Information%20Note%20on%202021%20DSA-JC%20Exercise.pdf) <br>
+[Information Note on 2021 ITE-EAE Exercise](/files/Information%20Note%20on%202021%20ITE-EAE%20Exercise.pdf) <br>
+[Parent Kit - Post Secondary Transition](/files/Parent%20Kit_Post-Secondary%20Transition.pdf) <br>
+[Polytechnic Early Admissions Exercise 2021 Factsheet](/files/AY2022%20Poly%20EAE%20Factsheet.pdf) <br>
+[Polytechnic Early Admissions Exercise 2021 FAQ](/files/AY2022%20Poly%20EAE%20for%20O-Level%20FAQs%20Schools.pdf)
