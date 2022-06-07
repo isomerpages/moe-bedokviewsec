@@ -14,6 +14,7 @@ Learners who Learn For Life, Leaders who Light the Way
 To Nurture Bedok Viewans who Aspire, Strive and Dare as Learners and Leaders
 
 ### Our Values
+<br>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
