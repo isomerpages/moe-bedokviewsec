@@ -31,7 +31,7 @@ Secondary 4 & 5 Class Timetable
 
 #### Secondary 1 (2022) Registration
 
-Information on Secondary 1 (2022) Registration
+Information on Secondary 1 (2022) Registration ***(OTHERS hyperlink??)***
 
 
 #### 2022 Booklist
