@@ -5,10 +5,10 @@ description: ""
 ---
 #### End of Semester Activities (24-26 May)
 
-Sec 1 Timetable
-Sec 2 Timetable
-Sec 3 Timetable
-Sec 4 & 5 Timetable
+Sec 1 Timetable <br>
+Sec 2 Timetable <br>
+Sec 3 Timetable <br>
+Sec 4 & 5 Timetable 
 
 
 #### Sec 4 & 5 Academic Support
@@ -18,14 +18,14 @@ Sec 4 & 5 Academic Support Lessons (March Timetable)
 
 #### Release of 2021 GCE O-Level Examination Results
 
-Letter to Parents
+Letter to Parents <br>
 Presentation Slides
 
 #### 2022 Class Timetables (Semester 1)
 
-Secondary 1 Class Timetable
-Secondary 2 Class Timetable
-Secondary 3 Class Timetable
+Secondary 1 Class Timetable <br>
+Secondary 2 Class Timetable <br>
+Secondary 3 Class Timetable <br>
 Secondary 4 & 5 Class Timetable
 
 
@@ -37,15 +37,15 @@ Information on Secondary 1 (2022) Registration
 #### 2022 Booklist
 
 
-Sec 1 (Express)
-Sec 1 (Normal Academic)
-Sec 2 (Express)
-Sec 2 (Normal Academic)
-Sec 3 (Express)
-Sec 3 (Normal Academic)
-Sec 4 (Express)
-Sec 4 (Normal Academic)
-Sec 5 (Normal Academic)
+Sec 1 (Express) <br>
+Sec 1 (Normal Academic) <br>
+Sec 2 (Express) <br>
+Sec 2 (Normal Academic) <br>
+Sec 3 (Express) <br>
+Sec 3 (Normal Academic) <br>
+Sec 4 (Express) <br>
+Sec 4 (Normal Academic) <br>
+Sec 5 (Normal Academic) 
 
 
 #### GCE N-Level Examinations Results Release
@@ -94,9 +94,9 @@ BV Highlights - Semester 1
 
 #### 2021 Class Timetables (Semester 2)
 
-Secondary 1 Class Timetable
-Secondary 2 Class Timetable
-Secondary 3 Class Timetable
+Secondary 1 Class Timetable <br>
+Secondary 2 Class Timetable <br>
+Secondary 3 Class Timetable <br>
 Secondary 4 & 5 Class Timetable
 
 
@@ -108,8 +108,8 @@ Seating Plan for Candidates
 
 #### Information on Choosing a Post-Secondary Education Pathway 
 
-Information Note on 2021 DSA-JC Exercise
-Information Note on 2021 ITE-EAE Exercise
-Parent Kit - Post Secondary Transition
-Polytechnic Early Admissions Exercise 2021 Factsheet
+Information Note on 2021 DSA-JC Exercise <br>
+Information Note on 2021 ITE-EAE Exercise <br>
+Parent Kit - Post Secondary Transition <br>
+Polytechnic Early Admissions Exercise 2021 Factsheet <br>
 Polytechnic Early Admissions Exercise 2021 FAQ
