@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Our People/Senior Teachers.md
       - Our People/.keep
       - School Advisory Committee (SAC).md
       - School Crest, Colours and School Song.md
