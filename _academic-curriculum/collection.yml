@@ -2,15 +2,15 @@ collections:
   academic-curriculum:
     output: true
     order:
-      - Singapore Student Learning Space (SLS).md
-      - National Digital Literacy Programme.md
-      - Home Based Learning.md
-      - Science.md
-      - Project Work.md
-      - Physical Education.md
-      - Mother Tongue.md
-      - Mathematics.md
-      - Humanities.md
-      - English & Literature.md
-      - Applied Learning Programme (ALP).md
       - Aesthetics.md
+      - Applied Learning Programme (ALP).md
+      - English & Literature.md
+      - Humanities.md
+      - Mathematics.md
+      - Mother Tongue.md
+      - Physical Education.md
+      - Project Work.md
+      - Science.md
+      - Home Based Learning.md
+      - National Digital Literacy Programme.md
+      - Singapore Student Learning Space (SLS).md
