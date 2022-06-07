@@ -1,8 +1,10 @@
 logo: /images/isomer-logo.svg
 links:
   - title: About Us
-    url: /permalink
-    sublinks: []
+    url: /about-us
+    sublinks:
+      - title: Submenu Title
+        url: /permalink
   - title: Contact Us
     url: /contact-us/
   - title: Example Page
