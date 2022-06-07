@@ -18,6 +18,7 @@ Mr Desmond Phoa
 ### Department Members
 
 **Chinese Language Department** <br>
+
 Mdm Wong Chiu Yian <br>
 Mdm Ji Yu  <br>
 Mr Tan Teck Yong  <br>
@@ -26,6 +27,7 @@ Mdm Yu Baixin <br>
 Mr Choo Teck Huak
 
 **Malay Language Department** <br>
+
 Mr Nazarudin Abdul Bakar (Senior Teacher)  <br>
 Mr Hamzah Muhit  <br>
 Mr Syaiful Bahri Abdul Latif  <br>
@@ -33,6 +35,7 @@ Mdm Nazatul Fadzlin Fadil <br>
 Mdm Umi Kalthom Bte Shokor <br>
  
 **Tamil Language Department** <br>
+
 Mdm Durairaj Umamaheswari (Senior Teacher)  <br>
 Mr Sivabalan Kaliaperumal <br>
 Mr Palanivelu Balakrishnan <br>
