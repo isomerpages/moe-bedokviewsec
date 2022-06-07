@@ -117,4 +117,26 @@ Candidates will be shortlisted based on their track records which includes the f
 </tbody>
 </table>
 
+**Successful DSA-Sec Students.** 
+
+Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and participate in the activities related to the talent they are selected for from year 1 to 4. These students are **NOT** allowed to participate in the S1 Posting or transfer to another school. 
+
+Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
+
+
+**Unsuccessful DSA-Sec Students.** 
+
+Students/parents will be notified of the allocation outcome and to participate in the S1 Posting to submit school choices.
+ 
+We thank you for your interest and we look forward to your application.
+
+
+
+
+
+
+
+
+
+
 
