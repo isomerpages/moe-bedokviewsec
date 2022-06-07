@@ -23,10 +23,10 @@ description: ""
 
 #### 2022 Class Timetables (Semester 1)
 
-Secondary 1 Class Timetable <br>
-Secondary 2 Class Timetable <br>
-Secondary 3 Class Timetable <br>
-Secondary 4 & 5 Class Timetable
+[Secondary 1 Class Timetable](/files/2022%20Sec%201%20Class%20Timetables%20Sem%201.pdf) <br>
+[Secondary 2 Class Timetable](/files/2022%20Sec%202%20Class%20Timetables%20Sem%201.pdf) <br>
+[Secondary 3 Class Timetable](/files/2022%20Sec%203%20Class%20Timetables%20Sem%201.pdf) <br>
+[Secondary 4 & 5 Class Timetable](/files/2022%20Sec%204%20and%205%20Class%20Timetables%20Sem%201.pdf)
 
 
 #### Secondary 1 (2022) Registration
@@ -37,20 +37,20 @@ Information on Secondary 1 (2022) Registration ***(OTHERS hyperlink??)***
 #### 2022 Booklist
 
 
-Sec 1 (Express) <br>
-Sec 1 (Normal Academic) <br>
-Sec 2 (Express) <br>
-Sec 2 (Normal Academic) <br>
-Sec 3 (Express) <br>
-Sec 3 (Normal Academic) <br>
-Sec 4 (Express) <br>
-Sec 4 (Normal Academic) <br>
-Sec 5 (Normal Academic) 
+[Sec 1 (Express)](/files/S1%20Exp.pdf) <br>
+[Sec 1 (Normal Academic)](/files/S1%20NA.pdf) <br>
+[Sec 2 (Express)](/files/S2%20EXP.pdf) <br>
+[Sec 2 (Normal Academic)](/files/S2%20NA.pdf) <br>
+[Sec 3 (Express)](/files/S3%20EXP.pdf) <br>
+[Sec 3 (Normal Academic)](/files/S3%20NA.pdf) <br>
+[Sec 4 (Express)](/files/S4%20EXP.pdf) <br>
+[Sec 4 (Normal Academic)](/files/S4%20NA.pdf) <br>
+[Sec 5 (Normal Academic)](/files/S5%20NA.pdf) 
 
 
 #### GCE N-Level Examinations Results Release
 
-Briefing Slides
+[Briefing Slides](/files/2021%20GCE%20N%20Level%20Exams%20Results%20for%20NA%20Dec%202021.pdf)
 
 
 #### Instructions to School Candidates on Safe Management Measures 
