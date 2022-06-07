@@ -55,27 +55,27 @@ Information on Secondary 1 (2022) Registration ***(OTHERS hyperlink??)***
 
 #### Instructions to School Candidates on Safe Management Measures 
 
-Instructions to School Candidates (updated 11 October 2021)
+[Instructions to School Candidates](/files/2021%20GCE%20-%20Instructions%20to%20Sch%20Candidates_11%20October%202021.pdf) (updated 11 October 2021)
 
 
 #### GCE O-Level Examination 2021
 
-Briefing Slides for Candidates
+[Briefing Slides for Candidates](/files/GCE%20O%20Examinations%20Briefing%202021.pdf)
 
 
 #### 2021 GCE O-Level Science Practical Examination
 
-Briefing for Candidates
+[Briefing for Candidates](/files/BRIEFING%20FOR%20CANDIDATES_O%20Level%20Science%20Practical.pdf)
 
 
 #### 2021 End-of-Year Examination Timetable
 
-Examination Timetable
+[Examination Timetable](/files/2021%20EYE%20Timetable%20Final.pdf)
 
 
 #### 2022 Sec 3 Subject Combination Briefing
 
-Briefing Slides
+[Briefing Slides](/files/2022%20Sec%203%20Subject%20Combination%20Briefing.pdf)
 
 
 #### GCE N-Level Examination 2021
