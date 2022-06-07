@@ -3,8 +3,14 @@ links:
   - title: About Us
     url: /about-us
     sublinks:
-      - title: Submenu Title
-        url: /permalink
+      - title: Principal's Welcome Message
+        url: /about-us/principals-welcome-message
+      - title: History
+        url: /about-us/history
+      - title: Mission, Vision and Values
+        url: /about-us/school-mission-vision-and-values
+      - title: School Motto
+        url: /about-us/school-motto
   - title: Contact Us
     url: /contact-us/
   - title: Example Page
