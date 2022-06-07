@@ -31,3 +31,53 @@ As an integral part of Character & Citizenship Education, VIA involves school le
 ![Please refer to these supporting photographs to understand more about VIA@BV.](/images/please%20refer.png)
 Please refer to these supporting photographs to understand more about VIA@BV.
 
+![Sec 1 students Spreading the Joy during our annual service to the community during Chinese New Year.](/images/Sec%201%20students.png)
+
+![Sec 1 students Spreading the Joy during our annual service to the community during Chinese New Year.](/images/Sec%201%20students%202.png)
+Sec 1 students Spreading the Joy during our annual service to the community during Chinese New Year.
+
+![Happy School Project in BV](/images/Happy%20School%20Project.png)
+
+![Happy School Project in BV](/images/Happy%20School%20Project2.png)
+
+![Happy School Project in BV](/images/Happy%20School%20Project3.png)
+
+![Happy School Project in BV](/images/Happy%20School%20Project4.jpg)
+
+![Happy School Project in BV](/images/Happy%20School%20Project5.jpg)
+Happy School Project in BV, where students have an opportunity to improve the school’s vibrancy. Through this platform, they also develop their sense of shared responsibility and respect for common spaces in the school.
+
+
+![Our Secondary 4 & 5 students hosting the elderly from Rainbow Multiservice Center](/images/our%20sec%204%20&%205.png)
+Our Secondary 4 & 5 students hosting the elderly from Rainbow Multiservice Center as well as our APSN Katong School students during our annual Chinese New Year celebrations.
+
+![Many VIA projects still managed to be executed with safe management measures in place.](/images/In%20light%20of%20restrictions.png)
+In light of restrictions with the pandemic, many VIA projects still managed to be executed with safe management measures in place. For example, the collage above shows students packing items to be donated towards the Willing Hearts Charity Foundation.
+
+![Bedok Viewans finding out more about the needs of Make A Wish Foundation](/images/Bedok%20Viewans%20finding%20out.jpg)
+Bedok Viewans finding out more about the needs of Make A Wish Foundation and their beneficiaries during the BV-VIA Marketplace
+
+
+![Bedok Viewans finding out more about the needs of Bedok SUN-DAC Centre during the BV-VIA Marketplace](/images/Bedok%20Viewans%20finding%20out2.jpg)
+Bedok Viewans finding out more about the needs of Bedok SUN-DAC Centre during the BV-VIA Marketplace
+
+![Sec 5 students imparting life-skills like tooth-brushing to our APSN Katong School students.](/images/sec%205%20students%20imparting%20skills.png)
+Sec 5 students imparting life-skills like tooth-brushing to our APSN Katong School students.
+
+![Our Sec 4 students helping to engage the residents of the community in Bedok SUNDAC Centre](/images/Our%20Sec%204%20students.jpg)
+Our Sec 4 students helping to engage the residents of the community in Bedok SUNDAC Centre
+
+In addition to the above, opportunities such as a BV-VIA@Home Challenge was offered to remind students of the importance of contributing meaningfully.
+
+![BV-VIA@Home Challenge](/images/BV-VIA@Home%20Challenge.png)
+
+![BV-VIA@Home Challenge](/images/BV-VIA@Home%20Challenge2.png)
+
+**Community Youth Leadership in BV**
+
+We also provide opportunities for students to contribute meaningfully to the community by engaging various community stakeholders.
+
+We have a sustained partnership with APSN Katong in the programme **BV Connects**. Our Bedok Viewans befriend students from APSN and this provides the opportunity for them to learn the importance of social integration and inclusivity. BV also partners South East Community Development Council in several initiatives such as the Community Laboratory Project.
+
+In the annual **BV Values In Action Marketplace**, voluntary welfare organisations (VWO) share with students their missions, beneficiary profiles and needs. Through open conversations and sharing, students develop greater awareness about the needy and underprivileged as well as connect with VWOs they are keen to carry out meaningful VIA projects with. In meeting the needs of the Bedok community, Bedok Viewans learn the importance of the value of Service.
+
