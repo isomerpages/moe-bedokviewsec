@@ -13,3 +13,7 @@ description: ""
 
 </div>
 
+![Top 5 reasons students join BV](/images/Top%205%20reasons%20students%20join%20BV%205.gif)
+
+Click on the following to learn about each of the reasons!
+
