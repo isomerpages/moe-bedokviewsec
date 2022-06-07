@@ -5,21 +5,21 @@ description: ""
 ---
 #### End of Semester Activities (24-26 May)
 
-Sec 1 Timetable <br>
-Sec 2 Timetable <br>
-Sec 3 Timetable <br>
-Sec 4 & 5 Timetable 
+[Sec 1 Timetable](/files/2022%20EOS%20Sec%201%20Class%20Timetables.pdf) <br>
+[Sec 2 Timetable](/files/2022%20EOS%20Sec%202%20Class%20Timetables.pdf) <br>
+[Sec 3 Timetable](/files/2022%20EOS%20Sec%203%20Class%20Timetables.pdf) <br>
+[Sec 4 & 5 Timetable](/files/2022%20EOS%20Sec%204E4N5N%20Class%20Timetables.pdf) 
 
 
 #### Sec 4 & 5 Academic Support
 
-Sec 4 & 5 Academic Support Lessons (March Timetable)
+[Sec 4 & 5 Academic Support Lessons (March Timetable)](/files/2022%20S45%20ACAD%20SUPPORT%20LESSONS%20MAR.pdf)
 
 
 #### Release of 2021 GCE O-Level Examination Results
 
-Letter to Parents <br>
-Presentation Slides
+[Letter to Parents](/files/Letter%20to%20Parents%20on%20Release%20of%202021%20GCE%20O-Level%20Examination%20Results.pdf) <br>
+[Presentation Slides](/files/Release%20of%202021%20GCE%20O-Level%20Exam%20Results.pdf)
 
 #### 2022 Class Timetables (Semester 1)
 
