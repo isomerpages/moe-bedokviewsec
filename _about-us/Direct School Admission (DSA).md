@@ -69,3 +69,52 @@ Candidates will be shortlisted based on their track records which includes the f
 </tbody>
 </table>
 
+**3. Key Dates**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
+.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-cjod{background-color:#EAEAEA;border-color:inherit;color:#222;text-align:left;vertical-align:top}
+.tg .tg-bvia{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-cjod"> May 2022<br></th>
+    <th class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">DSA-Sec Press Release by MOE.</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ii8k"><br>5 May to 1 June 2022 </td>
+    <td class="tg-y7qa">Centralised DSA-Sec Application Process:<br><br>Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 5 May 2022, 11.00 am to 1 June 2022, 3.00 pm. <br>For more details, please refer to MOE website – <a href="http://www.moe.gov.sg/dsa-sec" target="_blank" rel="noopener noreferrer"><span style="color:#F2A00F">www.moe.gov.sg/dsa-sec</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k"><br><br>By 29 June 2022 </td>
+    <td class="tg-y7qa">Short-listed applicants will be notified. </td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k"><br><br>Between 6 July to  15 July 2022<span style="color:#222;background-color:#EAEAEA"> </span></td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Interview sessions will be carried out at Bedok View Secondary School.  </span></td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k"><br><br>By 12 September 2022 </td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA"> All applicants will receive a reply from school on the outcome of their applications: (i) Confirmed Offer (CO), (ii) Wait List (WL) or (iii) Unsuccessful)</span><br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k"><br> 31 October to  4 November 2022</td>
+    <td class="tg-y7qa">School Preference Submission:    <br><br>Applicants with Confirmed Offer or Wait List offer may submit their school preferences from 31 October to 4 November 2022 via the DSA-Sec Portal or at their primary schools. Both parents are required to login to the DSA-Sec Portal using their Singpass to complete the submission.   <br><br>DSA-Sec offers not taken up will be considered as lapsed at the end of the School Preference Submission period.   <br><br>Applicants who want to accept an offer from Singapore Sports School (SSP), should not submit their school preference. Submission of school preference would void their SSP offer They should also continue to take part in the S1 Posting. <br></td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k"><br>Late November 2022<br></td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">Release of DSA-Sec Allocation Results.</span></td>
+  </tr>
+</tbody>
+</table>
+
+
