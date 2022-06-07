@@ -86,11 +86,21 @@ Students testing their prototype chemical powered car.
 
 The ignITE Skills Challenge is a national-level skills competition organised by the Institute of Technical Education, Singapore, with support from the Ministry of Education and Singapore Science Centre. As the only national competition for Normal Academic and Technical students in Singapore, the aim is to excite students about the value of vocational and skills education, make learning enjoyable and memorable. Students can participate in more than 10 challenges that focus on Science, Technology, Engineering and Mathematics (STEM).
 
+![Our students in circuit-tinkering action.](/images/Our%20students%20in%20circuit-tinkering%20action.jpg)
+Our students in circuit-tinkering action.
 
+![One of our very happy winning teams.](/images/One%20of%20our%20very%20happy%20winning%20teams.jpg)
+One of our very happy winning teams.
 
 **3. Advanced Elective Module on STEM Related Areas (Secondary 3)**
 
 The Advanced Elective Module (AEM) is organised for our Secondary 3 Express Physics students. Students will spend 4 days at a selected Polytechnic during their June or September school holidays to attend the module. In attending this module, students have the chance to understand more about STEM-related skills as well as to have a first-hand experience of life in a Polytechnic. Some of these AEMs include Discovering the Science of Flight, The Science of Ship Design and Creative STEM Applications.
+
+![Experience on flight simulator @NP Aerospace Hub](/images/Experience%20on%20flight%20simulator%20@NP%20Aerospace%20Hub.jpg)
+Experience on flight simulator @NP Aerospace Hub
+
+![Field trip to a shipyard.](/images/shipyard.png)
+Field trip to a shipyard.
 
 **4. Science & Technology Competition @Nanyang Polytechnic**
 
