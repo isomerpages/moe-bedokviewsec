@@ -2,5 +2,6 @@ collections:
   student-development:
     output: true
     order:
+      - Learning for Life Programme (LLP).md
       - Discipline.md
       - Student Leadership.md
