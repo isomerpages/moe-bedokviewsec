@@ -144,3 +144,98 @@ Effective discipline is based on a consistent philosophy and approach. Every stu
   </tr>
 </tbody>
 </table>
+
+**5. Attire & Grooming** 
+
+![School Attire (Girls)](/images/School%20attire%20girls.jpg)
+**School Attire
+(Girls)**
+
+![Grooming Standards (Girls)](/images/groomig%20girl.png)
+**Grooming Standards (Girls)**
+
+![Grooming Standards (Boys)](/images/grooming%20boy.png)
+**Grooming Standards (Boys)**
+
+**6.	Rule on Weapons**
+
+6.1	Bedok Viewans are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.
+
+**7.	Canteen Rules & Cleanliness of School**
+
+7.1	Bedok Viewans are not allowed to eat or drink outside the canteen or the designated areas so as to maintain the cleanliness of the school's environment. <br>
+
+7.2	Bedok Viewans should queue in an orderly manner to buy food or drinks in the canteen. <br>
+
+7.3	Bedok Viewans are to make it their duty to return plates and cutlery to the respective containers provided by the food stalls as this helps in maintaining the general appearance and cleanliness of the canteen. <br>
+
+7.4	Bedok Viewans are also expected to be responsible and considerate in the use of all equipment and facilities within the school at all times. <br>
+
+7.5	Any defacing of furniture or misuse of equipment is a serious offence and is considered an act of vandalism. Offenders may be required to pay for the repair or replacement of damaged property.
+
+**8.	Smoking**
+
+8.1	Smoking is illegal for all individuals who are under the age of 21, and it is also prohibited in public places within the compounds of educational institutions. <br>
+
+8.2	Smoking is a serious offence. We do not want Bedok Viewans to pick up this unhealthy habit during their formative years in school. Students caught smoking within or outside the school premises are liable to face serious consequences in school.
+
+**9.	Behaviour in Public**
+
+9.1	Bedok Viewans are to be respectful and courteous in public areas. They are to observe and abide by the rules and regulations within the areas that they are patronising and/or visiting. <br>
+
+9.2	Bedok Viewans found violating these may face consequences meted out by the school in addition to any any fines or punishments by the authorities, in addition to consequences that the school will mete out.
+
+**10.	Use of Electronic Devices** 
+
+10.2	Students should seek permission from their parents and guardians to bring these devices to school. Students are to take full responsibility to look after the devices they own. The school will not be responsible for any loss or damage to these devices. <br>
+
+10.3	These devices should always be on silent mode when switched on. <br>
+
+10.4	Charging of these devices, when they are not used for educational purposes or related, is not allowed in school. <br>
+
+10.5	Using these devices to take unwarranted photographs or videos of any person in the school is not allowed. The same rule applies if these devices are used to take unwarranted photographs or videos of any member of public outside school. <br>
+
+10.6	These devices can only be used during recess, after curriculum hours and after school activities or events. If these devices have to be used within curriculum hours or during school activities and events, the teachers will grant permission to the students. Conversely, students may request permission from their teachers for the use of the devices. Permission will be granted on a case-by-case basis and the decisions of the teachers will be final. <br>
+
+10.7	The staff of the school has the right to confiscate these devices if they are not kept away or used responsibly, sensitively, and appropriately, after repeated reminders. Once confiscated, these devices may be returned to the student at a later time and the student would be deemed to have committed an offence. In some instances, the school may require the presence of a parent or guardian before the confiscated device is returned to the student.
+
+**11.	Classroom Conduct**
+
+11.1	The tone of the learning environment is vital to good teaching and learning. The G.R.A.C.E Protocol is used to ensure that Bedok Viewans are ready and prepared for every lesson.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-3bav{background-color:#FFF;border-color:inherit;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ngso{background-color:#FFF;border-color:inherit;color:#454545;text-align:center;vertical-align:top}
+.tg .tg-wl7u{background-color:#FFF;border-color:inherit;color:#454545;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-3bav">Stage of the Lesson</th>
+    <th class="tg-3bav">Areas to take note</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-wl7u"><span style="background-color:initial">Before the Teacher arrives to class</span><br></td>
+    <td class="tg-wl7u"><br>- The classroom is swept and the dustbin is cleared.<br>- The whiteboard is clean and ready for the next lesson.<br>- The tables and chairs are neatly arranged.<br>- The attendance for the lesson is clearly updated on the board.<br>- If coming from another venue, Bedok Viewans move quickly to the class so that the lesson can begin on time.<br><span style="background-color:initial">- Bedok Viewans prepare materials for the lesson and place them on the table.</span><br><br>All bags and other belongings are neatly placed on the floor or on the shelves at the back of the class.<br></td>
+  </tr>
+  <tr>
+    <td class="tg-wl7u"><span style="background-color:initial">When the Teacher arrives</span><br></td>
+    <td class="tg-wl7u"><br><span style="background-color:initial">- Every lesson begins with G.R.A.C.E.</span><br><br><span style="font-weight:bold;color:#000">G</span><br><span style="text-decoration:underline">Greeting the teacher</span><br>Bedok Viewans stand and make formal greetings as a show of respect and to signal the start of the lesson.<br><span style="font-weight:bold;color:#000">R</span><br><span style="text-decoration:underline">Readiness</span><br>Bedok Viewans place their textbooks and all necessary materials and stationery on their desks. They are seated quietly in their seats with their bags placed on the floor.<br><span style="font-weight:bold;color:#000">A</span><br><span style="text-decoration:underline">Attendance-taking</span><br>Teacher checks the attendance of the class to ascertain absentees/late-comers for follow-up action.<br><span style="font-weight:bold;color:#000">C</span><br><span style="text-decoration:underline">Cleanliness</span><br>Teacher and Bedok Viewans ensure that the classroom is clean. Students are expected to perform their duties when scheduled according to the class duty roster.<br><span style="font-weight:bold;color:#000">E</span><br><span style="text-decoration:underline">Expectations</span><br>Teacher clearly communicates the expectations and objectives of the lesson.</td>
+  </tr>
+  <tr>
+    <td class="tg-wl7u"><span style="background-color:initial">During the Lesson</span><br></td>
+    <td class="tg-wl7u"><br><br>- Bedok Viewans are clear about the lesson objectives.<br>- Bedok Viewans are engaged during lesson and participate actively during class discussions.<br>- During teacher-directed activities, Bedok Viewans pay close attention, taking notes where necessary.<br>- Bedok Viewans should raise their hands if they have questions about the lesson.<br>- When questions are asked, Bedok Viewans should raise their hands to respond and stand up when responding to the question.<br>- During group activities, Bedok Viewans are clear about the roles they play. <br>- When work is assigned, Bedok Viewans should complete the work, seeking clarification or help from the teacher when required.<br><span style="background-color:initial">- Bedok Viewans should ask for permission and obtain a Teacher’s Pass before being excused from the class.</span><br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-ngso">At the end of the Lesson</td>
+    <td class="tg-wl7u"><br>- Bedok Viewans stand and formal thanks are exchanged.<br>- Bedok Viewans are clear of any follow-up work from the lesson. They are to write down any homework assigned in their Student Handbook.<br><span style="background-color:initial">- Bedok Viewans should clarify with the teacher if they are unclear about the lesson.</span><br>- Bedok Viewans remain in class and prepare for the next lesson.<br><span style="background-color:initial">- Bedok Viewans pack up and move quickly as a class if the next lesson is at another venue.</span></td>
+  </tr>
+</tbody>
+</table>
