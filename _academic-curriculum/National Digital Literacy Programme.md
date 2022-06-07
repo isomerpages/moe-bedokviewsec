@@ -34,7 +34,7 @@ Parent Handbook II on Learning with a Personal Learning Device.pdf
 
 **4. Cyber Wellness** 
 
-https://www.moe.gov.sg/programmes/cyber-wellness/ <br>
+https://www.moe.gov.sg/programmes/cyber-wellness/ **(link not working!)**<br>
 
 [https://go.gov.sg/better-internet-sg](https://www.betterinternet.sg/Resources/Resources-Listing?topic=everything&persona=parents)
 
