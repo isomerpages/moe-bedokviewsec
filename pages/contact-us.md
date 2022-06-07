@@ -13,8 +13,8 @@ locations:
     title: Bedok View Secondary School
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
+      - phone: +65 6443 0563
+      - email: bedokview_ss@moe.edu.sg
+      - other: "<br>General Office (Fax):\t<br> 6449 4286"
     title: General Enquiries & Feedback
 ---
