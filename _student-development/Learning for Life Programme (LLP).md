@@ -41,7 +41,8 @@ In Tier 2, the target group is the Upper Secondary students and the focus is spe
 
 The Good Value @ BV programme aims to complement the other Student Development Experiences. In particular, it addresses two aspects. First, it will deliberately provide opportunities for students to apply what they learn about values, which would otherwise be missed out due to lack of attention to these opportunities. Second, it will touch the heart, i.e. internalising the values. This second aspect will require teachers to be able to facilitate the reflection and learning when students carry out the programme activities.
 
-![Enjoying the dragon boating activity](/images/Enjoying%20the%20dragon%20boating%20activity.jpg)
+<img src="/images/Enjoying%20the%20dragon%20boating%20activity.jpg" 
+     style="width:65%">
 Enjoying the dragon boating activity
 
 
@@ -54,5 +55,5 @@ Rafting
 ![Taking on the high elements.](/images/Taking%20on%20the%20high%20Elements.jpg)
 Taking on the high elements.
 
-
-![Working on the paddy field.](/images/Working%20on%20the%20paddy%20field.jpg)
+<img src="/images/Working%20on%20the%20paddy%20field.jpg" 
+     style="width:80%">
