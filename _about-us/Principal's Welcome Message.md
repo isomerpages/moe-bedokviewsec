@@ -8,7 +8,7 @@ description: ""
 ![Mdm Teo Yvonne, Principal of Bedok View Secondary School](/images/Final_P.jpg)
 
 <img src="/images/Final_P.jpg" 
-     style="width:50%">
+     style="width:60%">
 
 On behalf of the school, a warm welcome to Bedok View Secondary School!
 
