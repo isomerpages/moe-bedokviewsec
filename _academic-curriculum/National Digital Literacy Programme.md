@@ -47,8 +47,6 @@ https://www.moe.gov.sg/programmes/cyber-wellness/ **(link not working!)**<br>
 
 **Specification**
 
-![PLD](/images/PLD.jpg)
-
 <img src="/images/PLD.jpg" 
      style="width:75%">
 
