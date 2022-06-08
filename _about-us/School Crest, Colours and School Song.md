@@ -3,10 +3,10 @@ title: School Crest, Colours and School Song
 permalink: /about-us/school-crest-colours-and-school-song
 description: ""
 ---
-
-
 ## School Crest
-![BVSS logo](/images/BVSS%20logo.png) 
+
+<img src="/images/BVSS%20logo.png" 
+     style="width:60%">
 
 The Lighthouse is our school symbol and is depicted on our school crest.  It represents the fire of passion and guiding light to direct our thoughts and actions. 
 
@@ -55,7 +55,3 @@ For a Better Future. <br>
 *Music by W.F. Chin*
 
 *Lyrics by Mohd. Said Samad*
-
-
-
-
