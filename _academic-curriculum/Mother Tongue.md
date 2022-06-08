@@ -113,7 +113,8 @@ Given the changing language environment, the usage of MTL beyond curriculum time
 
 **Rangoli for Tami Language students**
 
-![Rangoli for Tami Language students](/images/Rangoli%20for%20Tami%20Language%20students.jpg)
+<img src="/images/Rangoli%20for%20Tami%20Language%20students.jpg" 
+     style="width:60%">
 
 **Lyrical Poetry for Malay Language students**
 
