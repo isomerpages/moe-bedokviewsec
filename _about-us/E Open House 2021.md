@@ -56,3 +56,47 @@ Click on the following to learn about each of the reasons!
 </a></p>
 </body>
 </html>
+
+### Navigation Bar
+
+*links broken*
+
+### The BV Experience
+
+![The BV Experience](/images/OUR%20CCA%201.gif)
+
+Click on the following videos where our students, teachers, alumni and PSG share about their BV experience!
+
+[Our Students](https://www.youtube.com/watch?v=eqCw3YzVexI)
+
+[Ms Ee-laine Oh, Senior Teacher (Geography)](https://www.youtube.com/watch?v=f34DP3zPBwY&t=1s)
+
+[Mr Nazarudin, Senior Teacher (ML)](https://www.youtube.com/watch?v=sihOB2o4Wm8)
+
+[Mr Tan Yew Hock, HOD (EL)](https://www.youtube.com/watch?v=D5OFUs2D4Vk)
+
+[Ms Deepa, HOD (CCE)](https://www.youtube.com/watch?v=ljLGvNTgJl8)
+
+[Dr Muhammad Faishal Ibrahim, BV Alumni](https://www.youtube.com/watch?v=wF6qayJkyUM&t=1s)
+
+[Mr John Seah, BV Alumni](https://www.youtube.com/watch?v=q5lNT0gau1E)
+
+[Zachary, BV Alumni](https://www.youtube.com/watch?v=8bPFe5jl5pw)
+
+[Mr Steve Ng, BV PSG](https://www.youtube.com/watch?v=KiU17YtgOrc)
+
+### Our Curriculum
+
+![Our Curriculum](/images/CURR2.png)
+
+Click on the following to find out more about each subject.        
+[Aesthetics](/academic-curriculum/aesthetics) <br>
+[CCE](/student-development/character-and-citizenship-education-cce) <br>
+[English & Literature](/academic-curriculum/english-n-literature) <br>
+[Humanities](/academic-curriculum/humanities) <br>
+Mathematics <br>
+Mother Tongue <br>
+Science <br>
+Physical Education <br>
+Applied Learning Programme <br>
+Learning for Life Programme
