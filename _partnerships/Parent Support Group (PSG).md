@@ -23,20 +23,25 @@ Our PSG has always been generous in the way they care for our students. For inst
 ![Bread and Snacks for Afternoon Study Programme](/images/Bread%20and%20Snacks%20for%20Afternoon%20Study%20Programme.jpg)
 
 **Drinks for Afternoon Study Programme**
-![Drinks for Afternoon Study Programme](/images/Drinks%20for%20Afternoon%20Study%20Programme.png)
+<img src="/images/Drinks%20for%20Afternoon%20Study%20Programme.png" 
+     style="width:75%">
 
 To show appreciation to our teachers, the PSG ordered customised cupcakes for every teaching and non-teaching staff of the school during the Teachers' Day Appreciation week.
 
 **Cupcakes for Teachers’ Day Celebration**
-![Cupcakes for Teachers’ Day Celebration](/images/Cupcakes%20for%20Teachers’%20Day%20Celebration.jpg)
+<img src="/images/Cupcakes%20for%20Teachers’%20Day%20Celebration.jpg" 
+     style="width:75%">
 
 **Graduation Gift for our Secondary 4 and 5 students**
 
 The PSG also ordered souvenirs for our graduating students to celebrate their graduation after 4 or 5 years in the school as well as to wish them all the best for their upcoming National Examination.
 
-![Graduation Gift for our Secondary 4 and 5 students](/images/Graduation%20Gift%20for%20our%20Secondary%204%20and%205%20students.jpeg)
 
-![Graduation Gift for our Secondary 4 and 5 students](/images/Graduation%20Gift%20for%20our%20Secondary%204%20and%205%20students%202.jpeg)
+<img src="/images/Graduation%20Gift%20for%20our%20Secondary%204%20and%205%20students.jpeg" 
+     style="width:75%">
+
+
+<img src="/images/Graduation%20Gift%20for%20our%20Secondary%204%20and%205%20students%202.jpeg" 
+     style="width:75%">
 
 We thank and look forward to the continued support of the PSG in providing a holistic support and partnership for our students.
-
