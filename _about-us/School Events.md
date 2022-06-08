@@ -21,7 +21,10 @@ description: ""
 [Step by Step Guide for Strava Sync](/files/Step%20by%20step%20guide%20for%20Strava%20Sync.pdf)
 
 [Link to Event Site](https://web.42race.com/race-bundle/bedokviewlighthouse)
-![Link to Event Site](/images/Picture1.png)
+
+<img src="/images/Picture1.png" 
+     style="width:60%">
+
 
 ### Student Leaders’ Investiture 2021
 
