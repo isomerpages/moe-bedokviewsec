@@ -2,7 +2,7 @@ collections:
   others:
     output: true
     order:
-      - Sec 1 e Registration.md
-      - Q&A Live Session.md
-      - Banner Slider.md
       - Highlights.md
+      - Banner Slider.md
+      - Q&A Live Session.md
+      - Sec 1 e Registration.md
