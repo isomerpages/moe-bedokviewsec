@@ -150,16 +150,16 @@ Effective discipline is based on a consistent philosophy and approach. Every stu
 **5. Attire & Grooming** 
 
 <img src="/images/School%20attire%20girls.jpg" 
-     style="width:35%">
+     style="width:25%">
 **School Attire
 (Girls)**
 
 <img src="/images/groomig%20girl.png" 
-     style="width:35%">
+     style="width:25%">
 **Grooming Standards (Girls)**
 
 <img src="/images/grooming%20boy.png" 
-     style="width:35%">
+     style="width:25%">
 **Grooming Standards (Boys)**
 
 **6.	Rule on Weapons**
