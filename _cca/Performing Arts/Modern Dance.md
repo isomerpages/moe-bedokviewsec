@@ -48,6 +48,7 @@ Ms Nur Emillia Bte Sulaiman Sim
 </table>
 
 ### CCA Overview & Highlights
+
 Bedok View Dance aims to help students discover and develop their strengths and abilities. Our members are committed to support each other to put in their best effort consistently to reach greater heights.
 
 In 2021, our dance members grew in both skills and character through various activities and performances. We had two teams of dancers to participate in the Singapore Youth Festival (SYF) Arts Presentation in which they practiced tirelessly and gained exhilarating and enriching experiences together.
