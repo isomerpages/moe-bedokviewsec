@@ -5,4 +5,4 @@ description: ""
 ---
 #### HBL days
 
-Click here to look at instructions for HBL days.
+Click [here](/academic-curriculum/home-based-learning) to look at instructions for HBL days.
