@@ -33,4 +33,11 @@ Click on the following to learn about each of the reasons!
 </body>
 </html>
 
-![A](/images/5%20Reasons%20logo%208.png)
+<html>
+<body>
+<p><a href="/student-development/student-leadership">
+<img src="/images/5%20Reasons%20logo%2012.png"  style="width:35%">
+</a></p>
+</body>
+</html>
+
