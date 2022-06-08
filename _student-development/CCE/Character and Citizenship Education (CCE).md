@@ -30,7 +30,8 @@ Mr Yeo Yong Kwang Samuel (Allied Educator - Counselling)
 
 ### Overview
 
-![CCE Framework 2020](/images/CCE_Framework_2020.png)
+<img src="/images/CCE_Framework_2020.png" 
+     style="width:70%">
 **BV Character & Citizenship Education Framework**
 
 Character & Citizenship is central to Bedok View’s vision of creating a **'School of High Standards, Quality Learning and Holistic Development’.** School leaders and staff work in synergy to realise the school mission to **'Nurture Students, Transform Lives and Serve the Nation**’. The CCE framework (based on MOE’s CCE 2021 Curriculum Frame) draws together the different aspects of CCE in providing a student-centric, values-driven education.
@@ -58,7 +59,6 @@ C.    **Caring and Enabling School Environment**: A school environment that enab
 
 We are certain that with all this, every Bedok Viewan will grow to be a **Responsible, Global Citizen with Exemplary Character**, as mentioned in the lighthouse.
 
-![The CCE Committee at the school’s Heritage Gallery](/images/The%20CCE%20Committee%20at%20the%20school’s%20Heritage%20Gallery.png)
+<img src="/images/The%20CCE%20Committee%20at%20the%20school’s%20Heritage%20Gallery.png" 
+     style="width:75%">
 The CCE Committee at the school’s Heritage Gallery
-
-
