@@ -117,11 +117,11 @@ Click on the following to learn about what skills and talents your child can dev
 
 #### Sports and Games
 
-[Badminton (Boys)](/cca/sports-and-games/badminton) <br>
-[Basketball (Boys and Girls)](/cca/sports-and-games/basketball) <br>
-[Football (Boys)](/cca/sports-and-games/football) <br>
-[Netball](/cca/sports-and-games/netball) <br>
-[Athletics](/cca/sports-and-games/athletics)
+[Badminton (Boys)](/cca/sports/badminton-boys) <br>
+[Basketball (Boys and Girls)](/cca/sports/basketball-boys-n-girls) <br>
+[Football (Boys)](/cca/sports/football-boys) <br>
+[Netball](/cca/sports/netball) <br>
+[Athletics](/cca/sports/athletics)
 
 #### Performing Arts
 
