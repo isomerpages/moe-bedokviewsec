@@ -2,8 +2,8 @@ collections:
   achievements:
     output: true
     order:
+      - Academic.md
+      - Co Curricular Activities (CCA).md
       - Character Awards/.keep
       - Character Awards/2RISE & SHINE Awards.md
       - Character Awards/Model Student Awards.md
-      - Co Curricular Activities (CCA).md
-      - Academic.md
