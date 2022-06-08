@@ -3,6 +3,8 @@ title: CCA Attainment LEAPS 2
 permalink: /cca/cca-attainment-leaps-2-0
 description: ""
 ---
+# CCA Attainment LEAPS 2.0
+
 ### LEAPS 2.0
 
 LEAPS 2.0 is a framework to recognise secondary school students’ holistic development. Students will be recognised with levels of attainment in four domains: Participation, Achievement, Leadership and Service.
