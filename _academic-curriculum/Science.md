@@ -96,7 +96,8 @@ One of our very happy winning teams
 
 The Advanced Elective Module (AEM) is organised for our Secondary 3 Express Physics students. Students will spend 4 days at a selected Polytechnic during their June or September school holidays to attend the module. In attending this module, students have the chance to understand more about STEM-related skills as well as to have a first-hand experience of life in a Polytechnic. Some of these AEMs include Discovering the Science of Flight, The Science of Ship Design and Creative STEM Applications.
 
-![Experience on flight simulator @NP Aerospace Hub](/images/Experience%20on%20flight%20simulator%20@NP%20Aerospace%20Hub.jpg)
+<img src="/images/Experience%20on%20flight%20simulator%20@NP%20Aerospace%20Hub.jpg" 
+     style="width:60%">
 Experience on flight simulator @NP Aerospace Hub
 
 ![Field trip to a shipyard.](/images/shipyard.png)
