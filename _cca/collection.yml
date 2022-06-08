@@ -2,19 +2,13 @@ collections:
   cca:
     output: true
     order:
-      - CCA Orientation.md
-      - Latest Information.md
-      - Clubs/.keep
-      - Clubs/Clubs.md
-      - Clubs/Infocomm Club.md
-      - Clubs/Service Learning Club.md
-      - Performing Arts/.keep
-      - Performing Arts/Performing Arts.md
-      - Performing Arts/Choir.md
-      - Performing Arts/Concert Band.md
-      - Performing Arts/English Drama.md
-      - Performing Arts/Guzheng Ensemble.md
-      - Performing Arts/Modern Dance.md
+      - CCA Attainment LEAPS 2.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/Uniformed Groups.md
+      - Uniformed Groups/Girl Guides.md
+      - Uniformed Groups/National Cadet Corps (NCC) Land Boys.md
+      - Uniformed Groups/National Cadet Corps (NCC) Land Girls.md
+      - Uniformed Groups/National Police Cadet Corps (NPCC) Boys.md
       - Sports/.keep
       - Sports/Sports.md
       - Sports/Athletics.md
@@ -22,10 +16,16 @@ collections:
       - Sports/Basketball (Boys & Girls).md
       - Sports/Football (Boys).md
       - Sports/Netball.md
-      - Uniformed Groups/.keep
-      - Uniformed Groups/Uniformed Groups.md
-      - Uniformed Groups/Girl Guides.md
-      - Uniformed Groups/National Cadet Corps (NCC) Land Boys.md
-      - Uniformed Groups/National Cadet Corps (NCC) Land Girls.md
-      - Uniformed Groups/National Police Cadet Corps (NPCC) Boys.md
-      - CCA Attainment LEAPS 2.md
+      - Performing Arts/.keep
+      - Performing Arts/Performing Arts.md
+      - Performing Arts/Choir.md
+      - Performing Arts/Concert Band.md
+      - Performing Arts/English Drama.md
+      - Performing Arts/Guzheng Ensemble.md
+      - Performing Arts/Modern Dance.md
+      - Clubs/.keep
+      - Clubs/Clubs.md
+      - Clubs/Infocomm Club.md
+      - Clubs/Service Learning Club.md
+      - Latest Information.md
+      - CCA Orientation.md
