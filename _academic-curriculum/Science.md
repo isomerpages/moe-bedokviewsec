@@ -80,17 +80,17 @@ Secondary One students attend the in-house Science Experiential Workshop (SEW) t
 ![Students testing their prototype chemical powered car.](/images/Students%20testing%20their%20prototype%20chemical%20powered%20car2.jpg)
 
 ![Students testing their prototype chemical powered car.](/images/Students%20testing%20their%20prototype%20chemical%20powered%20car3.jpg)
-Students testing their prototype chemical powered car.
+Students testing their prototype chemical powered car
 
 **2. IgnITE Skills Challenge (for Secondary 2NA & 3NA)**
 
 The ignITE Skills Challenge is a national-level skills competition organised by the Institute of Technical Education, Singapore, with support from the Ministry of Education and Singapore Science Centre. As the only national competition for Normal Academic and Technical students in Singapore, the aim is to excite students about the value of vocational and skills education, make learning enjoyable and memorable. Students can participate in more than 10 challenges that focus on Science, Technology, Engineering and Mathematics (STEM).
 
 ![Our students in circuit-tinkering action.](/images/Our%20students%20in%20circuit-tinkering%20action.jpg)
-Our students in circuit-tinkering action.
+Our students in circuit-tinkering action
 
 ![One of our very happy winning teams.](/images/One%20of%20our%20very%20happy%20winning%20teams.jpg)
-One of our very happy winning teams.
+One of our very happy winning teams
 
 **3. Advanced Elective Module on STEM Related Areas (Secondary 3)**
 
@@ -100,7 +100,7 @@ The Advanced Elective Module (AEM) is organised for our Secondary 3 Express Phys
 Experience on flight simulator @NP Aerospace Hub
 
 ![Field trip to a shipyard.](/images/shipyard.png)
-Field trip to a shipyard.
+Field trip to a shipyard
 
 **4. Science & Technology Competition @Nanyang Polytechnic**
 
