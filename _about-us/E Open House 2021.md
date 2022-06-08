@@ -133,8 +133,8 @@ Click on the following to learn about what skills and talents your child can dev
 
 #### Clubs and Societies
 
-[Infocomm Club](/cca/clubs-n-societies/infocomm-club) <br>
-[Service Learning Club](/cca/clubs-n-societies/service-learning)
+[Infocomm Club](/cca/clubs/infocomm-club) <br>
+[Service Learning Club](/cca/clubs/service-learning-club)
 
 ### Campus Tour 360 VR tour
 
