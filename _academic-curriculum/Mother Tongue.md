@@ -108,7 +108,8 @@ Given the changing language environment, the usage of MTL beyond curriculum time
 
 **Ox Clay making for Chinese Language students**
 
-![Ox Clay making for Chinese Language students](/images/Ox%20Clay%20making%20for%20Chinese%20Language%20students.jpg)
+<img src="/images/Ox%20Clay%20making%20for%20Chinese%20Language%20students.jpg" 
+     style="width:60%">
 
 **Rangoli for Tami Language students**
 
