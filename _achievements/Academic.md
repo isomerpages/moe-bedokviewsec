@@ -5,7 +5,8 @@ description: ""
 ---
 ### Aesthetics
 
-![Aesthetics](/images/Aesthetics.png)
+<img src="/images/Aesthetics.png" 
+     style="width:75%">
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
