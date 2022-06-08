@@ -17,3 +17,10 @@ description: ""
 
 Click on the following to learn about each of the reasons!
 
+<html>
+<body>
+<p><a href="web">
+<img src="pic"  width="100" height="132">
+</a></p>
+</body>
+</html>
