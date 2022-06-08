@@ -20,8 +20,10 @@ Effective discipline is based on a consistent philosophy and approach. Every stu
  School discipline also means the obligation of teachers and students to follow a code of conduct known usually as school rules. These regulations define exactly what is expected of model student behaviour and the consequences in the event that the student violates this standard. At the same time, our school creates a supportive environment by teaching values, social and emotional skills, and providing opportunities for students to exercise good behaviour by guiding and re-orientating students who have erred in their ways. A Whole School Approach towards Discipline is thus adopted, with the aim of developing our students’ self-discipline so that they become individuals who take responsibility for their decisions and actions. 
 
  The school has adopted the ‘4 P’ Framework to discipline, which stands for being Proactive, Preventive, Pastoral and having good Partnerships with parents and external agencies to enhance the quality of the school as a community and to help maintain high expectations. 
+
  
- ![Discipline](/images/Discipline.png)
+ <img src="/images/Discipline.png" 
+     style="width:75%">
  
 
 ### Code Of Conduct
@@ -147,14 +149,17 @@ Effective discipline is based on a consistent philosophy and approach. Every stu
 
 **5. Attire & Grooming** 
 
-![School Attire (Girls)](/images/School%20attire%20girls.jpg)
+<img src="/images/School%20attire%20girls.jpg" 
+     style="width:35%">
 **School Attire
 (Girls)**
 
-![Grooming Standards (Girls)](/images/groomig%20girl.png)
+<img src="/images/groomig%20girl.png" 
+     style="width:35%">
 **Grooming Standards (Girls)**
 
-![Grooming Standards (Boys)](/images/grooming%20boy.png)
+<img src="/images/grooming%20boy.png" 
+     style="width:35%">
 **Grooming Standards (Boys)**
 
 **6.	Rule on Weapons**
