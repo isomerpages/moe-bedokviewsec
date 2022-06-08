@@ -20,7 +20,8 @@ Click on the following to learn about each of the reasons!
 <html>
 <body>
 <p><a href="/academic-curriculum/applied-learning-programme-alp">
-<img src="/images/5%20Reasons%20logo%207.png"  width="100" height="132">
+<img src="/images/5%20Reasons%20logo%207.png"  style="width:35%">
 </a></p>
 </body>
 </html>
+
