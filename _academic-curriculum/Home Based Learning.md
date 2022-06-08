@@ -35,5 +35,6 @@ Click [Instruction Sheet For Students On HBL Days](/files/Instruction%20Sheet%20
 
 **Useful guides for students:**
 
-[User Guide - Register Verified Email Address.pdf](/files/User%20Guide%20-%20Register%20Verified%20Email%20Address.pdf)
+[User Guide - Register Verified Email Address.pdf](/files/User%20Guide%20-%20Register%20Verified%20Email%20Address.pdf) <br>
+
 [Students' Guide to Video Conferencing with Teachers Using Zoom for HBL (20March2020).pdf](/files/Students'%20Guide%20to%20Video%20Conferencing%20with%20Teachers%20Using%20Zoom%20for%20HBL%20(20March2020).pdf)
