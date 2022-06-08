@@ -5,6 +5,9 @@ description: ""
 ---
 # Principal's Welcome Message
 
+<img src="/images/Final_P.jpg" 
+     style="width:70%">
+
 ![Mdm Teo Yvonne, Principal of Bedok View Secondary School](/images/Final_P.jpg)
 
 On behalf of the school, a warm welcome to Bedok View Secondary School!
