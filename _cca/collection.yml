@@ -2,10 +2,10 @@ collections:
   cca:
     output: true
     order:
-      - Clubs/Service Learning Club.md
-      - Clubs/Infocomm Club.md
-      - Clubs/Clubs.md
       - Clubs/.keep
+      - Clubs/Clubs.md
+      - Clubs/Infocomm Club.md
+      - Clubs/Service Learning Club.md
       - Performing Arts/.keep
       - Performing Arts/Performing Arts.md
       - Performing Arts/Choir.md
