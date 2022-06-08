@@ -6,7 +6,7 @@ description: ""
 ### 45th Awards Day
 
 <img src="/images/45th.png" 
-     style="width:65%">
+     style="width:55%">
 
 [e-Programme Booklet](/files/e%20Programme%20booklet%20for%20Awards%20Day%202022.pdf)
 
