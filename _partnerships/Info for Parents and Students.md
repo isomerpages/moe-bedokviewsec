@@ -31,7 +31,7 @@ description: ""
 
 #### Secondary 1 (2022) Registration
 
-Information on Secondary 1 (2022) Registration ***(OTHERS hyperlink??)***
+[Information on Secondary 1 (2022) Registration](/others/sec-1-e-registration) 
 
 
 #### 2022 Booklist
