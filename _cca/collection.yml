@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - CCA Orientation.md
       - Latest Information.md
       - Clubs/.keep
       - Clubs/Clubs.md
