@@ -43,7 +43,7 @@ Click on the following to learn about each of the reasons!
 
 <html>
 <body>
-<p><a href="/student-development/student-leadership">
+<p><a href="/cca/cca-attainment-leaps-2-0">
 <img src="/images/5%20Reasons%20logo%2015.png"  style="width:35%">
 </a></p>
 </body>
@@ -51,7 +51,8 @@ Click on the following to learn about each of the reasons!
 
 <html>
 <body>
-<p><a href="/images/5%20Reasons%20logo%2015.png"  style="width:35%">
+<p><a href="/about-us/our-people/school-management-committee">
+<img src="/images/5%20Reasons%20logo%2014.png"  style="width:35%">
 </a></p>
 </body>
 </html>
