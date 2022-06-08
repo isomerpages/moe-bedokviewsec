@@ -16,7 +16,7 @@ sections:
         - title: Achievements
           description: Click here for achievements!
           url: /achievements/academic
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
+        - title: Latest News
+          description: Click here for the latest news!
+          url: /latest-news
 ---
