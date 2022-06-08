@@ -36,4 +36,4 @@ This award is presented to students who have performed selfless acts that reflec
 * To recognise students for their positive behaviour in demonstrating **2RISE**
 * To provide staff and students with a platform to commend students who demonstrate positive behavior.
 
-*Click here to view the awardees.*
+[Click here to view the awardees.](/achievements/character-awards/2rise-n-shine-awards)
