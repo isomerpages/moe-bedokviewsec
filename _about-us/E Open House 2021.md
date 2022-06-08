@@ -111,9 +111,9 @@ Click on the following to learn about what skills and talents your child can dev
 #### Uniformed Groups
 
 [Girl Guides](/cca/uniformed-groups/girl-guides) <br>
-[NCC Boys](/cca/uniformed-groups/national-cadet-corps-ncc-boys) <br>
-[NCC Girls](/cca/uniformed-groups/national-cadet-corps-ncc-girls) <br>
-[NPCC](/cca/uniformed-groups/national-police-cadet-corps-npcc)
+[NCC Boys](/cca/uniformed-groups/national-cadet-corps-ncc-land-boys) <br>
+[NCC Girls](/cca/uniformed-groups/national-cadet-corps-ncc-land-girls) <br>
+[NPCC](/cca/uniformed-groups/national-police-cadet-corps-npcc-boys)
 
 #### Sports and Games
 
