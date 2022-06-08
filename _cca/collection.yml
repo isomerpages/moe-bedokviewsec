@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Latest Information.md
       - Clubs/.keep
       - Clubs/Clubs.md
       - Clubs/Infocomm Club.md
