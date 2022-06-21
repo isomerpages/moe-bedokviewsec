@@ -20,6 +20,10 @@ Beige: Represents determination and joy in achieving our dreams
 
 ## School Song
 
+
+**MP3 file to be added?**
+
+
 We can, we will, we must, <br>
 Better this place of ours. <br>
 Never quit, always strive, <br>
