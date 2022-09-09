@@ -129,9 +129,8 @@ Click on the following to learn about what skills and talents your child can dev
 
 <h5 style="text-align:center;"><a href="/cca/clubs/infocomm-club">Infocomm Club</a><br><a href="/cca/clubs/service-learning-club">Service Learning Club</a></h5>
 
+<h4 style="color:orange" align="center">Campus Tour 360 VR tour</h4>
 
-### Campus Tour 360 VR tour
-
-Explore the BV campus on your own and find out what are learning spaces our students have.
+<p style="text-align:center;">Explore the BV campus on your own and find out what are learning spaces our students have.</p>
 
 ***Campus Tour***
