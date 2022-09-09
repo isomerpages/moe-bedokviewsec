@@ -107,8 +107,8 @@ Click on the following to learn about each of the reasons!
 
 ![OUR CCAs](/images/CCA1.png)
 
-Learn more about the varied and many CCAs we have for our students!
-Click on the following to learn about what skills and talents your child can develop in.
+<p style="text-align:center;">Learn more about the varied and many CCAs we have for our students!<br>
+Click on the following to learn about what skills and talents your child can develop in.</p>
 
 #### Uniformed Groups
 
