@@ -122,11 +122,13 @@ Click on the following to learn about what skills and talents your child can dev
 
 <h4 style="color:orange" align="center">Performing Arts</h4>
 
-[Choir](/cca/performing-arts/choir) <br>
-[Concert Band](/cca/performing-arts/concert-band) <br>
-[Gu Zheng Ensemble](/cca/performing-arts/guzheng-ensemble) <br>
-[Modern Dance](/cca/performing-arts/modern-dance) <br>
-[English Drama](/cca/performing-arts/english-drama)
+<h5 style="text-align:center;"><a href="/cca/performing-arts/choir">Choir</a><br><a href="/cca/performing-arts/concert-band">Concert Band</a><br><a href="/cca/performing-arts/guzheng-ensemble">Gu Zheng Ensemble</a><br><a href="/cca/performing-arts/modern-dance">Modern Dance</a><br><a href="/cca/performing-arts/english-drama">English Drama</a></h5>
+
+ <br>
+ <br>
+ <br>
+ <br>
+
 
 
 <h4 style="color:orange" align="center">Clubs and Societies</h4>
