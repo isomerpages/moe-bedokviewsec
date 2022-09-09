@@ -1,6 +1,6 @@
 ---
 title: E Open House 2021
-permalink: /about-us/e-open-house-2021
+permalink: /about-us/e-open-house-2021/
 description: ""
 ---
 ![Welcome to Bedok View](/images/Why%20you%20should%20join%20BV%20Instagram%20Post.png)
@@ -65,7 +65,7 @@ Click on the following to learn about each of the reasons!
 
 ![The BV Experience](/images/OUR%20CCA%201.gif)
 
-Click on the following videos where our students, teachers, alumni and PSG share about their BV experience!
+**Click on the following videos where our students, teachers, alumni and PSG share about their BV experience!**
 
 [Our Students](https://www.youtube.com/watch?v=eqCw3YzVexI)
 
@@ -141,3 +141,33 @@ Click on the following to learn about what skills and talents your child can dev
 Explore the BV campus on your own and find out what are learning spaces our students have.
 
 ***Campus Tour***
+
+
+| ![Video logos 2.png](https://bedokviewsec.moe.edu.sg/qql/slot/u171/E-Open%20House%202020/E-Open%20House%20Pics/Video%20logos/Video%20logos%202.png) | ![Video logos 1.png](https://bedokviewsec.moe.edu.sg/qql/slot/u171/E-Open%20House%202020/E-Open%20House%20Pics/Video%20logos/Video%20logos%201.png) | ![Video logos 3.png](https://bedokviewsec.moe.edu.sg/qql/slot/u171/E-Open%20House%202020/E-Open%20House%20Pics/Video%20logos/Video%20logos%203.png) |
+| --- | --- | --- |
+| ![Video logos 4.png](https://bedokviewsec.moe.edu.sg/qql/slot/u171/E-Open%20House%202020/E-Open%20House%20Pics/Video%20logos/Video%20logos%204.png) | ![Video logos 5.png](https://bedokviewsec.moe.edu.sg/qql/slot/u171/E-Open%20House%202020/E-Open%20House%20Pics/Video%20logos/Video%20logos%205.png) | ![Video logos 6.png](https://bedokviewsec.moe.edu.sg/qql/slot/u171/E-Open%20House%202020/E-Open%20House%20Pics/Video%20logos/Video%20logos%206.png) |
+| ![Video logos 7.png](https://bedokviewsec.moe.edu.sg/qql/slot/u171/E-Open%20House%202020/E-Open%20House%20Pics/Video%20logos/Video%20logos%207.png) | ![Video logos 8.png](https://bedokviewsec.moe.edu.sg/qql/slot/u171/E-Open%20House%202020/E-Open%20House%20Pics/Video%20logos/Video%20logos%208.png) | ![Video logos 9.png](https://bedokviewsec.moe.edu.sg/qql/slot/u171/E-Open%20House%202020/E-Open%20House%20Pics/Video%20logos/Video%20logos%209.png) |
+
+<table>
+<thead>
+  <tr>
+    <th><br><br><a href="https://vle.learning.moe.edu.sg/login" target="_blank" rel="noopener noreferrer"><img src="/images/Video%20logos%202.png" alt="Student Learning Space" width="106" height="17"></a></th>
+    <th><br><br><a href="https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fa%2Fcchm.edu.sg%2F&service=mail&hd=cchm.edu.sg&sacu=1&flowName=GlifWebSignIn&flowEntry=AddSession" target="_blank" rel="noopener noreferrer"><img src="/images/Video%20logos%201.png" alt="School Gmail" width="106" height="17"></a></th>
+    <th><br><br><a href="https://imtl.moe.edu.sg/cos/o.x?c=/ca7_imtl/user&func=login" target="_blank" rel="noopener noreferrer"><img src="/images/Video%20logos%203.png" alt="IMTL" width="106" height="17"></a></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><br><br><a href="https://schoolibrary.moe.edu.sg/cchms" target="_blank" rel="noopener noreferrer"><img src="/images/Video%20logos%204.png" alt="Library Online Catalogue" width="106" height="17"></a></td>
+    <td><br><br><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" target="_blank" rel="noopener noreferrer"><img src="/images/Video%20logos%205.png" alt="MySkills Future" width="106" height="17"></a></td>
+    <td><br><br><a href="https://tinyurl.com/K7FLHZD" target="_blank" rel="noopener noreferrer"><img src="/images/Video%20logos%206.png" alt="Password reset tool" width="106" height="17"></a></td>
+  </tr>
+</tbody>
+	<tbody>
+  <tr>
+    <td><br><br><a href="https://schoolibrary.moe.edu.sg/cchms" target="_blank" rel="noopener noreferrer"><img src="/images/Video%20logos%207.png" alt="Library Online Catalogue" width="106" height="17"></a></td>
+    <td><br><br><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" target="_blank" rel="noopener noreferrer"><img src="/images/Video%20logos%208.png" alt="MySkills Future" width="106" height="17"></a></td>
+    <td><br><br><a href="https://tinyurl.com/K7FLHZD" target="_blank" rel="noopener noreferrer"><img src="/images/Video%20logos%209.png" alt="Password reset tool" width="106" height="17"></a></td>
+  </tr>
+</tbody>
+</table>
