@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hero-banner.png
+      background: /images/bedokviewhome.gif
       key_highlights:
         - title: Achievements
           description: Click here for achievements!
@@ -16,4 +16,3 @@ sections:
           description: Click here for the latest news!
           url: /latest-news
 ---
-
