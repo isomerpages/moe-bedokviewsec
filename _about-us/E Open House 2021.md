@@ -57,11 +57,11 @@ Click on the following to learn about each of the reasons!
 </body>
 </html>
 
-### Navigation Bar
+<h4 style="color:orange" align="center">Navigation Bar</h4>
 
 *links broken*
 
-### The BV Experience
+<h4 style="color:orange" align="center">The BV Experience</h4>
 
 ![The BV Experience](/images/OUR%20CCA%201.gif)
 
@@ -91,7 +91,8 @@ Click on the following to learn about each of the reasons!
 </tbody>
 </table>
 
-### Our Curriculum
+
+<h4 style="color:orange" align="center">Our Curriculum</h4>
 
 ![Our Curriculum](/images/CURR2.png)
 
@@ -107,7 +108,8 @@ Click on the following to find out more about each subject.
 [Applied Learning Programme](/academic-curriculum/applied-learning-programme-alp) <br>
 [Learning for Life Programme](/student-development/learning-for-life-programme-llp)
 
-### OUR CCAs
+
+<h4 style="color:orange" align="center">Our CCAs</h4>
 
 ![OUR CCAs](/images/CCA1.png)
 
