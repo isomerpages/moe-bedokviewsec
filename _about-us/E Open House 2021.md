@@ -136,9 +136,9 @@ Explore the BV campus on your own and find out what are learning spaces our stud
 </thead>
 <tbody>
   <tr>
-    <td><br><br><a href="https://schoolibrary.moe.edu.sg/cchms" target="_blank" rel="noopener noreferrer"><img src="/images/Video%20logos%204.png" alt="Library Online Catalogue" width="106" height="17"></a></td>
-    <td><br><br><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" target="_blank" rel="noopener noreferrer"><img src="/images/Video%20logos%205.png" alt="MySkills Future" width="106" height="17"></a></td>
-    <td><br><br><a href="https://tinyurl.com/K7FLHZD" target="_blank" rel="noopener noreferrer"><img src="/images/Video%20logos%206.png" alt="Password reset tool" width="106" height="17"></a></td>
+    <td><br><br><a href="https://www.youtube.com/watch?v=D5OFUs2D4Vk" target="_blank" rel="noopener noreferrer"><img src="/images/Video%20logos%204.png" alt="Mr Tan Yew Hock, HOD (EL)" width="106" height="17"></a></td>
+    <td><br><br><a href="https://www.youtube.com/watch?v=ljLGvNTgJl8" target="_blank" rel="noopener noreferrer"><img src="/images/Video%20logos%205.png" alt="Ms Deepa, HOD (CCE)" width="106" height="17"></a></td>
+    <td><br><br><a href="https://www.youtube.com/watch?v=wF6qayJkyUM&t=1s" target="_blank" rel="noopener noreferrer"><img src="/images/Video%20logos%206.png" alt="Dr Muhammad Faishal Ibrahim, BV Alumni" width="106" height="17"></a></td>
   </tr>
 </tbody>
 	<tbody>
@@ -152,11 +152,11 @@ Explore the BV campus on your own and find out what are learning spaces our stud
 
 
 
-[Mr Tan Yew Hock, HOD (EL)](https://www.youtube.com/watch?v=D5OFUs2D4Vk)
+[]()
 
-[Ms Deepa, HOD (CCE)](https://www.youtube.com/watch?v=ljLGvNTgJl8)
+[]()
 
-[Dr Muhammad Faishal Ibrahim, BV Alumni](https://www.youtube.com/watch?v=wF6qayJkyUM&t=1s)
+[()
 
 [Mr John Seah, BV Alumni](https://www.youtube.com/watch?v=q5lNT0gau1E)
 
