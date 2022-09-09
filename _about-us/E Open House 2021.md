@@ -143,23 +143,9 @@ Explore the BV campus on your own and find out what are learning spaces our stud
 </tbody>
 	<tbody>
   <tr>
-    <td><br><br><a href="https://schoolibrary.moe.edu.sg/cchms" target="_blank" rel="noopener noreferrer"><img src="/images/Video%20logos%207.png" alt="Library Online Catalogue" width="106" height="17"></a></td>
-    <td><br><br><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" target="_blank" rel="noopener noreferrer"><img src="/images/Video%20logos%208.png" alt="MySkills Future" width="106" height="17"></a></td>
-    <td><br><br><a href="https://tinyurl.com/K7FLHZD" target="_blank" rel="noopener noreferrer"><img src="/images/Video%20logos%209.png" alt="Password reset tool" width="106" height="17"></a></td>
+    <td><br><br><a href="https://www.youtube.com/watch?v=q5lNT0gau1E" target="_blank" rel="noopener noreferrer"><img src="/images/Video%20logos%207.png" alt="Mr John Seah, BV Alumni" width="106" height="17"></a></td>
+    <td><br><br><a href="https://www.youtube.com/watch?v=8bPFe5jl5pw" target="_blank" rel="noopener noreferrer"><img src="/images/Video%20logos%208.png" alt="Zachary, BV Alumni" width="106" height="17"></a></td>
+    <td><br><br><a href="https://www.youtube.com/watch?v=KiU17YtgOrc" target="_blank" rel="noopener noreferrer"><img src="/images/Video%20logos%209.png" alt="Mr Steve Ng, BV PSG" width="106" height="17"></a></td>
   </tr>
 </tbody>
 </table>
-
-
-
-[]()
-
-[]()
-
-[()
-
-[Mr John Seah, BV Alumni](https://www.youtube.com/watch?v=q5lNT0gau1E)
-
-[Zachary, BV Alumni](https://www.youtube.com/watch?v=8bPFe5jl5pw)
-
-[Mr Steve Ng, BV PSG](https://www.youtube.com/watch?v=KiU17YtgOrc)
