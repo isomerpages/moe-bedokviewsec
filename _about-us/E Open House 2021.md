@@ -59,7 +59,7 @@ Click on the following to learn about each of the reasons!
 
 <h4 style="color:orange" align="center">Navigation Bar</h4>
 
-*links broken*
+*broken links*
 
 <h4 style="color:orange" align="center">The BV Experience</h4>
 
