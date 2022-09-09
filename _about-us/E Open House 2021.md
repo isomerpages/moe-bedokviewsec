@@ -96,7 +96,9 @@ Click on the following to learn about each of the reasons!
 
 ![Our Curriculum](/images/CURR2.png)
 
-Click on the following to find out more about each subject.        
+<p style="text-align:center;">Click on the following to find out more about each subject. 
+</p>
+
 [Aesthetics](/academic-curriculum/aesthetics) <br>
 [CCE](/student-development/character-and-citizenship-education-cce) <br>
 [English & Literature](/academic-curriculum/english-n-literature) <br>
