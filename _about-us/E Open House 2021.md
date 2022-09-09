@@ -110,14 +110,14 @@ Click on the following to learn about each of the reasons!
 <p style="text-align:center;">Learn more about the varied and many CCAs we have for our students!<br>
 Click on the following to learn about what skills and talents your child can develop in.</p>
 
-#### Uniformed Groups
+<h4 style="color:orange" align="center">Uniformed Groups</h4>
 
 [Girl Guides](/cca/uniformed-groups/girl-guides) <br>
 [NCC Boys](/cca/uniformed-groups/national-cadet-corps-ncc-land-boys) <br>
 [NCC Girls](/cca/uniformed-groups/national-cadet-corps-ncc-land-girls) <br>
 [NPCC](/cca/uniformed-groups/national-police-cadet-corps-npcc-boys)
 
-#### Sports and Games
+<h4 style="color:orange" align="center">Sports and Games</h4>
 
 [Badminton (Boys)](/cca/sports/badminton-boys) <br>
 [Basketball (Boys and Girls)](/cca/sports/basketball-boys-n-girls) <br>
@@ -125,7 +125,8 @@ Click on the following to learn about what skills and talents your child can dev
 [Netball](/cca/sports/netball) <br>
 [Athletics](/cca/sports/athletics)
 
-#### Performing Arts
+
+<h4 style="color:orange" align="center">Performing Arts</h4>
 
 [Choir](/cca/performing-arts/choir) <br>
 [Concert Band](/cca/performing-arts/concert-band) <br>
@@ -133,7 +134,8 @@ Click on the following to learn about what skills and talents your child can dev
 [Modern Dance](/cca/performing-arts/modern-dance) <br>
 [English Drama](/cca/performing-arts/english-drama)
 
-#### Clubs and Societies
+
+<h4 style="color:orange" align="center">Clubs and Societies</h4>
 
 [Infocomm Club](/cca/clubs/infocomm-club) <br>
 [Service Learning Club](/cca/clubs/service-learning-club)
