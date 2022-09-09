@@ -67,7 +67,29 @@ Click on the following to learn about each of the reasons!
 
 **Click on the following videos where our students, teachers, alumni and PSG share about their BV experience!**
 
-0000
+<table>
+<thead>
+  <tr>
+    <th><br><br><a href="https://www.youtube.com/watch?v=eqCw3YzVexI" target="_blank" rel="noopener noreferrer"><img src="/images/Video%20logos%202.png" alt="Our Students" width="106" height="17"></a></th>
+    <th><br><br><a href="https://www.youtube.com/watch?v=f34DP3zPBwY&t=1s" target="_blank" rel="noopener noreferrer"><img src="/images/Video%20logos%201.png" alt="Ms Ee-laine Oh, Senior Teacher (Geography)" width="106" height="17"></a></th>
+    <th><br><br><a href="https://www.youtube.com/watch?v=sihOB2o4Wm8" target="_blank" rel="noopener noreferrer"><img src="/images/Video%20logos%203.png" alt="Mr Nazarudin, Senior Teacher (ML)" width="106" height="17"></a></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><br><br><a href="https://www.youtube.com/watch?v=D5OFUs2D4Vk" target="_blank" rel="noopener noreferrer"><img src="/images/Video%20logos%204.png" alt="Mr Tan Yew Hock, HOD (EL)" width="106" height="17"></a></td>
+    <td><br><br><a href="https://www.youtube.com/watch?v=ljLGvNTgJl8" target="_blank" rel="noopener noreferrer"><img src="/images/Video%20logos%205.png" alt="Ms Deepa, HOD (CCE)" width="106" height="17"></a></td>
+    <td><br><br><a href="https://www.youtube.com/watch?v=wF6qayJkyUM&t=1s" target="_blank" rel="noopener noreferrer"><img src="/images/Video%20logos%206.png" alt="Dr Muhammad Faishal Ibrahim, BV Alumni" width="106" height="17"></a></td>
+  </tr>
+</tbody>
+	<tbody>
+  <tr>
+    <td><br><br><a href="https://www.youtube.com/watch?v=q5lNT0gau1E" target="_blank" rel="noopener noreferrer"><img src="/images/Video%20logos%207.png" alt="Mr John Seah, BV Alumni" width="106" height="17"></a></td>
+    <td><br><br><a href="https://www.youtube.com/watch?v=8bPFe5jl5pw" target="_blank" rel="noopener noreferrer"><img src="/images/Video%20logos%208.png" alt="Zachary, BV Alumni" width="106" height="17"></a></td>
+    <td><br><br><a href="https://www.youtube.com/watch?v=KiU17YtgOrc" target="_blank" rel="noopener noreferrer"><img src="/images/Video%20logos%209.png" alt="Mr Steve Ng, BV PSG" width="106" height="17"></a></td>
+  </tr>
+</tbody>
+</table>
 
 ### Our Curriculum
 
@@ -126,26 +148,3 @@ Explore the BV campus on your own and find out what are learning spaces our stud
 
 ***Campus Tour***
 
-<table>
-<thead>
-  <tr>
-    <th><br><br><a href="https://www.youtube.com/watch?v=eqCw3YzVexI" target="_blank" rel="noopener noreferrer"><img src="/images/Video%20logos%202.png" alt="Our Students" width="106" height="17"></a></th>
-    <th><br><br><a href="https://www.youtube.com/watch?v=f34DP3zPBwY&t=1s" target="_blank" rel="noopener noreferrer"><img src="/images/Video%20logos%201.png" alt="Ms Ee-laine Oh, Senior Teacher (Geography)" width="106" height="17"></a></th>
-    <th><br><br><a href="https://www.youtube.com/watch?v=sihOB2o4Wm8" target="_blank" rel="noopener noreferrer"><img src="/images/Video%20logos%203.png" alt="Mr Nazarudin, Senior Teacher (ML)" width="106" height="17"></a></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td><br><br><a href="https://www.youtube.com/watch?v=D5OFUs2D4Vk" target="_blank" rel="noopener noreferrer"><img src="/images/Video%20logos%204.png" alt="Mr Tan Yew Hock, HOD (EL)" width="106" height="17"></a></td>
-    <td><br><br><a href="https://www.youtube.com/watch?v=ljLGvNTgJl8" target="_blank" rel="noopener noreferrer"><img src="/images/Video%20logos%205.png" alt="Ms Deepa, HOD (CCE)" width="106" height="17"></a></td>
-    <td><br><br><a href="https://www.youtube.com/watch?v=wF6qayJkyUM&t=1s" target="_blank" rel="noopener noreferrer"><img src="/images/Video%20logos%206.png" alt="Dr Muhammad Faishal Ibrahim, BV Alumni" width="106" height="17"></a></td>
-  </tr>
-</tbody>
-	<tbody>
-  <tr>
-    <td><br><br><a href="https://www.youtube.com/watch?v=q5lNT0gau1E" target="_blank" rel="noopener noreferrer"><img src="/images/Video%20logos%207.png" alt="Mr John Seah, BV Alumni" width="106" height="17"></a></td>
-    <td><br><br><a href="https://www.youtube.com/watch?v=8bPFe5jl5pw" target="_blank" rel="noopener noreferrer"><img src="/images/Video%20logos%208.png" alt="Zachary, BV Alumni" width="106" height="17"></a></td>
-    <td><br><br><a href="https://www.youtube.com/watch?v=KiU17YtgOrc" target="_blank" rel="noopener noreferrer"><img src="/images/Video%20logos%209.png" alt="Mr Steve Ng, BV PSG" width="106" height="17"></a></td>
-  </tr>
-</tbody>
-</table>
