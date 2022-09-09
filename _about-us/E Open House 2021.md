@@ -99,16 +99,8 @@ Click on the following to learn about each of the reasons!
 <p style="text-align:center;">Click on the following to find out more about each subject. 
 </p>
 
-[Aesthetics](/academic-curriculum/aesthetics) <br>
-[CCE](/student-development/character-and-citizenship-education-cce) <br>
-[English & Literature](/academic-curriculum/english-n-literature) <br>
-[Humanities](/academic-curriculum/humanities) <br>
-[Mathematics](/academic-curriculum/mathematics) <br>
-[Mother Tongue](/academic-curriculum/mother-tongue) <br>
-[Science](/academic-curriculum/science) <br>
-[Physical Education](/academic-curriculum/physical-education) <br>
-[Applied Learning Programme](/academic-curriculum/applied-learning-programme-alp) <br>
-[Learning for Life Programme](/student-development/learning-for-life-programme-llp)
+<h5 style="color:orange" align="center"><a href="/academic-curriculum/aesthetics">Aesthetics</a><br><a href="/student-development/character-and-citizenship-education-cce">CCE</a><br><a href="/academic-curriculum/english-n-literature">English &amp; Literature</a><br><a href="/academic-curriculum/humanities">Humanities</a><br><a href="/academic-curriculum/mathematics">Mathematics</a><br><a href="/academic-curriculum/mother-tongue">Mother Tongue</a><br><a href="/academic-curriculum/science">Science</a><br><a href="/academic-curriculum/physical-education">Physical Education</a><br><a href="/academic-curriculum/applied-learning-programme-alp">Applied Learning Programme</a><br><a href="/student-development/learning-for-life-programme-llp">Learning for Life Programme</a></h5>
+
 
 
 <h4 style="color:orange" align="center">Our CCAs</h4>
