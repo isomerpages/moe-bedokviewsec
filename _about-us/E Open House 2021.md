@@ -67,23 +67,7 @@ Click on the following to learn about each of the reasons!
 
 **Click on the following videos where our students, teachers, alumni and PSG share about their BV experience!**
 
-[Our Students](https://www.youtube.com/watch?v=eqCw3YzVexI)
-
-[Ms Ee-laine Oh, Senior Teacher (Geography)](https://www.youtube.com/watch?v=f34DP3zPBwY&t=1s)
-
-[Mr Nazarudin, Senior Teacher (ML)](https://www.youtube.com/watch?v=sihOB2o4Wm8)
-
-[Mr Tan Yew Hock, HOD (EL)](https://www.youtube.com/watch?v=D5OFUs2D4Vk)
-
-[Ms Deepa, HOD (CCE)](https://www.youtube.com/watch?v=ljLGvNTgJl8)
-
-[Dr Muhammad Faishal Ibrahim, BV Alumni](https://www.youtube.com/watch?v=wF6qayJkyUM&t=1s)
-
-[Mr John Seah, BV Alumni](https://www.youtube.com/watch?v=q5lNT0gau1E)
-
-[Zachary, BV Alumni](https://www.youtube.com/watch?v=8bPFe5jl5pw)
-
-[Mr Steve Ng, BV PSG](https://www.youtube.com/watch?v=KiU17YtgOrc)
+0000
 
 ### Our Curriculum
 
@@ -142,18 +126,12 @@ Explore the BV campus on your own and find out what are learning spaces our stud
 
 ***Campus Tour***
 
-
-| ![Video logos 2.png](https://bedokviewsec.moe.edu.sg/qql/slot/u171/E-Open%20House%202020/E-Open%20House%20Pics/Video%20logos/Video%20logos%202.png) | ![Video logos 1.png](https://bedokviewsec.moe.edu.sg/qql/slot/u171/E-Open%20House%202020/E-Open%20House%20Pics/Video%20logos/Video%20logos%201.png) | ![Video logos 3.png](https://bedokviewsec.moe.edu.sg/qql/slot/u171/E-Open%20House%202020/E-Open%20House%20Pics/Video%20logos/Video%20logos%203.png) |
-| --- | --- | --- |
-| ![Video logos 4.png](https://bedokviewsec.moe.edu.sg/qql/slot/u171/E-Open%20House%202020/E-Open%20House%20Pics/Video%20logos/Video%20logos%204.png) | ![Video logos 5.png](https://bedokviewsec.moe.edu.sg/qql/slot/u171/E-Open%20House%202020/E-Open%20House%20Pics/Video%20logos/Video%20logos%205.png) | ![Video logos 6.png](https://bedokviewsec.moe.edu.sg/qql/slot/u171/E-Open%20House%202020/E-Open%20House%20Pics/Video%20logos/Video%20logos%206.png) |
-| ![Video logos 7.png](https://bedokviewsec.moe.edu.sg/qql/slot/u171/E-Open%20House%202020/E-Open%20House%20Pics/Video%20logos/Video%20logos%207.png) | ![Video logos 8.png](https://bedokviewsec.moe.edu.sg/qql/slot/u171/E-Open%20House%202020/E-Open%20House%20Pics/Video%20logos/Video%20logos%208.png) | ![Video logos 9.png](https://bedokviewsec.moe.edu.sg/qql/slot/u171/E-Open%20House%202020/E-Open%20House%20Pics/Video%20logos/Video%20logos%209.png) |
-
 <table>
 <thead>
   <tr>
-    <th><br><br><a href="https://vle.learning.moe.edu.sg/login" target="_blank" rel="noopener noreferrer"><img src="/images/Video%20logos%202.png" alt="Student Learning Space" width="106" height="17"></a></th>
-    <th><br><br><a href="https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fa%2Fcchm.edu.sg%2F&service=mail&hd=cchm.edu.sg&sacu=1&flowName=GlifWebSignIn&flowEntry=AddSession" target="_blank" rel="noopener noreferrer"><img src="/images/Video%20logos%201.png" alt="School Gmail" width="106" height="17"></a></th>
-    <th><br><br><a href="https://imtl.moe.edu.sg/cos/o.x?c=/ca7_imtl/user&func=login" target="_blank" rel="noopener noreferrer"><img src="/images/Video%20logos%203.png" alt="IMTL" width="106" height="17"></a></th>
+    <th><br><br><a href="https://www.youtube.com/watch?v=eqCw3YzVexI" target="_blank" rel="noopener noreferrer"><img src="/images/Video%20logos%202.png" alt="Our Students" width="106" height="17"></a></th>
+    <th><br><br><a href="https://www.youtube.com/watch?v=f34DP3zPBwY&t=1s" target="_blank" rel="noopener noreferrer"><img src="/images/Video%20logos%201.png" alt="Ms Ee-laine Oh, Senior Teacher (Geography)" width="106" height="17"></a></th>
+    <th><br><br><a href="https://www.youtube.com/watch?v=sihOB2o4Wm8" target="_blank" rel="noopener noreferrer"><img src="/images/Video%20logos%203.png" alt="Mr Nazarudin, Senior Teacher (ML)" width="106" height="17"></a></th>
   </tr>
 </thead>
 <tbody>
@@ -171,3 +149,17 @@ Explore the BV campus on your own and find out what are learning spaces our stud
   </tr>
 </tbody>
 </table>
+
+
+
+[Mr Tan Yew Hock, HOD (EL)](https://www.youtube.com/watch?v=D5OFUs2D4Vk)
+
+[Ms Deepa, HOD (CCE)](https://www.youtube.com/watch?v=ljLGvNTgJl8)
+
+[Dr Muhammad Faishal Ibrahim, BV Alumni](https://www.youtube.com/watch?v=wF6qayJkyUM&t=1s)
+
+[Mr John Seah, BV Alumni](https://www.youtube.com/watch?v=q5lNT0gau1E)
+
+[Zachary, BV Alumni](https://www.youtube.com/watch?v=8bPFe5jl5pw)
+
+[Mr Steve Ng, BV PSG](https://www.youtube.com/watch?v=KiU17YtgOrc)
