@@ -65,7 +65,7 @@ Click on the following to learn about each of the reasons!
 
 ![The BV Experience](/images/OUR%20CCA%201.gif)
 
-**Click on the following videos where our students, teachers, alumni and PSG share about their BV experience!**
+<p style="text-align:center;"><strong>Click on the following videos where our students, teachers, alumni and PSG share about their BV experience!</strong></p>
 
 <table>
 <thead>
@@ -147,4 +147,3 @@ Click on the following to learn about what skills and talents your child can dev
 Explore the BV campus on your own and find out what are learning spaces our students have.
 
 ***Campus Tour***
-
