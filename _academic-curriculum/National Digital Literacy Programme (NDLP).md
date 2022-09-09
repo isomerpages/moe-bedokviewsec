@@ -29,8 +29,8 @@ Dear Parents,  please click the following link ([https://go.gov.sg/pdlpadmin](ht
 
 **3. Parents handbook on using PLDs**
 
-[Parent Handbook I on Learning with a PLD](/files/Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD.pdf)
-Parent Handbook II on Learning with a Personal Learning Device.pdf
+[Parent Handbook I on Learning with a PLD](/files/Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD.pdf) <br>
+Parent Handbook II on Learning with a Personal Learning Device.pdf **(file exceeds 5MB!)**
 
 **4. Cyber Wellness** 
 
