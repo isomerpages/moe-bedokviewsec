@@ -1,9 +1,8 @@
 ---
 title: Home Based Learning (HBL)
-permalink: /academic-curriculum/home-based-learning
+permalink: /academic-curriculum/home-based-learning/
 description: ""
 ---
-
 ### Blended Learning
 
 In this digital era, it is important for our students to be equipped with the necessary knowledge, skills and dispositions to thrive in an interconnected, diverse and rapidly-changing world.
@@ -20,13 +19,13 @@ Please log in to [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/
 
 Alternatively, please click on the respective links below for the instructions to lessons.
 
-Sec 1:  **Sec 1 HBL instructions**
+Sec 1:  **[Sec 1 HBL instructions](https://docs.google.com/spreadsheets/d/e/2PACX-1vRvmY8vtAMDCshcg_GO3wMgXMd6WzzZZdykhR_xoogMrdAUuKa_cVGzI2Iq02vXkI4CO0sqFMsT9-4t/pubhtml)**
 
-Sec 2:  **Sec 2 HBL instructions**
+Sec 2:  **[Sec 2 HBL instructions](https://docs.google.com/spreadsheets/d/e/2PACX-1vTgROAISH_SREFByXReb9b_GLaUI2JCH8ciipyXDt0TTfQoXdZwwsdBX8MXjKRyKzqSW8S6QVZufClb/pubhtml)**
 
-Sec 3: **Sec 3 HBL Instructions**
+Sec 3: **[Sec 3 HBL Instructions](https://docs.google.com/spreadsheets/d/e/2PACX-1vR_Nib4FI2b9ThXOv0B_BqLZ3TEJjJryHCHEANLLIexPXziuUWLx4a5de7Ta_E-WpE8yZFiSgjBys7h/pubhtml)**
 
-Sec 4,5: **Sec 4,5 HBL instructions** 
+Sec 4,5: **[Sec 4,5 HBL instructions](https://docs.google.com/spreadsheets/d/e/2PACX-1vSaroXzLDxc9MhajZeIn_eyWrL5XjKqvYy3Zbo3JGtDUtvLN526Uyr_AuaO1I5Bh6ufpUSEFxiM0qLc/pubhtml)** 
 
 Note that the day's lesson instructions will be made available by 7.30 am on the day itself.
 
