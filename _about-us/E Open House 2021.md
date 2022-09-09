@@ -112,18 +112,12 @@ Click on the following to learn about what skills and talents your child can dev
 
 <h4 style="color:orange" align="center">Uniformed Groups</h4>
 
-[Girl Guides](/cca/uniformed-groups/girl-guides) <br>
-[NCC Boys](/cca/uniformed-groups/national-cadet-corps-ncc-land-boys) <br>
-[NCC Girls](/cca/uniformed-groups/national-cadet-corps-ncc-land-girls) <br>
-[NPCC](/cca/uniformed-groups/national-police-cadet-corps-npcc-boys)
+<h5 style="text-align:center;"><a href="/cca/uniformed-groups/girl-guides">Girl Guides</a><br><a href="/cca/uniformed-groups/national-cadet-corps-ncc-land-boys">NCC Boys</a><br><a href="/cca/uniformed-groups/national-cadet-corps-ncc-land-girls">NCC Girls</a><br><a href="/cca/uniformed-groups/national-police-cadet-corps-npcc-boys">NPCC</a></h5>
+
 
 <h4 style="color:orange" align="center">Sports and Games</h4>
 
-[Badminton (Boys)](/cca/sports/badminton-boys) <br>
-[Basketball (Boys and Girls)](/cca/sports/basketball-boys-n-girls) <br>
-[Football (Boys)](/cca/sports/football-boys) <br>
-[Netball](/cca/sports/netball) <br>
-[Athletics](/cca/sports/athletics)
+<h5 style="text-align:center;"><a href="/cca/sports/badminton-boys">Badminton (Boys)</a><br><a href="/cca/sports/basketball-boys-n-girls">Basketball (Boys and Girls)</a><br><a href="/cca/sports/football-boys">Football (Boys)</a><br><a href="/cca/sports/netball">Netball</a><br><a href="/cca/sports/athletics">Athletics</a></h5>
 
 
 <h4 style="color:orange" align="center">Performing Arts</h4>
