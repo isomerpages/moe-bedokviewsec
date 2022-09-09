@@ -1,9 +1,8 @@
 ---
 title: National Digital Literacy Programme (NDLP)
-permalink: /academic-curriculum/national-digital-literacy-programme-ndlp
+permalink: /academic-curriculum/national-digital-literacy-programme-ndlp/
 description: ""
 ---
-
 ### Background
 
 1. The National Digital Literacy Programme (NDLP) was launched in March 2020 to make digital learning inclusive by equipping students with the digital literacies to be future-ready.
@@ -144,7 +143,7 @@ Permanent residents (PR) and international students (IS) who need support could 
 
 The insurance covers the following:
 
-insurance.jpg
+![insurance](/images/insurance.jpeg)
 
 **III. What happens if the child’s device is down or need repairs?**
 
