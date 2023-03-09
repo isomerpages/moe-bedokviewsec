@@ -1,6 +1,6 @@
 ---
 title: Highlights
-permalink: /others/highlights
+permalink: /others/highlights/
 description: ""
 ---
 #### HBL days

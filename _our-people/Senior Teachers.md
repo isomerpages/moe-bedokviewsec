@@ -1,6 +1,6 @@
 ---
 title: Senior Teachers
-permalink: /about-us/our-people/senior-teachers
+permalink: /about-us/our-people/senior-teachers/
 description: ""
 ---
 

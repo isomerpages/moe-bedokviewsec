@@ -1,6 +1,6 @@
 ---
 title: English & Literature
-permalink: /academic-curriculum/english-n-literature
+permalink: /academic-curriculum/english-n-literature/
 description: ""
 ---
 ### Department Video

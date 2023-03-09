@@ -1,6 +1,6 @@
 ---
 title: History
-permalink: /about-us/history
+permalink: /about-us/history/
 description: ""
 ---
 # History of Bedok View Secondary School

@@ -1,6 +1,6 @@
 ---
 title: Student Leadership
-permalink: /student-development/student-leadership
+permalink: /student-development/student-leadership/
 description: ""
 ---
 ### Committee Members

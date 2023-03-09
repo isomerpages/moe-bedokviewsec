@@ -1,6 +1,6 @@
 ---
 title: School Events
-permalink: /about-us/school-events
+permalink: /about-us/school-events/
 description: ""
 ---
 ### 45th Awards Day

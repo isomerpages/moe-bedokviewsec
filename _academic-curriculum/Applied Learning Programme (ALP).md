@@ -1,6 +1,6 @@
 ---
 title: Applied Learning Programme (ALP)
-permalink: /academic-curriculum/applied-learning-programme-alp
+permalink: /academic-curriculum/applied-learning-programme-alp/
 description: ""
 ---
 ### Committee Members

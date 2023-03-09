@@ -1,6 +1,6 @@
 ---
 title: Aesthetics
-permalink: /academic-curriculum/aesthetics
+permalink: /academic-curriculum/aesthetics/
 description: ""
 ---
 ### DEPARTMENT VIDEO

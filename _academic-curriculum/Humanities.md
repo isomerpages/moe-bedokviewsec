@@ -1,6 +1,6 @@
 ---
 title: Humanities
-permalink: /academic-curriculum/humanities
+permalink: /academic-curriculum/humanities/
 description: ""
 ---
 ### Department Video 

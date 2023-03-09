@@ -1,6 +1,6 @@
 ---
 title: Mathematics
-permalink: /academic-curriculum/mathematics
+permalink: /academic-curriculum/mathematics/
 description: ""
 ---
 ### Department Video

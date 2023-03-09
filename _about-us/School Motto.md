@@ -1,6 +1,6 @@
 ---
 title: School Motto
-permalink: /about-us/school-motto
+permalink: /about-us/school-motto/
 description: ""
 ---
 # School Motto

@@ -1,6 +1,6 @@
 ---
 title: Project Work
-permalink: /academic-curriculum/project-work
+permalink: /academic-curriculum/project-work/
 description: ""
 ---
 ### Committee Members

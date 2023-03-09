@@ -1,6 +1,6 @@
 ---
 title: Non Form Teachers
-permalink: /about-us/our-people/non-form-teachers
+permalink: /about-us/our-people/non-form-teachers/
 description: ""
 ---
 <style type="text/css">

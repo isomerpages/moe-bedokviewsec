@@ -1,6 +1,6 @@
 ---
 title: School Advisory Committee (SAC)
-permalink: /about-us/school-advisory-committee-sac
+permalink: /about-us/school-advisory-committee-sac/
 description: ""
 ---
 1. Chairman - Mr Lau Chin Huat

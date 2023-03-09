@@ -1,6 +1,6 @@
 ---
 title: CCA Attainment LEAPS 2
-permalink: /cca/cca-attainment-leaps-2-0
+permalink: /cca/cca-attainment-leaps-2-0/
 description: ""
 ---
 # CCA Attainment LEAPS 2.0

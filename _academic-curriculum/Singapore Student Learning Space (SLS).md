@@ -1,6 +1,6 @@
 ---
 title: Singapore Student Learning Space (SLS)
-permalink: /academic-curriculum/singapore-student-learning-space-sls
+permalink: /academic-curriculum/singapore-student-learning-space-sls/
 description: ""
 ---
 ### Singapore Student Learning Space (SLS)

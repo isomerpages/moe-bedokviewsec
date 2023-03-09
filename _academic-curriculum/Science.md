@@ -1,6 +1,6 @@
 ---
 title: Science
-permalink: /academic-curriculum/science
+permalink: /academic-curriculum/science/
 description: ""
 ---
 ### Department Video

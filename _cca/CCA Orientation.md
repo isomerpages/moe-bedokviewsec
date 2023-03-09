@@ -1,6 +1,6 @@
 ---
 title: CCA Orientation
-permalink: /cca/cca-orientation
+permalink: /cca/cca-orientation/
 description: ""
 ---
 ### OUR CCAs

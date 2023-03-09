@@ -1,6 +1,6 @@
 ---
 title: Clubs
-permalink: /cca/clubs
+permalink: /cca/clubs/
 description: ""
 third_nav_title: Clubs
 ---

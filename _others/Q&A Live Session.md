@@ -1,6 +1,6 @@
 ---
 title: Q&A Live Session
-permalink: /others/qna-live-session
+permalink: /others/qna-live-session/
 description: ""
 ---
 <div class="bp-youtube">

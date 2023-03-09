@@ -1,6 +1,6 @@
 ---
 title: Mother Tongue
-permalink: /academic-curriculum/mother-tongue
+permalink: /academic-curriculum/mother-tongue/
 description: ""
 ---
 ### Department Video

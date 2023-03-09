@@ -1,6 +1,6 @@
 ---
 title: Info for Parents and Students
-permalink: /partnerships/info-for-parents-and-students
+permalink: /partnerships/info-for-parents-and-students/
 description: ""
 ---
 #### End of Semester Activities (24-26 May)

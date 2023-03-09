@@ -1,6 +1,6 @@
 ---
 title: Non Teaching Staff
-permalink: /about-us/our-people/non-teaching-staff
+permalink: /about-us/our-people/non-teaching-staff/
 description: ""
 ---
 <style type="text/css">

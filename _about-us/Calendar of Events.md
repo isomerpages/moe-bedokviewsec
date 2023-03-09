@@ -1,6 +1,6 @@
 ---
 title: Calendar of Events
-permalink: /about-us/calendar-of-events
+permalink: /about-us/calendar-of-events/
 description: ""
 ---
 ### 2022 Calendar of Events

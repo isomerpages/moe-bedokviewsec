@@ -1,6 +1,6 @@
 ---
 title: Academic
-permalink: /achievements/academic
+permalink: /achievements/academic/
 description: ""
 ---
 ### Aesthetics

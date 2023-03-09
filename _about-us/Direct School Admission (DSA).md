@@ -1,6 +1,6 @@
 ---
 title: Direct School Admission (DSA)
-permalink: /about-us/direct-school-admission-dsa
+permalink: /about-us/direct-school-admission-dsa/
 description: ""
 ---
 ### Direct School Admission 2022
