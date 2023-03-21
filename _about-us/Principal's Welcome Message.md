@@ -31,3 +31,8 @@ Some may ask what makes Bedok View Secondary School different from other schools
 Each of these individuals/groups reflect the collective testament of the BV spirit – to be a lighthouse that shines brightly to bring hope, be it in peace time or in the midst of strong winds and waves.
 
 Please visit the different pages in our website for a glimpse of who we are, and also to relish the stories of our BV community. I look forward to welcoming you to our school, and to be part of the discovery, celebration and writing of new stories for our Bedok Viewans.
+
+###### <center>_We Aspire, We Strive, We Dare  <br>for a better future!_</center>
+
+**Mdm Teo Yvonne**<br>
+_Principal_
