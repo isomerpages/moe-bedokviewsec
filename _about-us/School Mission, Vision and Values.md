@@ -11,7 +11,7 @@ Learners who Learn For Life, Leaders who Light the Way
 
 ### Our Mission
 
-To Nurture Bedok Viewans who Aspire, Strive and Dare as Learners and Leaders
+To Nurture Bedok Viewans as Learners and Leaders who Aspire, Strive and Dare.
 
 ### Our Values
 <br>
