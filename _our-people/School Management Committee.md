@@ -120,19 +120,9 @@ description: ""
     <td class="tg-41i5"><a href="mailto:ong_lena@schools.gov.sg"><span style="text-decoration:none;color:#F2A00F">ong_lena@schools.gov.sg </span></a></td>
   </tr>
   <tr>
-    <td class="tg-ii8k" colspan="2"><span style="color:#222;background-color:#EAEAEA"> Miss Safura Bte Abdul Karim </span><br><br></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Subject Head - Mathematics </span></td>
-    <td class="tg-41i5"><a href="mailto:safura_abdul_karim@schools.gov.sg"><span style="text-decoration:none;color:#F2A00F">safura_abdul_karim@schools.gov.sg</span></a></td>
-  </tr>
-  <tr>
     <td class="tg-ku5w" colspan="2"><span style="color:#222;background-color:#EAEAEA">Ms Tan Ai Fen</span><br><br></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Subject Head - English Language </span><br><span style="color:#222;background-color:#EAEAEA">(covering)</span><br></td>
     <td class="tg-41i5"><a href="mailto:tan_ai_fen@schools.gov.sg"><span style="text-decoration:none;color:#F2A00F">tan_ai_fen@schools.gov.sg </span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-ku5w" colspan="2"><span style="color:#222;background-color:#EAEAEA"> Miss Tan Yok Siew</span></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Subject Head - Character and Citizenship Education</span></td>
-    <td class="tg-41i5"><a href="mailto:tan_yok_siew@schools.gov.sg"><span style="text-decoration:none;color:#F2A00F">tan_yok_siew@schools.gov.sg</span></a><span style="color:#222;background-color:#EAEAEA"> </span></td>
   </tr>
   <tr>
     <td class="tg-ii8k" colspan="2"><span style="color:#222;background-color:#EAEAEA"> Ms Victoria Ching Ngai Men</span><br><br></td>
