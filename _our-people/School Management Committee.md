@@ -57,7 +57,7 @@ description: ""
 	  <tr>
     <td class="tg-ku5w" colspan="2"><span style="color:#222;background-color:#EAEAEA"> </span><br><br><span style="color:#222;background-color:#EAEAEA">Mr K T Sivakumar</span><br><br></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">HOD - Student Management</span></td>
-    <td class="tg-41i5"><a href="mailto:K_T_Sivakumar@schools.gov.sg "><span style="text-decoration:none;color:#F2A00F">K_T_Sivakumar@schools.gov.sg </span></a></td>
+    <td class="tg-41i5"><a href="mailto:K_T_Sivakumar@schools.gov.sg"><span style="text-decoration:none;color:#F2A00F">K_T_Sivakumar@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-ku5w" colspan="2"><span style="color:#222;background-color:#EAEAEA"> </span><br><span style="color:#222;background-color:#EAEAEA">Mr Melvin Ng Yong Hui</span><br><br></td>
@@ -83,6 +83,11 @@ description: ""
     <td class="tg-ii8k" colspan="2"><span style="color:#222;background-color:#EAEAEA">Mr Teo Choo Hock Steven</span><br><br></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> HOD - Humanities</span></td>
     <td class="tg-41i5"><a href="mailto:steven_teo@schools.gov.sg"><span style="text-decoration:none;color:#F2A00F">steven_teo@schools.gov.sg</span></a></td>
+  </tr>
+		  <tr>
+    <td class="tg-ku5w" colspan="2"><span style="color:#222;background-color:#EAEAEA"> </span><br><br><span style="color:#222;background-color:#EAEAEA">Ms Winnifred Lim</span><br><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">HOD - Character and Citizenship Education</span></td>
+    <td class="tg-41i5"><a href="mailto:lim_winnifred@schools.gov.sg"><span style="text-decoration:none;color:#F2A00F">lim_winnifred@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-ii8k" colspan="2"><span style="color:#222;background-color:#EAEAEA">Mr Syed Alwi B S Abdullah Alattas</span><br><br></td>
