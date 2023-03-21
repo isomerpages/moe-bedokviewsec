@@ -103,5 +103,9 @@ third_nav_title: Form Teachers
     <td class="tg-ku5w" colspan="2"><span style="color:#222;background-color:#EAEAEA"> </span><br><span style="color:#222;background-color:#EAEAEA">Mr Syarulnizam Abdul Rahman</span><br><br></td>
     <td class="tg-41i5"><a href="mailto:syahrulnizam_abdul_rahman@schools.gov.sg"><span style="text-decoration:none;color:#F2A00F">syahrulnizam_abdul_rahman@schools.gov.sg</span></a></td>
   </tr>
+	  <tr>
+    <td class="tg-ii8k" colspan="2"><span style="color:#222;background-color:#EAEAEA">Mr Sivabalan Kaliaperumal</span><br><br></td>
+    <td class="tg-41i5"><a href="mailto:sivabalan_kaliaperumal@schools.gov.sg"><span style="text-decoration:none;color:#F2A00F">sivabalan_kaliaperumal@schools.gov.sg</span></a><br></td>
+  </tr>
 </tbody>
 </table>
