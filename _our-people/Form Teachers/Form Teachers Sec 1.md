@@ -41,12 +41,12 @@ third_nav_title: Form Teachers
     <td class="tg-i8ej" colspan="3"><br><span style="font-weight:bold">Sec 1/2 Form Teachers</span><br><br></td>
   </tr>
   <tr>
-    <td class="tg-ii8k" colspan="2"><span style="color:#222;background-color:#EAEAEA">Ms Nur Syafiqah Binte Saini</span><br><br></td>
-    <td class="tg-41i5"><a href="mailto:nur_syafiqah_saini@schools.gov.sg"><span style="text-decoration:none;color:#F2A00F">nur_syafiqah_saini@schools.gov.sg</span></a><br></td>
+    <td class="tg-ii8k" colspan="2"><span style="color:#222;background-color:#EAEAEA">Ms Tan Sok Foon Noelle</span><br><br></td>
+    <td class="tg-41i5"><a href="mailto:tan_sok_foon@schools.gov.sg"><span style="text-decoration:none;color:#F2A00F">tan_sok_foon@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-ku5w" colspan="2"><span style="color:#222;background-color:#EAEAEA"> </span><br><span style="color:#222;background-color:#EAEAEA">Ms Toh Li Zhen Clarice</span><br><span style="color:#222;background-color:#EAEAEA">(Mrs Zhang)</span><br><br></td>
-    <td class="tg-41i5"><a href="mailto:toh_li_zhen@schools.gov.sg"><span style="text-decoration:none;color:#F2A00F">toh_li_zhen@schools.gov.sg</span></a><br></td>
+    <td class="tg-ku5w" colspan="2"><span style="color:#222;background-color:#EAEAEA"> </span><br><span style="color:#222;background-color:#EAEAEA">Ms Lazaroo Odilia Emily</span>
+    <td class="tg-41i5"><a href="mailto:lazaroo_odilia_emily@schools.gov.sg"><span style="text-decoration:none;color:#F2A00F">lazaroo_odilia_emily@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-i8ej" colspan="3"><br><span style="color:#12244F"> </span><span style="font-weight:bold">Sec 1/3 Form Teachers</span><br><br></td>
