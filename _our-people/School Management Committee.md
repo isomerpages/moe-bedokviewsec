@@ -104,6 +104,11 @@ description: ""
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Subject Head - Science</span></td>
     <td class="tg-41i5"><a href="mailto:lian_xue_li_jasmine@schools.gov.sg"><span style="text-decoration:none;color:#F2A00F">lian_xue_li_jasmine@schools.gov.sg </span></a></td>
   </tr>
+	  <tr>
+    <td class="tg-ku5w" colspan="2"><span style="color:#222;background-color:#EAEAEA"> </span><br><span style="color:#222;background-color:#EAEAEA">Mr Muhammad Ahmad B Mohamed Shahrir</span><br><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Subject Head - Character and Citizenship Education</span></td>
+    <td class="tg-41i5"><a href="mailto:muhammad_ahmad@schools.gov.sg"><span style="text-decoration:none;color:#F2A00F">muhammad_ahmad@schools.gov.sg </span></a></td>
+  </tr>
   <tr>
     <td class="tg-ku5w" colspan="2"><span style="color:#222;background-color:#EAEAEA">Mdm Normohaida Mohamed Noor</span></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Subject Head - Information and Communications Technology</span></td>
