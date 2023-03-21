@@ -134,6 +134,11 @@ description: ""
     <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA"> Year Head</span><br><span style="color:#222;background-color:#EAEAEA">(Lower Sec)</span><br><br></td>
     <td class="tg-41i5"><a href="mailto:fathul_rahman_b_mohamed@schools.gov.sg"><span style="text-decoration:none;color:#F2A00F">fathul_rahman_b_mohamed@schools.gov.sg</span></a></td>
   </tr>
+	  <tr>
+    <td class="tg-ii8k" colspan="2"><span style="color:#222;background-color:#EAEAEA"> Mr Ho Ren An</span><br><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Assistant Year Head (Sec 4 & 5) </span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> </span><a href="mailto:ren_an_ho@schools.gov.sg"><span style="text-decoration:none;color:#F2A00F">ren_an_ho@schools.gov.sg</span></a></td>
+  </tr>
   <tr>
     <td class="tg-ku5w" colspan="2"><span style="color:#222;background-color:#EAEAEA">Mrs Lee Chuen Sing Serene (Mrs Kuek)</span><br></td>
     <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">Level Coordinator</span><br><span style="color:#222;background-color:#EAEAEA">(Sec 1)</span><br><br></td>
@@ -154,7 +159,7 @@ description: ""
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> </span><br><span style="color:#222;background-color:#EAEAEA"> Year Head</span><br><span style="color:#222;background-color:#EAEAEA">(Upper Sec &amp; Sec 4 &amp; 5)</span><br><br></td>
     <td class="tg-41i5"><a href="mailto:mohd_azuan_tan@schools.gov.sg"><span style="text-decoration:none;color:#F2A00F">mohd_azuan_tan@schools.gov.sg</span></a><span style="color:#222;background-color:#EAEAEA"> </span></td>
   </tr>
-  <tr>
+	  <tr>
     <td class="tg-ii8k" colspan="2"><span style="color:#222;background-color:#EAEAEA"> Mdm Dorothy Leong</span><br><br></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Administration Manager </span></td>
     <td class="tg-41i5"><a href="mailto:dorothy_leong@schools.gov.sg"><span style="text-decoration:none;color:#F2A00F">dorothy_leong@schools.gov.sg</span></a><span style="color:#222;background-color:#EAEAEA"> </span></td>
@@ -168,6 +173,11 @@ description: ""
     <td class="tg-ii8k" colspan="2"><span style="color:#222;background-color:#EAEAEA">Mr Lee Ker Yih, Harry</span><br><br></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Operations Manager </span></td>
     <td class="tg-ii8k"><a href="mailto:lee_ker_yih_harry@schools.gov.sg"><span style="text-decoration:underline;color:#F2A00F">lee_ker_yih_harry@schools.gov.sg</span></a></td>
+  </tr>
+	  <tr>
+    <td class="tg-ii8k" colspan="2"><span style="color:#222;background-color:#EAEAEA">Mr Jeevanandham Morganakrishnan</span><br><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> ICT Manager </span></td>
+    <td class="tg-ii8k"><a href="mailto:jeevanandham_morganakrishnan@schools.gov.sg"><span style="text-decoration:underline;color:#F2A00F">jeevanandham_morganakrishnan@schools.gov.sg</span></a></td>
   </tr>
 </tbody>
 </table>
