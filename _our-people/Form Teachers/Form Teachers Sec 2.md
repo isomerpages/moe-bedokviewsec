@@ -74,12 +74,12 @@ third_nav_title: Form Teachers
     <td class="tg-xm1m" colspan="3"><br><span style="font-weight:bold">Sec 2/5 Form Teachers<br><br></span></td>
   </tr>
   <tr>
-    <td class="tg-ku5w" colspan="2"><span style="color:#222;background-color:#EAEAEA"> </span><br><span style="color:#222;background-color:#EAEAEA">Mdm Ma Lay Hwa, Alison</span><br><span style="color:#222;background-color:#EAEAEA">(Mrs Kua)</span><br><br></td>
-    <td class="tg-41i5"><a href="mailto:ma_lay_hwa@schools.gov.sg"><span style="text-decoration:none;color:#F2A00F">ma_lay_hwa@schools.gov.sg</span></a><br></td>
+    <td class="tg-ku5w" colspan="2"><span style="color:#222;background-color:#EAEAEA"> </span><br><span style="color:#222;background-color:#EAEAEA">Mr Phoon Zhi Jian</span>
+    <td class="tg-41i5"><a href="mailto:phoon_zhi_jian@schools.gov.sg"><span style="text-decoration:none;color:#F2A00F">phoon_zhi_jian@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-ii8k" colspan="2"><span style="color:#222;background-color:#EAEAEA">Mr Tay Soon Heng</span><br><br></td>
-    <td class="tg-41i5"><a href="mailto:tay_soon_heng@schools.gov.sg"><span style="text-decoration:none;color:#F2A00F">tay_soon_heng@schools.gov.sg</span></a><br></td>
+    <td class="tg-ii8k" colspan="2"><span style="color:#222;background-color:#EAEAEA">Ms Cheng Soon Kuee</span><br><br></td>
+    <td class="tg-41i5"><a href="mailto:cheng_soon_kuee@schools.gov.sg"><span style="text-decoration:none;color:#F2A00F">cheng_soon_kuee@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-i8ej" colspan="3"><br><span style="font-weight:bold">Sec 2/6 Form Teachers</span><br><br></td>
