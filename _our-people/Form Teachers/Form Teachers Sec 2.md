@@ -92,5 +92,16 @@ third_nav_title: Form Teachers
     <td class="tg-ku5w" colspan="2"><span style="color:#222;background-color:#EAEAEA"> </span><br><span style="color:#222;background-color:#EAEAEA">Mr Keng Wei Li, David</span><br><br></td>
     <td class="tg-41i5"><a href="mailto:keng_wei_li@schools.gov.sg"><span style="text-decoration:none;color:#F2A00F">keng_wei_li@schools.gov.sg</span></a></td>
   </tr>
+	  <tr>
+    <td class="tg-i8ej" colspan="3"><br><span style="font-weight:bold">Sec 2/7 Form Teachers</span><br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k" colspan="2"><span style="color:#222;background-color:#EAEAEA">Ms Tan Sei Hui</span><br><br></td>
+    <td class="tg-41i5"><a href="mailto:tan_sei_hui@schools.gov.sg"><span style="text-decoration:none;color:#F2A00F">tan_sei_hui@schools.gov.sg</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-ku5w" colspan="2"><span style="color:#222;background-color:#EAEAEA"> </span><br><span style="color:#222;background-color:#EAEAEA">Mr Syarulnizam Abdul Rahman</span><br><br></td>
+    <td class="tg-41i5"><a href="mailto:syahrulnizam_abdul_rahman@schools.gov.sg"><span style="text-decoration:none;color:#F2A00F">syahrulnizam_abdul_rahman@schools.gov.sg</span></a></td>
+  </tr>
 </tbody>
 </table>
