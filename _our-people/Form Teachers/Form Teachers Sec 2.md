@@ -63,16 +63,12 @@ third_nav_title: Form Teachers
     <td class="tg-ii8k" colspan="3"><br><span style="font-weight:bold">Sec 2/4 Form Teachers</span><br><br></td>
   </tr>
   <tr>
-    <td class="tg-ii8k" colspan="2"><span style="color:#222;background-color:#EAEAEA">Ms Tan Sok Foon Noelle</span><br><br></td>
-    <td class="tg-41i5"><a href="mailto:tan_sok_foon@schools.gov.sg"><span style="text-decoration:none;color:#F2A00F">tan_sok_foon@schools.gov.sg</span></a><br></td>
+    <td class="tg-ii8k" colspan="2"><span style="color:#222;background-color:#EAEAEA">Ms Lee Chuen Sing (Mrs Kuek)</span><br><br></td>
+    <td class="tg-41i5"><a href="mailto:lee_chuen_sing@schools.gov.sg"><span style="text-decoration:none;color:#F2A00F">lee_chuen_sing@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-ku5w" colspan="2"><span style="color:#222;background-color:#EAEAEA"> </span><br><span style="color:#222;background-color:#EAEAEA">Miss Grace Felicity Wong Yun Wen</span><br><br></td>
-    <td class="tg-41i5"><a href="mailto:grace_felicity_wong@schools.gov.sg"><span style="text-decoration:none;color:#F2A00F">grace_felicity_wong@schools.gov.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k" colspan="2"><span style="color:#222;background-color:#EAEAEA">Mr Shamsulbahri Bin Othman</span><br><br></td>
-    <td class="tg-41i5"><a href="mailto:shamsulbahri_othman@schools.gov.sg"><span style="text-decoration:none;color:#F2A00F"> shamsulbahri_othman@schools.gov.sg</span></a></td>
+    <td class="tg-ku5w" colspan="2"><span style="color:#222;background-color:#EAEAEA"> </span><br><span style="color:#222;background-color:#EAEAEA">Mr Wee Khim Leng</span><br><br></td>
+    <td class="tg-41i5"><a href="mailto:wee_khim_leng_a@schools.gov.sg"><span style="text-decoration:none;color:#F2A00F">wee_khim_leng_a@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-xm1m" colspan="3"><br><span style="font-weight:bold">Sec 2/5 Form Teachers<br><br></span></td>
