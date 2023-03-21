@@ -100,12 +100,12 @@ third_nav_title: Form Teachers
     <td class="tg-ncma" colspan="3"><br><span style="font-weight:bold">Sec 1/7 Form Teachers</span><br><br></td>
   </tr>
   <tr>
-    <td class="tg-ii8k" colspan="2"><span style="color:#222;background-color:#EAEAEA">Mdm Tan Sei Hui</span><br><br></td>
-    <td class="tg-41i5"><a href="mailto:tan_sei_hui@schools.gov.sg"><span style="text-decoration:none;color:#F2A00F">tan_sei_hui@schools.gov.sg</span></a></td>
+    <td class="tg-ii8k" colspan="2"><span style="color:#222;background-color:#EAEAEA">Mr Syaiful Bahari Bin Abdul Latif</span><br><br></td>
+    <td class="tg-41i5"><a href="mailto:syaiful_bahari_abdul_latif@schools.gov.sg"><span style="text-decoration:none;color:#F2A00F">syaiful_bahari_abdul_latif@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-ii8k" colspan="2"><span style="color:#222;background-color:#EAEAEA">Mr Roy Cher Liew Chun</span><br><br></td>
-    <td class="tg-41i5"><a href="mailto:cher_liew_chun_roy@schools.gov.sg"><span style="text-decoration:none;color:#F2A00F">cher_liew_chun_roy@schools.gov.sg</span></a></td>
+    <td class="tg-ii8k" colspan="2"><span style="color:#222;background-color:#EAEAEA">Ms Sherine Wong Choi Yoong</span><br><br></td>
+    <td class="tg-41i5"><a href="mailto:sherine_wong_choi_yoong@schools.gov.sg"><span style="text-decoration:none;color:#F2A00F">sherine_wong_choi_yoong@schools.gov.sg</span></a></td>
   </tr>
 </tbody>
 </table>
