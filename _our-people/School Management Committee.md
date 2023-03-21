@@ -3,7 +3,6 @@ title: School Management Committee
 permalink: /about-us/our-people/school-management-committee/
 description: ""
 ---
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -31,12 +30,12 @@ description: ""
     <td class="tg-41i5"><a href="mailto:bedokview_ss@moe.edu.sg"><span style="text-decoration:none;color:#F2A00F">bedokview_ss@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-ku5w" colspan="2"><span style="color:#222;background-color:#EAEAEA"> </span><br><span style="color:#222;background-color:#EAEAEA">Mdm Ch'ng Yuen Ping Kathleen</span><br><br></td>
+    <td class="tg-ku5w" colspan="2"><span style="color:#222;background-color:#EAEAEA"> </span><br><span style="color:#222;background-color:#EAEAEA">Mr Tyebally Aziz</span><br><br></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Vice-Principal</span></td>
     <td class="tg-41i5"><a href="mailto:bedokview_ss@moe.edu.sg"><span style="text-decoration:none;color:#F2A00F">bedokview_ss@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-ku5w" colspan="2"><span style="color:#222;background-color:#EAEAEA"> </span><br><span style="color:#222;background-color:#EAEAEA">Mr Tyebally Aziz</span><br><br></td>
+    <td class="tg-ku5w" colspan="2"><span style="color:#222;background-color:#EAEAEA"> </span><br><span style="color:#222;background-color:#EAEAEA">Mr Chen Ziyang</span><br><br></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Vice Principal </span></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> </span><a href="mailto:bedokview_ss@moe.edu.sg"><span style="text-decoration:none;color:#F2A00F">bedokview_ss@moe.edu.sg</span></a></td>
   </tr>
@@ -54,6 +53,11 @@ description: ""
     <td class="tg-ii8k" colspan="2"><span style="color:#222;background-color:#EAEAEA">Mdm Khoo Ghee Suan Christina</span><br><br></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">HOD - Mathematics   </span></td>
     <td class="tg-41i5"><a href="mailto:khoo_ghee_suan_christina@schools.gov.sg"><span style="text-decoration:none;color:#F2A00F">khoo_ghee_suan_christina@schools.gov.sg</span></a></td>
+  </tr>
+	  <tr>
+    <td class="tg-ku5w" colspan="2"><span style="color:#222;background-color:#EAEAEA"> </span><br><br><span style="color:#222;background-color:#EAEAEA">Mr K T Sivakumar</span><br><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">HOD - Student Management</span></td>
+    <td class="tg-41i5"><a href="mailto:K_T_Sivakumar@schools.gov.sg "><span style="text-decoration:none;color:#F2A00F">K_T_Sivakumar@schools.gov.sg </span></a></td>
   </tr>
   <tr>
     <td class="tg-ku5w" colspan="2"><span style="color:#222;background-color:#EAEAEA"> </span><br><span style="color:#222;background-color:#EAEAEA">Mr Melvin Ng Yong Hui</span><br><br></td>
