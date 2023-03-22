@@ -16,3 +16,7 @@ description: ""
 [Secondary 4 & 5 Class Timetable](/files/Sec%2045%20Timetable%202023%20Sem%201.pdf)
 
 **Secondary 1 (2023) Registration**<br>
+[More Information](/about-us/sec-1-registration/)
+
+**GCE N-Level Examinations 2022 Results Release**<br>
+[GCE N-Level Examinations Results Release Briefing Slides](/files/Briefing%20on%202022%20GCE%20Release%20of%20N-Level%20Results.pdf)
