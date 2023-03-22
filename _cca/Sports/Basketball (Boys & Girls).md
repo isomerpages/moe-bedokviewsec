@@ -14,9 +14,9 @@ third_nav_title: Sports
 
 ### Teachers- In- Charge
 
-Mr Tan Wee Ghuan Jastinian <br>
-Mdm Wong Chiu Yian <br>
-Mr Jeremy Yong De Jun
+Mr Tan Wee Ghuan Jastinian  <br>
+Mr Jeremy Yong De Jun <br>
+Mdm Wong Chiu Yian
 
 
 ### CCA Schedule
@@ -43,7 +43,7 @@ Mr Jeremy Yong De Jun
   <tr>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> </span><br>Monday &amp; Thursday</td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> </span><br>3.30pm - 6.00pm</td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">ISH Basketball Courts</span></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">ISH Level 1</span></td>
   </tr>
 </tbody>
 </table>
@@ -55,6 +55,3 @@ The Basketball CCA aims to develop confident and resilient players who strive fo
 We took part in the annual East Zone Basketball Competition and external tournaments like the T-Net tournaments and ActiveSG Basketball Development Leagues. The external competitions provided the players opportunities to hone their skills, strengthen their teamwork and build their confidence.
 
 In line with our schools values, our students will continue to be resilient and to strive for excellence in coming years.
-
-
-
