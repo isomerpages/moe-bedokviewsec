@@ -3,39 +3,35 @@ title: Student Leadership Development
 permalink: /student-development/student-leadership/
 description: ""
 ---
+## Overview
 
-### Committee Members
+The Bedok View (BV) Student Leadership Programme aims to equip Bedok Viewans with the leadership skills and competencies that prepare them to be future-ready in a constantly changing and volatile global landscape. This is underpinned by the BV Leadership Philosophy that every Bedok Viewan is a leader and one who can make a difference.
 
-Mr Roy Cher Liew Chun (1 I/C) <br>
-Ms Marliyana Md Noor (2 I/C) <br>
-Mr Su Jee Yee, Steven <br>
-Mr Foo Fook Seng <br>
-Mr Ho Ren An <br>
-Ms Ang Suat Kee Sally <br>
-Ms Ong Lena <br>
-Ms Zhang Lingjia Mabel <br>
-Miss Nur Adilah Binte Renohardi <br>
-Mr Mohd Noor Firdaus Bin Sumawi <br>
-Ms Anuthama <br>
-Ms Mardiyana Bte Roslie
+**1 \. Three Domains of the BV Student Leadership Programme**
 
-### Overview
+The intended outcome for the BV Student Leadership Programme is to nurture leaders who are grounded in Character and equipped with the Competencies to be Changemakers. This is summarised in the three domains of Character, Competency and Service.
 
-The Student Leadership Committee (SLC) supports the school’s Strategic Thrust 2: Nurture the Whole Child through Character Development and Well-being. More specifically, the SLC is responsible for designing and implementing a whole-school approach to Student Leadership development, so that effective leaders and good role models may be nurtured.
+At the core of every student leader is the domain of Character, which aims to instill sound values so that Bedok Viewans exhibit positive role-modelling and make responsible decisions.
 
-### Student Leadership Committee (SLC)
+The domain of Competency develops in students self-awareness and self-management skills to achieve personal effectiveness. They will also develop social awareness and interpersonal skills to influence their peers positively and lead confidently. Through the leadership training, students will learn the essential functional skills required of leaders such as to plan and manage projects, communicate clearly, and facilitate effectively.
 
-![Student Leadership Committee (SLC)](/images/Student%20Leadership%20Structure.jpg)
+The domain of Service focuses on students as active contributors by providing opportunities to create a more vibrant and positive school experience. They will learn to proactively identify problems and resolve it, acting as agents of change in their school and community.
 
-Every student has the potential to be a confident and inspiring leader. The Bedok View Student Leadership Framework guides the student leadership programme which aims to equip students with specific skills to build capacity and inculcate values. The leadership training that all students undergo will develop them into responsible, respectful leaders who are ready and capable of future leadership roles. 
+<img src="/images/SLD_01.png" align=left style="width:85%">
+<br clear=left>
 
-As students progress in their leadership journey, they will be empowered with greater responsibilities and nurtured into confident leaders who are role models for their peers. By providing varied platforms and opportunities to lead, students will develop into inspiring leaders who can influence others to step forward to lead and serve others. This will encourage student leaders to demonstrate leadership skills and exhibit the 3C qualities of Character, Commitment and Courage which are aligned to our school values. As part of leadership development, students will also be prepared for the 21st century with competencies such as communication, relationship building, conflict management, project management and public speaking. Our leadership programme will nurture Bedok Viewans into confident, inspiring leaders of tomorrow.
+**2 \. Approach to Leadership Development in Bedok View**
 
+As students progress in their leadership journey, they will be endowed with greater responsibilities and nurtured into confident changemakers through a variety of platforms and opportunities to lead. The school leverages on the Learning for Life Programme framework in its approach to leadership development.
 
-### Programmes
+<img src="/images/SLD_02.png" style="width:85%">
 
-We believe that every student deserves the opportunity to have his or her leadership potential nurtured and maximised. Bedok View’s Leadership framework is based Kouzes and Posner 5 Practices of Exemplary Leadership which equips our students with specific skills that will help them to become better leaders through formal and informal (on-the-job) training. We believe that all students need to learn about leadership, before they can demonstrate it through their actions. Students with high potential will then be entrusted with various leadership roles in school where they can have a greater sphere of influence.
+The journey begins with the ‘Transmission phase’ as they develop an awareness and understanding of good values and leadership competencies through the Leadership Challenge Model, taught to all Bedok Viewans during lessons facilitated by student leaders.
 
-The school’s Student Leadership programme is two-tiered. At the foundational level, the school aims to expose and inculcate students with leadership values which mirror the school values. At the higher level, students who have greater leadership potential and are role models of school values may hold leadership positions as class leaders, CCA leaders and Student Councillors.
+ Next is the ‘Transactional phase’ which involves students translating their learning into concrete actions. Here, they demonstrate an understanding of what sound values and leadership competencies mean through leadership workshops where they apply their skills and knowledge in facilitating and carrying out various school activities. 
 
-The school provides many opportunities for the Student Leaders to demonstrate their leadership skills which will nurture them into more confident an effective leaders of the 21st century.
+Lastly, the ‘Transformational phase’ is when students are empowered to come forward with initiatives and rally others towards a common goal. Here, they advocate a sense of agency anchored on good values and leadership competencies through opportunities to initiate and plan school events or mentorship of junior leaders.
+
+The Learn-Act-Lead cycle is a reinforcement loop for leadership development.
+
+As espoused in our school’s vision to be ‘learners who learn for life and leaders who light the way’, our BV Student Leadership programme hopes to develop exemplary and inspiring leaders, where Bedok Viewans are beacons of hope who act as a guiding light to illuminate the way for others to follow.
