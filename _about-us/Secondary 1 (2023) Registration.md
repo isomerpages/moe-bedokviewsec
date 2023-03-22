@@ -36,4 +36,7 @@ Please submit the appeal and supporting documents at Bedok View Secondary School
 
 **2 \.**    **MOE Financial Assistance Scheme (MOE FAS)**
 
-For application of MOE FAS for your child/ward, you can visit MOE’s website: [https://www.moe.gov.sg/financial-matters/financial-assistance](https://www.moe.gov.sg/financial-matters/financial-assistance) and apply [online](https://go.gov.sg/moe-efas).  Alternatively, you can download the [MOE FAS application form](https://www.moe.gov.sg/financial-matters/-/media/932c5159d07c4a128d30374925806a6a.ashx)  from the website or collect a copy from the General Office.
+For application of MOE FAS for your child/ward, you can visit MOE’s website: [https://www.moe.gov.sg/financial-matters/financial-assistance](https://www.moe.gov.sg/financial-matters/financial-assistance) and apply [online](https://go.gov.sg/moe-efas).  Alternatively, you can download the [MOE FAS application form](/files/MOE-FAS-Application-Form-Oct-2022.pdf) from the website or collect a copy from the General Office.
+
+<img src="/images/MOE_FAS.png" style="width:25%">
+
