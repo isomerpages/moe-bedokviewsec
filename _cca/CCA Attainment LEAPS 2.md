@@ -33,10 +33,6 @@ This domain recognises students’ leadership development from participation in 
 
 This domain recognises students’ development as socially responsible citizens who contribute meaningfully to the community. Every student will contribute at least 6 hours per school year to the community through service activities and Values-In-Action (VIA) projects. Students will be recognised for the time they put into planning, service and reflection, when participating in a VIA project.
 
-
-Recognition of Students’ Level of Attainment
-At the end of the graduating year, students’ co-curricular attainment will be recognised according to the table below. The level of attainment will be converted to bonus point(s) which can be used for admission to Junior Colleges/ Polytechnics/ Institutes of Education (JC/Poly/ITE), according to their individual’s admission criteria.
-
 ### Recognition of Students’ Level of Attainment
 
 At the end of the graduating year, students’ co-curricular attainment will be recognised according to the table below. The level of attainment will be converted to bonus point(s) which can be used for admission to Junior Colleges/ Polytechnics/ Institutes of Education (JC/Poly/ITE), according to their individual’s admission criteria.
