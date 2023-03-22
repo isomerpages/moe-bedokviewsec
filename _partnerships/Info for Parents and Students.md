@@ -14,3 +14,5 @@ description: ""
 [Secondary 2 Class Timetable](/files/Sec%202%20Timetable%202023%20Sem%201.pdf)<br>
 [Secondary 3 Class Timetable](/files/Sec%203%20Timetable%202023%20Sem%201%20-%20updated.pdf) _(updated 10 Jan)_<br>
 [Secondary 4 & 5 Class Timetable](/files/Sec%2045%20Timetable%202023%20Sem%201.pdf)
+
+**Secondary 1 (2023) Registration**<br>
