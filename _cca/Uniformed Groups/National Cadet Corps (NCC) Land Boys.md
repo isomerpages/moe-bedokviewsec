@@ -16,8 +16,8 @@ third_nav_title: Uniformed Groups
 
 Mr Mohammed Noor Firdaus Bin Sumawi <br>
 Mr Tay Soon Heng <br>
-Mr Yee Boon Wei <br>
-Ms Grace Felicity Wong Yun Wen
+Mr Peh Ang Tiong <br>
+Ms Cheng Soon Kuee, Crystal
 
 ### CCA Schedule
 
@@ -44,6 +44,11 @@ Ms Grace Felicity Wong Yun Wen
     <td class="tg-y7qa">Friday</td>
     <td class="tg-y7qa">2.30pm - 6.00pm</td>
     <td class="tg-y7qa">Classrooms<br>D2-01 to D2-04</td>
+  </tr>
+	  <tr>
+    <td class="tg-y7qa">Tuesday & Thursday <br>(For PDS Team only)</td>
+    <td class="tg-y7qa">4.00pm - 6.00pm</td>
+    <td class="tg-y7qa">Mini Parade Square</td>
   </tr>
 </tbody>
 </table>
