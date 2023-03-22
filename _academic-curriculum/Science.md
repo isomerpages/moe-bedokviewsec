@@ -11,49 +11,13 @@ description: ""
 
 </div>
 
-### Head of Department
-
-Mr Abdul Malek Osman
-
-### Subject Head/Level Head
-
-Ms Lian Xue Li Jasmine (Lower Sec Science)
-
-
-### Department Members
-
-**Biology**
-
-Ms Lian Xue Li Jasmine (Subject Head/Science) <br>
-Mr Yee Boon Wei <br>
-Ms Cherie Chow <br>
-Ms Marliyana Md Noor
- 
-**Chemistry**
-
-Mr Syed Alwi (School Staff Developer) <br>
-Ms Kong Wai Leng <br>
-Mr Keng Wei Li David <br>
-Ms Wong Wei Leen <br>
-Mr Yee Boon Wei <br>
-Mr Cher Liew Chun Roy (Subject Head/Student Leadership - Covering)
-
-**Physics**
-
-Mr Abdul Malek Osman (Head Of Department/Science) <br>
-Mr Melvin Ng Yong Hui (Head of Department/Infocomm and Technology) <br>
-Ms Nur Hazwah Mohamed Shah <br>
-Mr Jeremy Yong De Jun <br>
-Ms Toh Li Zhen
-
-
 ### Overview
 
-The Science Department is led by our HOD Science and is supported by one SH Science. At Bedok View Secondary, we believe in nurturing our students to be scientifically literate, inquisitive and self-directed learners, with a lifelong passion for Science.
+At Bedok View Secondary, we believe in nurturing our students to be scientifically literate, inquisitive and self-directed learners, with a lifelong passion for Science.
 
-We adopt an Inquiry-Based Learning Approach in the teaching and learning of Science at all levels. Science knowledge and skills are nurtured and developed through these three broad platforms: Classroom Based, Laboratory Based and the Science Incubation Unit (SIU). Our SIU provides students with a holistic and integrated approach towards experiences in Applied Science Learning.
+We adopt an Inquiry-Based Learning Approach in the teaching and learning of Science at all levels. Science knowledge and skills are nurtured and developed through these three broad platforms: Classroom-Based, Laboratory-Based and Experiential Learning. Our Experiential Leaning platform provides students with a holistic and integrated approach towards experiences in Applied Science Learning. We also provide students with opportunities for attachment at various institutes of higher learning.
 
-The department adopts a holistic system in the teaching of Lower Secondary Science for both the Express and Normal Academic streams. For the Upper Secondary Express students, the department offers Pure Biology, Chemistry, Physics as well as Combined Science (Physics and Chemistry) and Combined Science (Biology and Chemistry). For the Upper Secondary Normal Academic students, the department offers Combined Science (Physics and Chemistry). The department believes in giving equal opportunities for all students to learn Science so as to ensure that they have a well-rounded Science education.
+The department adopts a holistic system in the teaching of Lower Secondary Science for both the Express and Normal Academic streams. For the Upper Secondary Express students, the department offers Pure Biology, Pure Chemistry, Pure Physics as well as Combined Science (Physics and Chemistry) and Combined Science (Biology and Chemistry). For the Upper Secondary Normal Academic students, the department offers Combined Science (Physics and Chemistry). The department believes in giving equal opportunities for all students to learn Science so as to ensure that they have a well-rounded Science education.
 
 **Vision**
 
@@ -66,12 +30,12 @@ To nurture scientifically literate and self-directed learners who have a lifelon
 
 ### Programmes
 
-1. Science Experiential Workshop (SEW) (Secondary 1)
-2. IgnITE Skills Challenge (for Secondary 2NA & 3NA)
-3. Advanced Elective Module on STEM Related Areas (Secondary 3)
-4. Science & Technology Competition @ Nanyang Polytechnic (Secondary 2 and 3 Selected Students
+1 \. Science Experiential Workshop (SEW) (Secondary 1)<br>
+2 \. IgnITE Skills Challenge (for Secondary 2NA & 3NA)<br>
+3 \. Advanced Elective Module on STEM Related Areas (Secondary 3)<br>
+4 \. Science & Technology Competition @ Nanyang Polytechnic (Secondary 2 and 3 Selected Students
 
-**1. Science Experiential Workshop (SEW) (Secondary 1)**
+1 \.  **Science Integrated Activities (Secondary 1 & Secondary 2)**
 
 Secondary One students attend the in-house Science Experiential Workshop (SEW) to enrich and extend their learning beyond the syllabus. Students will be engaged with hands-on activities when they attend the workshop. Activities conducted in the past workshops include bridge-building using ice-cream sticks, crime scene investigation and slime-making.
 
@@ -107,4 +71,4 @@ Field trip to a shipyard
 
 The Science and Technology Challenge is an annual competition organised by Nanyang Polytechnic. The aim of the competition is to fuel students' critical and creative thinking while promoting their interest in Science, Technology, Engineering and Mathematics (STEM).
 
-In 2020, our students achieved the 2nd Runner Up in the category for “Build Your Dream Aircraft”.
+Below is a short video showing our students' participation for the "Build your Dream Aircraft" category.
