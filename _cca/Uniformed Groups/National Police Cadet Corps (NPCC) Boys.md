@@ -14,10 +14,10 @@ third_nav_title: Uniformed Groups
 
 ### Teachers- In- Charge
 
+Mr Abdul Adib Bin Mohd Omar <br>
 Mr Syaiful Bahari Bin Abdul Latif <br>
-Mr Abdul Adib Bin Mohd Omar <br>
-Mr Sivabalan Kaliaperumal. <br>
-Mr Choo Meng Kang
+Mr Choo Meng Kang <br>
+Mr Syahrulnizam Bin Abdul Rahman
 
 
 ### CCA Schedule
@@ -52,9 +52,8 @@ Mr Choo Meng Kang
 
 The **National Police Cadet Corps (NPCC)** unit aims to develop cadets to be active citizens and community leaders, by working in partnership with the **Singapore Police Force** to fight crime and keep Singapore safe.
 
- Our cadets learn important skills and knowledge with exciting programmes such as **Crime Scene Investigation (CSI)** and **0.22 Revolver Shooting**, and nurture their rugged selves through fun and challenging outdoor activities like **High Ropes Challenge** and **Adventure Camps** in **Pulau Ubin**. We take part in the **Police Youth Ambassador** projects which aims to equip cadets with practical strategies to address community crime and security. We also collaborate with the **Singapore Police Force** to help spread awareness on **Vehicle Theft** and **Internet Scams** to the public. These projects help to develop our cadets into confident leaders and responsible citizens of the nation.
+Our cadets learn important skills and knowledge with exciting programmes such as **Crime Scene Investigation (CSI)** and **0.22 Revolver Shooting**, and nurture their rugged selves through fun and challenging outdoor activities like **High Ropes Challenge** and **Adventure Camps** in **Pulau Ubin**. We take part in the **Police Youth Ambassador** projects which aims to equip cadets with practical strategies to address community crime and security. We also collaborate with the **Singapore Police Force** to help spread awareness on **Vehicle Theft** and **Internet Scams** to the public. These projects help to develop our cadets into confident leaders and responsible citizens of the nation.
 
- In 2021, our unit received the **Gold Award** for the **Unit Overall Proficiency Award (UOPA)** as a recognition of our cadets’ and officers’ commitment to high standards of proficiency and efficiency in our programmes and achievements. Our Sec 4 cadets have also made the school proud yearly by achieving the **SPF-NPCC Badge**, the pinnacle badge awarded to the best NPCC cadets in Singapore.
+In 2021, our unit received the **Gold Award** for the **Unit Overall Proficiency Award (UOPA)** as a recognition of our cadets’ and officers’ commitment to high standards of proficiency and efficiency in our programmes and achievements. Our Sec 4 cadets have also made the school proud yearly by achieving the **SPF-NPCC Badge**, the pinnacle badge awarded to the best NPCC cadets in Singapore.
 
- **We look forward to welcoming you to be part of our NPCC family!**
-
+**We look forward to welcoming you to be part of our NPCC family!**
