@@ -108,12 +108,12 @@ Click on the following to learn about each of the reasons!
 </a></p>
 <br clear=left>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
-<img style="width:30%" align=left src="/images/mothertongue.jpg">
+<p><a href="https://www.youtube.com/watch?v=q5lNT0gau1E">
+<img style="width:30%" align=left src="/images/Video logos 7.png">
 </a></p>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
-<img style="width:30%" align=left src="/images/mothertongue.jpg">
+<p><a href="https://www.youtube.com/watch?v=wF6qayJkyUM&t=1s">
+<img style="width:30%" align=left src="/images/Video logos 6.png">
 </a></p>
 
 <p><a href="https://www.ezhishi.net/CKPSebook2022/">
