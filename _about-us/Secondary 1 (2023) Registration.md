@@ -47,3 +47,8 @@ If your child’s/ward’s primary school has already approved the MOE FAS appli
 **3 \.**     **Secondary 1 Booklists**
 
 The Secondary 1 Booklist for the different streams are attached in the table below.
+
+|   |   |   |
+|:-:|---|---|
+| [Sec 1 Express Book List](/files/Sec%201%20Express%20Booklist.pdf)  | [Sec 1 Normal Academic Book List](/files/Sec%201%20NA%20Booklist.pdf)  | [Sec 1 Normal Technical  Book List](/files/Sec%201%20NT%20Booklist.pdf)  |
+|   |   |   |
