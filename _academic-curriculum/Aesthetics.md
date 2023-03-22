@@ -11,39 +11,6 @@ description: ""
 
 </div>
 
-
-### Head Of Department
-
-Mdm Irdawaty Binte Mawardi
-
-### Department Members
-
-**Art**
-
-Ms Mardiyana Bte Roslie (Art Coordinator) <br>
-Mdm Nurul Huda Binte Farid <br>
-Ms Lazaroo Odilia Emily
-
-**Design & Technology**
-
-Mdm Normohaida Mohamed Noor (Subject Head/Infocomm and Technology) <br>
-Mdm Ma Lay Hwa, Alison (Mrs Kua) (Senior Teacher Design & Technology) <br>
-Mr Foo Fook Seng (Design & Technology Coordinator)
-Mr Wee Khim Leng <br>
-Mr Shamsulbahri Bin Othman (Allied Educator) <br>
-Mr Mazlan Bin Mohd (Education Workshop Officer) <br>
-Mr Azmi Bin Taib (Education Workshop Officer)
-
-**Nutrition & Food Science**
-
-Ms Nur Emillia Bte Sulaiman Sim (Nutrition & Food Science Coordinator) <br>
-Ms Siti Farah Izzah <br>
-Ms Nur Adilah Binte Renohardi
-
-**Music**
-
-Ms Grace Felicity Wong Yun Wen (Music Coordinator)
-
 ### Overview
 
 Education is about looking beyond the child’s intellect and seeing the whole child. 
@@ -115,7 +82,7 @@ The music curriculum develops students’ musical ability through listening, per
     <td class="tg-ncov">Lower Secondary<br></td>
   </tr>
   <tr>
-    <td class="tg-ncov">Food &amp; Nutrition<br></td>
+    <td class="tg-ncov">Nutrition & Food Science<br></td>
     <td class="tg-ncov">Upper Secondary</td>
   </tr>
 </tbody>
