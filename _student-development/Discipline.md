@@ -3,16 +3,6 @@ title: Discipline
 permalink: /student-development/discipline/
 description: ""
 ---
-### Committee Members
-
-Mr Mohd Azuan Tan (1 I/C) <br>
-Mr K T Sivakumar (1 I/C) <br>
-Mr Jeremy Yong De Jun (2 I/C)
-
-Mr Tan Wee Ghuan Jastinian <br>
-Mdm Umi Kalthom Bte Shokor <br>
-Mr Randy Harris Chandermohan (Discipline Aide)
-
 ### Discipline Framework
 
 Effective discipline is based on a consistent philosophy and approach. Every student matters and the school aims to nurture a caring school culture and a positive school climate. Such a climate is based on a calm yet firm insistence on high standards of behaviour at all times. To this effect, the school has formulated a set of clear and reasonable school rules to guide the students, which emphasises both reason and compassion, to help students change for their betterment. 
