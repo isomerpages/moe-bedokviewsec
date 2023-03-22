@@ -3,13 +3,6 @@ title: Applied Learning Programme (ALP)
 permalink: /academic-curriculum/applied-learning-programme-alp/
 description: ""
 ---
-### Committee Members
-
-Mr Teo Choo Hock, Steven (IC) <br>
-Ms Victoria Ching Ngai Men (2IC) <br>
-Mdm Nur Syafiqah Binte Saini <br>
-Mrs Zarina Bte Mohamed Zakaria Seth
-
 ### Overview
 
 Today’s generation of students will face a much more uncertain world when they graduate from school. In order to empower our students to tackle the challenges that may come their way, Bedok View (BV) Secondary School offers a distinctive Applied Learning Programme (ALP) to connect academic learning with the real world. The programme, Global Awareness for the 21st Century @ BV, serves to deepen 21st century competencies in students by nurturing critical thinkers with a sense of global awareness and confident communicators who are able to effectively engage with others. 
