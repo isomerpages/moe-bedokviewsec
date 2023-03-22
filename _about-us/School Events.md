@@ -36,7 +36,7 @@ Due to the ongoing pandemic, the investiture took on a modified approach, with t
 
 The investiture is an important event for student leaders to remember their commitment to be exemplary role models and to inspire the student population in seizing opportunities to lead self, peers and community.
 
-**Investiture Video Link**
+**[Investiture Video Link](https://drive.google.com/file/d/1SGVcPi6CoWCBj15QBd3ZYHYlPeCMK8Lk/view)**
 
 
 ### FAME 2021
