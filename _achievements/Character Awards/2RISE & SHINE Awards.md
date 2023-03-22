@@ -6,6 +6,114 @@ third_nav_title: Character Awards
 ---
 The 2RISE & Shine Award serves as a recognition platform to acknowledge Bedok Viewans who have demonstrated the school values through little good deeds in their daily lives.  These deeds reflect our school's 2RISE values of Respect, Responsibility, Integrity, Service and Excellence. This allows the school to emphasise on consistent and coherent messaging on CCE.
 
+### October 2022 Winners 
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-djlw{background-color:#EAEAEA;border-color:inherit;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-djlw">FARZANAH BINTE HASHIM</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-n4qt">YAM KOK EN VICTOR</td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">LEA MAZAYA G ISAAK</td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">ISABEL YIK</td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">ABDUL LATIF BIN MOHAMAD SHAHRIL</td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">TAY FEDERER WILLIAM</td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">DARYL TAY KONG ZHI</td>
+  </tr>
+</tbody>
+</table>
+
+### September 2022 Winners
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-djlw{background-color:#EAEAEA;border-color:inherit;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-djlw">POH JING KAI</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-n4qt">MUHAMMAD IMAN BIN IBRAHIM</td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">MUHAMMAD AFEEF BIN JOHARI</td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">CHUAH HAO JUN DAMIAN (CAI HAOJUN)</td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">HOSHEA HAYDN NEO KAI LE</td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">TANISHQ VIKAS CHANDIRAMANI</td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">KOH DUN YAO</td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">NUUR MATIIN BIN NORMOHAZZAM</td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">GOH YEN LONG</td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">LIM KENG FENG MAX</td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">CHUA WEI QIAN ELWIN</td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">DAVIAN LEE GUANWEI</td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">LEE JU XIAN</td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">MOHAMED NUR AMSYAR BIN MOHAMED ASZALI</td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">MUHAMMAD ADAM SUFI BIN MOHAMED NIZAM</td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">GOH BOON ANN</td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">NG QIAN CI</td>
+  </tr>
+</tbody>
+</table>
+
 ### April 2022 Winners
 
 <style type="text/css">
