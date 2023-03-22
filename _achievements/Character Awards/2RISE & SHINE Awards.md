@@ -246,6 +246,75 @@ The 2RISE & Shine Award serves as a recognition platform to acknowledge Bedok Vi
 </tbody>
 </table>
 
+### May 2022 Winners
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-djlw{background-color:#EAEAEA;border-color:inherit;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-djlw">ONG TING JIANG KEANE (WANG TINGJIANG)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-n4qt">TAHIRAH BINTE MOHAMED ISHAK</td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">MOHAMED RIFQI ASYRAF BIN SAMSUDIN</td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">LIM ZHI XUAN</td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">M HIRZAN SHAH BIN ABDUL MALEK</td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">PRAKASH BABU AKSHAY</td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">LAW KHEE JUEY ISAAC</td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">LIEW YAO EN STEFANIE</td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">CHENG PING CHEN</td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">ASHLEY LAW YIXUAN</td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">CHUA XIN ZHE</td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">TAN HONG EN</td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">LEMUEL TAY ZHONG</td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">GOH JIA HUI VALERIE</td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">KAYDEN LEE</td>
+  </tr>
+	  <tr>
+    <td class="tg-n4qt">MUHAMMAD NUR FAQIF BIN ZAMBRI</td>
+  </tr>
+	  <tr>
+    <td class="tg-n4qt">ANGEL YEU YUE YAO</td>
+  </tr>
+</tbody>
+</table>
+
 ### April 2022 Winners
 
 <style type="text/css">
