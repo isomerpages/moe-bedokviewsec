@@ -82,7 +82,7 @@ Click on the following to learn about each of the reasons!
 <img style="width:30%" align=left src="/images/Navigation logos 5.png">
 </a></p>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/about-us/e-prospectus/">
 <img style="width:30%" align=left src="/images/Navigation logos 6.png">
 </a></p>
 <br clear=left>
