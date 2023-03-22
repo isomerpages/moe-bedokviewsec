@@ -15,8 +15,8 @@ third_nav_title: Sports
 ### Teachers- In- Charge
 
 Mr Wee Khim Leng <br>
-Mr Roy Cher Liew Chun <br>
-Mdm Kong Wai Leng
+Ms Cheong Hwee Shann Constance<br>
+Mr Teoh Ai Keong
 
 
 ### CCA Schedule
