@@ -14,9 +14,9 @@ third_nav_title: Performing Arts
 
 ### Teachers- In- Charge
 
-Ms Sherine Wong Choi Yoong <br>
-Mdm Tan Ai Fen <br>
-Mdm Nazatul Fadzlin Bte Fadil
+Ms Sherine Wong  <br>
+Mdm Nazatul Fadzlin Bte Fadil <br>
+Mdm Umi Kalthom Bte Shokor
 
 
 ### CCA Schedule
@@ -50,12 +50,8 @@ Mdm Nazatul Fadzlin Bte Fadil
 
 ### CCA Overview & Highlights
 
-Bedok View Choir aims to develop students’ passion in music-making through singing. Over the years, the choir has acquired an extensive repertoire, from traditional and classical choral works to modern contemporary pieces. In addition to learning vocal techniques and sight-singing, the choir seeks greater exposure through public concerts, choral workshops and exchanges. 
+Bedok View Choir aims to develop students’ passion in music-making through singing. Over the years, the choir has acquired an extensive repertoire, from traditional and classical choral works to modern contemporary pieces. In addition to learning vocal techniques and sight-singing, the choir seeks greater exposure through public concerts, choral workshops and exchanges. 
 
-Apart from developing members’ musical abilities, we also provide ample opportunities to develop student leadership, as well as a nurturing environment where members grow and excel. The choir leaders and seniors are empowered through student-led activities in the choral programme while students from different levels collaborate with each other to pursue their common interest.
+Apart from developing members’ musical abilities, we also provide ample opportunities to develop student leadership, as well as a nurturing environment where members grow and excel. The choir leaders and seniors are empowered through student-led activities in the choral programme while students from different levels collaborate with one another to pursue their common interest.
 
-In 2021, we took on the challenge of the new format for the Singapore Youth Festival (SYF) Arts Presentation in which our members learnt and experienced new forms of music creation and performance presentation.
-
-
-
-
+In 2022, the choir took the virtual stage during the school’s Chinese New Year Celebration online broadcast; led the school in community singing to commemorate National Day; and finally, returned to ‘live’ onstage performance during Teacher’s Day celebration.
