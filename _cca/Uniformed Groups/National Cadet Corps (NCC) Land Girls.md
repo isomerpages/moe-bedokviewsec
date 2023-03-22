@@ -62,3 +62,27 @@ During training, the cadets are involved in drills, physical training and sports
 The unit has received many achievements over the years. Our unit has been awarded Distinction for the NCC Unit Recognition award in 2021. In 2019, our Freestyle Drill (FSD) team emerged as champions in the 11th NCC Freestyle Exhibition Drill Competition (East District) and our team of senior cadets came in first place in the Orienteering Competition. 
 
 In 2022, with the resumption of many activities, the cadets got to enjoy the combined UG camp conducted in Bedok View and NCC HQ activities such as Camp FORGE and Camp STEEL, the Senior Specialist Leaders’ Course, Sports and Games Competitions, Orienteering Competition and Cluster Training sessions. These activities have allowed the girls to pick up new skills and  to interact with other schools’ NCC cadets and also cadets from other UGs.
+
+<figure>
+<img src="/images/NCC_01.jpg" style="width:90%">
+<figcaption>  Our Cadet Leaders got to experience a Modified Obstacle Course at HQ NCC as part of their training for the Senior Specialist Leaders’ Course.
+ </figcaption>
+</figure>
+
+<figure>
+<img src="/images/NCC_02.jpg" style="width:90%">
+<figcaption>  Our Senior Cadets played Frisbee for the NCC Sport and Games Championship with NCC Girls units from other schools.
+ </figcaption>
+</figure>
+
+<figure>
+<img src="/images/NCC_03.jpg" style="width:90%">
+<figcaption>  The Junior Cadets learnt basic-self defence skills during the combined UG camp in school.
+ </figcaption>
+</figure>
+
+<figure>
+<img src="/images/NCC_04.jpg" style="width:90%">
+<figcaption>  On National Day, the unit visited the housing estate behind Bedok View to collect recyclable items for their VIA activity.
+ </figcaption>
+</figure>
