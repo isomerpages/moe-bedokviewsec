@@ -16,5 +16,20 @@ description: ""
 
 #### Getting There
 
+**From PIE going towards Changi Airport**<br>
+1 \. Take Exit 4A onto Simei Ave<br>
+2 \. Turn right at Upper Changi Road East<br>
+3 \. Continue on New Upper Changi Road<br>
+4 \. Turn left at Bedok South Ave 3<br>
+5 \. Make a U-turn 
 
+**From ECP going towards Changi Airport:**<br>
+1 \. Take Exit 7B onto Bedok South Ave 1 <br>
+2 \. Turn right at Bedok South Road<br>
+3 \. Turn left at Bedok South Ave 3
 
+**From TPE:**<br>
+1 \. Take Exit 1 onto Upper Changi Road East<br>
+2 \. Continue on New Upper Changi Road<br>
+3 \. Turn left at Bedok South Ave 3<br>
+4 \. Make a U-turn
