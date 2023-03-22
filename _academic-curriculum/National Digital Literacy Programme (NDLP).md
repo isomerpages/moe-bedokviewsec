@@ -60,6 +60,52 @@ https://www.moe.gov.sg/programmes/cyber-wellness/ **(link not working!)**<br>
 | **What’s included in the <br>enhanced bundle**  | Power adapter and charging cable,  Apple Pencil (1st Gen) with USB-C adapter, Logitech Ruggedized Combo 3  |
 |   |   |
 
+**6 \. Frequently Asked Questions**
+
+**I. How do I check my child’s edusave balance? How much do I have to pay?** 
+
+Parents may call this number 6260 0777 to check the edusave balance.  
+  
+All Singaporean students are supported by MOE in purchasing a device. They can tap on their Edusave Account to reduce their out-of-pocket (OOP) expenses when buying a device.  
+  
+For students from lower-income households, MOE will provide further subsidies so that they do not have to incur any OOP expenses. Students may approach their schools if they require financial assistance.  
+  
+Permanent residents (PR) and international students (IS) who need support could apply for subsidies, particularly those whose Gross Household Income (GHI) is below $4000 or Per Capita Income (PCI)# is below $1000. For more details, please approach the school
+
+**II. What happens if the device is stolen/lost? Does the contract include insurance? If so, what is covered under the insurance**
+
+The insurance covers the following:  
+  
+![insurance.jpg](https://bedokviewsec-moe-edu-sg-admin.cwp.sg/qql/slot/u171/NDLP/insurance.jpg)
+
+**III. What happens if the child’s device is down or need repairs?**
+
+Technical support will be provided to students through:  
+– Service desk set up in school during breaks and after school on a weekly basis  
+– Collection of devices to be sent for repairs  
+– Lenovo Service Centre at Tai Seng Centre, SmartCares Solutions (3 Irving Road, #01-17 Singapore 369522)  
+  
+School will have a pool of devices for students to loan for use in the mean time
+
+**IV. What if I prefer for my child/ward to use his/her own personal computing device (“device”) in school?**
+
+You will need to bring your device for assessment of the following:  
+– device should not be older than 4 years from manufacturing date;  
+– battery should hold charge for at least 4 hours;  
+– comparable form factor to school’s bulk tender devices (e.g. touchscreen,  
+physical keyboard);  
+– comparable features to school’s bulk tender devices (e.g. inking if school  
+programme requires students to use free hand writing or sketching);  
+– comparable performance to school’s bulk tender devices  
+  
+Do note a **factory reset of your device may be required** for installation of the  
+Device Management Application, which is compulsory for all students' learning  
+devices.
+
+#### PDLP Student Device Information Kit
+
+\*\*\*To be updated for 2023\*\*\*
+
 ### DMA Options ( Using Mobile Guardian)
 
 ![DMA Options ( Using Mobile Guardian)](/images/DMA%20options.jpg)
