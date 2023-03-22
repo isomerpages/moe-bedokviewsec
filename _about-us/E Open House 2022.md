@@ -116,8 +116,8 @@ Click on the following to learn about each of the reasons!
 <img style="width:30%" align=left src="/images/Video logos 6.png">
 </a></p>
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
-<img style="width:30%" align=left src="/images/mothertongue.jpg">
+<p><a href="https://www.youtube.com/watch?v=8bPFe5jl5pw">
+<img style="width:30%" align=left src="/images/Video logos 8.png">
 </a></p>
 <br clear=left>
 
