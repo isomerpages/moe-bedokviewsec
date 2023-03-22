@@ -179,6 +179,9 @@ Click on the following to learn about what skills and talents your child can dev
 | [School Advisory Committee (SAC)](/about-us/school-advisory-committee-sac/)  |
 | [Our People](/about-us/our-people/school-management-committee/)  |
 | [Our Contact](/about-us/our-contact/)  |
+| [Direct School Admission](/about-us/direct-school-admission-dsa/)  |
+| [E-Prospectus](/about-us/e-prospectus/)  |
+| [Secondary 1 (2023) Registration](/about-us/sec-1-registration/)  |
 |   |
 |   |
 |   |
