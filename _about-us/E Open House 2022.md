@@ -169,8 +169,9 @@ Click on the following to learn about what skills and talents your child can dev
 
 **REQUIRE JACKSON'S INPUT VIDEO**
 
-| ABOUT US  |
+|   |
 |:-:|
+| **ABOUT US**  |
 | [Principal's Welcome Message](/about-us/principals-welcome-message/)  |
 | [History](/about-us/history/)  |
 | [School Mission, Vision and Values](/about-us/school-mission-vision-and-values/)  |
@@ -182,9 +183,7 @@ Click on the following to learn about what skills and talents your child can dev
 | [Direct School Admission](/about-us/direct-school-admission-dsa/)  |
 | [E-Prospectus](/about-us/e-prospectus/)  |
 | [Secondary 1 (2023) Registration](/about-us/sec-1-registration/)  |
-|   |
-|   |
-|   |
-|   |
-|   |
+| [School Events](/about-us/school-events/)  |
+| [E-open House 2022](/about-us/e-open-house-2021/)  |
+| [School Corporate Video](/about-us/sch-corporate-video/)  |
 |   |
