@@ -14,9 +14,9 @@ third_nav_title: Sports
 
 ### Teachers- In- Charge
 
-Ms Seetoh Peijia <br>
 Mr Tan Teck Yong <br>
-Ms Nur Hafizah Binte Mohd Yunos
+Ms Nur Hafizah Binte Mohd Yunos <br>
+Mr Hamzah Bin Muhit
 
 
 ### CCA Schedule
@@ -42,8 +42,8 @@ Ms Nur Hafizah Binte Mohd Yunos
 <tbody>
   <tr>
     <td class="tg-y7qa">Tuesday &amp; Thursday</td>
-    <td class="tg-y7qa">4.00pm - 6.00pm</td>
-    <td class="tg-y7qa">Temasek JC</td>
+    <td class="tg-y7qa">3.45pm - 5.45pm</td>
+    <td class="tg-y7qa">ISH Level 1 / Temasek JC</td>
   </tr>
 </tbody>
 </table>
@@ -52,4 +52,9 @@ Ms Nur Hafizah Binte Mohd Yunos
 
 The Athletics CCA aims to reinforce the importance of passion and resilience, and to develop all-round athletes. We have training sessions twice a week in which the coach and teachers work together to train our students in a variety of exercises like footwork drills and endurance-building. The training sessions help students to master the correct techniques, build their endurance and improve in their race timings. On top of that, we instill the value of teamwork in our athletes, encouraging them to support and celebrate each other’s success. Through their participation in competitions, the athletes get exposure, learn about integrity, showcase good sportsmanship and reap the fruits of their labour.
 
+<img src="/images/Athletics_01.jpg" style="width:23%;margin-right:15px;" align = "left">
+<img src="/images/Athletics_02.png" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/Athletics_04.jpg" style="width:30%;margin-right:15px;" align = "left">
+<br clear="left">
 
+<img src="/images/Athletics_03.jpg" style="width:85%">
