@@ -61,7 +61,31 @@ Click on the following to learn about each of the reasons!
 
 <h4 style="color:orange" align="center">Navigation Bar</h4>
 
-*broken links*
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:30%" align=left src="/images/Navigation logos 1.png">
+</a></p>
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:30%" align=left src="/images/Navigation logos 2.png">
+</a></p>
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:30%" align=left src="/images/Navigation logos 3.png">
+</a></p>
+<br clear=left>
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:25%" align=left src="/images/mothertongue.jpg">
+</a></p>
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:25%" align=left src="/images/mothertongue.jpg">
+</a></p>
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:25%" align=left src="/images/mothertongue.jpg">
+</a></p>
+<br clear=left>
 
 <h4 style="color:orange" align="center">The BV Experience</h4>
 
