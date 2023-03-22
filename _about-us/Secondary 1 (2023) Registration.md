@@ -70,3 +70,11 @@ The Secondary 1 Booklist for the different streams are attached in the table bel
 | **Please note:**  | **Textbooks for Normal Technical stream can be purchased when school re-opens as stocks are currently not available.**  |
 |   |   |
 
+For collection in school, parents are to observe the following:
+
+*   Proof of collection date/ appointment details to be shown to security officers.
+*   For change of collection date, parents are advised to contact the vendors.
+
+**B. Walk-In** **Purchase (by Appointment only)**
+
+We strongly advise parents to make their purchases online.  If you are not able to make your purchase online, please make an appointment for your walk-in purchase.  We seek your kind understanding that walk-ins without prior appointment will not be allowed entry into the school.
