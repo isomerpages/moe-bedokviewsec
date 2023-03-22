@@ -47,16 +47,10 @@ Click on the following to learn about what skills and talents your child can dev
 |   |
 |:-:|
 | **CCA**  |
-|   |
-|   |
-|   |
-|   |
-|   |
-|   |
-|   |
-|   |
-|   |
-|   |
-|   |
-|   |
+|  [CCA Attainment - LEAPS 2.0](/cca/cca-attainment-leaps-2-0/)  |
+| [Uniformed Groups](/cca/uniformed-groups/)  |
+| [Sports](/cca/sports/)  |
+| [Performing Arts](/cca/performing-arts/)  |
+| [Clubs](/cca/clubs/)  |
+| [CCA Orientation](/cca/cca-orientation/)  |
 |   |
