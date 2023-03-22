@@ -11,37 +11,16 @@ The Parent Support Group is made up of parent volunteers of past and current Bed
 
 ![Parent Support Group (PSG) structure](/images/PSG%201.png)
 
-As the saying goes, “it takes a village to raise a child”. Indeed, during this Covid-19 pandemic, the “village” must come together and find ways to support and develop our students’ learning and development. In Bedok View Secondary School, we are very thankful to have a group of committed parents who are willing to contribute their time and effort to help build a more conducive environment for our students.
+A strong parent-school partnership is essential in developing our students to their full potential and enabling them to fulfil their aspirations. We are heartened that the school has a very dedicated and supportive Parent Support Group who works very closely with the school.
 
-With the ongoing pandemic, we are not able to have any face to face touch points with our PSG members, but this has not stopped them in contributing to the school and helping out in facilitating events virtually or remotely.
+We offer multiple platforms for stakeholders to work together to deliver a quality and holistic education for the students. As we move towards post pandemic, we are thankful to have our parents join us in many of our events. We would like to acknowledge and show appreciation for the strong support of our PSG. We are indeed grateful for their contributions to the holistic development of our students.
 
-Our PSG Executive Committee members conducted an online zoom session in January to welcome Secondary 1 parents as members of PSG. They also had online zoom touchpoint with our school leaders to understand new directives and provide their inputs and feedback to the school.
+During F.A.M.E. , the PSG set up a booth to promote a green culture and sustainability. They conducted a workshop to teach students how to plant seedlings.
 
-Our PSG has always been generous in the way they care for our students. For instance, their commitment was strongly felt in our afternoon study programme. Despite the fact that social distancing was limiting their access into the school, our PSG continued to provide individual sets of snacks and drinks for both teachers and students.
+Our PSG has always been generous in the way they care for our students. For instance, their commitment was strongly felt in our Afternoon Study Programme. Our PSG provided snacks, fruits and drinks for both teachers and students.   
 
-**Bread and Snacks for Afternoon Study Programme**
-![Bread and Snacks for Afternoon Study Programme](/images/Bread%20and%20Snacks%20for%20Afternoon%20Study%20Programme.jpg)
+To show their appreciation to our teachers on Teachers’ Day, the PSG lovingly prepared customised cupcakes for every teaching and non-teaching staff.  
 
-**Drinks for Afternoon Study Programme**
-<img src="/images/Drinks%20for%20Afternoon%20Study%20Programme.png" 
-     style="width:75%">
-
-To show appreciation to our teachers, the PSG ordered customised cupcakes for every teaching and non-teaching staff of the school during the Teachers' Day Appreciation week.
-
-**Cupcakes for Teachers’ Day Celebration**
-<img src="/images/Cupcakes%20for%20Teachers’%20Day%20Celebration.jpg" 
-     style="width:75%">
-
-**Graduation Gift for our Secondary 4 and 5 students**
-
-The PSG also ordered souvenirs for our graduating students to celebrate their graduation after 4 or 5 years in the school as well as to wish them all the best for their upcoming National Examination.
-
-
-<img src="/images/Graduation%20Gift%20for%20our%20Secondary%204%20and%205%20students.jpeg" 
-     style="width:75%">
-
-
-<img src="/images/Graduation%20Gift%20for%20our%20Secondary%204%20and%205%20students%202.jpeg" 
-     style="width:75%">
+The PSG generously sponsored chocolates for our graduating students, to celebrate their graduation and to wish them the best for their upcoming national examinations.  
 
 We thank and look forward to the continued support of the PSG in providing a holistic support and partnership for our students.
