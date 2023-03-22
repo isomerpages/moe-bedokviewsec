@@ -52,6 +52,13 @@ Mdm Wong Chiu Yian
 
 The Basketball CCA aims to develop confident and resilient players who strive for continuous improvement and excellence.
 
-We took part in the annual East Zone Basketball Competition and external tournaments like the T-Net tournaments and ActiveSG Basketball Development Leagues. The external competitions provided the players opportunities to hone their skills, strengthen their teamwork and build their confidence.
+We have training sessions twice a week in which coaches, teachers and student leaders work together to train our students in a variety of exercises like ball handling skills and tactical play. The training sessions help students develop and master the correct techniques, build their confidence and their sportsmanship.
 
-In line with our schools values, our students will continue to be resilient and to strive for excellence in coming years.
+We took part in the annual East Zone Basketball Competition and external tournaments like the T-Net tournaments and ActiveSG Basketball Development Leagues. The external competitions provided the players opportunities to hone their skills, strengthen their teamwork and build their confidence.
+
+In line with our school values, our students will continue to be resilient and to strive for excellence in coming years.
+
+<img src="/images/Basketball_01.jpg" style="width:85%"><br>
+<img src="/images/Basketball_02.jpg" style="width:85%"><br>
+<img src="/images/Basketball_03.jpg" style="width:85%"><br>
+<img src="/images/Basketball_04.jpg" style="width:85%">
