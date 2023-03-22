@@ -84,6 +84,12 @@ We strongly advise parents to make their purchases online.  If you are not able
 |   | **Pacific Bookstores Pte Ltd**  |
 | Sec 1 (2023)  | 22, 23 December _(info updated on 20 Dec, 4.30pm)_  <br>29 December (for FAS collections only)  |
 | Operating Hours  | 9.00 am to 12.00 pm <br>and  <br>1.00 pm to 3.00 pm  |
-| Contact for Walk-In Appointment  | Book appointment through link at:<br><br>[http://register.ezy-queue.com](http://register.ezy-queue.com/) OR download mobile app: <br> <img src="/images/qrcode.jpg" style="width:85%"> |
+| <br><br><br><br>Contact for Walk-In Appointment  | Book appointment through link at:<br><br>[http://register.ezy-queue.com](http://register.ezy-queue.com/) OR download mobile app: <br> <img src="/images/qrcode.jpg" style="width:85%"> |
 | Payment Mode for Walk-In Purchase  | **Cash, PayNow**  |
 |   |   |
+
+**5 \. Consent for Dental Services updated 22 Dec**
+
+The digital letter from the Health Promotion Board (HPB) will be sent via Parents’ Gateway in January 2023.  The letter contains details of HPB’s health, immunisation and dental screening services. 
+
+Weblinks will be provided in the letter for parents to access HealthHub for further information on the services.
