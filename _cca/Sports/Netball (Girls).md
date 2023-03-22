@@ -4,7 +4,6 @@ permalink: /cca/sports/netball/
 description: ""
 third_nav_title: Sports
 ---
-
 ### CCA Video
 
 <div class="bp-youtube">
@@ -15,9 +14,9 @@ third_nav_title: Sports
 
 ### Teachers- In- Charge
 
-Mdm Nur Hazwah Binte Mohamed Shah <br>
+Ms Ang Suat Kee Sally <br>
 Mdm Tan Siew Li <br>
-Ms Ang Suat Kee Sally
+Ms Chia Pei Pei
 
 
 ### CCA Schedule
@@ -44,7 +43,7 @@ Ms Ang Suat Kee Sally
   <tr>
     <td class="tg-y7qa">Tuesday &amp; Thursday</td>
     <td class="tg-y7qa">3.30pm - 6.00pm</td>
-    <td class="tg-y7qa">Parade Square</td>
+    <td class="tg-y7qa">ISH Level 2</td>
   </tr>
 </tbody>
 </table>
@@ -53,6 +52,4 @@ Ms Ang Suat Kee Sally
 
 The Netball CCA aims to develop students’ ability in playing netball competitively and confidently. It also hopes to provide various opportunities for students to build leadership skills and a sense of teamwork. With the goal of nurturing a group of resilient and self-motivated individuals, the Netball CCA provides a range of experiential learning activities that help develop students holistically through participation in the National School Games, M1 Schools Challenge, various netball carnivals throughout the year and student-led team-bonding activities.
 
- Under the guidance of our dedicated coach, the Netball team strives to play the sport with commitment and passion!
-
-
+ Under the guidance of our dedicated coach, the Netball team strives to play the sport with commitment and passion!
