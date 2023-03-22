@@ -11,33 +11,17 @@ description: ""
 
 </div>
 
-### Head of Department
-
-Mr Steven Su Jee Yee
-
-### Subject Head/Level Head
-
-Mrs Lena Tiu (Subject Head - CCA)
-
-### Department Members
-
-Mdm Irdawaty Binte Mawardi <br>
-Mr Mohd Azuan Tan <br>
-Mdm Noelle Tan <br>
-Mr Jastinian Tan <br>
-Mr Mohammed Noor Firdaus Bin Sumawi
-
-
 ### Overview
 
 Our holistic PE curriculum enables our students to demonstrate individually and with others the physical skills, practices, and values to enjoy a lifetime of active, healthy living.
 
 The approach that the PE department take to develop an active and healthy Bedok Viewan is to engage and motivate our students with:
-1. Mastery - By developing our students’ psychomotor skills and capabilities with a sense of progress. (Psychomotor domain)
+
+1 \. Mastery - By developing our students’ psychomotor skills and capabilities with a sense of progress. (Psychomotor domain)
  
-3. Autonomy - By giving meaningful feedback, choice over how to do things, and encouragement to help our students make self-directed progress. (Affective domain)
+2 \. Autonomy - By giving meaningful feedback, choice over how to do things, and encouragement to help our students make self-directed progress. (Affective domain)
  
-5. Purpose - By inspiring our students to meet learning outcomes and maintain a healthy lifestyle with sustainable progress and resilience. (Cognitive domain)
+3 \. Purpose - By inspiring our students to meet learning outcomes and maintain a healthy lifestyle with sustainable progress and resilience. (Cognitive domain)
 
 **Physical Education Curriculum in Bedok View**
 
@@ -70,9 +54,24 @@ The department has integrated Sec 4 & 5 Frisbee inter-class game into the level 
 
 We have included a sportsmanship award for each competition to recognise the positive sportsmanship and inclusiveness that are demonstrated by our students. We are very encouraged by the high participation rate for the inter-class games at all levels.
 
-![Inter-Class Games](/images/Inter-Class%20Games.jpg)
+<figure>
+<img src="/images/PE_01.jpg" style="width:90%">
+<figcaption>  Sec 1 Football Inter-Class Game
+ </figcaption>
+</figure>
 
-![Inter-Class Games](/images/Inter-Class%20Games2.jpg)
+<figure>
+<img src="/images/PE_02.jpg" style="width:90%">
+<figcaption>  Sec 2 Football Inter-Class Game
+ </figcaption>
+</figure>
+
+**Bedok View Lighthouse Virtual Run 2021**
+
+Bedok View Secondary School actively encourages our students to adopt a healthy lifestyle and in 2021, we are happy to share that we had our inaugural Bedok View Lighthouse Virtual Run (BVLVR) from 15 July to 9 August 2021. In the midst of the pandemic, this virtual run served as a platform for our Bedok View family to come together ‘virtually’ to engage in healthy and exciting physical activities. The students were able to complete the activities at their own pace within the given time period, and achieved the goal of 5400 km as a school. They can choose to run or walk on their own, or with family and friends while observing safe management measures during pandemic. From daily activity goals to earning that first race medal, the options are endless for how you challenge yourself. The inter-class and staff races provide a great sense of accomplishment along with some bling to prove and commemorate our Nation’s birthday.
+
+<img src="/images/PE_03.png" align=left style="width:85%">
+<br clear=left>
 
 **Bedok View Cross Country**
 
@@ -80,4 +79,3 @@ The PE department has organized the Bedok View Cross Country on 8th August 2019.
 
 ![Bedok View Cross Country](/images/Bedok%20View%20Cross%20Country.jpg)
 
-![Bedok View Cross Country](/images/Bedok%20View%20Cross%20Country2.jpg)
