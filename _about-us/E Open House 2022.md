@@ -167,4 +167,21 @@ Click on the following to learn about what skills and talents your child can dev
 
 <p style="text-align:center;">Explore the BV campus on your own and find out what are learning spaces our students have.</p>
 
-***embed Campus Tour***
+**REQUIRE JACKSON'S INPUT VIDEO**
+
+| ABOUT US  |
+|:-:|
+| [Principal's Welcome Message](/about-us/principals-welcome-message/)  |
+| [History](/about-us/history/)  |
+| [School Mission, Vision and Values](/about-us/school-mission-vision-and-values/)  |
+| [School Motto](/about-us/school-motto/)  |
+| [School Crest, Colours and School Song](/about-us/school-crest-colours-and-school-song/)  |
+| [School Advisory Committee (SAC)](/about-us/school-advisory-committee-sac/)  |
+| [Our People](/about-us/our-people/school-management-committee/)  |
+| [Our Contact](/about-us/our-contact/)  |
+|   |
+|   |
+|   |
+|   |
+|   |
+|   |
