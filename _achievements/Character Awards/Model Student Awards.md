@@ -102,7 +102,7 @@ To recognise students who display exemplary character and can be role models to 
 </tbody>
 </table>
 
-### SEMESTER 2 2021
+### SEMESTER 1 2022
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -116,81 +116,84 @@ To recognise students who display exemplary character and can be role models to 
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-djlw">CHANNET CHEONG HAAM KAI</th>
+    <th class="tg-djlw">**PER ZIRUI**</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-n4qt">DHISHITA JEGADEESAN</td>
+    <td class="tg-n4qt">JOSHUA TEO KAI DE</td>
   </tr>
   <tr>
-    <td class="tg-n4qt">AIDEN CHAN KAI ZHONG</td>
+    <td class="tg-n4qt">EI MYAT MON@ WU YING RONG</td>
   </tr>
   <tr>
-    <td class="tg-n4qt">SERAPHINA</td>
+    <td class="tg-n4qt">AVINASH KRISHPATHY</td>
   </tr>
   <tr>
-    <td class="tg-n4qt">KAM XIAO TING</td>
+    <td class="tg-n4qt">CHUNG WAI YAN, NATHANIEL (ZHONG HUAI'EN)</td>
   </tr>
   <tr>
-    <td class="tg-n4qt">CAINDAY ZHENLEE SANTIAGO</td>
+    <td class="tg-n4qt">ABDUL LATIF BIN MOHAMAD SHAHRIL</td>
   </tr>
   <tr>
-    <td class="tg-n4qt">DENISE SIAH</td>
+    <td class="tg-n4qt">NURUL FARISHA BINTE ROHAIZAD</td>
   </tr>
   <tr>
-    <td class="tg-n4qt">JAMIE TAN LE QING</td>
+    <td class="tg-n4qt">LIM CHEE CHIAN (LIN ZHIQIAN)</td>
   </tr>
   <tr>
-    <td class="tg-n4qt">ASHLEY LAW YIXUAN</td>
+    <td class="tg-n4qt">TAN JIN YI (CHEN JINYI)</td>
   </tr>
   <tr>
-    <td class="tg-n4qt">LAW HAO FAN</td>
+    <td class="tg-n4qt">CAI HONG RONG</td>
   </tr>
   <tr>
-    <td class="tg-n4qt">MULIADINATA ETHAN</td>
+    <td class="tg-n4qt">MEGAN CHIA (XIE KAIXIN)</td>
   </tr>
   <tr>
-    <td class="tg-n4qt">HALIMAH AS-SA'DIAH BINTE MOHAMED YAZID</td>
+    <td class="tg-n4qt">BENJAMIN JOSEPH ORTEGA</td>
   </tr>
   <tr>
-    <td class="tg-n4qt">LIAN YI XUAN, CHELSIA</td>
+    <td class="tg-n4qt">SUFIAH SOLEHAH BINTE SUFIAN</td>
   </tr>
   <tr>
-    <td class="tg-n4qt">LEAM MIN NELLIS</td>
+    <td class="tg-n4qt">SENTHILKUMAR MAHIMA</td>
   </tr>
   <tr>
-    <td class="tg-n4qt">KAN NICOLE</td>
+    <td class="tg-n4qt">YEW YU FENG RYAN</td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">MUHAMMAD NUR FAQIF BIN ZAMBRI</td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">AIYLA MISHEL ZAVIE BINTE MOHD ZAMREE</td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">TANISHQ VIKAS CHANDIRAMANI</td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">NUR SYAZA AQILAH BINTE MOHAMAD TAUFIK</td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">LIM RUI YAN, SAMANTHA</td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">YEO XIN EE ARAKI</td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">GOH YI CHEN</td>
   </tr>
   <tr>
     <td class="tg-n4qt">YUN PEI QI</td>
   </tr>
   <tr>
-    <td class="tg-n4qt">DILLON NG</td>
+    <td class="tg-n4qt">PRATHIPKUMARAN SEENIVASAN</td>
   </tr>
   <tr>
-    <td class="tg-n4qt">MUHAMMAD HAZIQ AIMAN BIN JA'AFAR</td>
+    <td class="tg-n4qt">JASMITHA ABDUL AZIZ</td>
   </tr>
-  <tr>
-    <td class="tg-n4qt">ENZO</td>
-  </tr>
-  <tr>
-    <td class="tg-n4qt">NG JUN SIONG, JAYDEN</td>
-  </tr>
-  <tr>
-    <td class="tg-n4qt">ZAKIR HUSSAIN RUMAANA FAMIN</td>
-  </tr>
-  <tr>
-    <td class="tg-n4qt">JORDAN HANDOYO</td>
-  </tr>
-  <tr>
-    <td class="tg-n4qt">PATRICK RAHAYU PASONA</td>
-  </tr>
-  <tr>
-    <td class="tg-n4qt">TAN KAI JUN, ERNEST</td>
-  </tr>
-  <tr>
-    <td class="tg-n4qt">KESHAV SAKU</td>
+	  <tr>
+    <td class="tg-n4qt">CHAU JUN XIAN</td>
   </tr>
 </tbody>
 </table>
