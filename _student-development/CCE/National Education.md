@@ -4,7 +4,9 @@ permalink: /student-development/character-and-citizenship-education-cce/national
 description: ""
 third_nav_title: CCE
 ---
-National Education (NE) is important for nurturing a future generation of citizens who love Singapore and have a strong sense of belonging to Singapore. With globalisation bringing about an unprecedented and accelerated rate of change and a myriad of economic and social challenges, it becomes even more important for NE to succeed in its objectives of developing national cohesion, the instinct for survival and confidence in the future.
+National Education (NE) aims to provide our students with the knowledge, skills, and values to understand Singapore’s history and unique geo-political context, appreciate our journey to nationhood, cultivate the instincts for survival as a nation, and have confidence in our nation’s future.  
+
+Considering the current local and global context, it is recognised that NE has to be empowering and aspirational, allowing for individual sense-making so as to nurture active and engaged citizens, who are socially aware, skilled in critical thinking, and informed about local, regional and global issues.
 
 The following key dispositions for citizenship in Singapore shape our purpose and approach to NE:
 
@@ -24,16 +26,13 @@ The Red Dot Ambassadors (RDAs) represent an interest group of students who play 
 
 **Key Roles of Red Dot Ambassadors (RDAs)**
 
-To promote National Education in school through the 4 core events & other enrichment programmes
-To support the school in the 4 core events & other enrichment programmes
-To lead their peers in keeping the school clean
-To lead their peers in upholding the school values in their daily behaviour
+*   To promote National Education in school through the 4 core events & other enrichment programmes
+*   To support the school in the 4 core events & other enrichment programmes
+*   To support the integration of the International Students.
 
 **Training Opportunities**
 
-RDAs are also offered unique training opportunities by external vendors to build up their confidence and leadership capabilities. One of the programmes offered is the Community Laboratory Programme, a collaboration with Southeast CDC.
-
-To engage students in an experiential manner, NE learning journeys to various venues such as museums are also conducted. In this way, we provide opportunities for Bedok Viewans to explore and examine their identity as Singaporeans and arrive at a common set of ideals and values.
+To engage students in an experiential manner, NE learning journeys to various venues such as museums are conducted. In this way, we provide opportunities for Bedok Viewans to explore and examine their identity as Singaporeans and arrive at a common set of ideals and values.
 
 
 <img src="/images/Bedok%20Viewans%20on%20a%20NE%20Learning%20Journey%20to%20the%20Singapore%20National%20Museum.png" 
