@@ -11,37 +11,6 @@ description: ""
 
 </div>
 
-### Head of Department
-
-Mr Desmond Phoa
-
-### Department Members
-
-**Chinese Language Department** <br>
-
-Mdm Wong Chiu Yian <br>
-Mdm Ji Yu  <br>
-Mr Tan Teck Yong  <br>
-Mdm Tan Sei Hui <br>
-Mdm Yu Baixin <br>
-Mr Choo Teck Huak
-
-**Malay Language Department** <br>
-
-Mr Nazarudin Abdul Bakar (Senior Teacher)  <br>
-Mr Hamzah Muhit  <br>
-Mr Syaiful Bahri Abdul Latif  <br>
-Mdm Nazatul Fadzlin Fadil <br>
-Mdm Umi Kalthom Bte Shokor <br>
- 
-**Tamil Language Department** <br>
-
-Mdm Durairaj Umamaheswari (Senior Teacher)  <br>
-Mr Sivabalan Kaliaperumal <br>
-Mr Palanivelu Balakrishnan <br>
-Mrs Peter Chelliah (Mdm Suppiah Katai Ammal)
-
-
 ### Our Mission
 
 In Bedok View (BV), there is a strong emphasis to equip students with the skills and knowledge in Mother Tongue Languages (MTL). We aspire to help our students acquire the proficiency and ability to use MTL confidently and learn to appreciate the diverse culture, traditions and history of their roots. With these, they will be able to thrive in the rapidly changing global society.
@@ -77,7 +46,6 @@ Through these activities and programmes, we hope to provide a holistic MTL learn
 * Hari Raya Celebration <br>
 * Deepavali Celebration <br>
 * Mother Tongue Languages Fortnight <br>
-* Conversational Chinese Malay Programme <br>
 * Overseas Learning Journey <br>
 * CPES (CL) <br>
 * CPEF (ML) <br>
