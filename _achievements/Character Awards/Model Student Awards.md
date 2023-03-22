@@ -6,7 +6,7 @@ third_nav_title: Character Awards
 ---
 To recognise students who display exemplary character and can be role models to inspire others, the Model Student Award is given to deserving students every semester. 
 
-### SEMESTER 1 2021
+### SEMESTER 2 2022
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
