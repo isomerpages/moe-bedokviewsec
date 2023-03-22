@@ -183,6 +183,69 @@ The 2RISE & Shine Award serves as a recognition platform to acknowledge Bedok Vi
 </tbody>
 </table>
 
+### July 2022 Winners
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-djlw{background-color:#EAEAEA;border-color:inherit;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-djlw">TSANG YONG TING</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-n4qt">LIU ZHITING</td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">HOSHEA HAYDN NEO KAI LE</td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">TAN JUN KAI, ISAAC</td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">TENG QING YI, DANIEL</td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">RAPHAEL TAN JUN YANG</td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">LIN YIN TING</td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">FOO SAY LIANG DAREN</td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">SOH WEN HUI</td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">JAEDEN NG YU SIANG</td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">DARIUS S TAN WEE LOON</td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">NUR SAKINAH BINTE NASIR</td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">QAYS ZARA MUHAMMAD FARIQ</td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">AESHA AI JIA PATE</td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt">NG QIAN CI</td>
+  </tr>
+</tbody>
+</table>
+
 ### April 2022 Winners
 
 <style type="text/css">
