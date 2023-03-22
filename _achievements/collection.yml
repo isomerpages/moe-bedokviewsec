@@ -2,7 +2,6 @@ collections:
   achievements:
     output: true
     order:
-      - Achievements.md
       - Academic.md
       - Co Curricular Activities (CCA).md
       - Character Awards/.keep
