@@ -40,3 +40,10 @@ For application of MOE FAS for your child/ward, you can visit MOE’s website:
 
 <img src="/images/MOE_FAS.png" style="width:25%">
 
+You can submit the application form and the supporting documents to us via email at [bedokview\_ss@moe.edu.sg](mailto:bedokview_ss@moe.edu.sg) or directly at our school’s General Office by **Tuesday, 27 December 2022**. 
+
+If your child’s/ward’s primary school has already approved the MOE FAS application for the year 2023, kindly forward a copy of the approval letter to us.
+
+**3 \.**     **Secondary 1 Booklists**
+
+The Secondary 1 Booklist for the different streams are attached in the table below.
