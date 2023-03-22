@@ -14,10 +14,9 @@ third_nav_title: Sports
 
 ### Teachers-In-Charge
 
-Ms Siti Farah Izzah <br>
-Mr Hamzah Bin Muhit <br>
+Ms Nur Hazwah Binte Mohamed Shah <br>
 Ms Lazaroo Odilia Emily <br>
-Mr Shamsulbahri Bin Othman
+Mr Sivabalan Kaliaperumal
 
 
 ### CCA Schedule
@@ -41,7 +40,7 @@ Mr Shamsulbahri Bin Othman
 </thead>
 <tbody>
   <tr>
-    <td class="tg-y7qa">Monday<br>&amp; Friday</td>
+    <td class="tg-y7qa">Tuesday<br>Friday</td>
     <td class="tg-y7qa">3.30pm - 6.00pm<br>2.30pm - 5.00pm</td>
     <td class="tg-y7qa">School Field</td>
   </tr>
@@ -52,4 +51,8 @@ Mr Shamsulbahri Bin Othman
 
 Football is more than just a sport. It requires a strong character that portrays perseverance, determination, discipline, resilience and teamwork. Football is a team sport that builds body and mental strength, agility and coordination.
 
-In Bedok View, the Football CCA training programs pivot on guiding learning intentions and success criteria and aim to instil responsibility, confidence and discipline in our students. The players build up their skills and strength through trainings and gain experiences from tournaments. The football training sessions include conditioning and strength training, goalkeeper session and other activities and aim to develop the passion for football in our players with the guidance and expertise of dedicated and experienced coach and teachers. We not only focus on developing and honing the technical skills of our players, but also developing them into responsible self-leaders and an active contributors to the society.
+In Bedok View, the Football CCA training program pivots on guiding learning intentions and success criteria and aims to instill responsibility, confidence and discipline in our students. Beyond honing the players' technical football skills, the Football CCA seeks to provide a space for young men from all walks of life to bond and build lifelong friendships over a shared passion for the game. 
+
+The players develop these values and build up their skills and strength through training and valuable experiences gained from tournaments like the National School Games, supported by dedicated coaches, teachers and team leaders. All senior footballers play an active role in guiding the juniors during football training sessions and model the way for their juniors during conditioning and strength training exercises, goalkeeper sessions and other team building activities.
+
+This year, we are proud that our C Div boys made it to the Quarter finalist in the National School Games 2022.
