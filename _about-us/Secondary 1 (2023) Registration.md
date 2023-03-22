@@ -52,3 +52,24 @@ The Secondary 1 Booklist for the different streams are attached in the table bel
 |:-:|---|---|
 | [Sec 1 Express Book List](/files/Sec%201%20Express%20Booklist.pdf)  | [Sec 1 Normal Academic Book List](/files/Sec%201%20NA%20Booklist.pdf)  | [Sec 1 Normal Technical  Book List](/files/Sec%201%20NT%20Booklist.pdf)  |
 |   |   |   |
+
+**4 \.**     **Sale of Textbooks and School Uniform/PE Attire**
+
+**A. Online Purchase (Preferred Mode)**
+
+|   |   |
+|:-:|---|
+|   | **Pacific Bookstores Pte Ltd**  |
+| <br><br><br><br><br><br>Website  | [https://www.pacificbookstores.com](https://www.pacificbookstores.com/)<br> <img src="/images/Pacific_Bookstore.png" style="width:25%"><br>All users are required to create an account before proceeding with the order.<br><br>Online buying guide [https://www.pacificbookstores.com/faq](https://www.pacificbookstores.com/faq)  |
+| Launch Date  | 16 December 2022  |
+| Last Day for Online Purchase  | 27 December 2022  |
+| Customer Service Contact  | Hotline: 6929 8012 / 6559 2269 (9.00 am to 5.00 pm, Monday to Friday)<br><br>Email: [sales@pacificbookstores.com](mailto:sales@pacificbookstores.com)  |
+| Payment Mode for Online Purchase  | Credit/Debit Card (MasterCard/Visa)<br><br>PayNow<br><br>**NTUC Care Fund (E-Voucher) & CDAC (E-Voucher)**  |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
