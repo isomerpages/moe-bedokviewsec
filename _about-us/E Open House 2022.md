@@ -121,6 +121,10 @@ Click on the following to learn about each of the reasons!
 </a></p>
 <br clear=left>
 
+<p><a href="https://www.youtube.com/watch?v=KiU17YtgOrc">
+<img style="width:30%" src="/images/Video logos 9.png">
+</a></p>
+
 
 <h4 style="color:orange" align="center">Our Curriculum</h4>
 
