@@ -84,14 +84,6 @@ We strongly advise parents to make their purchases online.  If you are not able
 |   | **Pacific Bookstores Pte Ltd**  |
 | Sec 1 (2023)  | 22, 23 December _(info updated on 20 Dec, 4.30pm)_  <br>29 December (for FAS collections only)  |
 | Operating Hours  | 9.00 am to 12.00 pm <br>and  <br>1.00 pm to 3.00 pm  |
-| Contact for Walk-In Appointment  | Book appointment through link at:<br><br>[http://register.ezy-queue.com](http://register.ezy-queue.com/) OR download mobile app:  |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
+| Contact for Walk-In Appointment  | Book appointment through link at:<br><br>[http://register.ezy-queue.com](http://register.ezy-queue.com/) OR download mobile app: <br> <img src="/images/qrcode.jpg" style="width:85%"> |
+| Payment Mode for Walk-In Purchase  | **Cash, PayNow**  |
 |   |   |
