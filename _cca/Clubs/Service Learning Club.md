@@ -6,17 +6,13 @@ third_nav_title: Clubs
 ---
 ### CCA Video
 
-<div class="bp-youtube">
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7bKWeHKzgmU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-</div>
+<iframe width="719" height="410" src="https://www.youtube.com/embed/7bKWeHKzgmU" title="C1.SLC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Teachers- In- Charge
 
-Ms Constance Cheong Hwee Shann <br>
-Ms Marliyana Md Noor <br>
-Mdm Nurul Huda Binte Farid
+Mr Yee Boon Wei <br>
+Ms Marliyana Md Noor <br>
+Ms Nur Iznina
 
 
 ### CCA Schedule
@@ -41,8 +37,8 @@ Mdm Nurul Huda Binte Farid
 <tbody>
   <tr>
     <td class="tg-y7qa">Tuesday &amp; Thursday</td>
-    <td class="tg-y7qa">3.30pm - 6.00pm</td>
-    <td class="tg-y7qa">Classrooms<br>E2-06 &amp; 07</td>
+    <td class="tg-y7qa">3.45pm - 5.45pm</td>
+    <td class="tg-y7qa">Classrooms: E4-09</td>
   </tr>
 </tbody>
 </table>
@@ -68,19 +64,20 @@ To Aspire, serve and Achieve
 
 ### CCA Overview
 
-Bedok View Service Learning Club provides students with platforms and opportunities to carry out community initiatives. Through these programmes, we seek to develop the students’ leadership abilities, strengthen their communication skills and instil values in them. Students broaden their perspectives and learn the importance of social cohesion through working on community projects and with different community partners.
+Bedok View Service Learning Club provides students with platforms and opportunities to carry out community initiatives. Through these programmes, we seek to develop the students’ leadership abilities, strengthen their communication skills and instil values in them. Students broaden their perspectives and learn the importance of social cohesion through working on various projects and with different community partners.
 
-Through the years, our students learnt to befriend the elderly in our neighbourhood and plan engaging activities for them. They had the chance to take on the role of a teacher when they created science lesson packages and taught the Primary 5 and 6 students from APSN Katong School on topics such as recycling and plant life cycles.
+This year, the SLC collaborated with the National Parks Board (NParks) to conduct meaningful lessons to pre-schoolers from My First Skool at the Kindergarten and Nursery levels. The lessons that the members conducted for the pre-schoolers were based on the theme of "City in Nature" and at the same time, educating pre-schoolers on how to respond when they encounter wildlife such as pigeons, macaques and pythons in their neighbourhoods. 
 
-In 2021, we continued to work closely with the Southeast CDC and THK Bedok Radiance Senior Citizen Centre. Our students remain enthusiastic and innovative in designing and planning their projects virtually to create videos and digital posters for the Dengue Project. They also designed a simple online game and created a Dengue Activity and Reflection Logbook for the senior citizens in Bedok. In school, our students broadcasted environmental news through the school’s weekly NewsBites and advocated recycling and upcycling of single-use plastics. The pandemic was a challenge for SLC, but it was a fulfilling and enriching experience for us.
+There are plans for SLC members to learn more about sustainability and adopting green practices. Involvement in the Green Plan as well as the 3M Green Challenge @ South East are some of the examples that members of the SLC have taken part in.
 
 
 ### Activities & Events
 
-* Satellite Partnership with APSN Katong School
-* Collaboration with NParks in the Youth Stewards for Nature Programme
-* Singapore Kindness Movement
-* Friend-A-Senior Programme
-* BV Friendship Day
-* BV Earth Day
-
+*   Sustainability Living  
+    
+*   Participation in the One Million Trees movement
+*   Collaboration on ‘City in Nature’ with NParks
+*   ‘Playing Farmer’ Boot Camp
+*   Beach Cleaning
+*   BV Friendship Day
+*   BV Earth Day
