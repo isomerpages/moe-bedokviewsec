@@ -3,6 +3,7 @@ title: E Open House 2022
 permalink: /about-us/e-open-house-2021/
 description: ""
 ---
+<img src="/images/Bedok View Secondary School Open House Banner.jpg" style="width:85%">
 
 ![Welcome to Bedok View](/images/Why%20you%20should%20join%20BV%20Instagram%20Post.png)
 
