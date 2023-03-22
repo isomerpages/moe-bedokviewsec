@@ -42,5 +42,4 @@ Click on the following to learn about what skills and talents your child can dev
 [Infocomm Club](/cca/clubs/infocomm-club) <br>
 [Service Learning Club](/cca/clubs/service-learning-club)
 
-
-### [CCA Appeal Timeline](/files/2022%20CCA%20Appeal%20Timeline.pdf)
+[Secondary 1 CCA Briefing Slides](/files/Secondary%201%20CCA%20Briefing%20Slides%202023.pdf)
