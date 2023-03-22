@@ -20,3 +20,12 @@ description: ""
 
 **GCE N-Level Examinations 2022 Results Release**<br>
 [GCE N-Level Examinations Results Release Briefing Slides](/files/Briefing%20on%202022%20GCE%20Release%20of%20N-Level%20Results.pdf)
+
+**2023 Booklist**<br>
+[Sec 1 (Express)](/files/Sec%201%20Express%20Booklist.pdf)<br>
+[Sec 1 (Normal Academic)](/files/Sec%201%20NA%20Booklist.pdf)<br>
+[Sec 1 (Normal Technical)](/files/Sec%201%20NT%20Booklist.pdf)<br>
+[Sec 2 (Express)](/files/S2%20EXP%20BOOKLIST%202023.pdf)<br>
+[Sec 2 (Normal Academic)](/files/S2%20NA%20BOOKLIST%202023.pdf)<br>
+[Sec 3 (Express)](/files/S3%20EXP%20BOOKLIST%202023.pdf)<br>
+[Sec 3 (Normal Academic)](/files/S3%20NA%20BOOKLIST%202023.pdf)<br>
