@@ -88,20 +88,16 @@ description: ""
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">ICT Manager  </span></td>
   </tr>
   <tr>
-    <td class="tg-ku5w" colspan="2"><span style="color:#222;background-color:#EAEAEA"> </span><br><span style="color:#222;background-color:#EAEAEA">Mdm Chua Ah Whatt</span><br><br></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Corporate Support Officer </span></td>
+    <td class="tg-ku5w" colspan="2"><span style="color:#222;background-color:#EAEAEA"> </span><br><span style="color:#222;background-color:#EAEAEA">Ms Nor Meyelera Bte Mohd Ismail</span><br><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Corporate Support Officer</span></td>
   </tr>
   <tr>
     <td class="tg-ii8k" colspan="2"><span style="color:#222;background-color:#EAEAEA">Ms Pauline Chua Ee Wee </span><br><br></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Corporate Support Officer  </span></td>
   </tr>
   <tr>
-    <td class="tg-ku5w" colspan="2"><span style="color:#222;background-color:#EAEAEA">Ms Nor Meyelera Bte Mohd Ismail</span></td>
+    <td class="tg-ku5w" colspan="2"><span style="color:#222;background-color:#EAEAEA">Mdm Rosita Bte Salleh</span></td>
     <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA"> Corporate Support Officer </span><br><br></td>
-  </tr>
-  <tr>
-    <td class="tg-ii8k" colspan="2"><span style="color:#222;background-color:#EAEAEA">Mdm Yam Siew Heng, Linda</span><br><br></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Corporate Support Officer  </span></td>
   </tr>
   <tr>
     <td class="tg-ii8k" colspan="2"><span style="color:#222;background-color:#EAEAEA">Mdm Amba Alagi d/o Chindamani</span><br><br></td>
