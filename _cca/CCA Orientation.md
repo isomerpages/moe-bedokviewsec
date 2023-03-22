@@ -43,3 +43,20 @@ Click on the following to learn about what skills and talents your child can dev
 [Service Learning Club](/cca/clubs/service-learning-club)
 
 [Secondary 1 CCA Briefing Slides](/files/Secondary%201%20CCA%20Briefing%20Slides%202023.pdf)
+
+|   |
+|:-:|
+| **CCA**  |
+|   |
+|   |
+|   |
+|   |
+|   |
+|   |
+|   |
+|   |
+|   |
+|   |
+|   |
+|   |
+|   |
