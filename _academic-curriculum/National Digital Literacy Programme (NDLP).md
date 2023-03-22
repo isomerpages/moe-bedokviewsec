@@ -45,19 +45,19 @@ https://www.moe.gov.sg/programmes/cyber-wellness/ **(link not working!)**<br>
 
 |   |   |
 |:-:|---|
-| **Model**  |   |
-| **Price of Enhanced Bundle  <br>With GST\***  |   |
-| **Processor**  |   |
-|  **RAM** |   |
-| **Storage**  |   |
-| **Display**  |   |
-| **Weight**  |   |
-| **Screen Panel**  |   |
-| **Graphics Coprocessor**  |   |
-| **Ports**  |   |
-| **Connectivity**  |   |
-| **Camera**  |   |
-| **What’s included in the <br>enhanced bundle**  |   |
+| **Model**  | Apple iPad 10.2" 9th Gen  |
+| **Price of Enhanced Bundle  <br>With GST\***  | $857.50<br><br>( 3 year carry in Warranty, Sealed Battery Warranty and Comprehensive Accidental Damage Protection(Insurance))  |
+| **Processor**  | A13 Bionic  |
+|  **RAM** | 3GB RAM  |
+| **Storage**  |64GB ROM   |
+| **Display**  | 10.2"  |
+| **Weight**  | 0.487kg (excluding Logitech keyboard and pencil)  |
+| **Screen Panel**  | 1620 x 2160  |
+| **Graphics Coprocessor**  | Apple GPU (4-core graphics)  |
+| **Ports**  | Lightning; magnetic connector  |
+| **Connectivity**  | Wi-Fi 802.11 a/b/g/n/ac, dual-band (2.4Ghz and 5Ghz) |
+| **Camera**  | Camera 8 MP (Back) and 12MP (front)  |
+| **What’s included in the <br>enhanced bundle**  | Power adapter and charging cable,  Apple Pencil (1st Gen) with USB-C adapter, Logitech Ruggedized Combo 3  |
 |   |   |
 
 ### DMA Options ( Using Mobile Guardian)
