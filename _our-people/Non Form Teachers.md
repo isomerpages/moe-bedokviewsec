@@ -25,14 +25,14 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ii8k" colspan="2"><span style="color:#222;background-color:#EAEAEA">Mrs Pang Hing Kuen, Alice</span><br><br></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Teacher</span><br><span style="color:#222;background-color:#EAEAEA">(Math)</span></td>
-    <td class="tg-41i5"><a href="mailto:pang_hing_kuen_alice@schools.gov.sg"><span style="text-decoration:none;color:#F2A00F">pang_hing_kuen_alice@schools.gov.sg</span></a><br></td>
+    <td class="tg-ii8k" colspan="2"><span style="color:#222;background-color:#EAEAEA">Mdm Teo Yan Geok (Mrs Hua)</span><br><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Teacher</span><br><span style="color:#222;background-color:#EAEAEA">(Geography)</span></td>
+    <td class="tg-41i5"><a href="mailto:teo_yan_geok_georgina@schools.gov.sg"><span style="text-decoration:none;color:#F2A00F">teo_yan_geok_georgina@schools.gov.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-ku5w" colspan="2"><span style="color:#222;background-color:#EAEAEA"> </span><br><span style="color:#222;background-color:#EAEAEA">Mdm Teo Yan Geok (Mrs Hua)</span><br><br></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Teacher</span><br><span style="color:#222;background-color:#EAEAEA">(Geography)</span></td>
-    <td class="tg-41i5"><a href="mailto:teo_yan_geok_georgina@schools.gov.sg"><span style="text-decoration:none;color:#F2A00F">teo_yan_geok_georgina@schools.gov.sg</span></a></td>
+    <td class="tg-ku5w" colspan="2"><span style="color:#222;background-color:#EAEAEA"> </span><br><span style="color:#222;background-color:#EAEAEA">Mr Choo Tek Huak</span><br><br></td>
+    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">FAJT</span><br><span style="color:#222;background-color:#EAEAEA">(Chinese Language)</span></td>
+    <td class="tg-41i5"><a href="mailto:choo_tek_huak@schools.gov.sg"><span style="text-decoration:none;color:#F2A00F">choo_tek_huak@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-ku5w" colspan="2"><span style="color:#222;background-color:#EAEAEA"> </span><br><span style="color:#222;background-color:#EAEAEA">Mr Sivabalan Kaliaperumal</span><br><br></td>
