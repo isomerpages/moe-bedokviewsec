@@ -14,9 +14,9 @@ third_nav_title: Clubs
 
 ### Teachers- In- Charge
 
-Mr Foo Fook Seng <br>
+Ms Mardiyana Bte Roslie <br>
 Mr David Keng <br>
-Ms Mardiyana Bte Roslie
+Mr Foo Fook Seng
 
 
 ### CCA Schedule
@@ -43,21 +43,21 @@ Ms Mardiyana Bte Roslie
   <tr>
     <td class="tg-y7qa">Tuesday &amp; Thursday</td>
     <td class="tg-y7qa">4.00pm - 6.00pm</td>
-    <td class="tg-y7qa">Computer Labs 1 &amp; 2</td>
+    <td class="tg-y7qa">Computer Lab 1 : E2-09</td>
   </tr>
 </tbody>
 </table>
 
 ### Vision
 
-To provide our school a vibrant learning experience while serving the school through ICT. <br>
+To provide our school a vibrant learning experience while serving the school through different media platforms. <br>
 To serve our school with pride while developing our club members to achieve their fullest capabilities.
 
 ### Mission
 
-To become an important and contributing part of Bedok View Secondary in the areas of ICT. <br>
-Bring pride & honour to our school through the participation of competitions and providing support in all school events. <br>
-Maintain integrity and high standards in the areas of events, competitions and training.
+To become an important and contributing part of Bedok View Secondary through the areas of various media platforms.  
+Bring pride & honour to our school through the participation of competitions and providing support in all school events.  
+Maintain integrity and high standards in their involvement in competitions and conduct of events.
 
 
 ### CCA Overview
@@ -67,25 +67,22 @@ Bedok View Infocomm Club engages its infocommers through photography and videogr
 
 ### Scope of Activities
 
-* Stop motion Animation 
-* Videography
-* Photography
-* Photoshop
-* Premiere Pro
-* Supporting school in PA Support
-
+*   Videography including drone
+*   Photography
+*   Editing using Adobe Creative Suite
+*   PA Support for all school events and activities
 
 ### Competitions & Events
 
-* Our School Our Stories Photo Competition
-* S.Y.P.A (Singapore Young Photographers Awards) 
-* S.D.M.A (Schools Digital Media Awards) 
-* Safety Starts With Me Video Competition
-* K.W.N (Kids Witness News) 
-* 180 Short Film (Singapore Media Academy) 
-* N.E Mation (Nanyang Polytechnic) 
-* SGCC (Singapore Games Creation Competition) 
-* Project Shoout (Touch Services) 
-* StrlTwise Integrated IT Camp (Ngee Ann Poly)  
-* Learning Journeys (Kent Ridge Park, Hort Park, Marina Bay; Day and Night Photography) 
-* Infocomm Camp (2day 1 night Camp; Bonding, Mentoring and IT skills revision)
+*   Our School Our Stories Competition
+*   S.Y.P.A (Singapore Young Photographers Awards) 
+*   S.D.M.A (Schools Digital Media Awards) 
+*   Safety Starts With Me Video Competition
+*   K.W.N (Kids Witness News) 
+*   180 Short Film (Singapore Media Academy) 
+*   N.E Mation (Nanyang Polytechnic) 
+*   SGCC (Singapore Games Creation Competition) 
+*   Project Shoout (Touch Services) 
+*   StrlTwise Integrated IT Camp (Ngee Ann Poly)  
+*   Learning Journeys (Kent Ridge Park, Hort Park, Marina Bay; Day and Night Photography) 
+*   Infocomm Camp (2day 1 night Camp; Bonding, Mentoring and IT skills revision)
