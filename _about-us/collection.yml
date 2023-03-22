@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Secondary 1 (2023) Registration.md
       - Principal's Welcome Message.md
       - History.md
       - School Mission, Vision and Values.md
@@ -13,5 +12,6 @@ collections:
       - Our Contact.md
       - Direct School Admission (DSA).md
       - E Prospectus.md
+      - Secondary 1 (2023) Registration.md
       - School Events.md
       - E Open House 2021.md
