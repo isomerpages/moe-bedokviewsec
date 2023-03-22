@@ -6,7 +6,7 @@ third_nav_title: CCE
 ---
 Through Cyber Wellness education, students learn to be **respectful**, **safe** and **responsible** users of technology. They also learn to be a **positive peer influence**, advocating for the good of the community online. These are our **Cyber Wellness Student Ambassadors**.  
 
-Students will understand three important key messages: 
+Students will understand three important key messages: <br>
 (a) Embrace the affordances of technology while maintaining a **balanced lifestyle** between offline and online activities <br>
 (b) Be a safe and responsible user of technology and maintain a **positive online presence** <br>
 (c) Be **responsible for personal well-being** in the cyber-space.
