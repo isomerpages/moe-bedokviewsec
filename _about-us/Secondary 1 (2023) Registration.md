@@ -65,11 +65,8 @@ The Secondary 1 Booklist for the different streams are attached in the table bel
 | Last Day for Online Purchase  | 27 December 2022  |
 | Customer Service Contact  | Hotline: 6929 8012 / 6559 2269 (9.00 am to 5.00 pm, Monday to Friday)<br><br>Email: [sales@pacificbookstores.com](mailto:sales@pacificbookstores.com)  |
 | Payment Mode for Online Purchase  | Credit/Debit Card (MasterCard/Visa)<br><br>PayNow<br><br>**NTUC Care Fund (E-Voucher) & CDAC (E-Voucher)**  |
+| Home Delivery Charge  | $13.80  |
+| Collection in school  | Please refer to the dates/time indicated on the bookstore’s website.  |
+| **Please note:**  | **Textbooks for Normal Technical stream can be purchased when school re-opens as stocks are currently not available.**  |
 |   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
+
