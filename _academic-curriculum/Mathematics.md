@@ -11,36 +11,6 @@ description: ""
 
 </div>
 
-### Head of Department
-
-Mdm Khoo Ghee Suan, Christina (Mrs Lee)
-
-### Subject Head/Level Head
-
-Ms Safura Bte Abdul Karim
-
-### Department Members
-
-Mrs Alice Pang <br>
-Ms Ang Suat Kee Sally <br>
-Ms Cherie Chow <br>
-Mrs Clarice Zhang <br>
-Ms Grace Felicity Wong <br>
-Mr Ho Ren An <br>
-Mr Jastinian Tan <br>
-Mr Jeremy Yong De Jun <br>
-Ms Juliet Heng Li Gek <br>
-Mdm Noelle Tan <br>
-Ms Seetoh Peijia <br>
-Mrs Serene Kuek <br>
-Ms Sherine Wong  <br>
-Mdm Tan Siew Li <br>
-Mr Tay Soon Heng
-
-
-**Principle of Accounts** <br>
-Mr Abdul Adib Bin Mohd Omar
-
 ### Overview
 
 * The Mathematics Department aims to create a vibrant and engaging environment where Math can be explored, enjoyed and made meaningful in relation to the Real-World as well as in other subjects.
