@@ -75,15 +75,15 @@ Click on the following to learn about each of the reasons!
 <br clear=left>
 
 <p><a href="https://www.ezhishi.net/CKPSebook2022/">
-<img style="width:25%" align=left src="/images/mothertongue.jpg">
+<img style="width:30%" align=left src="/images/Navigation logos 4.png">
 </a></p>
 
 <p><a href="https://www.ezhishi.net/CKPSebook2022/">
-<img style="width:25%" align=left src="/images/mothertongue.jpg">
+<img style="width:30%" align=left src="/images/Navigation logos 5.png">
 </a></p>
 
 <p><a href="https://www.ezhishi.net/CKPSebook2022/">
-<img style="width:25%" align=left src="/images/mothertongue.jpg">
+<img style="width:30%" align=left src="/images/Navigation logos 6.png">
 </a></p>
 <br clear=left>
 
