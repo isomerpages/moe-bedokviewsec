@@ -14,9 +14,9 @@ third_nav_title: Uniformed Groups
 
 ### Teachers- In- Charge
 
-Ms Mabel Zhang Lingjia <br>
+Ms Zhang Lingjia, Mabel <br>
 Miss Anuthama <br>
-Miss Cherie Chow Min Er
+Miss Ng Han Yi
 
 
 ### CCA Schedule
@@ -41,10 +41,16 @@ Miss Cherie Chow Min Er
 </thead>
 <tbody>
   <tr>
+    <td class="tg-y7qa">Tuesday<br>(For FSD Team)</td>
+    <td class="tg-y7qa">4.00pm - 6.00pm</td>
+    <td class="tg-y7qa">Mini Parade Square</td>
+  </tr>
+	  <tr>
     <td class="tg-y7qa">Friday</td>
     <td class="tg-y7qa">2.30pm - 6.00pm</td>
     <td class="tg-y7qa">Classrooms<br>D2-05</td>
   </tr>
+	
 </tbody>
 </table>
 
