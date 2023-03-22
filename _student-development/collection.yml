@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Student Development.md
-      - Student Leadership.md
+      - Student Leadership Development.md
       - Discipline.md
       - Learning for Life Programme (LLP).md
       - CCE/.keep
