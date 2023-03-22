@@ -74,7 +74,6 @@ There are plans for SLC members to learn more about sustainability and adopting 
 ### Activities & Events
 
 *   Sustainability Living  
-    
 *   Participation in the One Million Trees movement
 *   Collaboration on ‘City in Nature’ with NParks
 *   ‘Playing Farmer’ Boot Camp
