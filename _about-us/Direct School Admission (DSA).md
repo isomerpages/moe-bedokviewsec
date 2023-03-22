@@ -83,13 +83,11 @@ Candidates will be shortlisted based on their track records which includes the f
 .tg .tg-bvia{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:middle}
 </style>
 <table class="tg">
-<thead>
-  <tr>
-    <th class="tg-cjod"> May 2022<br></th>
-    <th class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">DSA-Sec Press Release by MOE.</span></th>
-  </tr>
-</thead>
 <tbody>
+	  <tr>
+    <td class="tg-ii8k"><br><br>4 May 2022<span style="color:#222;background-color:#EAEAEA"> </span></td>
+    <td class="tg-bvia"><span style="color:#222;background-color:#EAEAEA">DSA-Sec Press Release by MOE.  </span></td>
+  </tr>
   <tr>
     <td class="tg-ii8k"><br>5 May to 1 June 2022 </td>
     <td class="tg-y7qa">Centralised DSA-Sec Application Process:<br><br>Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 5 May 2022, 11.00 am to 1 June 2022, 3.00 pm. <br>For more details, please refer to MOE website – <a href="http://www.moe.gov.sg/dsa-sec" target="_blank" rel="noopener noreferrer"><span style="color:#F2A00F">www.moe.gov.sg/dsa-sec</span></a></td>
@@ -129,14 +127,3 @@ Parents and students are encouraged to choose schools wisely based on the studen
 Students/parents will be notified of the allocation outcome and to participate in the S1 Posting to submit school choices.
  
 We thank you for your interest and we look forward to your application.
-
-
-
-
-
-
-
-
-
-
-
