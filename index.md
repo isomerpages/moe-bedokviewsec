@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Achievements
           description: Click here for achievements!
-          url: /achievements/academic
+          url: /achievements/co-curricular-activities-cca/
         - title: Latest News
           description: Click here for the latest news!
           url: /latest-news
