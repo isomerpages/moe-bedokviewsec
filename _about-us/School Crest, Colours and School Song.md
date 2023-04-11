@@ -5,8 +5,7 @@ description: ""
 ---
 ## School Crest
 
-<img src="/images/BVSS%20logo.png" 
-     style="width:60%">
+<img src="/images/BVSS%20logo.png" style="width:60%">
 
 The Lighthouse is our school symbol and is depicted on our school crest.  It represents the fire of passion and guiding light to direct our thoughts and actions. 
 
@@ -21,14 +20,10 @@ Beige: Represents determination and joy in achieving our dreams
 ## School Song
 
 
-**MP3 file to be added?**
-
-
 We can, we will, we must, <br>
 Better this place of ours. <br>
 Never quit, always strive, <br>
 With the beacon to guide. 
-
 
 
 Bedok View Secondary School, <br>
