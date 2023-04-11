@@ -3,9 +3,7 @@ title: Principal's Welcome Message
 permalink: /about-us/principals-welcome-message/
 description: ""
 ---
-# Principal's Welcome Message
-
-<img src="/images/principal_welcome.png" style="width:60%">
+<img src="/images/About%20Us/Principal's%20Welcome%20Message/principal_welcome.png" style="width:60%">
 
 On behalf of the school, a warm welcome to Bedok View Secondary School’s website!
 
@@ -29,8 +27,6 @@ Some may ask what makes Bedok View Secondary School different from other schools
     
 
 *   Most of all, it is the strong camaraderie and professionalism of the staff. Their tenacity to stay true to the profession, going above and beyond to care for our students and one another in the BV family makes every BV staff a positive role-model for our Bedok Viewans.  
-      
-    
 
 Each of these individuals/groups reflect the collective testament of the BV spirit – to be a lighthouse that shines brightly to bring hope, be it in peace time or in the midst of strong winds and waves.&nbsp;
 
