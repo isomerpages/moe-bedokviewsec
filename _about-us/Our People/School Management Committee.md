@@ -4,8 +4,8 @@ permalink: /about-us/our-people/permalink/
 description: ""
 third_nav_title: Our People
 ---
-| Name | Designation | Email |
-| -------- | -------- | -------- |
+| Name      | Designation | Email |
+| --------      | -------- | -------- |
 | Mdm Teo Yvonne          | Principal     | [bedokview\_ss@moe.edu.sg](mailto:bedokview_ss@moe.edu.sg)     |
 | Mr Tyebally Aziz          | Vice Principal    | [bedokview\_ss@moe.edu.sg](mailto:bedokview_ss@moe.edu.sg)     |
 | Mr Chen Ziyang          | Vice Principal    | [bedokview\_ss@moe.edu.sg](mailto:bedokview_ss@moe.edu.sg)     |
