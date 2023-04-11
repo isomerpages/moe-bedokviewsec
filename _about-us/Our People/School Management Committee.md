@@ -6,11 +6,13 @@ third_nav_title: Our People
 ---
 | Name | Designation | Email |
 | -------- | -------- | -------- |
-| Mdm Teo Yvonne     | Principal     | [bedokview\_ss@moe.edu.sg](mailto:bedokview_ss@moe.edu.sg)     |
-| Mr Tyebally Aziz     | Vice Principal    | [bedokview\_ss@moe.edu.sg](mailto:bedokview_ss@moe.edu.sg)     |
-| Mr Chen Ziyang     | Vice Principal    | [bedokview\_ss@moe.edu.sg](mailto:bedokview_ss@moe.edu.sg)     |
-| Mr Abdul Malek B Osman     | HOD - Science    | [abdul\_malek\_b\_osman@schools.gov.sg](mailto:abdul_malek_b_osman@schools.gov.sg)   |
-| Mr Abdul Malek B Osman     | HOD - Science    | [abdul\_malek\_b\_osman@schools.gov.sg](mailto:abdul_malek_b_osman@schools.gov.sg)   |
+| Mdm Teo Yvonne          | Principal     | [bedokview\_ss@moe.edu.sg](mailto:bedokview_ss@moe.edu.sg)     |
+| Mr Tyebally Aziz          | Vice Principal    | [bedokview\_ss@moe.edu.sg](mailto:bedokview_ss@moe.edu.sg)     |
+| Mr Chen Ziyang          | Vice Principal    | [bedokview\_ss@moe.edu.sg](mailto:bedokview_ss@moe.edu.sg)     |
+| Mr Abdul Malek B Osman          | HOD - Science    | [abdul\_malek\_b\_osman@schools.gov.sg](mailto:abdul_malek_b_osman@schools.gov.sg)   |
+| Mdm Irdawaty Binte Mawardi          | HOD - Aesthetics    | [irdawaty\_mawardi@schools.gov.sg](mailto:irdawaty_mawardi@schools.gov.sg)   |
+| Mdm Khoo Ghee Suan Christina          | HOD - Mathematics    | [khoo\_ghee\_suan\_christina@schools.gov.sg](mailto:khoo_ghee_suan_christina@schools.gov.sg)   |
+| Mr K T Sivakumar          | HOD - Student Management    | [K\_T\_Sivakumar@schools.gov.sg](mailto:K_T_Sivakumar@schools.gov.sg)   |
 
 <br>
 <table style="width: 100%; height: 65px;" class="iveo_table ive_eobj_center ives_tab_1">
