@@ -5,8 +5,7 @@ description: ""
 ---
 ### 45th Awards Day
 
-<img src="/images/45th.png" 
-     style="width:45%">
+<img src="/images/45th.png" style="width:40%">
 
 [e-Programme Booklet](/files/e%20Programme%20booklet%20for%20Awards%20Day%202022.pdf)
 
@@ -22,8 +21,7 @@ description: ""
 
 [Link to Event Site](https://web.42race.com/race-bundle/bedokviewlighthouse)
 
-<img src="/images/Picture1.png" 
-     style="width:40%">
+<img src="/images/Picture1.png" style="width:35%">
 
 
 ### Student Leaders’ Investiture 2021
