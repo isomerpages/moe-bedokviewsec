@@ -66,7 +66,7 @@ The Secondary 1 Booklist for the different streams are attached in the table bel
 |   |   |
 |:-:|---|
 |   | **Pacific Bookstores Pte Ltd**  |
-| <br><br><br><br><br><br>Website  | [https://www.pacificbookstores.com](https://www.pacificbookstores.com/)<br> <img src="/images/Pacific_Bookstore.png" style="width:25%"><br>All users are required to create an account before proceeding with the order.<br><br>Online buying guide&nbsp;[https://www.pacificbookstores.com/faq](https://www.pacificbookstores.com/faq)  |
+| <br><br><br><br><br><br>Website  | [https://www.pacificbookstores.com](https://www.pacificbookstores.com/)<br> <img src="/images/Pacific_Bookstore.png" style="width:19%"><br>All users are required to create an account before proceeding with the order.<br><br>Online buying guide&nbsp;[https://www.pacificbookstores.com/faq](https://www.pacificbookstores.com/faq)  |
 | Launch Date  | 16 December 2022  |
 | Last Day for Online Purchase  | 27 December 2022  |
 | Customer Service Contact  | Hotline: 6929 8012 / 6559 2269 (9.00 am to 5.00 pm, Monday to Friday)<br><br>Email: [sales@pacificbookstores.com](mailto:sales@pacificbookstores.com)  |
