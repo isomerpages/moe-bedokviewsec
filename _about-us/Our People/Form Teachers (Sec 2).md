@@ -26,23 +26,23 @@ third_nav_title: Our People
 | Name | E-mail |
 | -------- | -------- |
 | Ms Lee Chuen Sing (Mrs Kuek)     | [lee\_chuen\_sing@schools.gov.sg](mailto:lee_chuen_sing@schools.gov.sg)     |
-| Text     | Text     |
+| Mr Wee Khim Leng     | [wee\_khim\_leng\_a@schools.gov.sg](mailto:wee_khim_leng_a@schools.gov.sg)     |
 
 ###### Sec 2/5 Form Teachers
 | Name | E-mail |
 | -------- | -------- |
-| Text     | Text     |
-| Text     | Text     |
+| Mr Phoon Zhi Jian     | [phoon\_zhi\_jian@schools.gov.sg](mailto:phoon_zhi_jian@schools.gov.sg)     |
+| Ms Cheng Soon Kuee     | [cheng\_soon\_kuee@schools.gov.sg](mailto:cheng_soon_kuee@schools.gov.sg)     |
 
 ###### Sec 2/6 Form Teachers
 | Name | E-mail |
 | -------- | -------- |
-| Text     | Text     |
-| Text     | Text     |
+| Ms Umi Kalthom Shokor     | [umi\_kalthom\_shokor@schools.gov.sg](mailto:umi_kalthom_shokor@schools.gov.sg)     |
+| Mr Keng Wei Li, David     | [keng\_wei\_li@schools.gov.sg](mailto:keng_wei_li@schools.gov.sg)     |
 
 ###### Sec 2/7 Form Teachers
 | Name | E-mail |
 | -------- | -------- |
-| Text     | Text     |
-| Text     | Text     |
-| Text     | Text     |
+| Ms Tan Sei Hui     | [tan\_sei\_hui@schools.gov.sg](mailto:tan_sei_hui@schools.gov.sg)     |
+| Mr Syarulnizam Abdul Rahman     | [syahrulnizam\_abdul\_rahman@schools.gov.sg](mailto:syahrulnizam_abdul_rahman@schools.gov.sg)     |
+| Mr Sivabalan Kaliaperumal     | [sivabalan\_kaliaperumal@schools.gov.sg](mailto:sivabalan_kaliaperumal@schools.gov.sg)     |
