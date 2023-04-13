@@ -26,11 +26,17 @@ Thank you.
 **Additional details on Secondary 1 (2023) Registration matters:**
 
 **1 \.**&nbsp;&nbsp;&nbsp;&nbsp;**Transfer Application**
-*   For transfer into Bedok View Secondary School
+
+<ul>
+<li><u>For transfer into Bedok View Secondary School</u></li>
+</ul>
+
 
 Students appealing for transfer will need to meet the Cut-Off Point (COP) before consideration should there be vacancies. Please complete and submit the&nbsp;**S1 Appeal Application Form**&nbsp;via this link:&nbsp;[https://go.gov.sg/bv-s1appeal-2023](https://go.gov.sg/bv-s1appeal-2023)&nbsp;by&nbsp;**Tuesday, 27 December 2022, 12.00 pm**. **FORM NOT AVAILABLE**
 
-*   For transfer to another school (due to medical reasons)
+<ul>
+<li><u>For transfer to another school (due to medical reasons)</u></li>
+</ul>
 
 Please submit the appeal and supporting documents at Bedok View Secondary School in person on&nbsp;**Thursday, 22 December 2022, from 8.30 am to 12.00 pm**. For more information, please refer to&nbsp;[https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer/](https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer/).
 
