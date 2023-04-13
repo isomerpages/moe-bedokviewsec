@@ -36,12 +36,12 @@ third_nav_title: Our People
 
 | Name | E-mail |
 | -------- | -------- |
-| Text     | Text     |
-| Text     | Text     |
+| Mr Tay Soon Heng     | [tay\_soon\_heng@schools.gov.sg](mailto:tay_soon_heng@schools.gov.sg)     |
+| Ms Ji Yu     | [ji\_yu@schools.gov.sg](mailto:ji_yu@schools.gov.sg)     |
 
 ###### Sec 3/6 Form Teachers 
 
 | Name | E-mail |
 | -------- | -------- |
-| Text     | Text     |
-| Text     | Text     |
+| Ms Ma Lay Hwa, Alison  (Mrs Kua)     | [ma\_lay\_hwa@schools.gov.sg](mailto:ma_lay_hwa@schools.gov.sg)     |
+| Mr Hamzah Bin Muhit     | [hamzah\_b\_muhit@schools.gov.sg](mailto:hamzah_b_muhit@schools.gov.sg)     |
