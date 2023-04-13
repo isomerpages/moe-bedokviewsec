@@ -32,7 +32,7 @@ Thank you.
 </ul>
 
 
-Students appealing for transfer will need to meet the Cut-Off Point (COP) before consideration should there be vacancies. Please complete and submit the&nbsp;**S1 Appeal Application Form**&nbsp;via this link:&nbsp;[https://go.gov.sg/bv-s1appeal-2023](https://go.gov.sg/bv-s1appeal-2023)&nbsp;by&nbsp;**Tuesday, 27 December 2022, 12.00 pm**. **FORM NOT AVAILABLE**
+Students appealing for transfer will need to meet the Cut-Off Point (COP) before consideration should there be vacancies. Please complete and submit the&nbsp;**S1 Appeal Application Form**&nbsp;via this link:&nbsp;[https://go.gov.sg/bv-s1appeal-2023](https://go.gov.sg/bv-s1appeal-2023)&nbsp;by&nbsp;**Tuesday, 27 December 2022, 12.00 pm**. 
 
 <ul>
 <li><u>For transfer to another school (due to medical reasons)</u></li>
