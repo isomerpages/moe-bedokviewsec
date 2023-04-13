@@ -94,7 +94,8 @@ We strongly advise parents to make their purchases online.&nbsp; If you are not 
 | Payment Mode for Walk-In Purchase  | **Cash, PayNow**  |
 |   |   |
 
-**5 \. Consent for Dental Services updated 22 Dec**
+<p><strong>5 . Consent for Dental Services<sup><font color="#EA3323">updated 22 Dec</font></sup></strong></p>
+
 
 The digital letter from the Health Promotion Board (HPB) will be sent via Parents’ Gateway in January 2023.&nbsp; The letter contains details of HPB’s&nbsp;health, immunisation and dental screening services.&nbsp;
 
