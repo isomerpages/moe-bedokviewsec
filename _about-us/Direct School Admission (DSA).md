@@ -26,7 +26,7 @@ The Media/Journalism programme in Bedok View Secondary School is offered under t
 
 
 
-**2. Selection Process**
+**<u>2. Selection Process</u>**
 
 Candidates will be shortlisted based on their track records which includes the following:
 
@@ -69,7 +69,7 @@ Candidates will be shortlisted based on their track records which includes the f
 </tbody>
 </table>
 
-**3. Key Dates**
+**<u>3. Key Dates</u>**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
