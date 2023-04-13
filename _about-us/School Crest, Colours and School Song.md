@@ -5,7 +5,7 @@ description: ""
 ---
 ## School Crest
 
-<img src="/images/BVSS%20logo.png" style="width:60%">
+<img src="/images/BVSS%20logo.png" style="width:50%">
 
 The Lighthouse is our school symbol and is depicted on our school crest.  It represents the fire of passion and guiding light to direct our thoughts and actions. 
 
