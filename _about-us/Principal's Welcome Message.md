@@ -33,7 +33,7 @@ Each of these individuals/groups reflect the collective testament of the BV spir
 Please visit the different pages in our website for a glimpse of who we are, and also to relish the stories of our BV community. I look forward to welcoming you to our school, and to be part of the discovery, celebration and writing of new stories for our Bedok Viewans.&nbsp;
 &nbsp;  
 
-###### <center>We Aspire, We Strive, We Dare  <br>for a better future!</center>
+<center><b>We Aspire, We Strive, We Dare  <br>for a better future!</b></center>
 
 **Mdm Teo Yvonne**<br>
 _Principal_
