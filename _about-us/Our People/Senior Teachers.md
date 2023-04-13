@@ -11,4 +11,3 @@ third_nav_title: Our People
 | Mr Nazarudin Bin Abdul Bakar     | Malay Language     | [nazarudin\_abdul\_bakar@schools.gov.sg](mailto:nazarudin_abdul_bakar@schools.gov.sg)     |
 | Miss Nurulasyikin Bte Md Yunan     | English Language     | [nurulasyikin\_md\_yunan@schools.gov.sg](mailto:nurulasyikin_md_yunan@schools.gov.sg)     |
 | Miss Safura Bte Abdul Karim     | Mathematics     | [safura\_abdul\_karim@schools.gov.sg](mailto:safura_abdul_karim@schools.gov.sg)     |
-
