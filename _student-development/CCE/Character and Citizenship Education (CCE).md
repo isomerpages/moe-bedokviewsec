@@ -15,7 +15,7 @@ third_nav_title: CCE
 ### Overview
 
 <img src="/images/CCE_Framework_2020.png" style="width:70%">
-<p style="text-align:center;"><strong>BV Character &amp; Citizenship Education Framework</strong></p>
+<p style="text-align:center;"><strong><u>BV Character &amp; Citizenship Education Framework</u></strong></p>
 
 **Character &amp; Citizenship**&nbsp;is central to Bedok View’s vision of developing Learners who Learn for Life, Leaders who Light The Way.&nbsp;School leaders and staff work in synergy to realise the school mission to&nbsp;**\`Nurture Bedok Viewans who Aspire, Strive and Dare as Learners and Leaders.**&nbsp;The CCE framework (based on MOE’s CCE 2021 Curriculum Frame) draws together the different aspects of CCE in providing a student-centric, values-driven education.
 
