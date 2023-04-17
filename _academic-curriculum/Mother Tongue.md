@@ -7,7 +7,7 @@ description: ""
 
 <div class="bp-youtube">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IxSbpiGBt_o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IxSbpiGBt_o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 </div>
 
@@ -56,19 +56,19 @@ Bedok View ushered in the year of the Dog with a classroom decoration competitio
 
 **Giving of hampers to show appreciation to our Non-teaching Staff**
 
-![Giving hampers to show appreciation to our Non-teaching Staff](/images/01.jpg)
+<img style="width:60%" src="/images/01.jpg">
 
 **Classroom Decoration Competition Winners**
 
-![Classroom Decoration Competition Winners](/images/02.jpg)
+<img style="width:60%" src="/images/02.jpg">
 
 **Lantern Making in Class**
 
-![Lantern Making in Class](/images/03.jpg)
+<img style="width:60%" src="/images/03.jpg">
 
 **E-Concert Team in action**
 
-![E-Concert Team in action](/images/04.png)
+<img style="width:60%" src="/images/04.png">
 
 ### Mother Tongue Languages Fortnight
 
@@ -76,17 +76,15 @@ Given the changing language environment, the usage of MTL beyond curriculum time
 
 **Ox Clay making for Chinese Language students**
 
-<img src="/images/Ox%20Clay%20making%20for%20Chinese%20Language%20students.jpg" 
-     style="width:60%">
+<img src="/images/Ox%20Clay%20making%20for%20Chinese%20Language%20students.jpg" style="width:60%">
 
 **Rangoli for Tami Language students**
 
-<img src="/images/Rangoli%20for%20Tami%20Language%20students.jpg" 
-     style="width:60%">
+<img src="/images/Rangoli%20for%20Tami%20Language%20students.jpg" style="width:60%">
 
 **Lyrical Poetry for Malay Language students**
 
-![Lyrical Poetry for Malay Language students](/images/Lyrical%20Poetry%20for%20Malay%20Language%20students.jpg)
+<img style="width:60%" src="/images/Lyrical%20Poetry%20for%20Malay%20Language%20students.jpg">
 
 ### Subjects Offered
 
