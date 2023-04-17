@@ -12,13 +12,12 @@ Effective discipline is based on a consistent philosophy and approach. Every stu
  The school has adopted the ‘4 P’ Framework to discipline, which stands for being Proactive, Preventive, Pastoral and having good Partnerships with parents and external agencies to enhance the quality of the school as a community and to help maintain high expectations. 
 
  
- <img src="/images/Discipline.png" 
-     style="width:75%">
+ <img src="/images/Discipline.png" style="width:75%">
  
 
 ### Code Of Conduct
 
-**1.	Attendance & Punctuality**
+**1.	Attendance &amp; Punctuality**
 
 1.1	Daily attendance in school during term time is compulsory as it supports student learning. The same is expected for CCAs or any activity organised by the school. <br>
 
@@ -50,31 +49,31 @@ Effective discipline is based on a consistent philosophy and approach. Every stu
 .tg .tg-fwnj{background-color:#FFF;color:#454545;text-align:left;vertical-align:top}
 .tg .tg-reen{background-color:#D9D9D9;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
 </style>
-<table class="tg">
+<table style="border: 1px solid black" class="tg">
 <thead>
   <tr>
-    <th class="tg-uuhm">STANDARDS</th>
-    <th class="tg-reen">MALE STUDENTS</th>
-    <th class="tg-reen">FEMALE STUDENTS</th>
+    <th style="border: 1px solid black" class="tg-uuhm">STANDARDS</th>
+    <th style="border: 1px solid black" class="tg-reen">MALE STUDENTS</th>
+    <th style="border: 1px solid black" class="tg-reen">FEMALE STUDENTS</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-fwnj">Shirt/Pants<br>Blouse/Skirt</td>
-    <td class="tg-fwnj">·       White shirt and beige shorts for lower secondary Bedok Viewans<br><br><br>·       White shirt and beige straight-fit long pants for upper secondary Bedok Viewans<br><br><br>·       Long pants (when worn) should  cover the ankle<br> </td>
-    <td class="tg-fwnj">·       White blouse and beige pleated skirt<br><br><br>·       Skirt (when worn) should reach the knee</td>
+    <td style="border: 1px solid black" class="tg-fwnj">Shirt/Pants<br>Blouse/Skirt</td>
+    <td style="border: 1px solid black" class="tg-fwnj">·       White shirt and beige shorts for lower secondary Bedok Viewans<br><br><br>·       White shirt and beige straight-fit long pants for upper secondary Bedok Viewans<br><br><br>·       Long pants (when worn) should  cover the ankle<br> </td>
+    <td style="border: 1px solid black" class="tg-fwnj">·       White blouse and beige pleated skirt<br><br><br>·       Skirt (when worn) should reach the knee</td>
   </tr>
   <tr>
-    <td class="tg-fwnj">Sleeves</td>
-    <td class="tg-fwnj" colspan="2">·         Sleeves of the school shirt/blouse should not be folded.</td>
+    <td style="border: 1px solid black" class="tg-fwnj">Sleeves</td>
+    <td style="border: 1px solid black" class="tg-fwnj" colspan="2">·         Sleeves of the school shirt/blouse should not be folded.</td>
   </tr>
   <tr>
-    <td class="tg-fwnj">Socks</td>
-    <td class="tg-fwnj" colspan="2">·       Bedok Viewans are to wear white socks which are to cover their ankles fully.<br>·       If socks cannot be worn, a medical certificate or a parent's letter from parent/guardian should be produced.</td>
+    <td style="border: 1px solid black" class="tg-fwnj">Socks</td>
+    <td style="border: 1px solid black" class="tg-fwnj" colspan="2">·       Bedok Viewans are to wear white socks which are to cover their ankles fully.<br>·       If socks cannot be worn, a medical certificate or a parent's letter from parent/guardian should be produced.</td>
   </tr>
   <tr>
-    <td class="tg-fwnj">Shoes</td>
-    <td class="tg-fwnj" colspan="2">·       Bedok Viewans are to wear white-based track/canvas shoes which are low cut and properly laced with white shoelaces.<br>·       For full-fledged student councillors, only black shoes are allowed.<br>·      Slippers, sandals and sloppy footwear should not be worn at any time on the school premises. Only students with a medical <span style="background-color:initial">certificate or parent’s letter will be granted permission to wear slippers/sandals.</span></td>
+    <td style="border: 1px solid black" class="tg-fwnj">Shoes</td>
+    <td style="border: 1px solid black" class="tg-fwnj" colspan="2">·       Bedok Viewans are to wear white-based track/canvas shoes which are low cut and properly laced with white shoelaces.<br>·       For full-fledged student councillors, only black shoes are allowed.<br>·      Slippers, sandals and sloppy footwear should not be worn at any time on the school premises. Only students with a medical <span style="background-color:initial">certificate or parent’s letter will be granted permission to wear slippers/sandals.</span></td>
   </tr>
 </tbody>
 </table>
@@ -104,40 +103,40 @@ Effective discipline is based on a consistent philosophy and approach. Every stu
 .tg .tg-fwnj{background-color:#FFF;color:#454545;text-align:left;vertical-align:top}
 .tg .tg-reen{background-color:#D9D9D9;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
 </style>
-<table class="tg">
+<table style="border: 1px solid black" class="tg">
 <thead>
   <tr>
-    <th class="tg-uuhm">STANDARDS</th>
-    <th class="tg-reen">MALE STUDENTS</th>
-    <th class="tg-reen">FEMALE STUDENTS</th>
+    <th style="border: 1px solid black" class="tg-uuhm">STANDARDS</th>
+    <th style="border: 1px solid black" class="tg-reen">MALE STUDENTS</th>
+    <th style="border: 1px solid black" class="tg-reen">FEMALE STUDENTS</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-sxkx" rowspan="2"><span style="background-color:initial">Hair</span><br></td>
-    <td class="tg-fwnj" colspan="2"><br><span style="background-color:initial">- Outlandish styling of hair is not allowed.</span><br><br> </td>
+    <td style="border: 1px solid black" class="tg-sxkx" rowspan="2"><span style="background-color:initial">Hair</span><br></td>
+    <td style="border: 1px solid black" class="tg-fwnj" colspan="2"><br><span style="background-color:initial">- Outlandish styling of hair is not allowed.</span><br><br> </td>
   </tr>
   <tr>
-    <td class="tg-fwnj"><br><span style="background-color:initial">- Hair should be short and neatly combed,without reaching the ears, the eyebrows or the collar of the shirt.</span><br><br><br>- Hair should not be disproportionately longer in the front and top sections. No overlapping or undercutting is allowed. <br><br><br><span style="background-color:initial">- Bedok Viewans must be clean shaven and must not display any facial hair such as beards, moustaches or side burns on their faces.</span><br></td>
-    <td class="tg-fwnj"><br><span style="background-color:initial">- Hair should be short and neatly combed, without reaching the ears, the eyebrows or the collar of the blouse.</span><br><br><span style="background-color:initial">- Long hair should be plaited or tied neatly with plain (white, blue, brown or black) hair bands/clips.</span><br><br><span style="background-color:initial">- Hair should not drape loosely on either side of the face</span><br></td>
+    <td style="border: 1px solid black" class="tg-fwnj"><br><span style="background-color:initial">- Hair should be short and neatly combed,without reaching the ears, the eyebrows or the collar of the shirt.</span><br><br><br>- Hair should not be disproportionately longer in the front and top sections. No overlapping or undercutting is allowed. <br><br><br><span style="background-color:initial">- Bedok Viewans must be clean shaven and must not display any facial hair such as beards, moustaches or side burns on their faces.</span><br></td>
+    <td style="border: 1px solid black" class="tg-fwnj"><br><span style="background-color:initial">- Hair should be short and neatly combed, without reaching the ears, the eyebrows or the collar of the blouse.</span><br><br><span style="background-color:initial">- Long hair should be plaited or tied neatly with plain (white, blue, brown or black) hair bands/clips.</span><br><br><span style="background-color:initial">- Hair should not drape loosely on either side of the face</span><br></td>
   </tr>
   <tr>
-    <td class="tg-fwnj"><span style="background-color:initial">Ears</span><br></td>
-    <td class="tg-fwnj"><br><span style="background-color:initial">- Ear stick(s) or ear stud(s) are not allowed.</span></td>
-    <td class="tg-fwnj"><br><span style="background-color:initial">- A pair of small, identical ear studs with non-offensive or non-controversial design allowed on ear lobes.</span><br><span style="background-color:initial">- Ear stick(s) are not allowed.</span><br></td>
+    <td style="border: 1px solid black" class="tg-fwnj"><span style="background-color:initial">Ears</span><br></td>
+    <td style="border: 1px solid black" class="tg-fwnj"><br><span style="background-color:initial">- Ear stick(s) or ear stud(s) are not allowed.</span></td>
+    <td style="border: 1px solid black" class="tg-fwnj"><br><span style="background-color:initial">- A pair of small, identical ear studs with non-offensive or non-controversial design allowed on ear lobes.</span><br><span style="background-color:initial">- Ear stick(s) are not allowed.</span><br></td>
   </tr>
   <tr>
-    <td class="tg-fwnj"><span style="background-color:initial">Tattoo &amp; Piercing</span></td>
-    <td class="tg-fwnj" colspan="2"><br><br><span style="background-color:initial">- Bedok Viewans are not allowed to have any tattoos on their bodies. The school reserves the right to suspend Bedok Viewans found with tattoos indefinitely.</span><br>- Piercing(s) which are clearly visible or partially visible are not allowed<br></td>
+    <td style="border: 1px solid black" class="tg-fwnj"><span style="background-color:initial">Tattoo &amp; Piercing</span></td>
+    <td style="border: 1px solid black" class="tg-fwnj" colspan="2"><br><br><span style="background-color:initial">- Bedok Viewans are not allowed to have any tattoos on their bodies. The school reserves the right to suspend Bedok Viewans found with tattoos indefinitely.</span><br>- Piercing(s) which are clearly visible or partially visible are not allowed<br></td>
   </tr>
   <tr>
-    <td class="tg-fwnj"><span style="background-color:initial">Accessories</span><br></td>
-    <td class="tg-fwnj" colspan="2"><br>- Bedok Viewans are not allowed to wear accessories (e.g. ankle bands, necklaces, chains, bangles, rings) or any objects deemed inappropriate by the school.</td>
+    <td style="border: 1px solid black" class="tg-fwnj"><span style="background-color:initial">Accessories</span><br></td>
+    <td style="border: 1px solid black" class="tg-fwnj" colspan="2"><br>- Bedok Viewans are not allowed to wear accessories (e.g. ankle bands, necklaces, chains, bangles, rings) or any objects deemed inappropriate by the school.</td>
   </tr>
 </tbody>
 </table>
 
-**5. Attire & Grooming** 
+**5. Attire &amp; Grooming** 
 
 ![attire and grooming](/images/attire%20and%20grooming.jpg)
 
@@ -147,7 +146,7 @@ Effective discipline is based on a consistent philosophy and approach. Every stu
 
 6.1	Bedok Viewans are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.
 
-**7.	Canteen Rules & Cleanliness of School**
+**7.	Canteen Rules &amp; Cleanliness of School**
 
 7.1	Bedok Viewans are not allowed to eat or drink outside the canteen or the designated areas so as to maintain the cleanliness of the school's environment. <br>
 
