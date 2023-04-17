@@ -14,7 +14,7 @@ description: ""
 
 **SLS Support for Home-based Learning**
 
-**School Operating Hours** 
+**<u>School Operating Hours</u>** 
 
 During school operating hours, students should contact the School-based Helpline for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments. 
 
@@ -22,7 +22,7 @@ During school operating hours, students should contact the School-based Helpline
 •	Mondays - Fridays: 8:00 am - 4:00 pm
 
 
-**Non-School Operating Hours** 
+**<u>Non-School Operating Hours</u>** 
 
 Outside the school operating hours, students should contact the SLS Helpdesk for support.
  
@@ -30,7 +30,7 @@ Outside the school operating hours, students should contact the SLS Helpdesk for
 
 Mondays - Fridays: 4:00 pm - 9:00 pm <br>
 Saturdays: 9:00 am - 3:00 pm <br>
-*Closed on Sundays & Public Holidays
+*Closed on Sundays &amp; Public Holidays
 
 •	Email SLS Helpdesk at helpdesk@sls.ufinity.com
 
