@@ -26,7 +26,7 @@ Dear Parents,please click the following link (to be released after 16 Jan 2023)&
 **2 \. Parents handbook on using PLDs**
 
 [Parent Handbook I on Learning with a PLD](/files/Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD.pdf) <br>
-[Parent Handbook II on Learning with a Personal Learning Device.pdf](https://bedokviewsec.moe.edu.sg/qql/slot/u968/3.Parent%20Handbook%20II%20on%20Learning%20with%20a%20Personal%20Learning%20Device.pdf)
+[Parent Handbook II on Learning with a Personal Learning Device.pdf](https://go.gov.sg/parent-handbook-ii-on-learning-with-a-personal-learning-device)
 
 **3 \. Cyber Wellness** 
 
