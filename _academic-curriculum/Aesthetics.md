@@ -7,7 +7,7 @@ description: ""
 
 <div class="bp-youtube">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zl9YLRc8Q0o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zl9YLRc8Q0o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 </div>
 
@@ -24,14 +24,14 @@ The Aesthetics subjects allow students to perceive objects and their environment
 These values and skills contribute to the holistic development of the student as a person, which bodes well for him against a backdrop of fast-paced change in the future.
 
 
-**Design & Technology**
+**Design &amp; Technology**
 
 Design and Technology use uncertainty, ambiguity and ill-defined problems as learning opportunities. Students apply the design thinking process to create possible solutions that can improve their surroundings and the well-being of individuals and the society.
 
 
-**Nutrition & Food Science**
+**Nutrition &amp; Food Science**
 
-At the lower secondary levels, the Food and Consumer Education (FCE) curriculum equips students with information on nutrition, diet and basic money management to prepare them to become discerning consumers and make sound decisions and food choices in their everyday living. In-depth knowledge and skills in this subject area such as principles of food science and concepts of diet, meal-planning, health and nutrition are taught in the Nutrition & Food Science (NFS) curriculum at the upper secondary levels.
+At the lower secondary levels, the Food and Consumer Education (FCE) curriculum equips students with information on nutrition, diet and basic money management to prepare them to become discerning consumers and make sound decisions and food choices in their everyday living. In-depth knowledge and skills in this subject area such as principles of food science and concepts of diet, meal-planning, health and nutrition are taught in the Nutrition &amp; Food Science (NFS) curriculum at the upper secondary levels.
 
 
 **Art**
@@ -57,33 +57,33 @@ The music curriculum develops students’ musical ability through listening, per
 .tg .tg-ncov{background-color:#FFF;color:#454545;text-align:center;vertical-align:middle}
 .tg .tg-t0cp{background-color:#FD7E00;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
 </style>
-<table class="tg">
+<table style="border: 1px solid white" class="tg">
 <thead>
   <tr>
-    <th class="tg-t0cp">Programme</th>
-    <th class="tg-t0cp">Level/s</th>
+    <th style="border: 1px solid white" class="tg-t0cp"><font color="#000000">Programme</font></th>
+    <th style="border: 1px solid white" class="tg-t0cp"><font color="#000000">Level/s</font></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ncov">Art</td>
-    <td class="tg-ncov">Lower and Upper Secondary</td>
+    <td style="border: 1px solid white" class="tg-ncov">Art</td>
+    <td style="border: 1px solid white" class="tg-ncov">Lower and Upper Secondary</td>
   </tr>
   <tr>
-    <td class="tg-ncov">Music</td>
-    <td class="tg-ncov">Lower Secondary</td>
+    <td style="border: 1px solid white" class="tg-ncov">Music</td>
+    <td style="border: 1px solid white" class="tg-ncov">Lower Secondary</td>
   </tr>
   <tr>
-    <td class="tg-ncov">Design &amp; Technology<br></td>
-    <td class="tg-ncov">Lower and Upper Secondary<br></td>
+    <td style="border: 1px solid white" class="tg-ncov">Design &amp; Technology<br></td>
+    <td style="border: 1px solid white" class="tg-ncov">Lower and Upper Secondary<br></td>
   </tr>
   <tr>
-    <td class="tg-ncov">Food &amp; Consumer Education<br></td>
-    <td class="tg-ncov">Lower Secondary<br></td>
+    <td style="border: 1px solid white" class="tg-ncov">Food &amp; Consumer Education<br></td>
+    <td style="border: 1px solid white" class="tg-ncov">Lower Secondary<br></td>
   </tr>
   <tr>
-    <td class="tg-ncov">Nutrition & Food Science<br></td>
-    <td class="tg-ncov">Upper Secondary</td>
+    <td style="border: 1px solid white" class="tg-ncov">Nutrition &amp; Food Science<br></td>
+    <td style="border: 1px solid white" class="tg-ncov">Upper Secondary</td>
   </tr>
 </tbody>
 </table>
