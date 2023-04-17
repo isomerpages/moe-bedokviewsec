@@ -8,7 +8,7 @@ description: ""
 Today’s generation of students will face a much more uncertain world when they graduate from school. In order to empower our students to tackle the challenges that may come their way, Bedok View (BV) Secondary School offers a distinctive Applied Learning Programme (ALP) to connect academic learning with the real world. The programme, Global Awareness for the 21st Century @ BV, serves to deepen 21st century competencies in students by nurturing critical thinkers with a sense of global awareness and confident communicators who are able to effectively engage with others. 
 
 
-The ALP is spearheaded by the Humanities and English Language (EL) departments. Through a structured provision of opportunities, all Bedok View students will be exposed to a range of global issues, enriched with specific skills of critical thinking and communication skills, and excel through competitions which allow them to demonstrate the ability to collaborate and solve problems. There are two levels in which students would experience the activities in the ALP.
+The ALP is spearheaded by the Humanities and English Language (EL) departments. Through a structured provision of opportunities, all Bedok View students will be **exposed** to a range of global issues, **enriched** with specific skills of critical thinking and communication skills, and **excel** through competitions which allow them to demonstrate the ability to collaborate and solve problems. There are two levels in which students would experience the activities in the ALP.
 
 
 At the basic level, all Bedok View students take part in programmes to expand their awareness and understanding of local and global issues. Students from different levels experience a different set of activities which are developmentally appropriate for them. The ALP can be seen in action during every Monday morning assembly with a news bulletin by students for students. The BV News Bite shares feature news in bite sizes to highlight important happenings in current affairs. Secondary One to Three students participate in different ALP programmes to sharpen their ability to evaluate what they read, gain varied perspectives and present their points of views. These opportunities provide them with the skills to link global issues to self and Singapore society. 
@@ -82,12 +82,12 @@ The ALP also has an advanced level which comprises students in the Humanities Ta
   <tr>
     <td style="border: 1px solid black" class="tg-fwnj"><span style="color:black">-</span>       <span style="color:black">Develop awareness of global issues and trends</span><br>-       <span style="color:black">Communicates and collaborate effectively</span></td>
     <td style="border: 1px solid black" class="tg-rvho"> </td>
-    <td class="tg-9u4g">Enrich: Humanities Overseas Learning Journey</td>
+    <td style="border: 1px solid black" class="tg-9u4g">Enrich: Humanities Overseas Learning Journey</td>
     <td style="border: 1px solid black" class="tg-sxkx">ALPine</td>
     <td style="border: 1px solid black" class="tg-fwnj">Humanities Department</td>
   </tr>
   <tr>
-    <td style="border: 1px solid black" class="tg-fwnj"><span style="color:black">-</span>       <span style="color:black">Develop awareness of global issues and trends</span><br>-       <span style="color:black">Communicates and collaborate effectively</span></td>
+    <td style="border: 1px solid black" class="tg-fwnj"><span style="color:black">-</span>       <span style="color:black">Develop awareness of global issues and trends</span><br>-<span style="color:black">Communicates and collaborate effectively</span></td>
     <td style="border: 1px solid black" class="tg-rvho"> </td>
     <td style="border: 1px solid black" class="tg-9u4g">Enrich: Advanced Elective Module – Introduction to Journalism</td>
     <td style="border: 1px solid black" class="tg-sxkx">ALPine</td>
