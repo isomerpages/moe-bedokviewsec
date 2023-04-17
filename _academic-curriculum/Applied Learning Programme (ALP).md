@@ -35,42 +35,42 @@ The ALP also has an advanced level which comprises students in the Humanities Ta
 .tg .tg-qoio{background-color:#7F7F7F;color:#454545;text-align:left;vertical-align:top}
 .tg .tg-rvho{background-color:#808080;color:#454545;font-weight:bold;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<table style="border: 1px solid black" class="tg">
 <thead>
   <tr>
-    <th class="tg-fjsx" rowspan="2"><span style="color:black">Outcomes</span></th>
-    <th class="tg-q2om" rowspan="2"><span style="color:black">21</span>st <span style="color:black">Century Competency</span></th>
-    <th class="tg-q2om" colspan="2"><span style="color:black">Programme</span></th>
-    <th class="tg-q2om" rowspan="2"><span style="color:black">Level / Stream</span></th>
-    <th class="tg-q2om" rowspan="2"><span style="color:black">In-charge / Partner</span></th>
+    <th style="border: 1px solid black" class="tg-fjsx" rowspan="2"><span style="color:black">Outcomes</span></th>
+    <th style="border: 1px solid black" class="tg-q2om" rowspan="2"><span style="color:black">21</span>st <span style="color:black">Century Competency</span></th>
+    <th style="border: 1px solid black" class="tg-q2om" colspan="2"><span style="color:black">Programme</span></th>
+    <th style="border: 1px solid black" class="tg-q2om" rowspan="2"><span style="color:black">Level / Stream</span></th>
+    <th style="border: 1px solid black" class="tg-q2om" rowspan="2"><span style="color:black">In-charge / Partner</span></th>
   </tr>
   <tr>
-    <th class="tg-v3qx"><span style="color:black">Base</span> <span style="color:black">Tier</span></th>
-    <th class="tg-v3qx"><span style="color:black">Summit</span> <span style="color:black">Tier</span></th>
+    <th style="border: 1px solid black" class="tg-v3qx"><span style="color:black">Base</span> <span style="color:black">Tier</span></th>
+    <th style="border: 1px solid black" class="tg-v3qx"><span style="color:black">Summit</span> <span style="color:black">Tier</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-fwnj" rowspan="7"><span style="color:black"> </span><br><span style="color:black">1.</span>    <span style="color:black">Critical thinkers with a sense of global awareness</span><br><span style="color:black"> </span><br><span style="color:black">2.</span>    <span style="color:black">Confident Communicators</span><br><span style="color:black"> </span></td>
-    <td class="tg-fwnj"><span style="color:black">-</span>       <span style="color:black">Develop awareness of global issues and trends</span></td>
-    <td class="tg-9u4g">Expose:<br>BV News Bites</td>
-    <td class="tg-qoio"> </td>
-    <td class="tg-sxkx">Whole school</td>
-    <td class="tg-fwnj">EL Department</td>
+    <td style="border: 1px solid black" class="tg-fwnj" rowspan="7"><span style="color:black"> </span><br><span style="color:black">1.</span>    <span style="color:black">Critical thinkers with a sense of global awareness</span><br><span style="color:black"> </span><br><span style="color:black">2.</span>    <span style="color:black">Confident Communicators</span><br><span style="color:black"> </span></td>
+    <td style="border: 1px solid black" class="tg-fwnj"><span style="color:black">-</span>       <span style="color:black">Develop awareness of global issues and trends</span></td>
+    <td style="border: 1px solid black" class="tg-9u4g">Expose:<br>BV News Bites</td>
+    <td style="border: 1px solid black" class="tg-qoio"> </td>
+    <td style="border: 1px solid black" class="tg-sxkx">Whole school</td>
+    <td style="border: 1px solid black" class="tg-fwnj">EL Department</td>
   </tr>
   <tr>
-    <td class="tg-fwnj"><span style="color:black">-</span>       <span style="color:black">Develop awareness of global issues and trends</span><br><span style="color:black">-</span>       <span style="color:black">Communicates and collaborate effectively</span></td>
-    <td class="tg-9u4g">Enrich:<br>Dream Big Project</td>
-    <td class="tg-sz2n"> </td>
-    <td class="tg-sxkx">Sec 1</td>
-    <td class="tg-fwnj">EL Department</td>
+    <td style="border: 1px solid black" class="tg-fwnj"><span style="color:black">-</span>       <span style="color:black">Develop awareness of global issues and trends</span><br><span style="color:black">-</span>       <span style="color:black">Communicates and collaborate effectively</span></td>
+    <td style="border: 1px solid black" class="tg-9u4g">Enrich:<br>Dream Big Project</td>
+    <td style="border: 1px solid black" class="tg-sz2n"> </td>
+    <td style="border: 1px solid black" class="tg-sxkx">Sec 1</td>
+    <td style="border: 1px solid black" class="tg-fwnj">EL Department</td>
   </tr>
   <tr>
-    <td class="tg-fwnj"><span style="color:black">-</span>       <span style="color:black">Develop awareness of global issues and trends</span><br><span style="color:black">-</span>       <span style="color:black">Communicates and collaborate effectively</span></td>
-    <td class="tg-9u4g">Enrich:<br>Broadcast Journalism Programme</td>
-    <td class="tg-sz2n"> </td>
-    <td class="tg-sxkx">Sec 2</td>
-    <td class="tg-fwnj">EL Department</td>
+    <td style="border: 1px solid black" class="tg-fwnj"><span style="color:black">-</span>       <span style="color:black">Develop awareness of global issues and trends</span><br><span style="color:black">-</span>       <span style="color:black">Communicates and collaborate effectively</span></td>
+    <td style="border: 1px solid black" class="tg-9u4g">Enrich:<br>Broadcast Journalism Programme</td>
+    <td style="border: 1px solid black" class="tg-sz2n"> </td>
+    <td style="border: 1px solid black" class="tg-sxkx">Sec 2</td>
+    <td style="border: 1px solid black" class="tg-fwnj">EL Department</td>
   </tr>
   <tr>
     <td class="tg-fwnj">-       <span style="color:black">Communicates and collaborate effectively</span><br>-       <span style="color:black">Exercise sound reasoning and decision-making</span></td>
