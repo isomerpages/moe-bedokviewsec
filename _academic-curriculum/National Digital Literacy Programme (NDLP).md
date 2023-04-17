@@ -75,7 +75,7 @@ Permanent residents (PR) and international students (IS) who need support could 
 
 The insurance covers the following:  
   
-![insurance.jpg](https://bedokviewsec-moe-edu-sg-admin.cwp.sg/qql/slot/u171/NDLP/insurance.jpg)
+<img src="![](/images/insurance_.jpg)" style="width:80%">
 
 **III.&nbsp;What happens if the child’s device is down or need repairs?**
 
