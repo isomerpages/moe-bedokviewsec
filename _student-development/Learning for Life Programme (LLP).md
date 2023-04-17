@@ -41,19 +41,17 @@ In Tier 2, the target group is the Upper Secondary students and the focus is spe
 
 The Good Value @ BV programme aims to complement the other Student Development Experiences. In particular, it addresses two aspects. First, it will deliberately provide opportunities for students to apply what they learn about values, which would otherwise be missed out due to lack of attention to these opportunities. Second, it will touch the heart, i.e. internalising the values. This second aspect will require teachers to be able to facilitate the reflection and learning when students carry out the programme activities.
 
-<img src="/images/Enjoying%20the%20dragon%20boating%20activity.jpg" 
-     style="width:65%">
-Enjoying the dragon boating activity
+<img src="/images/Enjoying%20the%20dragon%20boating%20activity.jpg" style="width:65%">
+<figcaption style="text-align:center;">Enjoying the dragon boating activity</figcaption><br>
+
+<img src="/images/Learning%20how%20to%20chop%20wood.jpg" style="width:80%">
+<figcaption style="text-align:center;">Learning how to chop wood</figcaption><br>
+
+<img src="/images/Rafting.jpg" style="width:80%">
+<figcaption style="text-align:center;">Rafting</figcaption><br>
+
+<img src="/images/Taking%20on%20the%20high%20Elements.jpg" style="width:80%">
+<figcaption style="text-align:center;">Taking on the high elements.</figcaption><br>
 
 
-![Enjoying the dragon boating activity](/images/Learning%20how%20to%20chop%20wood.jpg)
-Learning how to chop wood
-
-![Rafting](/images/Rafting.jpg)
-Rafting
-
-![Taking on the high elements.](/images/Taking%20on%20the%20high%20Elements.jpg)
-Taking on the high elements.
-
-<img src="/images/Working%20on%20the%20paddy%20field.jpg" 
-     style="width:80%">
+<img src="/images/Working%20on%20the%20paddy%20field.jpg" style="width:80%">
