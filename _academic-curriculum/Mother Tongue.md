@@ -99,29 +99,29 @@ Given the changing language environment, the usage of MTL beyond curriculum time
 .tg .tg-ano2{background-color:#B0B0B0;border-color:inherit;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
 </style>
-<table class="tg">
+<table style="border: 1px solid white" class="tg">
 <thead>
   <tr>
-    <th class="tg-ano2"><span style="color:#222;background-color:#B0B0B0">Chinese Language</span></th>
-    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Malay Language</span></th>
-    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Tamil Language</span></th>
+    <th style="border: 1px solid white" class="tg-ano2"><span style="color:#222;background-color:#B0B0B0">Chinese Language</span></th>
+    <th style="border: 1px solid white" class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Malay Language</span></th>
+    <th style="border: 1px solid white" class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Tamil Language</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">Higher Chinese Language</span><br><br></td>
-    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">Higher Malay Language</span><br><br></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Tamil Language</span></td>
+    <td style="border: 1px solid white" class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">Higher Chinese Language</span><br><br></td>
+    <td style="border: 1px solid white" class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">Higher Malay Language</span><br><br></td>
+    <td style="border: 1px solid white" class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Tamil Language</span></td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Chinese Language</span></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Malay Language</span></td>
-    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">Tamil Language B</span><br><span style="color:#222;background-color:#EAEAEA">(at Secondary 4)</span><br><br></td>
+    <td style="border: 1px solid white" class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Chinese Language</span></td>
+    <td style="border: 1px solid white" class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Malay Language</span></td>
+    <td style="border: 1px solid white" class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">Tamil Language B</span><br><span style="color:#222;background-color:#EAEAEA">(at Secondary 4)</span><br><br></td>
   </tr>
   <tr>
-    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA"> Chinese Language B</span><br><span style="color:#222;background-color:#EAEAEA">(at Secondary 4)</span><br><br></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Malay Language B</span><br><span style="color:#222;background-color:#EAEAEA">(at Secondary 4) </span></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> </span></td>
+    <td style="border: 1px solid white" class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA"> Chinese Language B</span><br><span style="color:#222;background-color:#EAEAEA">(at Secondary 4)</span><br><br></td>
+    <td style="border: 1px solid white" class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Malay Language B</span><br><span style="color:#222;background-color:#EAEAEA">(at Secondary 4) </span></td>
+    <td style="border: 1px solid white" class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> </span></td>
   </tr>
 </tbody>
 </table>
