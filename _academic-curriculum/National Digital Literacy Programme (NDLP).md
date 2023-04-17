@@ -36,7 +36,7 @@ https://www.moe.gov.sg/programmes/cyber-wellness/ <br> **(link not working!)**<b
 
 **4 \. Important Contacts/ Helplines**
 
-<img src="/images/Important%20Contacts.png" style="width:75%">
+<img src="/images/Important%20Contacts.png" style="width:65%">
 
 **5 \. Information on the device**
 
