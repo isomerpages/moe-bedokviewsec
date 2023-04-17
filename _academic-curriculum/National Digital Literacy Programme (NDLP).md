@@ -21,7 +21,7 @@ Parents may refer to the following useful information on NDLP.
 
 **1 \. Parental Consent for Purchase and Edusave Withdrawal**
 
-Dear Parents,please click the following link (to be released after 16 Jan 2023)  to provide Parental Consent and Edusave Withdrawal for your child's Personal Learning Device, PLD.
+Dear Parents,please click the following link (to be released after 16 Jan 2023)&nbsp; to provide Parental Consent and Edusave Withdrawal for your child's Personal Learning Device, PLD.
 
 **2 \. Parents handbook on using PLDs**
 
@@ -30,14 +30,13 @@ Dear Parents,please click the following link (to be released after 16 Jan 2023)�
 
 **3 \. Cyber Wellness** 
 
-https://www.moe.gov.sg/programmes/cyber-wellness/ **(link not working!)**<br>
+https://www.moe.gov.sg/programmes/cyber-wellness/ <br> **(link not working!)**<br>
 
-[https://go.gov.sg/better-internet-sg](https://www.betterinternet.sg/Resources/Resources-Listing?topic=everything&persona=parents)
+[https://go.gov.sg/better-internet-sg](https://www.betterinternet.sg/Resources/Resources-Listing?topic=everything&amp;persona=parents)
 
 **4 \. Important Contacts/ Helplines**
 
-<img src="/images/Important%20Contacts.png" 
-     style="width:75%">
+<img src="/images/Important%20Contacts.png" style="width:75%">
 
 **5 \. Information on the device**
 
@@ -46,7 +45,7 @@ https://www.moe.gov.sg/programmes/cyber-wellness/ **(link not working!)**<br>
 |   |   |
 |:-:|---|
 | **Model**  | Apple iPad 10.2" 9th Gen  |
-| **Price of Enhanced Bundle  <br>With GST\***  | $857.50<br><br>( 3 year carry in Warranty, Sealed Battery Warranty and Comprehensive Accidental Damage Protection(Insurance))  |
+| **Price of Enhanced&nbsp;Bundle  <br>With GST\***  | $857.50<br><br>( 3 year carry in Warranty, Sealed Battery Warranty and&nbsp;Comprehensive Accidental Damage Protection(Insurance))  |
 | **Processor**  | A13 Bionic  |
 |  **RAM** | 3GB RAM  |
 | **Storage**  |64GB ROM   |
@@ -57,7 +56,7 @@ https://www.moe.gov.sg/programmes/cyber-wellness/ **(link not working!)**<br>
 | **Ports**  | Lightning; magnetic connector  |
 | **Connectivity**  | Wi-Fi 802.11 a/b/g/n/ac, dual-band (2.4Ghz and 5Ghz) |
 | **Camera**  | Camera 8 MP (Back) and 12MP (front)  |
-| **What’s included in the <br>enhanced bundle**  | Power adapter and charging cable,  Apple Pencil (1st Gen) with USB-C adapter, Logitech Ruggedized Combo 3  |
+| **What’s included in the <br>enhanced bundle**  | Power adapter and charging cable,  Apple Pencil (1st&nbsp;Gen) with USB-C adapter, Logitech&nbsp;Ruggedized&nbsp;Combo 3  |
 |   |   |
 
 **6 \. Frequently Asked Questions**
@@ -78,14 +77,14 @@ The insurance covers the following:
   
 ![insurance.jpg](https://bedokviewsec-moe-edu-sg-admin.cwp.sg/qql/slot/u171/NDLP/insurance.jpg)
 
-**III. What happens if the child’s device is down or need repairs?**
+**III.&nbsp;What happens if the child’s device is down or need repairs?**
 
 Technical support will be provided to students through:  
 – Service desk set up in school during breaks and after school on a weekly basis  
 – Collection of devices to be sent for repairs  
 – Lenovo Service Centre at Tai Seng Centre, SmartCares Solutions (3 Irving Road, #01-17 Singapore 369522)  
   
-School will have a pool of devices for students to loan for use in the mean time
+School will have a pool of devices for students to loan&nbsp;for use in the mean time
 
 **IV. What if I prefer for my child/ward to use his/her own personal computing device (“device”) in school?**
 
@@ -98,7 +97,7 @@ physical keyboard);
 programme requires students to use free hand writing or sketching);  
 – comparable performance to school’s bulk tender devices  
   
-Do note a **factory reset of your device may be required** for installation of the  
+Do note a&nbsp;**factory reset of your device may be required**&nbsp;for installation of the  
 Device Management Application, which is compulsory for all students' learning  
 devices.
 
