@@ -73,32 +73,32 @@ The ALP also has an advanced level which comprises students in the Humanities Ta
     <td style="border: 1px solid black" class="tg-fwnj">EL Department</td>
   </tr>
   <tr>
-    <td class="tg-fwnj">-       <span style="color:black">Communicates and collaborate effectively</span><br>-       <span style="color:black">Exercise sound reasoning and decision-making</span></td>
-    <td class="tg-9u4g">Enrich:<br>Debate Workshops</td>
-    <td class="tg-sz2n"> </td>
-    <td class="tg-sxkx">Sec 3</td>
-    <td class="tg-fwnj">EL Department</td>
+    <td style="border: 1px solid black" class="tg-fwnj">-       <span style="color:black">Communicates and collaborate effectively</span><br>-       <span style="color:black">Exercise sound reasoning and decision-making</span></td>
+    <td style="border: 1px solid black" class="tg-9u4g">Enrich:<br>Debate Workshops</td>
+    <td style="border: 1px solid black" class="tg-sz2n"> </td>
+    <td style="border: 1px solid black" class="tg-sxkx">Sec 3</td>
+    <td style="border: 1px solid black" class="tg-fwnj">EL Department</td>
   </tr>
   <tr>
-    <td class="tg-fwnj"><span style="color:black">-</span>       <span style="color:black">Develop awareness of global issues and trends</span><br>-       <span style="color:black">Communicates and collaborate effectively</span></td>
-    <td class="tg-rvho"> </td>
+    <td style="border: 1px solid black" class="tg-fwnj"><span style="color:black">-</span>       <span style="color:black">Develop awareness of global issues and trends</span><br>-       <span style="color:black">Communicates and collaborate effectively</span></td>
+    <td style="border: 1px solid black" class="tg-rvho"> </td>
     <td class="tg-9u4g">Enrich: Humanities Overseas Learning Journey</td>
-    <td class="tg-sxkx">ALPine</td>
-    <td class="tg-fwnj">Humanities Department</td>
+    <td style="border: 1px solid black" class="tg-sxkx">ALPine</td>
+    <td style="border: 1px solid black" class="tg-fwnj">Humanities Department</td>
   </tr>
   <tr>
-    <td class="tg-fwnj"><span style="color:black">-</span>       <span style="color:black">Develop awareness of global issues and trends</span><br>-       <span style="color:black">Communicates and collaborate effectively</span></td>
-    <td class="tg-rvho"> </td>
-    <td class="tg-9u4g">Enrich: Advanced Elective Module – Introduction to Journalism</td>
-    <td class="tg-sxkx">ALPine</td>
-    <td class="tg-fwnj">Humanities Department / Temasek Polytechnic</td>
+    <td style="border: 1px solid black" class="tg-fwnj"><span style="color:black">-</span>       <span style="color:black">Develop awareness of global issues and trends</span><br>-       <span style="color:black">Communicates and collaborate effectively</span></td>
+    <td style="border: 1px solid black" class="tg-rvho"> </td>
+    <td style="border: 1px solid black" class="tg-9u4g">Enrich: Advanced Elective Module – Introduction to Journalism</td>
+    <td style="border: 1px solid black" class="tg-sxkx">ALPine</td>
+    <td style="border: 1px solid black" class="tg-fwnj">Humanities Department / Temasek Polytechnic</td>
   </tr>
   <tr>
-    <td class="tg-fwnj"><span style="color:black">-</span>       <span style="color:black">Develop awareness of global issues and trends</span><br>-       <span style="color:black">Communicates and collaborate effectively</span><br>-       <span style="color:black">Exercise sound reasoning and decision-making</span></td>
-    <td class="tg-rvho"> </td>
-    <td class="tg-9u4g">Excel: External Competitions<br>-       NUS Geography Challenge<br>-       Inter-school History Challenge</td>
-    <td class="tg-sxkx">ALPine</td>
-    <td class="tg-fwnj">Humanities Department</td>
+    <td style="border: 1px solid black" class="tg-fwnj"><span style="color:black">-</span>       <span style="color:black">Develop awareness of global issues and trends</span><br>-       <span style="color:black">Communicates and collaborate effectively</span><br>-       <span style="color:black">Exercise sound reasoning and decision-making</span></td>
+    <td style="border: 1px solid black" class="tg-rvho"> </td>
+    <td style="border: 1px solid black" class="tg-9u4g">Excel: External Competitions<br>-       NUS Geography Challenge<br>-       Inter-school History Challenge</td>
+    <td style="border: 1px solid black" class="tg-sxkx">ALPine</td>
+    <td style="border: 1px solid black" class="tg-fwnj">Humanities Department</td>
   </tr>
 </tbody>
 </table>
