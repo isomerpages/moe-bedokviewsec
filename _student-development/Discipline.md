@@ -198,28 +198,28 @@ Effective discipline is based on a consistent philosophy and approach. Every stu
 .tg .tg-ngso{background-color:#FFF;border-color:inherit;color:#454545;text-align:center;vertical-align:top}
 .tg .tg-wl7u{background-color:#FFF;border-color:inherit;color:#454545;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<table style="border: 1px solid black" class="tg">
 <thead>
   <tr>
-    <th class="tg-3bav">Stage of the Lesson</th>
-    <th class="tg-3bav">Areas to take note</th>
+    <th style="border: 1px solid black" class="tg-3bav">Stage of the Lesson</th>
+    <th style="border: 1px solid black" class="tg-3bav">Areas to take note</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-wl7u"><span style="background-color:initial">Before the Teacher arrives to class</span><br></td>
-    <td class="tg-wl7u"><br>- The classroom is swept and the dustbin is cleared.<br>- The whiteboard is clean and ready for the next lesson.<br>- The tables and chairs are neatly arranged.<br>- The attendance for the lesson is clearly updated on the board.<br>- If coming from another venue, Bedok Viewans move quickly to the class so that the lesson can begin on time.<br><span style="background-color:initial">- Bedok Viewans prepare materials for the lesson and place them on the table.</span><br><br>All bags and other belongings are neatly placed on the floor or on the shelves at the back of the class.<br></td>
+    <td style="border: 1px solid black" class="tg-wl7u"><span style="background-color:initial">Before the Teacher arrives to class</span><br></td>
+    <td style="border: 1px solid black" class="tg-wl7u"><br>- The classroom is swept and the dustbin is cleared.<br>- The whiteboard is clean and ready for the next lesson.<br>- The tables and chairs are neatly arranged.<br>- The attendance for the lesson is clearly updated on the board.<br>- If coming from another venue, Bedok Viewans move quickly to the class so that the lesson can begin on time.<br><span style="background-color:initial">- Bedok Viewans prepare materials for the lesson and place them on the table.</span><br><br>All bags and other belongings are neatly placed on the floor or on the shelves at the back of the class.<br></td>
   </tr>
   <tr>
-    <td class="tg-wl7u"><span style="background-color:initial">When the Teacher arrives</span><br></td>
+    <td style="border: 1px solid black" class="tg-wl7u"><span style="background-color:initial">When the Teacher arrives</span><br></td>
     <td class="tg-wl7u"><br><span style="background-color:initial">- Every lesson begins with G.R.A.C.E.</span><br><br><span style="font-weight:bold;color:#000">G</span><br><span style="text-decoration:underline">Greeting the teacher</span><br>Bedok Viewans stand and make formal greetings as a show of respect and to signal the start of the lesson.<br><span style="font-weight:bold;color:#000">R</span><br><span style="text-decoration:underline">Readiness</span><br>Bedok Viewans place their textbooks and all necessary materials and stationery on their desks. They are seated quietly in their seats with their bags placed on the floor.<br><span style="font-weight:bold;color:#000">A</span><br><span style="text-decoration:underline">Attendance-taking</span><br>Teacher checks the attendance of the class to ascertain absentees/late-comers for follow-up action.<br><span style="font-weight:bold;color:#000">C</span><br><span style="text-decoration:underline">Cleanliness</span><br>Teacher and Bedok Viewans ensure that the classroom is clean. Students are expected to perform their duties when scheduled according to the class duty roster.<br><span style="font-weight:bold;color:#000">E</span><br><span style="text-decoration:underline">Expectations</span><br>Teacher clearly communicates the expectations and objectives of the lesson.</td>
   </tr>
   <tr>
-    <td class="tg-wl7u"><span style="background-color:initial">During the Lesson</span><br></td>
-    <td class="tg-wl7u"><br><br>• Bedok Viewans are clear about the lesson objectives.<br>• Bedok Viewans are engaged during lesson and participate actively during class discussions.<br>- During teacher-directed activities, Bedok Viewans pay close attention, taking notes where necessary.<br>• Bedok Viewans should raise their hands if they have questions about the lesson.<br>• When questions are asked, Bedok Viewans should raise their hands to respond and stand up when responding to the question.<br>• During group activities, Bedok Viewans are clear about the roles they play. <br>• When work is assigned, Bedok Viewans should complete the work, seeking clarification or help from the teacher when required.<br><span style="background-color:initial">• Bedok Viewans should ask for permission and obtain a Teacher’s Pass before being excused from the class.</span><br><br></td>
+    <td style="border: 1px solid black" class="tg-wl7u"><span style="background-color:initial">During the Lesson</span><br></td>
+    <td style="border: 1px solid black" class="tg-wl7u"><br><br>• Bedok Viewans are clear about the lesson objectives.<br>• Bedok Viewans are engaged during lesson and participate actively during class discussions.<br>- During teacher-directed activities, Bedok Viewans pay close attention, taking notes where necessary.<br>• Bedok Viewans should raise their hands if they have questions about the lesson.<br>• When questions are asked, Bedok Viewans should raise their hands to respond and stand up when responding to the question.<br>• During group activities, Bedok Viewans are clear about the roles they play. <br>• When work is assigned, Bedok Viewans should complete the work, seeking clarification or help from the teacher when required.<br><span style="background-color:initial">• Bedok Viewans should ask for permission and obtain a Teacher’s Pass before being excused from the class.</span><br><br></td>
   </tr>
   <tr>
-    <td class="tg-ngso">At the end of the Lesson</td>
+    <td style="border: 1px solid black" class="tg-ngso">At the end of the Lesson</td>
     <td class="tg-wl7u"><br>• Bedok Viewans stand and formal thanks are exchanged.<br>• Bedok Viewans are clear of any follow-up work from the lesson. They are to write down any homework assigned in their Student Handbook.<br><span style="background-color:initial">• Bedok Viewans should clarify with the teacher if they are unclear about the lesson.</span><br>• Bedok Viewans remain in class and prepare for the next lesson.<br><span style="background-color:initial">• Bedok Viewans pack up and move quickly as a class if the next lesson is at another venue.</span></td>
   </tr>
 </tbody>
