@@ -68,26 +68,23 @@ The European Union engages our Bedok Viewans on the EU-Singapore relations durin
 **National Day**
 
 
-<img src="/images/National%20Day.png" style="width:75%">
+<img src="/images/National%20Day.png" style="width:65%">
 <p style="text-align:center;">LMAOOOO</p>
 Bedok Viewans getting interviewed on National TV.
 
 
 <img src="/images/National%20Day%20Celebrations%202021.png" style="width:75%">
-<p style="text-align:center;">LMAOOOO</p>
-National Day Celebrations 2021- Observance Ceremony carried out with safe management in place.
+<p style="text-align:center;">National Day Celebrations 2021- Observance Ceremony carried out with safe management in place.</p>
 
 **Racial Harmony Day** <br>
 The Singapore Connection
 
 <img src="/images/Staff%20&amp;%20students.png" style="width:75%">
-<p style="text-align:center;">LMAOOOO</p>
-Staff &amp; students dressed up in different cultural costumes while munching on Kacang Puteh and watching mini films on the importance of Racial Diversity in Singapore
+<p style="text-align:center;">Staff &amp; students dressed up in different cultural costumes while munching on Kacang Puteh and watching mini films on the importance of Racial Diversity in Singapore</p>
 
 
 <img src="/images/Teachers%20dressed.png" style="width:50%">
-<p style="text-align:center;">LMAOOOO</p>
-Teachers dressed in traditional ethnic costumes for a drama to teach students about how Singapore appeared in the early times.
+<p style="text-align:center;">Teachers dressed in traditional ethnic costumes for a drama to teach students about how Singapore appeared in the early times.</p>
 
 <img src="/images/Staff%20&amp;%20students%202.png" style="width:75%">
 <p style="text-align:center;">Staff &amp; students dressed up in different cultural costumes to emphasise the importance of Racial Diversity in Singapore</p>
