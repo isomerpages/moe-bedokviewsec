@@ -101,9 +101,8 @@ Together We Keep Singapore Strong
 Bedok Viewans pledging their commitment to keep Singapore strong.
 
 
-<img src="/images/Our%20Principal.jpg" style="width:75%">
-<p style="text-align:center;">LMAOOOO</p>
-Our Principal, Mdm Teo, handing over a token of appreciation to LTC Sam Ong who engaged our graduating students on the importance of Defence.
+<img src="/images/Our%20Principal.jpg" style="width:60%">
+<p style="text-align:center;">Our Principal, Mdm Teo, handing over a token of appreciation to LTC Sam Ong who engaged our graduating students on the importance of Defence.</p>
 
 **Bedok View’s Total Defence Award:**
 
@@ -119,6 +118,5 @@ Bedok View Secondary School commemorates Total Defence Day annually by conductin
 
  The school commemorated **SAF Day** by encouraging their NSman employees to don uniforms and recite the SAF pledge during the morning assembly.  The school also conducted the annual National Day observance ceremony by having the marching-in of uniform group cadets during Flag-Raising to commemorate Singapore’s independence.
 
-<img src="/images/SAF%20Day%202021%20Celebrations.png" style="width:60%">
-<p style="text-align:center;">LMAOOOO</p>
-SAF Day 2021 Celebrations
+<img src="/images/SAF%20Day%202021%20Celebrations.png" style="width:45%">
+<p style="text-align:center;">SAF Day 2021 Celebrations</p>
