@@ -13,6 +13,6 @@ sections:
           description: Click here for achievements!
           url: /achievements/co-curricular-activities-cca/
         - title: Info for Parents and Students
-          description: Click here for the latest news!
+          description: Click here for more
           url: partnerships/info-for-parents-and-students/
 ---
