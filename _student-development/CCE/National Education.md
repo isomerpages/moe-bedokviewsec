@@ -79,7 +79,7 @@ The Singapore Connection
 <img src="/images/Teachers%20dressed.png" style="width:50%">
 <p style="text-align:center;">Teachers dressed in traditional ethnic costumes for a drama to teach students about how Singapore appeared in the early times.</p>
 
-<img src="/images/Staff%20&amp;%20students%202.png" style="width:75%">
+<img src="/images/Staff%20&amp;%20students%202.png" style="width:55%">
 <p style="text-align:center;">Staff &amp; students dressed up in different cultural costumes to emphasise the importance of Racial Diversity in Singapore</p>
 
 
