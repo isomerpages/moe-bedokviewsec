@@ -86,7 +86,7 @@ The Singapore Connection
 **Total Defence Day** <br>
 Together We Keep Singapore Strong
 
-<img src="/images/Bedok%20Viewans%20pledging%20their%20commitment%20to%20keep%20Singapore%20strong.png" style="width:50%">
+<img src="/images/Bedok%20Viewans%20pledging%20their%20commitment%20to%20keep%20Singapore%20strong.png" style="width:40%">
 <p style="text-align:center;">Bedok Viewans pledging their commitment to keep Singapore strong.</p>
 
 
