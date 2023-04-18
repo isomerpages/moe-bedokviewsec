@@ -35,13 +35,11 @@ The Red Dot Ambassadors (RDAs) represent an interest group of students who play 
 To engage students in an experiential manner, NE learning journeys to various venues such as museums are conducted. In this way, we provide opportunities for Bedok Viewans to explore and examine their identity as Singaporeans and arrive at a common set of ideals and values.
 
 
-<img src="/images/Bedok%20Viewans%20on%20a%20NE%20Learning%20Journey%20to%20the%20Singapore%20National%20Museum.png" style="width:75%">
-<p style="text-align:center;">LMAOOOO</p>
-Bedok Viewans on a NE Learning Journey to the Singapore National Museum
+<img src="/images/Bedok%20Viewans%20on%20a%20NE%20Learning%20Journey%20to%20the%20Singapore%20National%20Museum.png" style="width:65%">
+<p style="text-align:center;">Bedok Viewans on a NE Learning Journey to the Singapore National Museum</p>
 
 <img src="/images/RDAs%20pitching%20their%20proposal%20to%20SE%20CDC.jpg" style="width:75%">
-<p style="text-align:center;">LMAOOOO</p>
-RDAs pitching their proposal to SE CDC
+<p style="text-align:center;">RDAs pitching their proposal to SE CDC</p>
 
 
 <img src="/images/RDAs%20doing%20their%20bit%20to%20give%20back%20to%20the%20residents%20of%20Bedok%20Peace%20Haven.jpg" style="width:75%">
