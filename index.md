@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/bedokviewhome.gif
+      background: /images/bvs22_0024-min.jpg
       key_highlights:
         - title: Achievements
           description: Click here for achievements!
