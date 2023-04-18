@@ -63,8 +63,7 @@ To engage students in an experiential manner, NE learning journeys to various ve
 
 
 <img src="/images/National%20Day.png" style="width:55%">
-<p style="text-align:center;">LMAOOOO</p>
-Bedok Viewans getting interviewed on National TV.
+<p style="text-align:center;">Bedok Viewans getting interviewed on National TV.</p>
 
 
 <img src="/images/National%20Day%20Celebrations%202021.png" style="width:65%">
