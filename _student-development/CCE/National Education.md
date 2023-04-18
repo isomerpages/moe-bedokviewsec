@@ -68,7 +68,7 @@ The European Union engages our Bedok Viewans on the EU-Singapore relations durin
 **National Day**
 
 
-<img src="/images/National%20Day.png" style="width:65%">
+<img src="/images/National%20Day.png" style="width:55%">
 <p style="text-align:center;">LMAOOOO</p>
 Bedok Viewans getting interviewed on National TV.
 
