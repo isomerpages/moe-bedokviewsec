@@ -4,9 +4,7 @@ permalink: /student-development/character-and-citizenship-education-cce/educatio
 description: ""
 third_nav_title: CCE
 ---
-
-<img src="/images/ECG%20framework.png" 
-     style="width:75%">
+<img src="/images/ECG%20framework.png" style="width:75%">
 
 Education and Career Guidance (ECG) is about **equipping** students with the necessary **knowledge**, **skills** and **values** to make **informed decisions** at each key education for successful transition from school to further education or work, and hence to manage their career pathways and lifelong learning throughout their lives.
 
@@ -20,20 +18,16 @@ Our school approach to ECG is guided by the ECG Developmental Model in programmi
 
 Bedok Viewans will be nurtured and developed with the competencies, imbibed with the values and necessary skills to keep learning, to be adaptable and to be resilient in their personal pursuits and career developments. 
 
-<img src="/images/Bedok%20Viewans%20at%20their%20Work%20Shadowing%20Programme%202019.jpg" 
-     style="width:70%">
+<img src="/images/Bedok%20Viewans%20at%20their%20Work%20Shadowing%20Programme%202019.jpg" style="width:50%">
 
-<img src="/images/Bedok%20Viewans%20at%20their%20Work%20Shadowing%20Programme%202019%202.jpg" 
-     style="width:75%">
+<img src="/images/Bedok%20Viewans%20at%20their%20Work%20Shadowing%20Programme%202019%202.jpg" style="width:75%">
 
 
-<img src="/images/Bedok%20Viewans%20at%20their%20Work%20Shadowing%20Programme%202019%203.jpg" 
-     style="width:75%">
+<img src="/images/Bedok%20Viewans%20at%20their%20Work%20Shadowing%20Programme%202019%203.jpg" style="width:75%">
 Bedok Viewans at their Work Shadowing Programme 2019
 
 
-<img src="/images/Elective%20Modules.png" 
-     style="width:75%">
+<img src="/images/Elective%20Modules.png" style="width:75%">
 
 Elective Modules offered to Bedok Viewans to extend and build on the learning objectives of existing Normal Course subjects through applied learning (Learning by doing, Learning about the real world and Learning for life),  to explore possible courses of study in post-secondary education institutes (PSEIs) and to be aware of possible career paths in various subject areas. Examples of these modules include K-Pop, Videography, Fun with Animations, Digital Marketing as well as F1 Engineering.
 
