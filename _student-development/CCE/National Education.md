@@ -73,7 +73,7 @@ The European Union engages our Bedok Viewans on the EU-Singapore relations durin
 Bedok Viewans getting interviewed on National TV.
 
 
-<img src="/images/National%20Day%20Celebrations%202021.png" style="width:75%">
+<img src="/images/National%20Day%20Celebrations%202021.png" style="width:65%">
 <p style="text-align:center;">National Day Celebrations 2021- Observance Ceremony carried out with safe management in place.</p>
 
 **Racial Harmony Day** <br>
