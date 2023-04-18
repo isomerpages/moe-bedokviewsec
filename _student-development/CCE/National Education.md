@@ -85,20 +85,19 @@ The Singapore Connection
 Staff &amp; students dressed up in different cultural costumes while munching on Kacang Puteh and watching mini films on the importance of Racial Diversity in Singapore
 
 
-<img src="/images/Teachers%20dressed.png" style="width:75%">
+<img src="/images/Teachers%20dressed.png" style="width:50%">
 <p style="text-align:center;">LMAOOOO</p>
 Teachers dressed in traditional ethnic costumes for a drama to teach students about how Singapore appeared in the early times.
 
 <img src="/images/Staff%20&amp;%20students%202.png" style="width:75%">
-<p style="text-align:center;">LMAOOOO</p>
-Staff &amp; students dressed up in different cultural costumes to emphasise the importance of Racial Diversity in Singapore
+<p style="text-align:center;">Staff &amp; students dressed up in different cultural costumes to emphasise the importance of Racial Diversity in Singapore</p>
+
 
 **Total Defence Day** <br>
 Together We Keep Singapore Strong
 
-<img src="/images/Bedok%20Viewans%20pledging%20their%20commitment%20to%20keep%20Singapore%20strong.png" style="width:75%">
-<p style="text-align:center;">LMAOOOO</p>
-Bedok Viewans pledging their commitment to keep Singapore strong.
+<img src="/images/Bedok%20Viewans%20pledging%20their%20commitment%20to%20keep%20Singapore%20strong.png" style="width:50%">
+<p style="text-align:center;">Bedok Viewans pledging their commitment to keep Singapore strong.</p>
 
 
 <img src="/images/Our%20Principal.jpg" style="width:60%">
