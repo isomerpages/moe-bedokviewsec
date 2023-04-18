@@ -45,25 +45,21 @@ RDAs pitching their proposal to SE CDC
 
 
 <img src="/images/RDAs%20doing%20their%20bit%20to%20give%20back%20to%20the%20residents%20of%20Bedok%20Peace%20Haven.jpg" style="width:75%">
-<p style="text-align:center;">LMAOOOO</p>
-RDAs doing their bit to give back to the residents of Bedok Peace Haven
+<p style="text-align:center;">RDAs doing their bit to give back to the residents of Bedok Peace Haven</p>
 
-<img src="/images/Red%20Dot%20Ambassadors%20during%20a%20Heritage%20Trail%20to%20the%20Battlebox.png" style="width:75%">
-<p style="text-align:center;">LMAOOOO</p>
-Red Dot Ambassadors chaperoning the International Students during a Heritage Trail to the Battlebox
+<img src="/images/Red%20Dot%20Ambassadors%20during%20a%20Heritage%20Trail%20to%20the%20Battlebox.png" style="width:65%">
+<p style="text-align:center;">Red Dot Ambassadors chaperoning the International Students during a Heritage Trail to the Battlebox</p>
 
 
-<img src="/images/Red%20Dot%20Ambassadors%20chaperoning%20the%20International%20Students%20during%20a%20Heritage%20Trail%20to%20the%20Museum.png" style="width:75%">
-<p style="text-align:center;">LMAOOOO</p>
-Red Dot Ambassadors chaperoning the International Students during a Heritage Trail to the Museum
+<img src="/images/Red%20Dot%20Ambassadors%20chaperoning%20the%20International%20Students%20during%20a%20Heritage%20Trail%20to%20the%20Museum.png" style="width:65%">
+<p style="text-align:center;">Red Dot Ambassadors chaperoning the International Students during a Heritage Trail to the Museum</p>
 
 ### National Education (NE) Core Events
 
 **International Friendship Day**
 
-<img src="/images/International%20Friendship%20Day.png" style="width:75%">
-<p style="text-align:center;">LMAOOOO</p>
-The European Union engages our Bedok Viewans on the EU-Singapore relations during International Friendship Day.
+<img src="/images/International%20Friendship%20Day.png" style="width:65%">
+<p style="text-align:center;">The European Union engages our Bedok Viewans on the EU-Singapore relations during International Friendship Day.</p>
 
 **National Day**
 
