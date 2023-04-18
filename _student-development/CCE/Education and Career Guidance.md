@@ -20,11 +20,11 @@ Bedok Viewans will be nurtured and developed with the competencies, imbibed with
 
 <img src="/images/Bedok%20Viewans%20at%20their%20Work%20Shadowing%20Programme%202019.jpg" style="width:50%">
 
-<img src="/images/Bedok%20Viewans%20at%20their%20Work%20Shadowing%20Programme%202019%202.jpg" style="width:75%">
+<img src="/images/Bedok%20Viewans%20at%20their%20Work%20Shadowing%20Programme%202019%202.jpg" style="width:65%">
 
 
-<img src="/images/Bedok%20Viewans%20at%20their%20Work%20Shadowing%20Programme%202019%203.jpg" style="width:75%">
-Bedok Viewans at their Work Shadowing Programme 2019
+<img src="/images/Bedok%20Viewans%20at%20their%20Work%20Shadowing%20Programme%202019%203.jpg" style="width:65%">
+<p style="text-align:center;">Bedok Viewans at their Work Shadowing Programme 2019</p>
 
 
 <img src="/images/Elective%20Modules.png" style="width:75%">
