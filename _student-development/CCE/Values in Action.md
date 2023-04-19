@@ -58,10 +58,11 @@ img {
 Happy School Project in BV, where students have an opportunity to improve the school’s vibrancy. Through this platform, they also develop their sense of shared responsibility and respect for common spaces in the school.
 
 
-![Our Secondary 4 &amp; 5 students hosting the elderly from Rainbow Multiservice Center](/images/our%20sec%204%20&amp;%205.png)
+<img style="width:80%" src="/images/our%20sec%204%20&amp;%205.png">
 Our Secondary 4 &amp; 5 students hosting the elderly from Rainbow Multiservice Center as well as our APSN Katong School students during our annual Chinese New Year celebrations.
 
 ![Many VIA projects still managed to be executed with safe management measures in place.](/images/In%20light%20of%20restrictions.png)
+<img style="width:80%" src="NOOO">
 In light of restrictions with the pandemic, many VIA projects still managed to be executed with safe management measures in place. For example, the collage above shows students packing items to be donated towards the Willing Hearts Charity Foundation.
 
 <style>  
