@@ -31,7 +31,7 @@ As an integral part of Character &amp; Citizenship Education, VIA involves schoo
 <img style="width:80%" src="/images/please%20refer.png">
 Please refer to these supporting photographs to understand more about VIA@BV.
 
-<img style="width:85%" src="/images/Sec%201%20students.png"><br>
+<img style="width:80%" src="/images/Sec%201%20students.png"><br>
 
 <style>  
 img {  
@@ -40,7 +40,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:85%;" alt="Sec 1 students Spreading the Joy during our annual service to the community during Chinese New Year." src="/images/Sec%201%20students%202.png">  
+<img style="width:80%;" alt="Sec 1 students Spreading the Joy during our annual service to the community during Chinese New Year." src="/images/Sec%201%20students%202.png">  
   
   
 <figcaption style="text-align:center;">Sec 1 students Spreading the Joy during our annual service to the community during Chinese New Year.</figcaption> 
