@@ -28,7 +28,7 @@ The VIA programme supports students’ development as socially responsible stude
 
 As an integral part of Character &amp; Citizenship Education, VIA involves school leaders, staff and students working together in synergy to realise the school’s mission to 'Nurture Students, Transform Lives and Serve the Nation'.  In conclusion, this framework illuminates the path for Bedok Viewans to learn the value of giving back to society, while acquiring the values and the 21st century competencies: a confident person, self-directed learner, concerned citizen and active contributor.
 
-![Please refer to these supporting photographs to understand more about VIA@BV.](/images/please%20refer.png)
+<img style="width:80%" src="/images/please%20refer.png">
 Please refer to these supporting photographs to understand more about VIA@BV.
 
 <img style="width:85%" src="/images/Sec%201%20students.png"><br>
