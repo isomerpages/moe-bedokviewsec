@@ -88,9 +88,9 @@ Our Sec 4 students helping to engage the residents of the community in Bedok SUN
 
 In addition to the above, opportunities such as a BV-VIA@Home Challenge was offered to remind students of the importance of contributing meaningfully.
 
-![BV-VIA@Home Challenge](/images/BV-VIA@Home%20Challenge.png)
+<img style="width:80%" src="/images/BV-VIA@Home%20Challenge.png">
 
-![BV-VIA@Home Challenge](/images/BV-VIA@Home%20Challenge2.png)
+<img style="width:80%" src="/images/BV-VIA@Home%20Challenge2.png">
 
 **<u>Community Youth Leadership in BV</u>**
 
