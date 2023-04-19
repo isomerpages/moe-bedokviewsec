@@ -1,13 +1,45 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/loogo.png
 links:
+  - title: About Us
+    url: /about-us/
+    sublinks:
+      - title: Principal's Welcome Message
+        url: /about-us/principals-welcome-message
+      - title: History
+        url: /about-us/history
+      - title: Mission, Vision and Values
+        url: /about-us/school-mission-vision-and-values
+      - title: School Motto
+        url: /about-us/school-motto
+      - title: Crest, Colours and School Song
+        url: /about-us/school-crest-colours-and-school-song
+      - title: School Advisory Committee
+        url: /about-us/school-advisory-committee-sac
+      - title: Our People
+        url: /about-us/our-people/school-management-committee
+      - title: Our Contact
+        url: /about-us/our-contact/
+      - title: Direct School Admission
+        url: /about-us/direct-school-admission-dsa
+      - title: E-Prospectus
+        url: /about-us/e-prospectus
+      - title: Secondary 1 (2023)Registration
+        url: /about-us/sec-1-registration/
+      - title: School Events
+        url: /about-us/school-events
+      - title: E-Open House 2022
+        url: /about-us/e-open-house-2021
+      - title: School Corporate Video
+        url: /about-us/sch-corporate-video/
+  - title: Academic Curriculum
+    collection: academic-curriculum
+  - title: Student Development
+    collection: student-development
+  - title: Partnerships
+    collection: partnerships
+  - title: CCA
+    collection: cca
+  - title: ACHIEVEMENTS
+    collection: achievements
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/

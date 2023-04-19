@@ -1,0 +1,17 @@
+collections:
+  academic-curriculum:
+    output: true
+    order:
+      - Academic Curriculum.md
+      - Aesthetics.md
+      - Applied Learning Programme (ALP).md
+      - English & Literature.md
+      - Humanities.md
+      - Mathematics.md
+      - Mother Tongue.md
+      - Physical Education.md
+      - Project Work.md
+      - Science.md
+      - Home Based Learning (HBL).md
+      - National Digital Literacy Programme (NDLP).md
+      - Singapore Student Learning Space (SLS).md
