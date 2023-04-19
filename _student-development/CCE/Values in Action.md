@@ -40,7 +40,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" alt="Sec 1 students Spreading the Joy during our annual service to the community during Chinese New Year." src="/images/Sec%201%20students%202.png">  
+<img style="width:85%;" alt="Sec 1 students Spreading the Joy during our annual service to the community during Chinese New Year." src="/images/Sec%201%20students%202.png">  
   
   
 <figcaption style="text-align:center;">Sec 1 students Spreading the Joy during our annual service to the community during Chinese New Year.</figcaption> 
