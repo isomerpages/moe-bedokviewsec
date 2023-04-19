@@ -61,8 +61,7 @@ Happy School Project in BV, where students have an opportunity to improve the sc
 <img style="width:80%" src="/images/our%20sec%204%20&amp;%205.png">
 Our Secondary 4 &amp; 5 students hosting the elderly from Rainbow Multiservice Center as well as our APSN Katong School students during our annual Chinese New Year celebrations.
 
-![Many VIA projects still managed to be executed with safe management measures in place.](/images/In%20light%20of%20restrictions.png)
-<img style="width:80%" src="NOOO">
+<img style="width:80%" src="/images/In%20light%20of%20restrictions.png">
 In light of restrictions with the pandemic, many VIA projects still managed to be executed with safe management measures in place. For example, the collage above shows students packing items to be donated towards the Willing Hearts Charity Foundation.
 
 <style>  
@@ -80,7 +79,7 @@ img {
 <img style="width:80%" src="/images/Bedok%20Viewans%20finding%20out2.jpg">
 Bedok Viewans finding out more about the needs of Bedok SUN-DAC Centre during the BV-VIA Marketplace
 
-![Sec 5 students imparting life-skills like tooth-brushing to our APSN Katong School students.](/images/sec%205%20students%20imparting%20skills.png)
+<img style="width:80%" src="/images/sec%205%20students%20imparting%20skills.png">
 Sec 5 students imparting life-skills like tooth-brushing to our APSN Katong School students.
 
 <img style="width:75%" src="/images/Our%20Sec%204%20students.jpg">
