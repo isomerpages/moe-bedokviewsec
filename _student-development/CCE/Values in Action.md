@@ -72,13 +72,12 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" alt="Bedok Viewans finding out more about the needs of Make A Wish Foundation" src="/images/Bedok%20Viewans%20finding%20out.jpg">  
+<img style="width:60%;" alt="Bedok Viewans finding out more about the needs of Make A Wish Foundation" src="/images/Bedok%20Viewans%20finding%20out.jpg">  
   
 <p style="text-align:center;">Bedok Viewans finding out more about the needs of Make A Wish Foundation and their beneficiaries during the BV-VIA Marketplace</p> 
 
 
-
-![Bedok Viewans finding out more about the needs of Bedok SUN-DAC Centre during the BV-VIA Marketplace](/images/Bedok%20Viewans%20finding%20out2.jpg)
+<img style="width:80%" src="/images/Bedok%20Viewans%20finding%20out2.jpg">
 Bedok Viewans finding out more about the needs of Bedok SUN-DAC Centre during the BV-VIA Marketplace
 
 ![Sec 5 students imparting life-skills like tooth-brushing to our APSN Katong School students.](/images/sec%205%20students%20imparting%20skills.png)
