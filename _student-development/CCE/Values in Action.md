@@ -63,8 +63,18 @@ Our Secondary 4 &amp; 5 students hosting the elderly from Rainbow Multiservice C
 ![Many VIA projects still managed to be executed with safe management measures in place.](/images/In%20light%20of%20restrictions.png)
 In light of restrictions with the pandemic, many VIA projects still managed to be executed with safe management measures in place. For example, the collage above shows students packing items to be donated towards the Willing Hearts Charity Foundation.
 
-![Bedok Viewans finding out more about the needs of Make A Wish Foundation](/images/Bedok%20Viewans%20finding%20out.jpg)
-Bedok Viewans finding out more about the needs of Make A Wish Foundation and their beneficiaries during the BV-VIA Marketplace
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img style="width:70%;" alt="Bedok Viewans finding out more about the needs of Make A Wish Foundation" src="/images/Bedok%20Viewans%20finding%20out.jpg">  
+  
+  
+<figcaption style="text-align:center;">Bedok Viewans finding out more about the needs of Make A Wish Foundation and their beneficiaries during the BV-VIA Marketplace</figcaption> 
+
 
 
 ![Bedok Viewans finding out more about the needs of Bedok SUN-DAC Centre during the BV-VIA Marketplace](/images/Bedok%20Viewans%20finding%20out2.jpg)
