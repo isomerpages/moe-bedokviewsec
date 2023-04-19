@@ -73,7 +73,7 @@ img {
 <img style="width:70%;" alt="Bedok Viewans finding out more about the needs of Make A Wish Foundation" src="/images/Bedok%20Viewans%20finding%20out.jpg">  
   
   
-<figcaption style="text-align:center;">Bedok Viewans finding out more about the needs of Make A Wish Foundation and their beneficiaries during the BV-VIA Marketplace</figcaption> 
+<p style="text-align:center;">Bedok Viewans finding out more about the needs of Make A Wish Foundation and their beneficiaries during the BV-VIA Marketplace</p> 
 
 
 
