@@ -45,15 +45,16 @@ img {
   
 <figcaption style="text-align:center;">Sec 1 students Spreading the Joy during our annual service to the community during Chinese New Year.</figcaption> 
 
-![Happy School Project in BV](/images/Happy%20School%20Project.png)
+<img style="width:80%" src="/images/Happy%20School%20Project.png">
 
-![Happy School Project in BV](/images/Happy%20School%20Project2.png)
+<img style="width:80%" src="/images/Happy%20School%20Project2.png">
 
-![Happy School Project in BV](/images/Happy%20School%20Project3.png)
+<img style="width:80%" src="/images/Happy%20School%20Project3.png">
 
-![Happy School Project in BV](/images/Happy%20School%20Project4.jpg)
+<img style="width:80%" src="/images/Happy%20School%20Project4.jpg">
 
-![Happy School Project in BV](/images/Happy%20School%20Project5.jpg)
+<img style="width:80%" src="/images/Happy%20School%20Project5.jpg">
+
 Happy School Project in BV, where students have an opportunity to improve the school’s vibrancy. Through this platform, they also develop their sense of shared responsibility and respect for common spaces in the school.
 
 
