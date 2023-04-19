@@ -4,9 +4,9 @@ permalink: /student-development/character-and-citizenship-education-cce/values-i
 description: ""
 third_nav_title: CCE
 ---
-![Values in Action framework](/images/Values%20in%20Action%20framework.jpg)
+<img style="width:70%" src="/images/Values%20in%20Action%20framework.jpg">
 
-The Values in Action programme is an integral part of the holistic education which every Bedok Viewan receives. It is an example of a **key Student Development Experience (SDE)** and forms an important component of Character & Citizenship Education, where opportunities are provided for moral action. The VIA programme in Bedok View adopts the **Head, Heart, Hand** approach which is central to this framework: 
+The Values in Action programme is an integral part of the holistic education which every Bedok Viewan receives. It is an example of a **key Student Development Experience (SDE)** and forms an important component of Character &amp; Citizenship Education, where opportunities are provided for moral action. The VIA programme in Bedok View adopts the **Head, Heart, Hand** approach which is central to this framework: 
 
 (i)	**Head**: Bedok Viewans learn to think critically about issues and arrive at a deeper understanding of the challenges facing Singapore. <br>
 (ii)	**Heart**: Bedok Viewans learn to empathise with the needs of others and have a deeper sense of compassion. <br>
@@ -20,13 +20,13 @@ Bedok Viewans contribute to the society in various ways:
 
 As for the stages of planning and implementation of the VIA projects, Bedok Viewans adopt the RRR process: 
 
-(i)	**Ready**: Project Planning & Preparation where students identify their learning goals and needs of the community <br>
+(i)	**Ready**: Project Planning &amp; Preparation where students identify their learning goals and needs of the community <br>
 (ii)	**Render**: Project Implementation where students undergo conscious learning and execute their projects and <br>
 (iii)	**Reflect**: Post-Project Reflection where students will think about how they can improve and reinforce their learning.
 
 The VIA programme supports students’ development as socially responsible students who contribute meaningfully to the community, through the learning and application of knowledge, skills and values. With values-driven co-curricular programmes in place, Bedok Viewans participate actively in meaningful VIA projects organised by the school or initiated by the class/ CCA/ individuals. The scope of projects for the programme is wide and varied, ranging from VIA projects carried out within the school **(Care for the School- Secondary Ones)** to those conserving the environment **(Care for the Environment- Secondary Twos)**, serving the community **(Care for the Community- Upper Secondary)** as well as the nation **(Care for the Nation- Upper Secondary)**. 
 
-As an integral part of Character & Citizenship Education, VIA involves school leaders, staff and students working together in synergy to realise the school’s mission to 'Nurture Students, Transform Lives and Serve the Nation'.  In conclusion, this framework illuminates the path for Bedok Viewans to learn the value of giving back to society, while acquiring the values and the 21st century competencies: a confident person, self-directed learner, concerned citizen and active contributor.
+As an integral part of Character &amp; Citizenship Education, VIA involves school leaders, staff and students working together in synergy to realise the school’s mission to 'Nurture Students, Transform Lives and Serve the Nation'.  In conclusion, this framework illuminates the path for Bedok Viewans to learn the value of giving back to society, while acquiring the values and the 21st century competencies: a confident person, self-directed learner, concerned citizen and active contributor.
 
 ![Please refer to these supporting photographs to understand more about VIA@BV.](/images/please%20refer.png)
 Please refer to these supporting photographs to understand more about VIA@BV.
@@ -48,8 +48,8 @@ Sec 1 students Spreading the Joy during our annual service to the community duri
 Happy School Project in BV, where students have an opportunity to improve the school’s vibrancy. Through this platform, they also develop their sense of shared responsibility and respect for common spaces in the school.
 
 
-![Our Secondary 4 & 5 students hosting the elderly from Rainbow Multiservice Center](/images/our%20sec%204%20&%205.png)
-Our Secondary 4 & 5 students hosting the elderly from Rainbow Multiservice Center as well as our APSN Katong School students during our annual Chinese New Year celebrations.
+![Our Secondary 4 &amp; 5 students hosting the elderly from Rainbow Multiservice Center](/images/our%20sec%204%20&amp;%205.png)
+Our Secondary 4 &amp; 5 students hosting the elderly from Rainbow Multiservice Center as well as our APSN Katong School students during our annual Chinese New Year celebrations.
 
 ![Many VIA projects still managed to be executed with safe management measures in place.](/images/In%20light%20of%20restrictions.png)
 In light of restrictions with the pandemic, many VIA projects still managed to be executed with safe management measures in place. For example, the collage above shows students packing items to be donated towards the Willing Hearts Charity Foundation.
@@ -80,4 +80,3 @@ We also provide opportunities for students to contribute meaningfully to the com
 We have a sustained partnership with APSN Katong in the programme **BV Connects**. Our Bedok Viewans befriend students from APSN and this provides the opportunity for them to learn the importance of social integration and inclusivity. BV also partners South East Community Development Council in several initiatives such as the Community Laboratory Project.
 
 In the annual **BV Values In Action Marketplace**, voluntary welfare organisations (VWO) share with students their missions, beneficiary profiles and needs. Through open conversations and sharing, students develop greater awareness about the needy and underprivileged as well as connect with VWOs they are keen to carry out meaningful VIA projects with. In meeting the needs of the Bedok community, Bedok Viewans learn the importance of the value of Service.
-
