@@ -4,7 +4,7 @@ permalink: /student-development/character-and-citizenship-education-cce/values-i
 description: ""
 third_nav_title: CCE
 ---
-<img style="width:70%" src="/images/Values%20in%20Action%20framework.jpg">
+<img style="width:75%" src="/images/Values%20in%20Action%20framework.jpg">
 
 The Values in Action programme is an integral part of the holistic education which every Bedok Viewan receives. It is an example of a **key Student Development Experience (SDE)** and forms an important component of Character &amp; Citizenship Education, where opportunities are provided for moral action. The VIA programme in Bedok View adopts the **Head, Heart, Hand** approach which is central to this framework: 
 
