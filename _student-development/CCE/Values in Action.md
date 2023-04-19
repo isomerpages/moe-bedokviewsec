@@ -82,7 +82,7 @@ In addition to the above, opportunities such as a BV-VIA@Home Challenge was offe
 
 ![BV-VIA@Home Challenge](/images/BV-VIA@Home%20Challenge2.png)
 
-**Community Youth Leadership in BV**
+**<u>Community Youth Leadership in BV</u>**
 
 We also provide opportunities for students to contribute meaningfully to the community by engaging various community stakeholders.
 
