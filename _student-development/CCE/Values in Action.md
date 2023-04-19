@@ -83,7 +83,7 @@ Bedok Viewans finding out more about the needs of Bedok SUN-DAC Centre during th
 ![Sec 5 students imparting life-skills like tooth-brushing to our APSN Katong School students.](/images/sec%205%20students%20imparting%20skills.png)
 Sec 5 students imparting life-skills like tooth-brushing to our APSN Katong School students.
 
-![Our Sec 4 students helping to engage the residents of the community in Bedok SUNDAC Centre](/images/Our%20Sec%204%20students.jpg)
+<img style="width:75%" src="/images/Our%20Sec%204%20students.jpg">
 Our Sec 4 students helping to engage the residents of the community in Bedok SUNDAC Centre
 
 In addition to the above, opportunities such as a BV-VIA@Home Challenge was offered to remind students of the importance of contributing meaningfully.
