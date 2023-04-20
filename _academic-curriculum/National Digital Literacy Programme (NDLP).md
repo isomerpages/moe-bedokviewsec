@@ -30,8 +30,6 @@ Dear Parents,please click the following link (to be released after 16 Jan 2023)&
 
 **3 \. Cyber Wellness** 
 
-https://www.moe.gov.sg/programmes/cyber-wellness/ <br> **(link not working!)**<br>
-
 [https://go.gov.sg/better-internet-sg](https://www.betterinternet.sg/Resources/Resources-Listing?topic=everything&amp;persona=parents)
 
 **4 \. Important Contacts/ Helplines**
@@ -103,7 +101,7 @@ devices.
 
 #### PDLP Student Device Information Kit
 
-\*\*\*To be updated for 2023\*\*\*
+Click here to download
 
 ### DMA Options ( Using Mobile Guardian)
 
