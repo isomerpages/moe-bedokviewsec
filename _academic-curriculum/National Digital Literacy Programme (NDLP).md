@@ -89,15 +89,12 @@ School will have a pool of devices for students to loan&nbsp;for use in the mean
 You will need to bring your device for assessment of the following:  
 – device should not be older than 4 years from manufacturing date;  
 – battery should hold charge for at least 4 hours;  
-– comparable form factor to school’s bulk tender devices (e.g. touchscreen,  
-physical keyboard);  
+– comparable form factor to school’s bulk tender devices (e.g. touchscreen,  physical keyboard);  
 – comparable features to school’s bulk tender devices (e.g. inking if school  
 programme requires students to use free hand writing or sketching);  
 – comparable performance to school’s bulk tender devices  
   
-Do note a&nbsp;**factory reset of your device may be required**&nbsp;for installation of the  
-Device Management Application, which is compulsory for all students' learning  
-devices.
+Do note a&nbsp;**factory reset of your device may be required**&nbsp;for installation of the Device Management Application, which is compulsory for all students' learning  devices.
 
 #### PDLP Student Device Information Kit
 
