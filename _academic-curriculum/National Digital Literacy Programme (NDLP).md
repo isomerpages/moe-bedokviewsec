@@ -101,7 +101,7 @@ devices.
 
 #### PDLP Student Device Information Kit
 
-Click here to download
+[Click here to download](/files/pdlp%20student%20device%20information%20kit%202023.pdf)
 
 ### DMA Options ( Using Mobile Guardian)
 
