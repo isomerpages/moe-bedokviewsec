@@ -30,8 +30,6 @@ Dear Parents,please click the following link (to be released after 16 Jan 2023)&
 
 **3 \. Cyber Wellness** 
 
-https://www.moe.gov.sg/programmes/cyber-wellness/ <br> **(link not working!)**<br>
-
 [https://go.gov.sg/better-internet-sg](https://www.betterinternet.sg/Resources/Resources-Listing?topic=everything&amp;persona=parents)
 
 **4 \. Important Contacts/ Helplines**
@@ -91,19 +89,16 @@ School will have a pool of devices for students to loan&nbsp;for use in the mean
 You will need to bring your device for assessment of the following:  
 – device should not be older than 4 years from manufacturing date;  
 – battery should hold charge for at least 4 hours;  
-– comparable form factor to school’s bulk tender devices (e.g. touchscreen,  
-physical keyboard);  
+– comparable form factor to school’s bulk tender devices (e.g. touchscreen,  physical keyboard);  
 – comparable features to school’s bulk tender devices (e.g. inking if school  
 programme requires students to use free hand writing or sketching);  
 – comparable performance to school’s bulk tender devices  
   
-Do note a&nbsp;**factory reset of your device may be required**&nbsp;for installation of the  
-Device Management Application, which is compulsory for all students' learning  
-devices.
+Do note a&nbsp;**factory reset of your device may be required**&nbsp;for installation of the Device Management Application, which is compulsory for all students' learning  devices.
 
 #### PDLP Student Device Information Kit
 
-\*\*\*To be updated for 2023\*\*\*
+[Click here to download](/files/pdlp%20student%20device%20information%20kit%202023.pdf)
 
 ### DMA Options ( Using Mobile Guardian)
 

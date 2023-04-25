@@ -8,7 +8,7 @@ third_nav_title: Uniformed Groups
 
 <div class="bp-youtube">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W2f90lIdDuY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W2f90lIdDuY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 </div>
 
@@ -54,14 +54,14 @@ Miss Ng Han Yi
 </tbody>
 </table>
 
-### CCA Overview & Highlights
+### CCA Overview &amp; Highlights
 The National Cadet Corps (NCC) Girls’ unit aims to develop responsible and resilient leaders and team players through fun and challenging activities. We hope to develop the girls to become self-motivated, with resilient minds, fit bodies and committed hearts to serve the unit, school and nation.
 
 During training, the cadets are involved in drills, physical training and sports activities that help to increase their fitness levels and develop discipline. They also learn military-related skills and knowledge such as the handling of the SAR21 rifle, marksmanship, orienteering, individual fieldcraft and urban operations.
 
-The unit has received many achievements over the years. Our unit has been awarded Distinction for the NCC Unit Recognition award in 2021. In 2019, our Freestyle Drill (FSD) team emerged as champions in the 11th NCC Freestyle Exhibition Drill Competition (East District) and our team of senior cadets came in first place in the Orienteering Competition. 
+The unit has received many achievements over the years. Our unit has been awarded Distinction for the NCC Unit Recognition award in 2021. In 2019, our Freestyle Drill (FSD) team emerged as champions in the 11th NCC Freestyle Exhibition Drill Competition (East District) and our team of senior cadets came in first place in the Orienteering Competition.&nbsp;
 
-In 2022, with the resumption of many activities, the cadets got to enjoy the combined UG camp conducted in Bedok View and NCC HQ activities such as Camp FORGE and Camp STEEL, the Senior Specialist Leaders’ Course, Sports and Games Competitions, Orienteering Competition and Cluster Training sessions. These activities have allowed the girls to pick up new skills and  to interact with other schools’ NCC cadets and also cadets from other UGs.
+In 2022, with the resumption of many activities, the cadets got to enjoy the combined UG camp conducted in Bedok View and NCC HQ activities such as Camp FORGE and Camp STEEL, the Senior Specialist Leaders’ Course, Sports and Games Competitions, Orienteering Competition and Cluster Training sessions. These activities have allowed the girls to pick up new skills and&nbsp; to interact with other schools’ NCC cadets and also cadets from other UGs.
 
 <figure>
 <img src="/images/NCC_01.jpg" style="width:90%">
