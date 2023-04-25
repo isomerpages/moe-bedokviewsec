@@ -14,20 +14,13 @@ It is our vision to develop every Bedok Viewan to be a Learner who Learns for Li
 
 We welcome students who demonstrate a strong passion and strength in the following domains.
 
-1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Student Leadership
-
-2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Media/Journalism
-
-3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Photography/Videography
-
-4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sports (Badminton – Boys)
-
-5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sports (Basketball – Boys &amp; Girls)
-
-6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sports (Football – Boys)
-
-7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sports (Netball – Girls)
-
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Student Leadership<br>
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Media/Journalism<br>
+3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Photography/Videography<br>
+4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sports (Badminton – Boys)<br>
+5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sports (Basketball – Boys &amp; Girls)<br>
+6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sports (Football – Boys)<br>
+7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sports (Netball – Girls)<br>
 8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sports (Track &amp; Field – Boys &amp; Girls)
 
 **Description and Criteria**
