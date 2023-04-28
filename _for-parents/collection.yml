@@ -1,5 +1,5 @@
 collections:
-  partnerships:
+  for-parents:
     output: true
     order:
       - Partnerships.md
