@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Identity.md
       - Principal's Welcome Message.md
       - History.md
       - School Mission, Vision and Values.md
