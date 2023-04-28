@@ -2,6 +2,5 @@ collections:
   for-parents:
     output: true
     order:
-      - Partnerships.md
       - Parent Support Group (PSG).md
       - Info for Parents and Students.md
