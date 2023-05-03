@@ -4,13 +4,12 @@ permalink: /about-us/direct-school-admission-dsa/
 description: ""
 ---
 ### Direct School Admission (For 2023 Intake)
-
        
 Thank you for considering Bedok View Secondary School.
-
+<br><br>
 It is our vision to develop every Bedok Viewan to be a Learner who Learns for Life and a Leader who Lights the Way. We hope that you will join our BV family to be a shining beacon to light the way for your peers and the larger community.
 
-**DSA Categories**
+##### DSA Categories
 
 We welcome students who demonstrate a strong passion and strength in the following domains.
 
@@ -23,7 +22,7 @@ We welcome students who demonstrate a strong passion and strength in the followi
 7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sports (Netball – Girls)<br>
 8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sports (Track &amp; Field – Boys &amp; Girls)
 
-**1. Description and Criteria**
+##### 1. Description and Criteria
 
 <u>Student Leadership</u>
 
@@ -43,14 +42,10 @@ Parents and students are encouraged to choose schools wisely based on the studen
 
 Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4.
 
-**2. Selection Process**
+##### [2. Selection Process](/files/selection%20criteria%20for%20dsa%20(bedok%20view%20sec).pdf)
 
-      
-Candidates will be shortlisted based on their track records which includes the following:
 
-![](/images/dsa%20selection%20criteria.png)
-
-**3. Key Dates**
+##### 3. Key Dates
 
 |  |  |
 | -------- | -------- |
