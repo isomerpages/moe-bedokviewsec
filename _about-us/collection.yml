@@ -3,11 +3,12 @@ collections:
     output: true
     order:
       - Principal's Welcome Message.md
-      - History.md
+      - Our History.md
+      - Our Identity.md
       - School Mission, Vision and Values.md
       - School Motto.md
       - School Crest, Colours and School Song.md
-      - School Advisory Committee (SAC).md
+      - Our People/School Advisory Committee.md
       - Our People/.keep
       - Our People/School Management Committee.md
       - Our People/Senior Teachers.md
@@ -15,8 +16,3 @@ collections:
       - Our People/Form Teachers (Sec 2).md
       - Our People/Form Teachers (Sec 3).md
       - Our People/Form Teachers (Sec 4 & 5).md
-      - Our Contact.md
-      - Direct School Admission (DSA).md
-      - E Prospectus.md
-      - E Open House 2022.md
-      - School Corporate Video.md

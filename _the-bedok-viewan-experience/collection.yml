@@ -1,5 +1,5 @@
 collections:
-  student-development:
+  the-bedok-viewan-experience:
     output: true
     order:
       - Student Development.md

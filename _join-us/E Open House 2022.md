@@ -11,7 +11,7 @@ description: ""
 
 <div class="bp-youtube">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Efu3sg3usAU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Efu3sg3usAU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 </div>
 
@@ -19,73 +19,73 @@ description: ""
 
 Click on the following to learn about each of the reasons!
 
-<html>
-<body>
+
+
 <p><a href="/academic-curriculum/applied-learning-programme-alp">
-<img src="/images/5%20Reasons%20logo%207.png"  style="width:35%">
+<img src="/images/5%20Reasons%20logo%207.png" style="width:35%">
 </a></p>
-</body>
-</html>
 
-<html>
-<body>
+
+
+
+
 <p><a href="/student-development/learning-for-life-programme-llp">
-<img src="/images/5%20Reasons%20logo%208.png"  style="width:35%">
+<img src="/images/5%20Reasons%20logo%208.png" style="width:35%">
 </a></p>
-</body>
-</html>
 
-<html>
-<body>
+
+
+
+
 <p><a href="/student-development/student-leadership">
-<img src="/images/5%20Reasons%20logo%2012.png"  style="width:35%">
+<img src="/images/5%20Reasons%20logo%2012.png" style="width:35%">
 </a></p>
-</body>
-</html>
 
-<html>
-<body>
+
+
+
+
 <p><a href="/cca/cca-attainment-leaps-2-0">
-<img src="/images/5%20Reasons%20logo%2015.png"  style="width:35%">
+<img src="/images/5%20Reasons%20logo%2015.png" style="width:35%">
 </a></p>
-</body>
-</html>
 
-<html>
-<body>
+
+
+
+
 <p><a href="/about-us/our-people/school-management-committee">
-<img src="/images/5%20Reasons%20logo%2014.png"  style="width:35%">
+<img src="/images/5%20Reasons%20logo%2014.png" style="width:35%">
 </a></p>
-</body>
-</html>
+
+
 
 <h4 style="color:orange" align="center">Navigation Bar</h4>
 
 <p><a href="https://www.ezhishi.net/CKPSebook2022/">
-<img style="width:30%" align=left src="/images/Navigation logos 1.png">
+<img style="width:30%" align="left" src="/images/Navigation logos 1.png">
 </a></p>
 
 <p><a href="https://www.ezhishi.net/CKPSebook2022/">
-<img style="width:30%" align=left src="/images/Navigation logos 2.png">
+<img style="width:30%" align="left" src="/images/Navigation logos 2.png">
 </a></p>
 
 <p><a href="https://www.ezhishi.net/CKPSebook2022/">
-<img style="width:30%" align=left src="/images/Navigation logos 3.png">
+<img style="width:30%" align="left" src="/images/Navigation logos 3.png">
 </a></p>
-<br clear=left>
+<br clear="left">
 
 <p><a href="/cca/cca-orientation/">
-<img style="width:30%" align=left src="/images/Navigation logos 4.png">
+<img style="width:30%" align="left" src="/images/Navigation logos 4.png">
 </a></p>
 
 <p><a href="https://www.ezhishi.net/CKPSebook2022/">
-<img style="width:30%" align=left src="/images/Navigation logos 5.png">
+<img style="width:30%" align="left" src="/images/Navigation logos 5.png">
 </a></p>
 
 <p><a href="/about-us/e-prospectus/">
-<img style="width:30%" align=left src="/images/Navigation logos 6.png">
+<img style="width:30%" align="left" src="/images/Navigation logos 6.png">
 </a></p>
-<br clear=left>
+<br clear="left">
 
 **Broken Links**
 
@@ -96,30 +96,30 @@ Click on the following to learn about each of the reasons!
 <p style="text-align:center;"><strong>Click on the following videos where our students, teachers, alumni and PSG share about their BV experience!</strong></p>
 
 <p><a href="https://www.youtube.com/watch?v=eqCw3YzVexI">
-<img style="width:30%" align=left src="/images/Video logos 2.png">
+<img style="width:30%" align="left" src="/images/Video logos 2.png">
 </a></p>
 
 <p><a href="https://www.youtube.com/watch?v=D5OFUs2D4Vk">
-<img style="width:30%" align=left src="/images/Video logos 4.png">
+<img style="width:30%" align="left" src="/images/Video logos 4.png">
 </a></p>
 
 <p><a href="https://www.youtube.com/watch?v=sihOB2o4Wm8">
-<img style="width:30%" align=left src="/images/Video logos 3.png">
+<img style="width:30%" align="left" src="/images/Video logos 3.png">
 </a></p>
-<br clear=left>
+<br clear="left">
 
 <p><a href="https://www.youtube.com/watch?v=q5lNT0gau1E">
-<img style="width:30%" align=left src="/images/Video logos 7.png">
+<img style="width:30%" align="left" src="/images/Video logos 7.png">
 </a></p>
 
-<p><a href="https://www.youtube.com/watch?v=wF6qayJkyUM&t=1s">
-<img style="width:30%" align=left src="/images/Video logos 6.png">
+<p><a href="https://www.youtube.com/watch?v=wF6qayJkyUM&amp;t=1s">
+<img style="width:30%" align="left" src="/images/Video logos 6.png">
 </a></p>
 
 <p><a href="https://www.youtube.com/watch?v=8bPFe5jl5pw">
-<img style="width:30%" align=left src="/images/Video logos 8.png">
+<img style="width:30%" align="left" src="/images/Video logos 8.png">
 </a></p>
-<br clear=left>
+<br clear="left">
 
 <p><a href="https://www.youtube.com/watch?v=KiU17YtgOrc">
 <img style="width:30%" src="/images/Video logos 9.png">
