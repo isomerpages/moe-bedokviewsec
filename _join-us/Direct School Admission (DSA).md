@@ -50,14 +50,6 @@ Candidates will be shortlisted based on their track records which includes the f
 
 ![](/images/dsa%20selection%20criteria.png)
 
-
-
-
-
-
-
-
-
 **3. Key Dates**
 
 |  |  |
