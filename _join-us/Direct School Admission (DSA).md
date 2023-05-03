@@ -51,45 +51,8 @@ Candidates will be shortlisted based on their track records which includes the f
 ![](/images/dsa%20selection%20criteria.png)
 
 
-<table border="1|0">
-	<tbody><tr>
-		<td>
-			Talent Area
-		</td>
-			<td>
-			Test 2
-		</td>
-		<td>
-			Test 3
-		</td>
-	</tr>
-	<tr>
-		<td>
-			Test
-		</td>
-			<td>
-			Test 2
-		</td>
-		<td>
-			Test 3
-		</td>
-	</tr>
-	<tr>
-		<td>
-			Test
-		</td>
-			<td>
-			Test 2
-		</td>
-		<td>
-			Test 3
-		</td>
-	</tr>
-	</tbody></table>
 
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
+
 
 
 
@@ -97,11 +60,23 @@ Candidates will be shortlisted based on their track records which includes the f
 
 **3. Key Dates**
 
+|  |  |
+| -------- | -------- |
+| 19 April 2023    | School website update on talent areas.     |
+| 3 May 2023    | DSA-Sec Press Release by MOE.     |
+| 4 May to 31 May 2023   | <b><u>Centralised DSA-Sec Application Process</u></b><br><br> Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from <b>4 May 2023, 11.00 am to 31 May 2023, 3.00 pm. </b><br><br> For more details, please refer to MOE website – http://www.moe.gov.sg/dsa-sec.|
+| By 26 June 2023    | Short-listed applicants will be notified.     |
+| Between 3 July to 11 September 2023    | Interview sessions/trials will be carried out at Bedok View Secondary School.     |
+| Between 11 - 14 September 2023    | All applicants will receive a reply from school on the outcome of their applications: (i) Confirmed Offer (CO), (ii) Wait List (WL) or (iii) Unsuccessful)     |
+| 23 October to 27 October 2023    | <b><u>School Preference Submission</u></b><br><br> Students who receive at least one DSA-Sec offer (including from SOTA) will receive email and SMS notification via Postman.gov.sg on the School Preference Submission in mid-Oct 2021. <b>Both parents are required to login to the DSA-Sec Portal using their Singpass to submit up to three school preferences.</b> If parents are unable to submit online, they can approach their child’s primary school for assistance to submit the school preferences on their behalf. DSA-Sec offers not taken up will be considered as lapsed at the end of the School Preference Submission period. Some students may receive concurrent offers from DSA-Sec schools and Singapore Sports School (SSP). Students who wish to accept the SSP offer should not submit their DSA-Sec school preferences. If they do so, their earlier SSP offer <u>will be void.</u> Students who wish to accept the SSP offer should also continue to take part in the S1 Posting.     |
+| By end November 2023 (tentative)    | Release of DSA-Sec Allocation Results.     |
+
+
 **Successful DSA-Sec Students**.
 
-Those who took PSLE but were successful in the DSA-Sec are **NOT** allowed to participate in the S1 Posting as they are expected to honour the commitment made to the DSA-Sec school when they exercised their CO or WL offer. However, if they are eligible for third language and/or course options, they may enter these options during the School Choice Submission period.
+Those who took PSLE but were successful in the DSA-Sec are <u><b>NOT</b></u> allowed to participate in the S1 Posting as they are expected to honour the commitment made to the DSA-Sec school when they exercised their CO or WL offer. However, if they are eligible for third language and/or course options, they may enter these options during the School Choice Submission period.
 
-Students are also **NOT** allowed to transfer to another school after the release of the PSLE results. They are expected to honour the commitment to the posted DSA schools for the duration of the programme they are admitted to.
+Students are also <u><b>NOT</b></u> allowed to transfer to another school after the release of the PSLE results. They are expected to honour the commitment to the posted DSA schools for the duration of the programme they are admitted to.
 
 Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
 
