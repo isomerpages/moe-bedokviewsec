@@ -51,11 +51,6 @@ Candidates will be shortlisted based on their track records which includes the f
 ![](/images/dsa%20selection%20criteria.png)
 
 
-
-
-
-
-
 <table border="1|0">
 	<tbody><tr>
 		<td>
@@ -99,106 +94,23 @@ Candidates will be shortlisted based on their track records which includes the f
 
 
 
-| 
-**Talent Area**
-
- | 
-
-**CCA/Leadership Experience**
-
- | 
-
-**Selection Criteria**
-
- | 
-
-**Selection Process**
-
- |
-| --- | --- | --- | --- |
-| 
-
-Student Leadership
-
- | 
-
-e.g. Student Council, Prefectorial Board, Sports Captain, Class Committee, Peer Support Leader
-
- | 
-
-i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Leadership in service to school and community (e.g led in class VIA activity, co-organised cohort/class activity)
-
-ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conduct Grade of at least Very Good
-
-iii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Be passionate to serve
-
-iv.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Be a confident communicator and good team player
-
- | 
-
-Shortlisted applicants will be required to undergo an interview
-
- |
-| 
-
-1.&nbsp;&nbsp;&nbsp;&nbsp; Media/ Journalism
-
-2.&nbsp;&nbsp;&nbsp;&nbsp; Photography/ Videography
-
- | 
-
-e.g. Media Journalism Club, Info-Communication Club, Photography Club
-
- | 
-
-i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Experience with media and journalism related programmes (community service or enrichment programmes using media tools or researching and writing articles)
-
-ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conduct Grade of at least Very Good
-
-iii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Relevant samples of writing / photos / videos done by the student will be useful, if available.
-
- | 
-
-Shortlisted applicants will be required to undergo an interview
-
- |
-| 
-
-1.&nbsp;&nbsp; Badminton (Boys)
-
-2.&nbsp;&nbsp; Basketball (Boys &amp; Girls)
-
-3.&nbsp;&nbsp; Football (Boys)
-
-4.&nbsp;&nbsp; Netball (Girls)
-
-5.&nbsp;&nbsp; Track &amp; Field (Boys &amp; Girls)
-
- | 
-
-Relevant sports experience e.g. Badminton, Basketball, Football, Netball, Track &amp; Field
-
- | 
-
-i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Strong passion and aptitude in a specific sport. Student must demonstrate a relatively high level of skill and interest in the particular sport for which they are applying for
-
-ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conduct Grade of at least Very Good
-
-iii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Past participation and achievements in the relevant sport will be considered, if available.
-
- | 
-
-Shortlisted applicants will be required to undergo an interview and selection trials.
-
- |
-| 
-
-Meeting all the criteria does not guarantee the applicants will be shortlisted/given an offer.
-
- |
-
-The information provided is correct as of 3rd May 2023.
 
 **3. Key Dates**
 
-Details of the 2023 DSA timeline will be confirmed in early May 2023.
+**Successful DSA-Sec Students**.
+
+Those who took PSLE but were successful in the DSA-Sec are **NOT** allowed to participate in the S1 Posting as they are expected to honour the commitment made to the DSA-Sec school when they exercised their CO or WL offer. However, if they are eligible for third language and/or course options, they may enter these options during the School Choice Submission period.
+
+Students are also **NOT** allowed to transfer to another school after the release of the PSLE results. They are expected to honour the commitment to the posted DSA schools for the duration of the programme they are admitted to.
+
+Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
+
+**Unsuccessful DSA-Sec Students.**
+
+Students/parents will be notified of the allocation outcome and to participate in the S1 Posting to submit school choices.
+
+**Webinar for Parents on DSA at Bedok View**
+
+There will be a webinar on 26th May 2023 (1.00 to 2.00 pm) for parents who are interested to find out more about the DSA process at Bedok View Secondary School.&nbsp; Registration details and link to the webinar will be confirmed by mid-May.
+
+We thank you for your interest and we look forward to your application.
