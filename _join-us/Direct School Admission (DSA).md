@@ -23,7 +23,7 @@ We welcome students who demonstrate a strong passion and strength in the followi
 7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sports (Netball – Girls)<br>
 8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sports (Track &amp; Field – Boys &amp; Girls)
 
-**Description and Criteria**
+**1. Description and Criteria**
 
 <u>Student Leadership</u>
 
@@ -43,6 +43,162 @@ Parents and students are encouraged to choose schools wisely based on the studen
 
 Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from year 1-4.
 
-**Key Dates**
+**2. Selection Process**
+
+      
+Candidates will be shortlisted based on their track records which includes the following:
+
+![](/images/dsa%20selection%20criteria.png)
+
+
+
+
+
+
+
+<table border="1|0">
+	<tbody><tr>
+		<td>
+			Talent Area
+		</td>
+			<td>
+			Test 2
+		</td>
+		<td>
+			Test 3
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Test
+		</td>
+			<td>
+			Test 2
+		</td>
+		<td>
+			Test 3
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Test
+		</td>
+			<td>
+			Test 2
+		</td>
+		<td>
+			Test 3
+		</td>
+	</tr>
+	</tbody></table>
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
+
+
+
+| 
+**Talent Area**
+
+ | 
+
+**CCA/Leadership Experience**
+
+ | 
+
+**Selection Criteria**
+
+ | 
+
+**Selection Process**
+
+ |
+| --- | --- | --- | --- |
+| 
+
+Student Leadership
+
+ | 
+
+e.g. Student Council, Prefectorial Board, Sports Captain, Class Committee, Peer Support Leader
+
+ | 
+
+i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Leadership in service to school and community (e.g led in class VIA activity, co-organised cohort/class activity)
+
+ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conduct Grade of at least Very Good
+
+iii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Be passionate to serve
+
+iv.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Be a confident communicator and good team player
+
+ | 
+
+Shortlisted applicants will be required to undergo an interview
+
+ |
+| 
+
+1.&nbsp;&nbsp;&nbsp;&nbsp; Media/ Journalism
+
+2.&nbsp;&nbsp;&nbsp;&nbsp; Photography/ Videography
+
+ | 
+
+e.g. Media Journalism Club, Info-Communication Club, Photography Club
+
+ | 
+
+i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Experience with media and journalism related programmes (community service or enrichment programmes using media tools or researching and writing articles)
+
+ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conduct Grade of at least Very Good
+
+iii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Relevant samples of writing / photos / videos done by the student will be useful, if available.
+
+ | 
+
+Shortlisted applicants will be required to undergo an interview
+
+ |
+| 
+
+1.&nbsp;&nbsp; Badminton (Boys)
+
+2.&nbsp;&nbsp; Basketball (Boys &amp; Girls)
+
+3.&nbsp;&nbsp; Football (Boys)
+
+4.&nbsp;&nbsp; Netball (Girls)
+
+5.&nbsp;&nbsp; Track &amp; Field (Boys &amp; Girls)
+
+ | 
+
+Relevant sports experience e.g. Badminton, Basketball, Football, Netball, Track &amp; Field
+
+ | 
+
+i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Strong passion and aptitude in a specific sport. Student must demonstrate a relatively high level of skill and interest in the particular sport for which they are applying for
+
+ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conduct Grade of at least Very Good
+
+iii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Past participation and achievements in the relevant sport will be considered, if available.
+
+ | 
+
+Shortlisted applicants will be required to undergo an interview and selection trials.
+
+ |
+| 
+
+Meeting all the criteria does not guarantee the applicants will be shortlisted/given an offer.
+
+ |
+
+The information provided is correct as of 3rd May 2023.
+
+**3. Key Dates**
 
 Details of the 2023 DSA timeline will be confirmed in early May 2023.
