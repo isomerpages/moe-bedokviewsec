@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - CCA.md
       - CCA Attainment LEAPS 2.md
       - Uniformed Groups/.keep
       - Uniformed Groups/Uniformed Groups.md
