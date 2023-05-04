@@ -1,6 +1,6 @@
 ---
 title: Direct School Admission (DSA)
-permalink: /about-us/direct-school-admission-dsa/
+permalink: /join-us/direct-school-admission-dsa/
 description: ""
 ---
 ### Direct School Admission (For 2023 Intake)
@@ -54,8 +54,8 @@ Students who are successfully admitted to the school via DSA are expected to hon
 | 4 May to 31 May 2023   | <b><u>Centralised DSA-Sec Application Process</u></b><br><br> Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from <b>4 May 2023, 11.00 am to 31 May 2023, 3.00 pm. </b><br><br> For more details, please refer to MOE website – http://www.moe.gov.sg/dsa-sec.|
 | By 26 June 2023    | Short-listed applicants will be notified.     |
 | Between 3 July to 11 September 2023    | Interview sessions/trials will be carried out at Bedok View Secondary School.     |
-| Between 11 - 14 September 2023    | All applicants will receive a reply from school on the outcome of their applications: (i) Confirmed Offer (CO), (ii) Wait List (WL) or (iii) Unsuccessful)     |
-| 23 October to 27 October 2023    | <b><u>School Preference Submission</u></b><br><br> Students who receive at least one DSA-Sec offer (including from SOTA) will receive email and SMS notification via Postman.gov.sg on the School Preference Submission in mid-Oct 2021. <b>Both parents are required to login to the DSA-Sec Portal using their Singpass to submit up to three school preferences.</b> If parents are unable to submit online, they can approach their child’s primary school for assistance to submit the school preferences on their behalf. <br><br>DSA-Sec offers not taken up will be considered as lapsed at the end of the School Preference Submission period. <br><br>Some students may receive concurrent offers from DSA-Sec schools and Singapore Sports School (SSP). Students who wish to accept the SSP offer should not submit their DSA-Sec school preferences. If they do so, their earlier SSP offer <u>will be void.</u> Students who wish to accept the SSP offer should also continue to take part in the S1 Posting.     |
+| 11 September 2023    | All applicants will receive a reply from school on the outcome of their applications: (i) Confirmed Offer (CO), (ii) Wait List (WL) or (iii) Unsuccessful)     |
+| 23 October to 27 October 2023 (3pm)    | <b><u>School Preference Submission</u></b><br><br> Students who receive at least one DSA-Sec offer (including from SOTA) will receive email and SMS notification via Postman.gov.sg on the School Preference Submission in mid-Oct 2021. <b>Both parents are required to login to the DSA-Sec Portal using their Singpass to submit up to three school preferences.</b> If parents are unable to submit online, they can approach their child’s primary school for assistance to submit the school preferences on their behalf. <br><br>DSA-Sec offers not taken up will be considered as lapsed at the end of the School Preference Submission period. <br><br>Some students may receive concurrent offers from DSA-Sec schools and Singapore Sports School (SSP). Students who wish to accept the SSP offer should not submit their DSA-Sec school preferences. If they do so, their earlier SSP offer <u>will be void.</u> Students who wish to accept the SSP offer should also continue to take part in the S1 Posting.     |
 | By end November 2023 (tentative)    | Release of DSA-Sec Allocation Results.     |
 
 
