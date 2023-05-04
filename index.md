@@ -12,6 +12,9 @@ sections:
         - title: Achievements
           description: Click here for achievements!
           url: /achievements/co-curricular-activities-cca/
+        - title: DSA Information
+          description: Click here for DSA Information
+          url: https://www.bedokviewsec.moe.edu.sg/about-us/direct-school-admission-dsa/
         - title: Info for Parents and Students
           description: Click here for more
           url: partnerships/info-for-parents-and-students/
