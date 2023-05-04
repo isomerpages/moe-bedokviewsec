@@ -2,6 +2,7 @@ collections:
   the-bedok-viewan-experience:
     output: true
     order:
+      - CCA/CCA Attainment LEAPS 2.md
       - CCA/CCA.md
       - CCA/.keep
       - Student Development.md
