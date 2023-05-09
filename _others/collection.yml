@@ -2,6 +2,9 @@ collections:
   others:
     output: true
     order:
+      - School Crest, Colours and School Song.md
+      - School Motto.md
+      - School Mission, Vision and Values.md
       - CCA Orientation.md
       - Highlights.md
       - Banner Slider.md
