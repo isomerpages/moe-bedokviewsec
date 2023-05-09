@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/bvs22_0024-min.jpg
+      background: /images/bvs22_0204-min.jpg
       key_highlights:
         - title: Achievements
           description: Click here for achievements!
