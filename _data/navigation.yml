@@ -17,11 +17,9 @@ links:
     collection: join-us
   - title: The Bedok Viewan Experience
     collection: the-bedok-viewan-experience
-  - title: For Parents
-    collection: for-parents
+  - title: For Parents And Stakeholders
+    collection: for-parents-and-stakeholders
   - title: CCA
     collection: cca
   - title: ACHIEVEMENTS
     collection: achievements
-  - title: Contact Us
-    url: /contact-us/
