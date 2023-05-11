@@ -36,7 +36,7 @@ The Media/Journalism and Photography/Videography programmes in Bedok View Second
 
 The sports programme in Bedok View Secondary School are offered under the school’s CCA programme. Students selected under the Sports DSA categories will join the respective school sports CCA group. Through the CCA training programme, they will have various development platforms as well as competition opportunities through the National Schools Games.
 
-_The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at https://www.moe.gov.sg/dsa-sec_
+_The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)_
 
 Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
 
