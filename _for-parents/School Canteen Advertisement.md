@@ -24,7 +24,7 @@ description: ""
 
 * Address: 6 Bedok South Avenue 3, Singapore 469293
 * Contact No: 6443 9563
-* Email: bedokview_ss@moe.edu.sg
+* Email: [bedokview_ss@moe.edu.sg](bedokview_ss@moe.edu.sg)
 * Contact Person: Mdm Dorothy Leong  
 
 **How to get there?**
