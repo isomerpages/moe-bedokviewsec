@@ -1,5 +1,5 @@
 collections:
-  for-parents:
+  for-parents-and-stakeholders:
     output: true
     order:
       - Parent Support Group (PSG).md
