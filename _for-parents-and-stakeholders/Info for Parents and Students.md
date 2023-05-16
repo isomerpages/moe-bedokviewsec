@@ -3,6 +3,9 @@ title: Info for Parents and Students
 permalink: /partnerships/info-for-parents-and-students/
 description: ""
 ---
+**2023 End-of-Semester Activities Timetable <br>**
+[End-of-Semester Timetable](https://docs.google.com/spreadsheets/d/e/2PACX-1vSCMzkJaFbjN9jO-zyMAcI56RrIivIqh8Wsmtd3BL9Aigg1h8Q_IGAcHHrLvWKo7Vnzf5YipryUoUB9/pubhtml#)
+
 **GCE O-Level Examinations 2022 Results Release**<br>
 [GCE O-Level Examinations Results Release Briefing Slides](/files/Release%20of%202022%20GCE%20O-Level%20Exam%20Results.pdf)
 
