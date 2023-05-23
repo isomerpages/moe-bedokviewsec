@@ -15,35 +15,35 @@ The 2RISE &amp; Shine Award serves as a recognition platform to acknowledge Bedo
 | Capucine Xu Xin     |
 | Auni Eryna Binte Mohammed Reza     |
 | Afiq Fidaie Putera Sazali   |
-| Cai Xuan Ye     |
-| Kiang Kay En Charlotte     |
-| Ivan Toon     |
-| Chong Jia Xuan     |
-| Ng Mikayla     |
-| Koh Dun Yao     |
-| Yasmin Binte Ahmad Shahimi     |
-| Haney Marsha Binte Hirman     |
-| Muhammad Adam Sufi Bin Mohamed Nizam     |
-| Rashid Watson    |
-| Lancelot Ray Macaraeg Regalado     |
-| Ruan Qijie     |
-| Ho Yu Xuan Paige     |
-| Aksh Venugopal Nair     |
-| Lin Daowei Way    |
-| Cai Xuan Ye     |
-| Kiang Kay En Charlotte     |
-| Ivan Toon     |
-| Chong Jia Xuan     |
-| Ng Mikayla     |
-| Koh Dun Yao     |
-| Yasmin Binte Ahmad Shahimi     |
-| Haney Marsha Binte Hirman     |
-| Muhammad Adam Sufi Bin Mohamed Nizam     |
-| Rashid Watson    |
-| Lancelot Ray Macaraeg Regalado     |
-| Muhammad Adam Sufi Bin Mohamed Nizam     |
-| Rashid Watson    |
-| Lancelot Ray Macaraeg Regalado     |
+| Ryan Krishnan S/O Boongkannan    |
+| Farasha Rania Hafiz     |
+| Tye Julian Yee Jun     |
+| Claudia Fei Rou Ying     |
+| Lee Zhi Xuan     |
+| Vivian Tan Wan Yu     |
+| Sharifah Sumaiyah D/O Mohamed Rafe     |
+| Liang Jin Yuan Brayden      |
+| Poh Jing Kai     |
+| Ho Ziyuan, Brandon    |
+| Wu Jasmine Cassandra Shi     |
+| Prakash Babu Akshay     |
+| Li Yue    |
+| Tan Zong Yi, Zaccheus     |
+| Tan Ke Yang    |
+| Wong Tian An     |
+| Josiah Augustine Lin Zhi Yuan     |
+| Chiam Sui Ann Claire     |
+| Sharifah Zainab Binte Syed Mohamad Shahir Alsagoff     |
+| Sherleen Yee     |
+| Leng Zihan     |
+| Ethan Chua Boon Kang (Cai Wenkang)     |
+| Koon Wei Rong      |
+| Lee Hsish Yang     |
+| Ng Tian Hao    |
+| Mohamad Hilmi Bin Mohamad Hizzar     |
+| Justin Poh Jun Ming     |
+| Uwais Jailani Bin Muhammad Aminyn Jailani    |
+| Dylan Ang Zhi Sheng     |
 
 
 
@@ -64,4 +64,3 @@ The 2RISE &amp; Shine Award serves as a recognition platform to acknowledge Bedo
 | Muhammad Adam Sufi Bin Mohamed Nizam     |
 | Rashid Watson    |
 | Lancelot Ray Macaraeg Regalado     |
-
