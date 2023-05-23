@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Uniformed Groups/.keep
-      - Uniformed Groups/National Cadet Corps (NCC) Land Girls.md
       - Uniformed Groups/National Police Cadet Corps (NPCC) Boys.md
       - Sports/.keep
       - Sports/Sports.md
