@@ -9,6 +9,18 @@ third_nav_title: Our Achievements
 
 The 2RISE &amp; Shine Award serves as a recognition platform to acknowledge Bedok Viewans who have demonstrated the school values through little good deeds in their daily lives. These deeds reflect our school's 2RISE values of Respect, Responsibility, Integrity, Service and Excellence. This allows the school to emphasise on consistent and coherent messaging on CCE.
 
+| <center> March 2023 Winners </center> |
+| -------- |
+| Dion Lee Di Ao     |
+| Nur Dania Alisha Binte Fuadi     |
+| Dion Lee Di Ao     |
+| Dion Lee Di Ao     |
+| Dion Lee Di Ao     |
+| Dion Lee Di Ao     |
+| Dion Lee Di Ao     |
+| Dion Lee Di Ao     |
+
+
 | <center> February 2023 Winners </center> |
 | -------- |
 | Qaisara Mohamed Rozlee     |
