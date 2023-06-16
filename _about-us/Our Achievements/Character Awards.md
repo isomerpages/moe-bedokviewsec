@@ -9,6 +9,61 @@ third_nav_title: Our Achievements
 
 The 2RISE &amp; Shine Award serves as a recognition platform to acknowledge Bedok Viewans who have demonstrated the school values through little good deeds in their daily lives. These deeds reflect our school's 2RISE values of Respect, Responsibility, Integrity, Service and Excellence. This allows the school to emphasise on consistent and coherent messaging on CCE.
 
+| <center> May 2023 Winners </center> |
+| -------- |
+| Lim Sheng Yao    |
+| Lim Qing Yuan     |
+| Senthil Kumar Sahithyan     |
+| Mohammed Afif Naufual Bin Mohamad Zaini     |
+| Ivoreen Chung Jia En     |
+| Ong Mei Shen Lovelyn     |
+| Bazli Bin Muslim     |
+| Maverick Heng     |
+| Lim Jing Han     |
+| Yap Xin Ling     |
+| Ng Zhe Xuan, Ian    |
+| Rhys Loh    |
+| Cai Xuanye     |
+| Daryl Tay Kong Zhi     |
+| Teng See Che Jayden    |
+| Tan Zong Yi, Zaccheus     |
+| Jarine Tan Chia Min    |
+| Yun Pei Xuan     |
+| Joshua Zheng    |
+| Winston, Foo Zhi Rui    |
+| Pan Yijie    |
+| Winston, Foo Zhi Rui    |
+| Winston, Foo Zhi Rui    |
+| Winston, Foo Zhi Rui    |
+| Winston, Foo Zhi Rui    |
+| Winston, Foo Zhi Rui    |
+| Winston, Foo Zhi Rui    |
+| Winston, Foo Zhi Rui    |
+
+
+
+| <center> April 2023 Winners </center> |
+| -------- |
+| Lim Le Xuan Timbol     |
+| Tiu Lexanne     |
+| Ryan Krishnan S/O Boongkannan     |
+| Ong Mei Shen Lovelyn     |
+| Ei Myat Mon    |
+| On Zi Qi    |
+| Puteri Binte Mohd Omar Shariff     |
+| Nur Hayfa Hanun Binti Hairi     |
+| Farzanah Binte Hashim     |
+| Yap Xin Ling     |
+| Lee Rui Yang     |
+| Saiyad Riyaz     |
+| To Jer Loke     |
+| Yew Yu Feng Ryan     |
+| Krystal Sandar Swe     |
+| Harish S/O Elangovan     |
+| Tanishq Vikas Chandiramani     |
+| Lei Sijia     |
+
+
 | <center> March 2023 Winners </center> |
 | -------- |
 | Dion Lee Di Ao     |
