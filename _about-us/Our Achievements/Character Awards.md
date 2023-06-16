@@ -32,14 +32,7 @@ The 2RISE &amp; Shine Award serves as a recognition platform to acknowledge Bedo
 | Joshua Zheng    |
 | Winston, Foo Zhi Rui    |
 | Pan Yijie    |
-| Winston, Foo Zhi Rui    |
-| Winston, Foo Zhi Rui    |
-| Winston, Foo Zhi Rui    |
-| Winston, Foo Zhi Rui    |
-| Winston, Foo Zhi Rui    |
-| Winston, Foo Zhi Rui    |
-| Winston, Foo Zhi Rui    |
-
+| Prathipkumaran Seenivasan   |
 
 
 | <center> April 2023 Winners </center> |
@@ -129,7 +122,6 @@ The 2RISE &amp; Shine Award serves as a recognition platform to acknowledge Bedo
 | Justin Poh Jun Ming     |
 | Uwais Jailani Bin Muhammad Aminyn Jailani    |
 | Dylan Ang Zhi Sheng     |
-
 
 
 | <center>January 2023 Winners</center> |
