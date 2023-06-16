@@ -13,12 +13,23 @@ The 2RISE &amp; Shine Award serves as a recognition platform to acknowledge Bedo
 | -------- |
 | Dion Lee Di Ao     |
 | Nur Dania Alisha Binte Fuadi     |
-| Dion Lee Di Ao     |
-| Dion Lee Di Ao     |
-| Dion Lee Di Ao     |
-| Dion Lee Di Ao     |
-| Dion Lee Di Ao     |
-| Dion Lee Di Ao     |
+| Ahmad Sufyan Bin Rosli     |
+| Ng Tian Bao     |
+| Faith Chan Xin Li     |
+| Lee Yi Guo     |
+| Panidapu Siddharth     |
+| Yecenia Partab Babani     |
+| Cheng Zu     |
+| Natasha Tan Yuen Ling     |
+| Ng Zhe Xuan, Ian     |
+| Yecenia Partab Babani     |
+| Yecenia Partab Babani     |
+| Yecenia Partab Babani     |
+| Yecenia Partab Babani     |
+| Yecenia Partab Babani     |
+| Yecenia Partab Babani     |
+| Yecenia Partab Babani     |
+| Yecenia Partab Babani     |
 
 
 | <center> February 2023 Winners </center> |
