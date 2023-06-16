@@ -22,14 +22,21 @@ The 2RISE &amp; Shine Award serves as a recognition platform to acknowledge Bedo
 | Cheng Zu     |
 | Natasha Tan Yuen Ling     |
 | Ng Zhe Xuan, Ian     |
-| Yecenia Partab Babani     |
-| Yecenia Partab Babani     |
-| Yecenia Partab Babani     |
-| Yecenia Partab Babani     |
-| Yecenia Partab Babani     |
-| Yecenia Partab Babani     |
-| Yecenia Partab Babani     |
-| Yecenia Partab Babani     |
+| Wu Jasmine Cassandra Shi     |
+| S P Divya Shakathi D/O Raju     |
+| Chloe Wong Ying Tung     |
+| Aseelah Rasima     |
+| Teng See Che Jayden    |
+| Shetty Nivi Sudarshan     |
+| Lee Yu Yin, Megan     |
+| Lim Chee Chian    |
+| Low Min Xuan Cedric     |
+| Soh Yu Ling     |
+| K S Barath Rathna Varshan     |
+| Krystal Sandar Swe     |
+| Aidan Bin Nor-Zamrin    |
+| Poh Kang Yi     |
+| Mohamed Nur Amsyar Bin Mohamed Aszali    |
 
 
 | <center> February 2023 Winners </center> |
