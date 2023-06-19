@@ -2,19 +2,19 @@
 title: National Police Cadet Corps (NPCC) Boys
 permalink: /cca/uniformed-groups/national-police-cadet-corps-npcc-boys/
 description: ""
-third_nav_title: Uniformed Groups
+third_nav_title: CCA
 ---
 ### CCA Video
 
 <div class="bp-youtube">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HCU8rSkQoKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HCU8rSkQoKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 </div>
 
 ### Teachers- In- Charge
 
-Mr Abdul Adib Bin Mohd Omar <br>
+Mr&nbsp;Abdul Adib Bin Mohd Omar <br>
 Mr Syaiful Bahari Bin Abdul Latif <br>
 Mr Choo Meng Kang <br>
 Mr Syahrulnizam Bin Abdul Rahman
@@ -48,7 +48,7 @@ Mr Syahrulnizam Bin Abdul Rahman
 </tbody>
 </table>
 
-### CCA Overview & Highlights
+### CCA Overview &amp; Highlights
 
 The **National Police Cadet Corps (NPCC)** unit aims to develop cadets to be active citizens and community leaders, by working in partnership with the **Singapore Police Force** to fight crime and keep Singapore safe.
 

@@ -2,13 +2,13 @@
 title: Netball (Girls)
 permalink: /cca/sports/netball/
 description: ""
-third_nav_title: Sports
+third_nav_title: CCA
 ---
 ### CCA Video
 
 <div class="bp-youtube">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ZxB_5T-YRI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ZxB_5T-YRI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 </div>
 
@@ -48,8 +48,8 @@ Ms Chia Pei Pei
 </tbody>
 </table>
 
-### CCA Overview & Highlights
+### CCA Overview &amp; Highlights
 
 The Netball CCA aims to develop students’ ability in playing netball competitively and confidently. It also hopes to provide various opportunities for students to build leadership skills and a sense of teamwork. With the goal of nurturing a group of resilient and self-motivated individuals, the Netball CCA provides a range of experiential learning activities that help develop students holistically through participation in the National School Games, M1 Schools Challenge, various netball carnivals throughout the year and student-led team-bonding activities.
 
- Under the guidance of our dedicated coach, the Netball team strives to play the sport with commitment and passion!
+&nbsp;Under the guidance of our dedicated coach, the Netball team strives to play the sport with commitment and passion!

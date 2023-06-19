@@ -2,13 +2,13 @@
 title: Modern Dance
 permalink: /cca/performing-arts/modern-dance/
 description: ""
-third_nav_title: Performing Arts
+third_nav_title: CCA
 ---
 ### CCA Video
 
 <div class="bp-youtube">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2xMHfBVNN1U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2xMHfBVNN1U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 </div>
 
@@ -47,7 +47,7 @@ Ms Nur Emillia Bte Sulaiman Sim
 </tbody>
 </table>
 
-### CCA Overview & Highlights
+### CCA Overview &amp; Highlights
 
 Bedok View Dance aims to help students discover and develop their strengths and abilities. Our members are committed to support each other to put in their best effort consistently to reach greater heights.
 

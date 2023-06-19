@@ -2,13 +2,13 @@
 title: Badminton (Boys)
 permalink: /cca/sports/badminton-boys/
 description: ""
-third_nav_title: Sports
+third_nav_title: CCA
 ---
 ### CCA Video
 
 <div class="bp-youtube">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pW6RHysHHIo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pW6RHysHHIo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 </div>
 
@@ -49,7 +49,7 @@ Mr Teoh Ai Keong
 </table>
 
 
-### CCA Overview & Highlights
+### CCA Overview &amp; Highlights
 
 The Badminton CCA seeks to develop passionate players to their fullest potential in their years in Bedok View. Rigorous trainings are conducted to strengthen the physical and mental faculties of every player so as to cultivate their perseverance to pursue the different skills needed for competitive play. Players also develop mastery in the areas of their footwork and racket handling. To further assess their skills and abilities, the team participates in the yearly East Zone Badminton Competition and other external competitions, where they also learn about sportsmanship, integrity and making responsible decisions that uphold moral principles. Each year, the team holds badminton clinics to give players opportunities to give back to the community and impart their knowledge and skills to younger players.
 

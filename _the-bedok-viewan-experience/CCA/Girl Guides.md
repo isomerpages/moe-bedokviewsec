@@ -2,13 +2,13 @@
 title: Girl Guides
 permalink: /cca/uniformed-groups/girl-guides/
 description: ""
-third_nav_title: Uniformed Groups
+third_nav_title: CCA
 ---
 ### CCA Video
 
 <div class="bp-youtube">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K012Kt_i2AY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K012Kt_i2AY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 </div>
 
@@ -48,8 +48,8 @@ Nur Iznina Binte Zainudin
 </tbody>
 </table>
 
-### CCA Overview & Highlights
+### CCA Overview &amp; Highlights
 
-Girl Guides is a Co-Curricular activity that creates many leadership opportunities for the girls. Through the patrol system, the juniors get to emulate the leadership skills demonstrated by the seniors. The CCA encourages girls to explore and develop their talents, to aim and achieve excellence and also to help and serve others. Our girls worked hard to achieve various proficiency badges during training sessions and often volunteered their services during school and girl guides events. They volunteered in St John’s home for the elderly. They organized their own camp in Camp Christine and had fun hiking and cooking outdoors.
+Girl Guides is a Co-Curricular activity that creates many leadership opportunities for the girls. Through the patrol system, the juniors get to emulate the leadership skills demonstrated by the seniors. The CCA encourages girls to explore and develop their talents, to aim and achieve excellence and also to help and serve others.&nbsp;Our girls worked hard to achieve various proficiency badges during training sessions and often volunteered their services during school and girl guides events. They volunteered in St John’s home for the elderly. They organized their own camp in Camp Christine and had fun hiking and cooking outdoors.
 
 In 2022, our girls demonstrated their talents and creativity during East Division Day and as a testament to their hard work, they achieved 1 gold and 1 Silver in 2 of the competitions. The CCA also achieved Puan Noor Aishah Gold in the assessment year of 2021.

@@ -2,13 +2,13 @@
 title: Infocomm Club
 permalink: /cca/clubs/infocomm-club/
 description: ""
-third_nav_title: Clubs
+third_nav_title: CCA
 ---
 ### CCA Video
 
 <div class="bp-youtube">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lAYCDoIidOc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lAYCDoIidOc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 </div>
 
@@ -56,7 +56,7 @@ To serve our school with pride while developing our club members to achieve thei
 ### Mission
 
 To become an important and contributing part of Bedok View Secondary through the areas of various media platforms.  
-Bring pride & honour to our school through the participation of competitions and providing support in all school events.  
+Bring pride &amp; honour to our school through the participation of competitions and providing support in all school events.  
 Maintain integrity and high standards in their involvement in competitions and conduct of events.
 
 
@@ -72,17 +72,17 @@ Bedok View Infocomm Club engages its infocommers through photography and videogr
 *   Editing using Adobe Creative Suite
 *   PA Support for all school events and activities
 
-### Competitions & Events
+### Competitions &amp; Events
 
 *   Our School Our Stories Competition
-*   S.Y.P.A (Singapore Young Photographers Awards) 
-*   S.D.M.A (Schools Digital Media Awards) 
+*   S.Y.P.A (Singapore Young Photographers Awards)&nbsp;
+*   S.D.M.A (Schools Digital Media Awards)&nbsp;
 *   Safety Starts With Me Video Competition
-*   K.W.N (Kids Witness News) 
-*   180 Short Film (Singapore Media Academy) 
-*   N.E Mation (Nanyang Polytechnic) 
-*   SGCC (Singapore Games Creation Competition) 
-*   Project Shoout (Touch Services) 
-*   StrlTwise Integrated IT Camp (Ngee Ann Poly)  
-*   Learning Journeys (Kent Ridge Park, Hort Park, Marina Bay; Day and Night Photography) 
+*   K.W.N (Kids Witness News)&nbsp;
+*   180 Short Film (Singapore Media Academy)&nbsp;
+*   N.E Mation (Nanyang Polytechnic)&nbsp;
+*   SGCC (Singapore Games Creation Competition)&nbsp;
+*   Project Shoout (Touch Services)&nbsp;
+*   StrlTwise Integrated IT Camp (Ngee Ann Poly)&nbsp;&nbsp;
+*   Learning Journeys (Kent Ridge Park, Hort Park, Marina Bay; Day and Night Photography)&nbsp;
 *   Infocomm Camp (2day 1 night Camp; Bonding, Mentoring and IT skills revision)

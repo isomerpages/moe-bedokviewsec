@@ -2,13 +2,13 @@
 title: Concert Band
 permalink: /cca/performing-arts/concert-band/
 description: ""
-third_nav_title: Performing Arts
+third_nav_title: CCA
 ---
 ### CCA Video
 
 <div class="bp-youtube">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/38jo-_tvl9M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/38jo-_tvl9M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 </div>
 
@@ -43,17 +43,17 @@ Miss Wong Wei Leen
   <tr>
     <td class="tg-y7qa">Tuesday &amp; Thursday</td>
     <td class="tg-y7qa">3.30pm - 6.00pm</td>
-    <td class="tg-y7qa">AVA: F4-01 &  <br>E4 Classrooms</td>
+    <td class="tg-y7qa">AVA: F4-01 &amp;  <br>E4 Classrooms</td>
   </tr>
 </tbody>
 </table>
 
 
-### CCA Overview & Highlights
+### CCA Overview &amp; Highlights
 
 Bedok View Concert Band equips students with the necessary skills to enhance their proficiency in music as well as play confidently to an audience. In addition, through the training sessions conducted by experienced instructors, the CCA members get to pursue their passion for music, work with one another to create a variety of musical pieces, as well as cultivate the love for the Arts.
 
- In 2021, our members overcame the challenges and persevered to display their talent during the Singapore Youth Festival (SYF) Arts Presentation. As a CCA that constantly seeks to improve, the Concert Band continues to take pride in our members’ musical performance while serving the school and community.
+&nbsp;In 2021, our members overcame the challenges and persevered to display their talent during the Singapore Youth Festival&nbsp;(SYF)&nbsp;Arts Presentation. As a CCA that constantly seeks to improve, the Concert Band continues to take pride in our members’ musical performance while serving the school and community.
 
 ### BV Concert Band Practices and Events
 
@@ -74,4 +74,3 @@ Bedok View Concert Band equips students with the necessary skills to enhance the
 <figcaption> Our students who helped to distribute flyers for our Values-in-Action activity during the National Day celebrations.
  </figcaption>
 </figure>
-

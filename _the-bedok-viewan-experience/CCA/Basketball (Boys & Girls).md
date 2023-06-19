@@ -2,13 +2,13 @@
 title: Basketball (Boys & Girls)
 permalink: /cca/sports/basketball-boys-n-girls/
 description: ""
-third_nav_title: Sports
+third_nav_title: CCA
 ---
 ### CCA Video
 
 <div class="bp-youtube">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Y_0SO3xGICg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y_0SO3xGICg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 </div>
 
@@ -48,13 +48,13 @@ Mdm Wong Chiu Yian
 </tbody>
 </table>
 
-### CCA Overview & Highlights
+### CCA Overview &amp; Highlights
 
 The Basketball CCA aims to develop confident and resilient players who strive for continuous improvement and excellence.
 
 We have training sessions twice a week in which coaches, teachers and student leaders work together to train our students in a variety of exercises like ball handling skills and tactical play. The training sessions help students develop and master the correct techniques, build their confidence and their sportsmanship.
 
-We took part in the annual East Zone Basketball Competition and external tournaments like the T-Net tournaments and ActiveSG Basketball Development Leagues. The external competitions provided the players opportunities to hone their skills, strengthen their teamwork and build their confidence.
+We took part in the annual East Zone Basketball Competition and external tournaments like the T-Net tournaments and ActiveSG Basketball Development Leagues. The external competitions provided the players opportunities to hone their skills,&nbsp;strengthen their teamwork and build their confidence.
 
 In line with our school values, our students will continue to be resilient and to strive for excellence in coming years.
 

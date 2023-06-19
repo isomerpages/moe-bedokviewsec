@@ -2,13 +2,13 @@
 title: National Cadet Corps (NCC) Land Boys
 permalink: /cca/uniformed-groups/national-cadet-corps-ncc-land-boys/
 description: ""
-third_nav_title: Uniformed Groups
+third_nav_title: CCA
 ---
 ### CCA Video
 
 <div class="bp-youtube">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IZK2WPvJatQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IZK2WPvJatQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 </div>
 
@@ -46,14 +46,14 @@ Ms Cheng Soon Kuee, Crystal
     <td class="tg-y7qa">Classrooms<br>D2-01 to D2-04</td>
   </tr>
 	  <tr>
-    <td class="tg-y7qa">Tuesday & Thursday <br>(For PDS Team only)</td>
+    <td class="tg-y7qa">Tuesday &amp; Thursday <br>(For PDS Team only)</td>
     <td class="tg-y7qa">4.00pm - 6.00pm</td>
     <td class="tg-y7qa">Mini Parade Square</td>
   </tr>
 </tbody>
 </table>
 
-### CCA Overview & Highlights
+### CCA Overview &amp; Highlights
 
 The National Cadet Corps (NCC) Boys’ unit aims to develop responsible and resilient leaders and team players through fun and challenging military-related activities. Through these activities, we hope to develop the boys to become self-motivated leaders who embody resilient minds, fit bodies and committed hearts to serve the unit, school and nation.
 
