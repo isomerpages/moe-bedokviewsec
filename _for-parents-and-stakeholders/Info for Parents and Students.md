@@ -3,6 +3,12 @@ title: Info for Parents and Students
 permalink: /partnerships/info-for-parents-and-students/
 description: ""
 ---
+**2023 Class Timetables (Semester 2)**<br>
+[[Secondary 1 Class Timetable]](/files/Info%20for%20Parents%20Stakeholders/2023%20sec%201%20timetable%20(sem%202).pdf)<br>
+[[Secondary 2 Class Timetable]](/files/Info%20for%20Parents%20Stakeholders/2023%20sec%202%20timetable%20(sem%202).pdf)<br>
+[[Secondary 3 Class Timetable]](/files/Info%20for%20Parents%20Stakeholders/2023%20sec%203%20timetable%20(sem%202).pdf)<br>
+[[Secondary 4 &amp; 5 Class Timetable]](/files/Info%20for%20Parents%20Stakeholders/2023%20sec%204&amp;5%20timetable%20(sem%202).pdf)
+
 **2023 End-of-Semester Activities Timetable <br>**
 [End-of-Semester Timetable](https://docs.google.com/spreadsheets/d/e/2PACX-1vSCMzkJaFbjN9jO-zyMAcI56RrIivIqh8Wsmtd3BL9Aigg1h8Q_IGAcHHrLvWKo7Vnzf5YipryUoUB9/pubhtml#)
 
