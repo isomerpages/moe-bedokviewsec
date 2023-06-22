@@ -12,9 +12,9 @@ sections:
         - title: Achievements
           description: Click here for achievements!
           url: /achievements/co-curricular-activities-cca/
-        - title: DSA Information
-          description: Click here for DSA Information
-          url: /join-us/direct-school-admission-dsa/
+        - title: Semester 2 Timetables
+          description: Timetable Info for Semester 2
+          url: partnerships/info-for-parents-and-students/
         - title: Info for Parents and Students
           description: Click here for more
           url: partnerships/info-for-parents-and-students/
