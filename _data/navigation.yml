@@ -11,6 +11,8 @@ links:
         url: /about-us/our-identity/
       - title: Our People
         url: /about-us/our-people/school-management-committee
+      - title: Our Achievements
+        url: /about-us/our-achievements/cca/
   - title: Academic Curriculum
     collection: academic-curriculum
   - title: Join Us
@@ -19,5 +21,3 @@ links:
     collection: the-bedok-viewan-experience
   - title: For Parents And Stakeholders
     collection: for-parents-and-stakeholders
-  - title: ACHIEVEMENTS
-    collection: achievements
