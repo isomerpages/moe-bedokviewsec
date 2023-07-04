@@ -2,6 +2,7 @@ collections:
   the-bedok-viewan-experience:
     output: true
     order:
+      - Student Development/Student Leadership Development.md
       - Student Development/Discipline.md
       - Student Development/.keep
       - Academic Curriculum/.keep
