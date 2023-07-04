@@ -2,6 +2,7 @@ collections:
   the-bedok-viewan-experience:
     output: true
     order:
+      - Academic Curriculum/Project Work.md
       - Academic Curriculum/Science.md
       - Academic Curriculum/Home Based Learning (HBL).md
       - Academic Curriculum/National Digital Literacy Programme (NDLP).md
