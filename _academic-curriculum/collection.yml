@@ -2,7 +2,6 @@ collections:
   academic-curriculum:
     output: true
     order:
-      - Applied Learning Programme (ALP).md
       - English & Literature.md
       - Humanities.md
       - Mathematics.md
