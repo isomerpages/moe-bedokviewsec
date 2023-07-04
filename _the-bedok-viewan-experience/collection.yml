@@ -2,6 +2,7 @@ collections:
   the-bedok-viewan-experience:
     output: true
     order:
+      - Academic Curriculum/Home Based Learning (HBL).md
       - Academic Curriculum/National Digital Literacy Programme (NDLP).md
       - Academic Curriculum/Singapore Student Learning Space (SLS).md
       - Academic Curriculum/Applied Learning Programme (ALP).md
