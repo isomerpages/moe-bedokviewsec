@@ -7,7 +7,7 @@ description: ""
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Halal Western Food Stall      | 30 Jun 2023      | NIL     |
+| Malay Food Stall      | 31 August 2023      | Rice or noodle stalls are acceptable     |
 
 
 **Application Procedure**
@@ -23,7 +23,7 @@ description: ""
 3. Submit the completed application form and documents by closing date via email OR to the School's General Office.
 
 * Address: 6 Bedok South Avenue 3, Singapore 469293
-* Contact No: 6443 9563
+* Contact No: 6443 0563
 * Email: [bedokview_ss@moe.edu.sg](mailto:bedokview_ss@moe.edu.sg)
 * Contact Person: Mdm Dorothy Leong  
 
