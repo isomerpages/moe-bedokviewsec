@@ -2,6 +2,7 @@ collections:
   the-bedok-viewan-experience:
     output: true
     order:
+      - Academic Curriculum/English & Literature.md
       - Academic Curriculum/Humanities.md
       - Academic Curriculum/Mathematics.md
       - Academic Curriculum/Mother Tongue.md
