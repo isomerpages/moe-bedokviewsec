@@ -2,6 +2,7 @@
 title: Mother Tongue
 permalink: /academic-curriculum/mother-tongue/
 description: ""
+third_nav_title: Academic Curriculum
 ---
 ### Department Video
 

@@ -2,12 +2,13 @@
 title: Physical Education
 permalink: /academic-curriculum/physical-education/
 description: ""
+third_nav_title: Academic Curriculum
 ---
 ### Department Video
 
 <div class="bp-youtube">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PcyC2hG11dY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PcyC2hG11dY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 </div>
 
@@ -27,7 +28,7 @@ The approach that the PE department take to develop an active and healthy Bedok 
 
 We have included Outdoor Education to develop a sense of adventure through the exploration of both natural and urban environments from their immediate surroundings to other unfamiliar locations in our students. Physical activities are promoted as students develop appropriate outdoor skills while cultivating an attitude of care and appreciation for the environment and thoughtful consideration of the risks and safety of self and others. 
 
-Through the Physical Health & Fitness component in the PE curriculum, we make meaningful connections between health concepts and practical applications through experiential learning. Our focus is on developing our students to be self-directed learners who see meaning in their sustained physical endeavours, and accept responsibility for personal health and fitness. During the lessons, our students will learn to evaluate their lifestyle and adapt their participation in physical activities at different stages of their lives, and how living active and healthy lives is connected with the world around them and the health of others. 
+Through the Physical Health &amp; Fitness component in the PE curriculum, we make meaningful connections between health concepts and practical applications through experiential learning. Our focus is on developing our students to be self-directed learners who see meaning in their sustained physical endeavours, and accept responsibility for personal health and fitness. During the lessons, our students will learn to evaluate their lifestyle and adapt their participation in physical activities at different stages of their lives, and how living active and healthy lives is connected with the world around them and the health of others. 
 
 For each level, we have different game modules as part of our PE curriculum. Progressive game skills and concepts are taught through different pedagogical approaches and strategies to cater to the different learning needs of our students. We have included skills assessment and online theory assessment at the end of each game module, so as to motivate them intrinsically by giving them autonomy, mastery and purpose in their learning to achieve the goals in PE.
 
@@ -50,7 +51,7 @@ Goal 6: Enjoy and value the benefits of living a physically active and healthy l
 
 **Inter-Class Games**
 
-The department has integrated Sec 4 & 5 Frisbee inter-class game into the level camp. In semester one, the Sec 1 Netball and Sec 3 Floorball inter-class games were played during post-exam period in May. In semester two, the Sec 1 Football, Sec 2 Basketball and Sec 3 Volleyball inter-class games were played during post-exam period in October. 
+The department has integrated Sec 4 &amp; 5 Frisbee inter-class game into the level camp. In semester one, the Sec 1 Netball and Sec 3 Floorball inter-class games were played during post-exam period in May. In semester two, the Sec 1 Football, Sec 2 Basketball and Sec 3 Volleyball inter-class games were played during post-exam period in October. 
 
 We have included a sportsmanship award for each competition to recognise the positive sportsmanship and inclusiveness that are demonstrated by our students. We are very encouraged by the high participation rate for the inter-class games at all levels.
 
@@ -70,12 +71,11 @@ We have included a sportsmanship award for each competition to recognise the pos
 
 Bedok View Secondary School actively encourages our students to adopt a healthy lifestyle and in 2021, we are happy to share that we had our inaugural Bedok View Lighthouse Virtual Run (BVLVR) from 15 July to 9 August 2021. In the midst of the pandemic, this virtual run served as a platform for our Bedok View family to come together ‘virtually’ to engage in healthy and exciting physical activities. The students were able to complete the activities at their own pace within the given time period, and achieved the goal of 5400 km as a school. They can choose to run or walk on their own, or with family and friends while observing safe management measures during pandemic. From daily activity goals to earning that first race medal, the options are endless for how you challenge yourself. The inter-class and staff races provide a great sense of accomplishment along with some bling to prove and commemorate our Nation’s birthday.
 
-<img src="/images/PE_03.png" align=left style="width:85%">
-<br clear=left>
+<img src="/images/PE_03.png" align="left" style="width:85%">
+<br clear="left">
 
 **Bedok View Cross Country**
 
 The PE department has organized the Bedok View Cross Country on 8th August 2019. This event aimed to give students an opportunity to engage in a healthy lifestyle through running together around the scenic routes of our National Park. All staff and students from Sec 1 to 5 have taken part in either the competitive cross country event or the fun run.
 
 ![Bedok View Cross Country](/images/Bedok%20View%20Cross%20Country.jpg)
-

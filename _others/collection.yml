@@ -2,6 +2,8 @@ collections:
   others:
     output: true
     order:
+      - E Prospectus.md
+      - E Open House 2022.md
       - School Crest, Colours and School Song.md
       - School Motto.md
       - School Mission, Vision and Values.md

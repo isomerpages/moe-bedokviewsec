@@ -2,6 +2,7 @@
 title: Aesthetics
 permalink: /academic-curriculum/aesthetics/
 description: ""
+third_nav_title: Academic Curriculum
 ---
 ### DEPARTMENT VIDEO
 

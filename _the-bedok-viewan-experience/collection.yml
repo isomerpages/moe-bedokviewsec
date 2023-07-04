@@ -2,9 +2,24 @@ collections:
   the-bedok-viewan-experience:
     output: true
     order:
-      - Student Development.md
-      - Student Leadership Development.md
-      - Discipline.md
+      - Academic Curriculum/.keep
+      - Academic Curriculum/Academic Curriculum.md
+      - Academic Curriculum/Aesthetics.md
+      - Academic Curriculum/English & Literature.md
+      - Academic Curriculum/Humanities.md
+      - Academic Curriculum/Mathematics.md
+      - Academic Curriculum/Mother Tongue.md
+      - Academic Curriculum/Physical Education.md
+      - Academic Curriculum/Project Work.md
+      - Academic Curriculum/Science.md
+      - Academic Curriculum/Home Based Learning (HBL).md
+      - Academic Curriculum/National Digital Literacy Programme (NDLP).md
+      - Academic Curriculum/Singapore Student Learning Space (SLS).md
+      - Student Development/Student Development.md
+      - Student Development/.keep
+      - Student Development/Student Leadership Development.md
+      - Student Development/Discipline.md
+      - Applied Learning Programme (ALP).md
       - Learning for Life Programme (LLP).md
       - CCE/.keep
       - CCE/Character and Citizenship Education (CCE).md
@@ -17,6 +32,7 @@ collections:
       - CCE/Mental Health.md
       - CCE/Values in Action.md
       - CCE/Character Awards.md
+      - CCA/.keep
       - CCA/Service Learning Club.md
       - CCA/Infocomm Club.md
       - CCA/Clubs.md
@@ -37,6 +53,5 @@ collections:
       - CCA/National Cadet Corps (NCC) Land Boys.md
       - CCA/Girl Guides.md
       - CCA/Uniformed Groups.md
-      - CCA/.keep
       - CCA/CCA Attainment LEAPS 2.md
       - CCA/CCA.md

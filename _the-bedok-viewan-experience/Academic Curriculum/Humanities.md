@@ -2,12 +2,13 @@
 title: Humanities
 permalink: /academic-curriculum/humanities/
 description: ""
+third_nav_title: Academic Curriculum
 ---
 ### Department Video 
 
 <div class="bp-youtube">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nZ0QXV9OW_4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nZ0QXV9OW_4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 </div>
 
@@ -34,7 +35,7 @@ History Card Challenge
 
 S1 Geographical Investigation on Water (Bedok Reservoir) <br>
 S2 Geographical Investigation on Sustainability - Collaboration with Project Work <br>
-S3 Geographical Fieldwork Investigation (Physical & Human Geography) <br>
+S3 Geographical Fieldwork Investigation (Physical &amp; Human Geography) <br>
 S1 Historical Investigation (Museums) - Collaboration with NE, Math, Aesthetics <br>
 S2 Historical Investigation (Ford Factory) - Collaboration with NE <br>
 S3 Issue Investigation <br>

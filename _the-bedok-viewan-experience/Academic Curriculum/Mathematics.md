@@ -2,12 +2,13 @@
 title: Mathematics
 permalink: /academic-curriculum/mathematics/
 description: ""
+third_nav_title: Academic Curriculum
 ---
 ### Department Video
 
 <div class="bp-youtube">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1bSXeCo2fZI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1bSXeCo2fZI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 </div>
 
@@ -23,4 +24,4 @@ description: ""
 
 * Improving Confidence and Achievement in Numeracy (ICAN) Lesson Study 
 * All Singapore Math Competition for Normal Course Students
-* Sec 1E and 1NA collaborative Learning Journey with Humanities, Aesthetics & National Education to National Museum
+* Sec 1E and 1NA collaborative Learning Journey with Humanities, Aesthetics &amp; National Education to National Museum

@@ -2,6 +2,7 @@
 title: Home Based Learning (HBL)
 permalink: /academic-curriculum/home-based-learning/
 description: ""
+third_nav_title: Academic Curriculum
 ---
 ### Blended Learning
 

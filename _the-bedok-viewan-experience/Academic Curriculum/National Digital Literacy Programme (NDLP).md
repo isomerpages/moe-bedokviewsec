@@ -2,6 +2,7 @@
 title: National Digital Literacy Programme (NDLP)
 permalink: /academic-curriculum/national-digital-literacy-programme-ndlp/
 description: ""
+third_nav_title: Academic Curriculum
 ---
 ### Background
 

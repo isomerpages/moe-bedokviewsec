@@ -18,7 +18,7 @@ third_nav_title: Our Achievements
 
 ##### Uniformed Groups
 
-| CCA | Unit Award | 2017 | 2018 | 2019 | 2021 | 2023 |
+| CCA | Unit Award | 2017 | 2018 | 2019 | 2021 | 2022 |
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
 | Girl Guides (GG) | Puan Noor Aishah Award | Gold | Gold | Gold | Gold | Gold |
 | National Cadet Corps (Land) - Boys Unit (NCC) | Unit Recognition Award | Silver | Distinction | Distinction | Distinction | Distinction |
