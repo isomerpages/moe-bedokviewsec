@@ -2,7 +2,6 @@ collections:
   academic-curriculum:
     output: true
     order:
-      - Academic Curriculum.md
       - Aesthetics.md
       - Applied Learning Programme (ALP).md
       - English & Literature.md
