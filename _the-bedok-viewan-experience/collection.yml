@@ -2,10 +2,6 @@ collections:
   the-bedok-viewan-experience:
     output: true
     order:
-      - Applied Learning Programme (ALP).md
-      - Student Development/Student Leadership Development.md
-      - Student Development/Discipline.md
-      - Student Development/.keep
       - Academic Curriculum/.keep
       - Academic Curriculum/Academic Curriculum.md
       - Academic Curriculum/Aesthetics.md
@@ -19,8 +15,12 @@ collections:
       - Academic Curriculum/Home Based Learning (HBL).md
       - Academic Curriculum/National Digital Literacy Programme (NDLP).md
       - Academic Curriculum/Singapore Student Learning Space (SLS).md
-      - Student Development.md
+      - Student Development/.keep
+      - Student Development/Student Leadership Development.md
+      - Student Development/Discipline.md
+      - Applied Learning Programme (ALP).md
       - Learning for Life Programme (LLP).md
+      - Student Development.md
       - CCE/.keep
       - CCE/Character and Citizenship Education (CCE).md
       - CCE/National Education.md
