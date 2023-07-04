@@ -2,6 +2,7 @@ collections:
   the-bedok-viewan-experience:
     output: true
     order:
+      - Academic Curriculum/Singapore Student Learning Space (SLS).md
       - Academic Curriculum/Applied Learning Programme (ALP).md
       - Academic Curriculum/Aesthetics.md
       - Academic Curriculum/Academic Curriculum.md
