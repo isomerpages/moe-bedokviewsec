@@ -3,6 +3,9 @@ title: Info for Parents and Students
 permalink: /partnerships/info-for-parents-and-students/
 description: ""
 ---
+**2023 GCE N Level Prelim**<br>
+[GCE N Level Prelim Timetable](/files/Info%20for%20Parents%20Stakeholders/n%20lvl%20prelim%202023%20timetable.pdf)
+
 **2023 Class Timetables (Semester 2)**<br>
 [[Secondary 1 Class Timetable]](/files/Info%20for%20Parents%20Stakeholders/2023%20sec%201%20timetable%20(sem%202).pdf)<br>
 [[Secondary 2 Class Timetable]](/files/Info%20for%20Parents%20Stakeholders/2023%20sec%202%20timetable%20(sem%202).pdf)<br>

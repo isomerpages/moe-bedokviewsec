@@ -15,7 +15,7 @@ sections:
         - title: Semester 2 Timetables
           description: Timetable Info for Semester 2
           url: partnerships/info-for-parents-and-students/
-        - title: Info for Parents and Students
-          description: Click here for more
+        - title: GCE N Level Prelim 2023 Timetable
+          description: Click for more information
           url: partnerships/info-for-parents-and-students/
 ---
