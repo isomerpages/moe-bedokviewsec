@@ -8,4 +8,7 @@ Bedok View’s Infocomm Club caters to students’ diverse interests in informat
 
 
 
-![Clubs](/images/Clubs.png)
+![Clubs](/images/Clubs.png)<br>
+
+* [Infocomm Club](/cca/clubs/infocomm-club/)
+* [Service Learning Club](/cca/clubs/service-learning-club/)
