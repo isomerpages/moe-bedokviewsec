@@ -8,8 +8,8 @@ Bedok View’s Performing Arts CCA provide opportunities for students to develop
 
 ![Performing Arts](/images/Performing%20Arts.png)<br>
 
-* [Choir](/cca/performing-arts/choir/)
 * [Concert Band](/cca/performing-arts/concert-band/)
+* [Choir](/cca/performing-arts/choir/)
 * [English Drama](/cca/performing-arts/english-drama/)
 * [Guzheng Ensemble](/cca/performing-arts/guzheng-ensemble/)
 * [Modern Dance](/cca/performing-arts/modern-dance/)
