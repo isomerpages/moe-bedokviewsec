@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Clubs/.keep
+      - Performing Arts/English Drama.md
       - Performing Arts/Concert Band.md
       - Performing Arts/Choir.md
       - Performing Arts/.keep
