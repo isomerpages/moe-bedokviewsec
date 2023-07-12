@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Clubs/.keep
+      - Performing Arts/Concert Band.md
       - Performing Arts/Choir.md
       - Performing Arts/.keep
       - Sports/Netball (Girls).md
