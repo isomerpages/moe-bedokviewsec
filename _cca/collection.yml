@@ -2,9 +2,9 @@ collections:
   cca:
     output: true
     order:
-      - Clubs/Service Learning Club.md
-      - Clubs/Infocomm Club.md
       - Clubs/.keep
+      - Clubs/Infocomm Club.md
+      - Clubs/Service Learning Club.md
       - Performing Arts/Modern Dance.md
       - Performing Arts/Guzheng Ensemble.md
       - Performing Arts/English Drama.md
