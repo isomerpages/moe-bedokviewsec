@@ -2,6 +2,7 @@ collections:
   others:
     output: true
     order:
+      - Uniformed Groups/National Cadet Corps (NCC) Land Boys.md
       - Uniformed Groups/Girl Guides.md
       - Uniformed Groups/.keep
       - CCA Attainment LEAPS 2.md
