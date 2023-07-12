@@ -2,7 +2,7 @@
 title: Concert Band
 permalink: /cca/performing-arts/concert-band/
 description: ""
-third_nav_title: CCA
+third_nav_title: Performing Arts
 ---
 ### CCA Video
 

@@ -2,7 +2,7 @@
 title: Netball (Girls)
 permalink: /cca/sports/netball/
 description: ""
-third_nav_title: CCA
+third_nav_title: Sports
 ---
 ### CCA Video
 

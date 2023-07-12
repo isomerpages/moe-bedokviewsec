@@ -2,7 +2,7 @@
 title: Athletics
 permalink: /cca/sports/athletics/
 description: ""
-third_nav_title: CCA
+third_nav_title: Sports
 ---
 ### CCA Video
 
