@@ -12,9 +12,9 @@ sections:
         - title: Achievements
           description: Click here for achievements!
           url: /achievements/co-curricular-activities-cca/
-        - title: Semester 2 Timetables
-          description: Timetable Info for Semester 2
-          url: partnerships/info-for-parents-and-students/
+        - title: F.A.M.E
+          description: ""
+          url: https://www.facebook.com/100064069451562/posts/pfbid02zKYDkdAHMz4d1HDBZ415Doup71r5uX3wyGs7TLUUqzq82ovue8YdUrkVXa3NjudQl
         - title: GCE N Level Prelim 2023 Timetable
           description: Click for more information
           url: partnerships/info-for-parents-and-students/
