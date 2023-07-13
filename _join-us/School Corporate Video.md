@@ -1,6 +1,6 @@
 ---
 title: School Corporate Video
-permalink: /about-us/sch-corporate-video/
+permalink: /join-us/sch-corporate-video/
 description: ""
 ---
 ## School Corporate Video
