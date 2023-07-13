@@ -1,7 +1,7 @@
 logo: /images/loogo.png
 links:
   - title: About Us
-    url: about-us/history/
+    url: /about-us/history/
     sublinks:
       - title: Principal's Welcome Message
         url: /about-us/principals-welcome-message
