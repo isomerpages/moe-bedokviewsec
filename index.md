@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Achievements
           description: Click here for achievements!
-          url: /achievements/co-curricular-activities-cca/
+          url: /about-us/our-achievements/cca/
         - title: F.A.M.E
           description: ""
           url: https://www.facebook.com/100064069451562/posts/pfbid02zKYDkdAHMz4d1HDBZ415Doup71r5uX3wyGs7TLUUqzq82ovue8YdUrkVXa3NjudQl
