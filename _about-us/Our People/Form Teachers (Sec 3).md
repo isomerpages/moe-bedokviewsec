@@ -8,8 +8,8 @@ third_nav_title: Our People
 
 | Name | E-mail |
 | -------- | -------- |
-| Mdm Zarina Bte Mohamed Zakaria     | [zarina_mohamed_zakaria@schools.gov.sg](mailto:zarina_mohamed_zakaria@schools.gov.sg)     |
 | Mdm Wong Chiu Yan     | [wong\_chiu\_yian@schools.gov.sg](mailto:wong_chiu_yian@schools.gov.sg)     |
+| Mdm Zarina Bte Mohamed Zakaria     | [zarina_mohamed_zakaria@schools.gov.sg](mailto:zarina_mohamed_zakaria@schools.gov.sg)     |
 
 ##### Sec 3/2 Form Teachers 
 
