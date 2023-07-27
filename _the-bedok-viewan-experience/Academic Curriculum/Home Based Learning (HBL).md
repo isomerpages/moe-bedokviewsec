@@ -22,11 +22,11 @@ Alternatively, please click on the respective links below for the instructions t
 
 Sec 1:  **[Sec 1 HBL instructions](https://docs.google.com/spreadsheets/d/e/2PACX-1vQCX76RTmLcXIJ7QhcNRXZVm9xtryo7HdMpeEE2emnCjJxsTohG9K_eBtWR51RtehRiap2Zwz2cPdQc/pubhtml)**
 
-Sec 2:  **[Sec 2 HBL instructions](https://docs.google.com/spreadsheets/d/e/2PACX-1vTOqVeVvdR3-z3SUycxmI1steTV83pCnTLhM7KCPwCaXh_QK5J7-X3qZ0rUNjKB6oIKdJCtgA090vHK/pubhtml?gid=1696684271&amp;single=true)**
+Sec 2:  **[Sec 2 HBL instructions](https://docs.google.com/spreadsheets/d/e/2PACX-1vTOqVeVvdR3-z3SUycxmI1steTV83pCnTLhM7KCPwCaXh_QK5J7-X3qZ0rUNjKB6oIKdJCtgA090vHK/pubhtml)**
 
 Sec 3: **[Sec 3 HBL Instructions](https://docs.google.com/spreadsheets/d/e/2PACX-1vRyMDZhOvXVdcAl_EX0UFt-GhxIv_qurgugCnZAEMteu3JHRENSxIOccPWHJUKlE1rgk0oyWx7Sy8ep/pubhtml)**
 
-Sec 4 &amp; 5: **[Sec 4 &amp; 5 HBL instructions](https://docs.google.com/spreadsheets/d/e/2PACX-1vQLfaPV60AOzs0qDkvnb6Qzk5vGWB8xM2xOeoa4yI10N9QQLnt4QzR0nMXq6GKUlGvp4Q9gtw-jDawv/pubhtml?gid=806024980&amp;single=true)** 
+Sec 4 &amp; 5: **[Sec 4 &amp; 5 HBL instructions](https://docs.google.com/spreadsheets/d/e/2PACX-1vQLfaPV60AOzs0qDkvnb6Qzk5vGWB8xM2xOeoa4yI10N9QQLnt4QzR0nMXq6GKUlGvp4Q9gtw-jDawv/pubhtml)** 
 
 Note that the day's lesson instructions will be made available by 7.30 am on the day itself.
 
