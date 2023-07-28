@@ -167,7 +167,6 @@ Click on the following to learn about what skills and talents your child can dev
 
 <p style="text-align:center;">Explore the BV campus on your own and find out what are learning spaces our students have.</p>
 
-**REQUIRE JACKSON'S INPUT VIDEO**
 
 |   |
 |:-:|
