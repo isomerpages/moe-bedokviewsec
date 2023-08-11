@@ -24,7 +24,7 @@ To develop critical thinkers who have a sense of national identity and global aw
 
 Building Bridges, Making Progress
 
-Teachers and students who are people who build bridges with their past (History), their environment (Geography), their society and nation (Social Studies) and as a result, are always learning and able to make progress as an individual, as a member of society and as a responsible and active citizen.
+Teachers and students build bridges with their past (History), their environment (Geography), their society and nation (Social Studies). In doing so, they learn and make progress as individuals, members of society and a responsible and active citizenry. 
  
 
 ### Programmes

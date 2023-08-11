@@ -4,7 +4,6 @@ permalink: /about-us/our-people/school-management-committee/
 description: ""
 third_nav_title: Our People
 ---
-
 | Name | Designation | Email |
 | -------- | -------- | -------- |
 | Mdm Teo Yvonne     | Principal     | [bedokview\_ss@moe.edu.sg](mailto:bedokview_ss@moe.edu.sg)     |
@@ -25,7 +24,7 @@ third_nav_title: Our People
 | Ms Lian Xue Li Jasmine     | Subject Head - Science    | [lian\_xue\_li\_jasmine@schools.gov.sg](mailto:lian_xue_li_jasmine@schools.gov.sg)  |
 | Mr Muhammad Ahmad B Mohamed Shahrir     | Subject Head -&nbsp;Character and Citizenship Education    | [muhammad\_ahmad@schools.gov.sg](mailto:muhammad_ahmad@schools.gov.sg)  |
 | Mdm Normohaida Mohamed Noor     | Subject Head - Information and Communications Technology    | [normohaida\_mohamed\_noor@schools.gov.sg](mailto:normohaida_mohamed_noor@schools.gov.sg)  |
-| Ms Tan Ai Fen     | Subject Head - English Language (covering)    | [tan\_ai\_fen@schools.gov.sg](mailto:tan_ai_fen@schools.gov.sg)  |
+| Ms Tan Ai Fen     | Subject Head - English Language    | [tan\_ai\_fen@schools.gov.sg](mailto:tan_ai_fen@schools.gov.sg)  |
 | Ms Victoria Ching Ngai Men     | Subject Head - Geography      |  [Victoria\_Ching@schools.gov.sg](mailto:Victoria_Ching@schools.gov.sg)  |
 | Mr Fathul Rahman Bin Mohamed     | Year Head  (Lower Sec)      |  [fathul\_rahman\_b\_mohamed@schools.gov.sg](mailto:fathul_rahman_b_mohamed@schools.gov.sg)  |
 | Mr Ho Ren An     | Assistant Year Head  (Sec 4 & 5)      |  [ren\_an\_ho@schools.gov.sg](mailto:ren_an_ho@schools.gov.sg)  |
