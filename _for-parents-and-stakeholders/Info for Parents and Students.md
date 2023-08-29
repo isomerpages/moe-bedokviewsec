@@ -3,6 +3,9 @@ title: Info for Parents and Students
 permalink: /partnerships/info-for-parents-and-students/
 description: ""
 ---
+**2023 End-of-Year Examination Timetable**<br>
+
+
 **2023 GCE N Level Prelim**<br>
 [GCE N Level Prelim Timetable](/files/Info%20for%20Parents%20Stakeholders/n%20lvl%20prelim%202023%20timetable.pdf)
 
