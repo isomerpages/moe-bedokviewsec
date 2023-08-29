@@ -22,11 +22,12 @@ The English and Literature department believes in strengthening the language edu
 
 Through this four-month programme, all Secondary 1 students have the opportunity to work in groups to perform a skit. Under the tutelage of their EL teachers, they write their own script and put into practice public speaking skills by presenting their skit to their classmates.
 
-![Dream Big Project](/images/The%20Dream%20Big%20Project.jpeg)
+![](/images/Academic%20Curriculum/english%20(1).jpeg)
 
-![Dream Big Project](/images/The%20Dream%20Big%20Project%20(2).jpeg)
+![](/images/Academic%20Curriculum/english%20(2).jpeg)
 
-![Dream Big Project](/images/The%20Dream%20Big%20Project%20(3).jpeg)
+![](/images/Academic%20Curriculum/english%20(3).jpeg)
+
 
 **Debates**
 

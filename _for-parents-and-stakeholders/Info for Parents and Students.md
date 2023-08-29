@@ -3,6 +3,16 @@ title: Info for Parents and Students
 permalink: /partnerships/info-for-parents-and-students/
 description: ""
 ---
+**2023 End-of-Year Examination Timetable**<br>
+[Secondary 1 End of Year Examination Timetable](/files/Info%20for%20Parents%20Stakeholders/secondary%201%20end%20of%20year%20examination%20timetable.pdf)<br>
+[Secondary 2 End of Year Examination Timetable](/files/Info%20for%20Parents%20Stakeholders/secondary%202%20end%20of%20year%20examination%20timetable.pdf)<br>
+[Secondary 3 Express End of Year Examination Timetable](/files/Info%20for%20Parents%20Stakeholders/secondary%203%20express%20end%20of%20year%20examination%20timetable.pdf)<br>
+[Secondary 3 Normal Academic End of Year Examination Timetable](/files/Info%20for%20Parents%20Stakeholders/secondary%203%20normal%20academic%20end%20of%20year%20examination%20timetable.pdf)
+
+**2023 GCE O Level Prelim**<br>
+[Secondary 4 Express / Secondary 5 Normal Academic Prelim Timetable](/files/Info%20for%20Parents%20Stakeholders/o%20level%20prelim%202023_final%20(4e5n).pdf)
+[Secondary 4 Normal Academic (O) Prelim Timetable](/files/Info%20for%20Parents%20Stakeholders/o%20level%20prelim%202023_final%20(4n(o)).pdf)
+
 **2023 GCE N Level Prelim**<br>
 [GCE N Level Prelim Timetable](/files/Info%20for%20Parents%20Stakeholders/n%20lvl%20prelim%202023%20timetable.pdf)
 
