@@ -42,22 +42,23 @@ To engage students in an experiential manner, NE learning journeys to various ve
 
 **National Day**
 
+![](/images/Academic%20Curriculum/CCE/national_day.png)
 
-National Day Celebrations 2023 - Marching contingent comprising the Uniformed Groups
+<p style="text-align:center;">National Day Celebrations 2023 - Marching contingent comprising the Uniformed Groups </p>
 
-
-Contributing to the community by taking part in the school Values-In-Action programme
+![](/images/Academic%20Curriculum/CCE/via_students.png)
+<p style="text-align:center;">Contributing to the community by taking part in the school Values-In-Action programme</p><p>
 
 **Racial Harmony Day** <br>
 The Singapore Connection
 
+![](/images/Academic%20Curriculum/CCE/rhd_students.png)
 
-<p style="text-align:center;">Staff &amp; students dressed up in different cultural costumes to emphasise the importance of racial diversity in Singapore</p>
+</p><p style="text-align:center;">Staff &amp; students dressed up in different cultural costumes to emphasise the importance of racial diversity in Singapore</p>
 
+<img style="width:40%" src="/images/Academic%20Curriculum/CCE/rhd2_students.jpg"><img style="width:40%" src="/images/Academic%20Curriculum/CCE/rhd3_students.jpg">
 
-&lt;2 pics here&gt;
-
-Students try their hands on cultural activities to better understand the different cultures in Singapore
+<p style="text-align:center;">Students try their hands on cultural activities to better understand the different cultures in Singapore</p>
 
 
 **Total Defence Day** <br>
