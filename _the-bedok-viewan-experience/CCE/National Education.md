@@ -51,8 +51,8 @@ To engage students in an experiential manner, NE learning journeys to various ve
 ##### Racial Harmony Day
 The Singapore Connection
 
+	
 ![](/images/Academic%20Curriculum/CCE/rhd_students.png)
-
 </p><p style="text-align:center;">Staff &amp; students dressed up in different cultural costumes to emphasise the importance of racial diversity in Singapore</p>
 
 <img style="width:40%" src="/images/Academic%20Curriculum/CCE/rhd2_students.jpg"><img style="width:40%" src="/images/Academic%20Curriculum/CCE/rhd3_students.jpg">
