@@ -49,7 +49,7 @@ To engage students in an experiential manner, NE learning journeys to various ve
 <p style="text-align:center;">Contributing to the community by taking part in the school Values-In-Action programme</p><p>
 
 ##### Racial Harmony Day
-	The Singapore Connection
+The Singapore Connection
 
 ![](/images/Academic%20Curriculum/CCE/rhd_students.png)
 
