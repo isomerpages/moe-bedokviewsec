@@ -80,5 +80,5 @@ Bedok View Secondary School commemorates Total Defence Day annually by conductin
 
  The school commemorated **SAF Day** by encouraging their NSman employees to don uniforms and recite the SAF pledge during the morning assembly.  The school also conducted the annual National Day observance ceremony by having the marching-in of uniform group cadets during Flag-Raising to commemorate Singapore’s independence.
 
-<img style="width:100%" src="/images/SAF%20Day%202021%20Celebrations.png">
+<img style="width:60%" src="/images/SAF%20Day%202021%20Celebrations.png">
 <p style="text-align:center;">SAF Day 2021 Celebrations</p>
