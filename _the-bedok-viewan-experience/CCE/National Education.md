@@ -51,13 +51,13 @@ Contributing to the community by taking part in the school Values-In-Action prog
 **Racial Harmony Day** <br>
 The Singapore Connection
 
+
+<p style="text-align:center;">Staff &amp; students dressed up in different cultural costumes to emphasise the importance of racial diversity in Singapore</p>
+
+
 &lt;2 pics here&gt;
-<p style="text-align:center;">Students try their hands on cultural activities to better understand the different cultures in Singapore</p>
 
-
-
-
-
+Students try their hands on cultural activities to better understand the different cultures in Singapore
 
 
 **Total Defence Day** <br>
@@ -66,9 +66,6 @@ Together We Keep Singapore Strong
 <img style="width:40%" src="/images/Bedok%20Viewans%20pledging%20their%20commitment%20to%20keep%20Singapore%20strong.png">
 <p style="text-align:center;">Bedok Viewans pledging their commitment to keep Singapore strong.</p>
 
-
-<img style="width:60%" src="/images/Our%20Principal.jpg">
-<p style="text-align:center;">Our Principal, Mdm Teo, handing over a token of appreciation to LTC Sam Ong who engaged our graduating students on the importance of Defence.</p>
 
 **Bedok View’s Total Defence Award:**
 
@@ -84,5 +81,5 @@ Bedok View Secondary School commemorates Total Defence Day annually by conductin
 
  The school commemorated **SAF Day** by encouraging their NSman employees to don uniforms and recite the SAF pledge during the morning assembly.  The school also conducted the annual National Day observance ceremony by having the marching-in of uniform group cadets during Flag-Raising to commemorate Singapore’s independence.
 
-<img style="width:45%" src="/images/SAF%20Day%202021%20Celebrations.png">
+<img style="width:100%" src="/images/SAF%20Day%202021%20Celebrations.png">
 <p style="text-align:center;">SAF Day 2021 Celebrations</p>
