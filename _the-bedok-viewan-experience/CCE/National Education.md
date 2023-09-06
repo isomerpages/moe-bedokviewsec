@@ -35,21 +35,20 @@ To engage students in an experiential manner, NE learning journeys to various ve
 
 ### National Education (NE) Core Events
 
-**International Friendship Day**
+##### International Friendship Day
 
 <img style="width:65%" src="/images/International%20Friendship%20Day.png">
-<p style="text-align:center;">The European Union engages our Bedok Viewans on the EU-Singapore relations during International Friendship Day.</p>
+<p style="text-align:center;">The European Union engages our Bedok Viewans on the EU-Singapore relations during International Friendship Day.</p><br>
 
-**National Day**
+##### National Day
 
 ![](/images/Academic%20Curriculum/CCE/national_day.png)
-
 <p style="text-align:center;">National Day Celebrations 2023 - Marching contingent comprising the Uniformed Groups </p>
 
 ![](/images/Academic%20Curriculum/CCE/via_students.png)
 <p style="text-align:center;">Contributing to the community by taking part in the school Values-In-Action programme</p><p>
 
-**Racial Harmony Day** <br>
+##### Racial Harmony Day
 The Singapore Connection
 
 ![](/images/Academic%20Curriculum/CCE/rhd_students.png)
@@ -61,14 +60,14 @@ The Singapore Connection
 <p style="text-align:center;">Students try their hands on cultural activities to better understand the different cultures in Singapore</p>
 
 
-**Total Defence Day** <br>
+#### Total Defence Day 
 Together We Keep Singapore Strong
 
 <img style="width:40%" src="/images/Bedok%20Viewans%20pledging%20their%20commitment%20to%20keep%20Singapore%20strong.png">
 <p style="text-align:center;">Bedok Viewans pledging their commitment to keep Singapore strong.</p>
 
 
-**Bedok View’s Total Defence Award:**
+#### Bedok View’s Total Defence Award:
 
 **(Accredited with NS Mark (Gold) and accorded TDA NS Advocate Award for Organisations in the year 2016 and 2019)**
 
