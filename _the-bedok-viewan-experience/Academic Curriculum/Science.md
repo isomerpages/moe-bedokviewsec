@@ -71,4 +71,22 @@ At Bedok View, we're not just teaching science; we're fostering a generation of 
 		</td>
 	</tr>
 	</tbody></table>
+ASTAR-VJC Science Fair competition
+<table><tbody><tr><td>
+	<img style="width:250%" src="/images/Academic%20Curriculum/Science/science13.jpg">
+		</td>
+	<td>
+			<img style="width:250%" src="/images/Academic%20Curriculum/Science/science14.jpg">
+		</td>
+	</tr>
+	</tbody></table>
+National SISTEMIC Programme
+<table><tbody><tr><td>
+	<img style="width:200%" src="/images/Academic%20Curriculum/Science/science15.jpg">
+		</td>
+	<td>
+			<img style="width:250%" src="/images/Academic%20Curriculum/Science/science16.jpg">
+		</td>
+	</tr>
+	</tbody></table>
 </center>
