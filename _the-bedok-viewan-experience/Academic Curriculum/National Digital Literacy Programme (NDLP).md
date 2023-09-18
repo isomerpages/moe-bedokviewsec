@@ -106,7 +106,7 @@ Do note a&nbsp;**factory reset of your device may be required**&nbsp;for install
 ![DMA Options ( Using Mobile Guardian)](/images/DMA%20options.jpg)
 
 The following are guide to using Mobile Guardian ( Device Management Application) for managing your child's usage of the PLD.
-You may click below to see what you can do with the DMA options. <br>
-[DMA Parent Guide - Default Option](/files/Academic%20Curriculum/dma%20parent%20guide%20-%20default%20option.pdf)
-[DMA Parent Guide - Option A](/files/Academic%20Curriculum/dma%20parent%20guide%20-%20option%20a.pdf)
+You may click below to see what you can do with the DMA options. <br><br>
+[DMA Parent Guide - Default Option](/files/Academic%20Curriculum/dma%20parent%20guide%20-%20default%20option.pdf)<br>
+[DMA Parent Guide - Option A](/files/Academic%20Curriculum/dma%20parent%20guide%20-%20option%20a.pdf)<br>
 [DMA Parent Guide - Option B](/files/Academic%20Curriculum/dma%20parent%20guide%20-%20option%20b.pdf)
