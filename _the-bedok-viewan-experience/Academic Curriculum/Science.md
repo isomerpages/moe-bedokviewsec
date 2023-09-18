@@ -14,14 +14,41 @@ Our dedication to cultivating well-rounded learners is showcased through our div
 
 But we don't stop there. Our commitment to elevating STEM education has led us to curate special programs that take students on a journey into the realms of Science, Technology, Engineering, and Mathematics. These transformative initiatives empower students to grapple with real-world challenges, equipping them with skills that extend far beyond the classroom.
 
-Our vision? To cultivate scientifically literate and inquisitive learners.
-
+Our vision? To cultivate scientifically literate and inquisitive learners.<br>
 Our mission? To nurture self-directed individuals who embrace science with lifelong passion.&nbsp;
 
 At Bedok View, we're not just teaching science; we're fostering a generation of critical thinkers, problem solvers, and future innovators. Join us in our mission to illuminate minds, inspire questions, and drive innovation. Together, we're creating a future where scientific curiosity knows no bounds.
 
 <center> 
 	<b></b><h5><b>Experiential Learning of Science</b>
-	</h5></center>
+	</h5>
 	
+![](/images/Academic%20Curriculum/Science/science1.jpg)
 	
+![](/images/Academic%20Curriculum/Science/science2.jpg)
+
+![](/images/Academic%20Curriculum/Science/science3.jpg)
+
+![](/images/Academic%20Curriculum/Science/science4.jpg)
+	</center>
+	
+<center>
+	<b></b><h5><b>Experiential Learning of Science</b>
+	</h5>
+
+![](/images/Academic%20Curriculum/Science/science5.jpg)
+
+![](/images/Academic%20Curriculum/Science/science6.jpg)
+</center>
+
+<center>
+	<b></b><h5><b>Learning Science Beyond School</b>
+	</h5>
+<table><tbody><tr><td>
+	![](/images/Academic%20Curriculum/Science/science7.jpg)
+		</td>
+	<td>
+		![](/images/Academic%20Curriculum/Science/science8.jpg)</td>
+	</tr>
+	</tbody></table>
+</center>
