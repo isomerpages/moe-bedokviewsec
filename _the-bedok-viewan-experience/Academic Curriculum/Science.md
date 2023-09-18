@@ -55,12 +55,20 @@ At Bedok View, we're not just teaching science; we're fostering a generation of 
 	</tbody></table>
 	Ignite Challenge Programme	
 <table><tbody><tr><td>
-	<img style="width:75%" src="/images/Academic%20Curriculum/Science/science7.jpg">
+	<img style="width:150%" src="/images/Academic%20Curriculum/Science/science9.jpg">
 		</td>
 	<td>
-			<img style="width:200%" src="/images/Academic%20Curriculum/Science/science8.jpg">
+			<img style="width:125%" src="/images/Academic%20Curriculum/Science/science10.jpg">
 		</td>
 	</tr>
 	</tbody></table>
-
+	Playing Farmer Boot Camp
+<table><tbody><tr><td>
+	<img style="width:250%" src="/images/Academic%20Curriculum/Science/science11.jpg">
+		</td>
+	<td>
+			<img style="width:250%" src="/images/Academic%20Curriculum/Science/science12.jpg">
+		</td>
+	</tr>
+	</tbody></table>
 </center>
