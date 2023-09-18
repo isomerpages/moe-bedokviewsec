@@ -44,11 +44,23 @@ At Bedok View, we're not just teaching science; we're fostering a generation of 
 <center>
 	<b></b><h5><b>Learning Science Beyond School</b>
 	</h5>
+	Ignite Challenge Programme
 <table><tbody><tr><td>
-	![](/images/Academic%20Curriculum/Science/science7.jpg)
+	<img style="width:75%" src="/images/Academic%20Curriculum/Science/science7.jpg">
 		</td>
 	<td>
-		![](/images/Academic%20Curriculum/Science/science8.jpg)</td>
+			<img style="width:200%" src="/images/Academic%20Curriculum/Science/science8.jpg">
+		</td>
 	</tr>
 	</tbody></table>
+	Ignite Challenge Programme	
+<table><tbody><tr><td>
+	<img style="width:75%" src="/images/Academic%20Curriculum/Science/science7.jpg">
+		</td>
+	<td>
+			<img style="width:200%" src="/images/Academic%20Curriculum/Science/science8.jpg">
+		</td>
+	</tr>
+	</tbody></table>
+
 </center>
