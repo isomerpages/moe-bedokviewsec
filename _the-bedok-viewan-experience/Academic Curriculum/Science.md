@@ -4,72 +4,89 @@ permalink: /academic-curriculum/science/
 description: ""
 third_nav_title: Academic Curriculum
 ---
-### Department Video
+### Discover the World of Science at Bedok View Secondary, Science Department
 
-<div class="bp-youtube">
+At Bedok View, the learning of science transcends traditional boundaries. With a commitment to fostering scientific literacy and inquisitiveness, the science department stands as a beacon of innovative learning.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Y0yAMU_t9Rs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+Rooted in the renowned 5E instructional model, our approach to teaching science is anything but ordinary. We ignite curiosity and spark intellect by Engaging, Exploring, Explaining, Elaborating, and Evaluating. This journey empowers students to unravel the mysteries of the universe through hands-on experiences that transcend the classroom.
 
-</div>
+Our dedication to cultivating well-rounded learners is showcased through our diverse learning opportunities. Beyond the confines of textbooks, students immerse themselves in the world of science through experiential learning. Laboratory sessions aren't just experiments; they're pathways to scientific discovery. These sessions embolden our students to investigate, question, and validate science concepts, nurturing their analytical prowess.
 
-### Overview
+But we don't stop there. Our commitment to elevating STEM education has led us to curate special programs that take students on a journey into the realms of Science, Technology, Engineering, and Mathematics. These transformative initiatives empower students to grapple with real-world challenges, equipping them with skills that extend far beyond the classroom.
 
-At Bedok View Secondary, we believe in nurturing our students to be scientifically literate, inquisitive and self-directed learners, with a lifelong passion for Science.
+Our vision? To cultivate scientifically literate and inquisitive learners.<br>
+Our mission? To nurture self-directed individuals who embrace science with lifelong passion.&nbsp;
 
-We adopt an Inquiry-Based Learning Approach in the teaching and learning of Science at all levels. Science knowledge and skills are nurtured and developed through these three broad platforms: Classroom-Based, Laboratory-Based and Experiential Learning. Our Experiential Leaning platform provides students with a holistic and integrated approach towards experiences in Applied Science Learning. We also provide students with opportunities for attachment at various institutes of higher learning.
+At Bedok View, we're not just teaching science; we're fostering a generation of critical thinkers, problem solvers, and future innovators. Join us in our mission to illuminate minds, inspire questions, and drive innovation. Together, we're creating a future where scientific curiosity knows no bounds.
 
-The department adopts a holistic system in the teaching of Lower Secondary Science for both the Express and Normal Academic streams. For the Upper Secondary Express students, the department offers Pure Biology, Pure Chemistry, Pure Physics as well as Combined Science (Physics and Chemistry) and Combined Science (Biology and Chemistry). For the Upper Secondary Normal Academic students, the department offers Combined Science (Physics and Chemistry). The department believes in giving equal opportunities for all students to learn Science so as to ensure that they have a well-rounded Science education.
+<center> 
+	<b></b><h5><b>Experiential Learning of Science</b>
+	</h5>
+	
+![](/images/Academic%20Curriculum/Science/science1.jpg)
+	
+![](/images/Academic%20Curriculum/Science/science2.jpg)
 
-**Vision**
+![](/images/Academic%20Curriculum/Science/science3.jpg)
 
-Scientifically literate and Inquisitive Learner.
+![](/images/Academic%20Curriculum/Science/science4.jpg)
+	</center>
+	
+<center>
+	<b></b><h5><b>Experiential Learning of Science</b>
+	</h5>
 
-**Mission**
+![](/images/Academic%20Curriculum/Science/science5.jpg)
 
-To nurture scientifically literate and self-directed learners who have a lifelong passion for Science. 
+![](/images/Academic%20Curriculum/Science/science6.jpg)
+</center>
 
-
-### Programmes
-
-1 \. Science Experiential Workshop (SEW) (Secondary 1)<br>
-2 \. IgnITE Skills Challenge (for Secondary 2NA &amp; 3NA)<br>
-3 \. Advanced Elective Module on STEM Related Areas (Secondary 3)<br>
-4 \. Science &amp; Technology Competition @ Nanyang Polytechnic (Secondary 2 and 3 Selected Students
-
-1 \.  **Science Integrated Activities (Secondary 1 &amp; Secondary 2)**
-
-Secondary One students attend the in-house Science Experiential Workshop (SEW) to enrich and extend their learning beyond the syllabus. Students will be engaged with hands-on activities when they attend the workshop. Activities conducted in the past workshops include bridge-building using ice-cream sticks, crime scene investigation and slime-making.
-
-![Students testing their prototype chemical powered car.](/images/Students%20testing%20their%20prototype%20chemical%20powered%20car.jpg)
-
-![Students testing their prototype chemical powered car.](/images/Students%20testing%20their%20prototype%20chemical%20powered%20car2.jpg)
-
-![Students testing their prototype chemical powered car.](/images/Students%20testing%20their%20prototype%20chemical%20powered%20car3.jpg)
-Students testing their prototype chemical powered car
-
-**2. IgnITE Skills Challenge (for Secondary 2NA &amp; 3NA)**
-
-The ignITE Skills Challenge is a national-level skills competition organised by the Institute of Technical Education, Singapore, with support from the Ministry of Education and Singapore Science Centre. As the only national competition for Normal Academic and Technical students in Singapore, the aim is to excite students about the value of vocational and skills education, make learning enjoyable and memorable. Students can participate in more than 10 challenges that focus on Science, Technology, Engineering and Mathematics (STEM).
-
-![Our students in circuit-tinkering action.](/images/Our%20students%20in%20circuit-tinkering%20action.jpg)
-Our students in circuit-tinkering action
-
-![One of our very happy winning teams.](/images/One%20of%20our%20very%20happy%20winning%20teams.jpg)
-
-<figcaption style="text-align:center;">One of our very happy winning teams</figcaption>
-
-**3. Advanced Elective Module on STEM Related Areas (Secondary 3)**
-
-The Advanced Elective Module (AEM) is organised for our Secondary 3 Express Physics students. Students will spend 4 days at a selected Polytechnic during their June or September school holidays to attend the module. In attending this module, students have the chance to understand more about STEM-related skills as well as to have a first-hand experience of life in a Polytechnic. Some of these AEMs include Discovering the Science of Flight, The Science of Ship Design and Creative STEM Applications.
-
-<img src="/images/Experience%20on%20flight%20simulator%20@NP%20Aerospace%20Hub.jpg" style="width:60%">
-<figcaption style="text-align:center;">Experience on flight simulator @NP Aerospace Hub</figcaption><br>
-
-<img src="/images/shipyard.png" style="width:60%">
-<figcaption style="text-align:center;">Field trip to a shipyard</figcaption>
-
-**4. Science &amp; Technology Competition @Nanyang Polytechnic**
-
-The Science and Technology Challenge is an annual competition organised by Nanyang Polytechnic. The aim of the competition is to fuel students' critical and creative thinking while promoting their interest in Science, Technology, Engineering and Mathematics (STEM).
-
-Below is a short video showing our students' participation for the "Build your Dream Aircraft" category.
+<center>
+	<b></b><h5><b>Learning Science Beyond School</b>
+	</h5>
+	Ignite Challenge Programme
+<table><tbody><tr><td>
+	<img style="width:75%" src="/images/Academic%20Curriculum/Science/science7.jpg">
+		</td>
+	<td>
+			<img style="width:200%" src="/images/Academic%20Curriculum/Science/science8.jpg">
+		</td>
+	</tr>
+	</tbody></table>
+	Ignite Challenge Programme	
+<table><tbody><tr><td>
+	<img style="width:150%" src="/images/Academic%20Curriculum/Science/science9.jpg">
+		</td>
+	<td>
+			<img style="width:125%" src="/images/Academic%20Curriculum/Science/science10.jpg">
+		</td>
+	</tr>
+	</tbody></table>
+	Playing Farmer Boot Camp
+<table><tbody><tr><td>
+	<img style="width:250%" src="/images/Academic%20Curriculum/Science/science11.jpg">
+		</td>
+	<td>
+			<img style="width:250%" src="/images/Academic%20Curriculum/Science/science12.jpg">
+		</td>
+	</tr>
+	</tbody></table>
+ASTAR-VJC Science Fair competition
+<table><tbody><tr><td>
+	<img style="width:250%" src="/images/Academic%20Curriculum/Science/science13.jpg">
+		</td>
+	<td>
+			<img style="width:250%" src="/images/Academic%20Curriculum/Science/science14.jpg">
+		</td>
+	</tr>
+	</tbody></table>
+National SISTEMIC Programme
+<table><tbody><tr><td>
+	<img style="width:200%" src="/images/Academic%20Curriculum/Science/science15.jpg">
+		</td>
+	<td>
+			<img style="width:250%" src="/images/Academic%20Curriculum/Science/science16.jpg">
+		</td>
+	</tr>
+	</tbody></table>
+</center>

@@ -15,7 +15,7 @@ The following key dispositions for citizenship in Singapore shape our purpose an
 * **A Sense of Hope**
 * **A Will to Act**
 
-In Bedok View, NE is championed by a group of student leaders known as the **Red Dot Ambassadors**. They lead the commemoration of the four National Education events such as:
+In Bedok View, NE is championed by a group of student leaders known as the **Red Dot Ambassadors**. They lead the commemoration of the four National Education events, namely:
 
 * **Total Defence Day**
 * **International Friendship Day**
@@ -26,74 +26,47 @@ The Red Dot Ambassadors (RDAs) represent an interest group of students who play 
 
 **Key Roles of Red Dot Ambassadors (RDAs)**
 
-*   To promote National Education in school through the 4 core events &amp; other enrichment programmes
-*   To support the school in the 4 core events &amp; other enrichment programmes
+*   To promote National Education and support the school through the 4 core NE events &amp; other enrichment programmes
 *   To support the integration of the International Students.
 
 **Training Opportunities**
 
 To engage students in an experiential manner, NE learning journeys to various venues such as museums are conducted. In this way, we provide opportunities for Bedok Viewans to explore and examine their identity as Singaporeans and arrive at a common set of ideals and values.
 
-
-<img src="/images/Bedok%20Viewans%20on%20a%20NE%20Learning%20Journey%20to%20the%20Singapore%20National%20Museum.png" style="width:65%">
-<p style="text-align:center;">Bedok Viewans on a NE Learning Journey to the Singapore National Museum</p>
-
-<img src="/images/RDAs%20pitching%20their%20proposal%20to%20SE%20CDC.jpg" style="width:75%">
-<p style="text-align:center;">RDAs pitching their proposal to SE CDC</p>
-
-
-<img src="/images/RDAs%20doing%20their%20bit%20to%20give%20back%20to%20the%20residents%20of%20Bedok%20Peace%20Haven.jpg" style="width:75%">
-<p style="text-align:center;">RDAs doing their bit to give back to the residents of Bedok Peace Haven</p>
-
-<img src="/images/Red%20Dot%20Ambassadors%20during%20a%20Heritage%20Trail%20to%20the%20Battlebox.png" style="width:65%">
-<p style="text-align:center;">Red Dot Ambassadors chaperoning the International Students during a Heritage Trail to the Battlebox</p>
-
-
-<img src="/images/Red%20Dot%20Ambassadors%20chaperoning%20the%20International%20Students%20during%20a%20Heritage%20Trail%20to%20the%20Museum.png" style="width:65%">
-<p style="text-align:center;">Red Dot Ambassadors chaperoning the International Students during a Heritage Trail to the Museum</p>
-
 ### National Education (NE) Core Events
 
-**International Friendship Day**
+##### International Friendship Day
 
-<img src="/images/International%20Friendship%20Day.png" style="width:65%">
-<p style="text-align:center;">The European Union engages our Bedok Viewans on the EU-Singapore relations during International Friendship Day.</p>
+<img style="width:65%" src="/images/International%20Friendship%20Day.png">
+<p style="text-align:center;">The European Union engages our Bedok Viewans on the EU-Singapore relations during International Friendship Day.</p><br>
 
-**National Day**
+##### National Day
 
+![](/images/Academic%20Curriculum/CCE/national_day.png)
+<p style="text-align:center;">National Day Celebrations 2023 - Marching contingent comprising the Uniformed Groups </p>
 
-<img src="/images/National%20Day.png" style="width:55%">
-<p style="text-align:center;">Bedok Viewans getting interviewed on National TV.</p>
+![](/images/Academic%20Curriculum/CCE/via_students.png)
+<p style="text-align:center;">Contributing to the community by taking part in the school Values-In-Action programme</p>
 
-
-<img src="/images/National%20Day%20Celebrations%202021.png" style="width:65%">
-<p style="text-align:center;">National Day Celebrations 2021- Observance Ceremony carried out with safe management in place.</p>
-
-**Racial Harmony Day** <br>
+##### Racial Harmony Day
 The Singapore Connection
 
-<img src="/images/Staff%20&amp;%20students.png" style="width:75%">
-<p style="text-align:center;">Staff &amp; students dressed up in different cultural costumes while munching on Kacang Puteh and watching mini films on the importance of Racial Diversity in Singapore</p>
+![](/images/Academic%20Curriculum/CCE/rhd_students.png)
+<p style="text-align:center;">Staff &amp; students dressed up in different cultural costumes to emphasise the importance of racial diversity in Singapore</p>
+
+<img style="width:40%" src="/images/Academic%20Curriculum/CCE/rhd2_students.jpg"><img style="width:40%" src="/images/Academic%20Curriculum/CCE/rhd3_students.jpg">
+
+<p style="text-align:center;">Students try their hands on cultural activities to better understand the different cultures in Singapore</p>
 
 
-<img src="/images/Teachers%20dressed.png" style="width:50%">
-<p style="text-align:center;">Teachers dressed in traditional ethnic costumes for a drama to teach students about how Singapore appeared in the early times.</p>
-
-<img src="/images/Staff%20&amp;%20students%202.png" style="width:55%">
-<p style="text-align:center;">Staff &amp; students dressed up in different cultural costumes to emphasise the importance of Racial Diversity in Singapore</p>
-
-
-**Total Defence Day** <br>
+#### Total Defence Day 
 Together We Keep Singapore Strong
 
-<img src="/images/Bedok%20Viewans%20pledging%20their%20commitment%20to%20keep%20Singapore%20strong.png" style="width:40%">
+<img style="width:40%" src="/images/Bedok%20Viewans%20pledging%20their%20commitment%20to%20keep%20Singapore%20strong.png">
 <p style="text-align:center;">Bedok Viewans pledging their commitment to keep Singapore strong.</p>
 
 
-<img src="/images/Our%20Principal.jpg" style="width:60%">
-<p style="text-align:center;">Our Principal, Mdm Teo, handing over a token of appreciation to LTC Sam Ong who engaged our graduating students on the importance of Defence.</p>
-
-**Bedok View’s Total Defence Award:**
+#### Bedok View’s Total Defence Award:
 
 **(Accredited with NS Mark (Gold) and accorded TDA NS Advocate Award for Organisations in the year 2016 and 2019)**
 
@@ -107,5 +80,5 @@ Bedok View Secondary School commemorates Total Defence Day annually by conductin
 
  The school commemorated **SAF Day** by encouraging their NSman employees to don uniforms and recite the SAF pledge during the morning assembly.  The school also conducted the annual National Day observance ceremony by having the marching-in of uniform group cadets during Flag-Raising to commemorate Singapore’s independence.
 
-<img src="/images/SAF%20Day%202021%20Celebrations.png" style="width:45%">
+<img style="width:60%" src="/images/SAF%20Day%202021%20Celebrations.png">
 <p style="text-align:center;">SAF Day 2021 Celebrations</p>

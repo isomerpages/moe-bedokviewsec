@@ -105,8 +105,8 @@ Do note a&nbsp;**factory reset of your device may be required**&nbsp;for install
 
 ![DMA Options ( Using Mobile Guardian)](/images/DMA%20options.jpg)
 
-The following are guide to using Mobdile Guardian ( Device Management Application) for managing your child's usage of the PLD.
-You may click below to see what you can do with the DMA options. <br>
-[DMA Parent Guide v2.0 - Default Chrome OS.pdf](/files/DMA%20Parent%20Guide%20Default%20Chrome%20OS.pdf) <br>
-[DMA Parent Guide v2.0 - Option A Chrome OS.pdf](/files/DMA%20Parent%20Guide%20Option%20A%20Chrome%20OS.pdf) <br>
-[DMA Parent Guide v2.0 - Option B Chrome OS.pdf](/files/DMA%20Parent%20Guide%20Option%20B%20Chrome%20OS.pdf)
+The following are guide to using Mobile Guardian ( Device Management Application) for managing your child's usage of the PLD.
+You may click below to see what you can do with the DMA options. <br><br>
+[DMA Parent Guide - Default Option](/files/Academic%20Curriculum/dma%20parent%20guide%20-%20default%20option.pdf)<br>
+[DMA Parent Guide - Option A](/files/Academic%20Curriculum/dma%20parent%20guide%20-%20option%20a.pdf)<br>
+[DMA Parent Guide - Option B](/files/Academic%20Curriculum/dma%20parent%20guide%20-%20option%20b.pdf)

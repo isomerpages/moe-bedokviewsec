@@ -17,11 +17,11 @@ third_nav_title: CCE
 <img src="/images/CCE_Framework_2020.png" style="width:70%">
 <p style="text-align:center;"><strong><u>BV Character &amp; Citizenship Education Framework</u></strong></p>
 
-**Character &amp; Citizenship**&nbsp;is central to Bedok View’s vision of developing Learners who Learn for Life, Leaders who Light The Way.&nbsp;School leaders and staff work in synergy to realise the school mission to&nbsp;**\`Nurture Bedok Viewans who Aspire, Strive and Dare as Learners and Leaders.**&nbsp;The CCE framework (based on MOE’s CCE 2021 Curriculum Frame) draws together the different aspects of CCE in providing a student-centric, values-driven education.
+**Character &amp; Citizenship**&nbsp;is central to Bedok View’s vision of Learners who Learn for Life, Leaders who Light the Way.&nbsp;School leaders and staff work in synergy to realise the school mission to&nbsp;**\`Nurture Bedok Viewans as Learners and Leaders who Aspire, Strive and Dare.**&nbsp;The CCE framework (based on MOE’s CCE 2021 Curriculum Frame) draws together the different aspects of CCE in providing a student-centric, values-driven education.
 
 **The Lighthouse &amp; Our 2RISE Values:**
 
-The product of a successful CCE curriculum in Bedok View is illustrated in the centre of the diagram above. As a source of light, we hope this Character &amp; Citizenship Framework will guide us all - hence, the ‘lighthouse’ is central in this framework. The school’s values&nbsp;**2RISE - Respect, Responsibility, Integrity, Service and Excellence**&nbsp;are housed in the rays emanating from the school symbol of the lighthouse. These values will guide the school in developing our students’ character, providing a solid foundation for the students to withstand the waves of changes and challenges brought about by a rapidly changing world.&nbsp;The student’s actions are guided by these values as demonstrated by the rays emitted by the lighthouse.
+The product of a successful CCE curriculum in Bedok View is illustrated in the centre of the diagram above. Just like how the lighthouse is a source of light, we hope this Character &amp; Citizenship Framework will guide us all. Hence, the ‘lighthouse’ is central to this framework. The school’s values&nbsp;**2RISE - Respect, Responsibility, Integrity, Service and Excellence**&nbsp;are housed in the rays emanating from the school symbol of the lighthouse. These values will guide the school in developing our students’ character and providing a solid foundation for the students to withstand the waves of changes and the challenges brought about by a rapidly changing world.&nbsp;The students' actions are guided by these values as manisfested by the rays emitted by the lighthouse.
 
 **Goals of CCE:**
 
