@@ -20,4 +20,3 @@ Bedok Viewans will be nurtured and developed with the competencies, imbibed with
 
 For more information and updates on ECG matters, please click here: [ECG@BedokView](https://sites.google.com/moe.edu.sg/ecgbedokviewss/)
 
-
