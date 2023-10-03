@@ -6,9 +6,9 @@ description: ""
 **2023 End-of-Year Examination Timetable**<br>
 [Secondary 1 End of Year Examination Timetable](/files/Info%20for%20Parents%20Stakeholders/secondary%201%20end%20of%20year%20examination%20timetable.pdf)<br>
 [Secondary 2 End of Year Examination Timetable](/files/Info%20for%20Parents%20Stakeholders/secondary%202%20end%20of%20year%20examination%20timetable.pdf)<br>
-[Secondary 3 Express End of Year Examination Timetable](/files/Info%20for%20Parents%20Stakeholders/sec%203%20ex%20eye%20tt%202023.pdf)
+[Secondary 3 Express End of Year Examination Timetable](/files/Info%20for%20Parents%20Stakeholders/sec%203%20ex%20eye%20tt%202023.pdf) *(updated 19 Sep)*
 <br>
-[Secondary 3 Normal Academic End of Year Examination Timetable](/files/Info%20for%20Parents%20Stakeholders/sec%203%20na%20eye%20tt%202023.pdf)
+[Secondary 3 Normal Academic End of Year Examination Timetable](/files/Info%20for%20Parents%20Stakeholders/sec%203%20na%20eye%20tt%202023.pdf)*(updated 19 Sep)*
 
 **2023 GCE O Level Prelim**<br>
 [Secondary 4 Express / Secondary 5 Normal Academic Prelim Timetable](/files/Info%20for%20Parents%20Stakeholders/o%20level%20prelim%202023_final%20(4e5n).pdf)<br>
