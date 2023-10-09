@@ -59,15 +59,15 @@ In Bedok View (BV), there is a strong emphasis to equip students with the skills
 
 **Seal Making**
 
-<img src="/images/Ox%20Clay%20making%20for%20Chinese%20Language%20students.jpg" style="width:60%">
+<img src="/images/Academic%20Curriculum/Mother%20Tongue/mtl_004.jpg" style="width:60%">
 
 **Garland Making**
 
-<img src="/images/Rangoli%20for%20Tami%20Language%20students.jpg" style="width:60%">
+<img src="/images/Academic%20Curriculum/Mother%20Tongue/mtl_005.jpg" style="width:60%">
 
 **Batik Painting**
 
-<img style="width:60%" src="/images/Lyrical%20Poetry%20for%20Malay%20Language%20students.jpg">
+<img style="width:60%" src="/images/Academic%20Curriculum/Mother%20Tongue/mtl_006.jpg">
 
 </center>
 
