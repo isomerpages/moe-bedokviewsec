@@ -55,19 +55,21 @@ In Bedok View (BV), there is a strong emphasis to equip students with the skills
 
 ### Mother Tongue Languages Fortnight
 
-Given the changing language environment, the usage of MTL beyond curriculum time is critical to making MTL a living language for our students. As such the school organized various activities during our MTL Fortnight to enable our students to learn and use MTL in a more novel and authentic way.
+<center>
 
-**Ox Clay making for Chinese Language students**
+**Seal Making**
 
 <img src="/images/Ox%20Clay%20making%20for%20Chinese%20Language%20students.jpg" style="width:60%">
 
-**Rangoli for Tami Language students**
+**Garland Making**
 
 <img src="/images/Rangoli%20for%20Tami%20Language%20students.jpg" style="width:60%">
 
-**Lyrical Poetry for Malay Language students**
+**Batik Painting**
 
 <img style="width:60%" src="/images/Lyrical%20Poetry%20for%20Malay%20Language%20students.jpg">
+
+</center>
 
 ### Subjects Offered
 
@@ -92,13 +94,13 @@ Given the changing language environment, the usage of MTL beyond curriculum time
 </thead>
 <tbody>
   <tr>
-    <td style="border: 1px solid white" class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">Higher Chinese Language</span><br><br></td>
-    <td style="border: 1px solid white" class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">Higher Malay Language</span><br><br></td>
-    <td style="border: 1px solid white" class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Tamil Language</span></td>
+    <td style="border: 1px solid white" class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">Higher Chinese Language (G3)</span><br><br></td>
+    <td style="border: 1px solid white" class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">Higher Malay Language (G3)</span><br><br></td>
+    <td style="border: 1px solid white" class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Tamil Language <br>(G1 to G3)</span></td>
   </tr>
   <tr>
-    <td style="border: 1px solid white" class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Chinese Language</span></td>
-    <td style="border: 1px solid white" class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Malay Language</span></td>
+    <td style="border: 1px solid white" class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Chinese Language<br>(G1 to G3)</span></td>
+    <td style="border: 1px solid white" class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Malay Language<br>(G1 to G3)</span></td>
     <td style="border: 1px solid white" class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">Tamil Language B</span><br><span style="color:#222;background-color:#EAEAEA">(at Secondary 4)</span><br><br></td>
   </tr>
   <tr>
