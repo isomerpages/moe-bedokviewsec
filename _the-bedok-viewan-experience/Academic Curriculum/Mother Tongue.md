@@ -14,44 +14,27 @@ third_nav_title: Academic Curriculum
 
 ### Our Mission
 
-In Bedok View (BV), there is a strong emphasis to equip students with the skills and knowledge in Mother Tongue Languages (MTL). We aspire to help our students acquire the proficiency and ability to use MTL confidently and learn to appreciate the diverse culture, traditions and history of their roots. With these, they will be able to thrive in the rapidly changing global society.
+In Bedok View (BV), there is a strong emphasis to equip students with the skills and knowledge in Mother Tongue Languages (MTL).
+* We aspire to help our students acquire the proficiency and ability to use MTL confidently.
+*  We aim to nurture effective communicators who are life-long learners of their Mother-Tongue Language and possess deep appreciation of our culture and diversity.
 
 
 ### Our Vision
 
 * To create a nurturing environment for quality learning and holistic development of our students.
 
-### Our Mission
 
-* To nurture effective communicators who are life-long learners of their Mother-Tongue Language and possess deep appreciation of our culture and diversity.
+##### Programmes
 
-**High Standards**
+* Chinese New Year Celebration
+* Hari Raya Celebration 
+* Deepavali Celebration 
+* Mother Tongue Languages Fortnight 
+* Overseas Learning Journey 
+* CPES (CL) 
+* CPEF (ML) 
 
-
-In BV, the MTL department sets high standard through an engaging curriculum. Our team of highly committed teachers are constantly exploring a repertoire of pedagogies to create meaningful learning content and experiences for the students. We aim to develop students who are self-directed learners and possess collaborative skills to enable them to work in teams effectively. In addition to that, the MTL department also leverages on Information Communication and Technology (ICT) tools to facilitate the teaching and learning of MTL. 
-
-**Quality Learning**
-
-
-Lessons conducted are student-centred and are designed to develop in our students 21st Century Competencies. School-based curriculum, learning packages and handbooks are designed to help our students be more competent in the language. Multiple opportunities and platforms are created for students to apply their learning and use the language in a variety of contexts and situations. Students will also be placed in authentic settings to allow them to experience the use of the language in relevant and real-life situations.
-
-**Holistic Development**
-
-The MTL Department also aims to develop our students holistically. We achieve this through meaningful activities and programmes planned for them that take place throughout the year. 
-
-Through these activities and programmes, we hope to provide a holistic MTL learning experience for our students. We hope to inspire the love of the language in students and equip them with competencies to become active learners and proficient users of MTL.
-
-### Programmes
-
-* Chinese New Year Celebration <br>
-* Hari Raya Celebration <br>
-* Deepavali Celebration <br>
-* Mother Tongue Languages Fortnight <br>
-* Overseas Learning Journey <br>
-* CPES (CL) <br>
-* CPEF (ML) <br>
-
-### Chinese New Year Celebration
+###### Chinese New Year Celebration
 
 Bedok View ushered in the year of the Dog with a classroom decoration competition, a VIA project , a CNY learning package and an e-concert performance.  Other than immersing our students in the festive celebration, we also hope to build good values through service towards others and showing appreciation to our non teaching staff. 
 
