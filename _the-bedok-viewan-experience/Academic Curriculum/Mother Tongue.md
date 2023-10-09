@@ -24,7 +24,7 @@ In Bedok View (BV), there is a strong emphasis to equip students with the skills
 * To create a nurturing environment for quality learning and holistic development of our students.
 
 
-##### Programmes
+#### Programmes
 
 * Chinese New Year Celebration
 * Hari Raya Celebration 
@@ -34,25 +34,24 @@ In Bedok View (BV), there is a strong emphasis to equip students with the skills
 * CPES (CL) 
 * CPEF (ML) 
 
-###### Chinese New Year Celebration
+##### Chinese New Year Celebration
+<center>
+	
+**Concert Segment**
+![](/images/Academic%20Curriculum/Mother%20Tongue/mtl_002.jpg)
+	
+![](/images/Academic%20Curriculum/Mother%20Tongue/mtl_001.jpg)
 
-Bedok View ushered in the year of the Dog with a classroom decoration competition, a VIA project , a CNY learning package and an e-concert performance.  Other than immersing our students in the festive celebration, we also hope to build good values through service towards others and showing appreciation to our non teaching staff. 
+
 
 **Giving of hampers to show appreciation to our Non-teaching Staff**
 
 <img style="width:60%" src="/images/01.jpg">
 
-**Classroom Decoration Competition Winners**
-
-<img style="width:60%" src="/images/02.jpg">
-
-**Lantern Making in Class**
-
-<img style="width:60%" src="/images/03.jpg">
-
-**E-Concert Team in action**
-
-<img style="width:60%" src="/images/04.png">
+**Classroom Segment
+<br>(Ang Bao Design Competition in collaboration with APSN)**
+![](/images/Academic%20Curriculum/Mother%20Tongue/mtl_003.jpg)
+</center>
 
 ### Mother Tongue Languages Fortnight
 
