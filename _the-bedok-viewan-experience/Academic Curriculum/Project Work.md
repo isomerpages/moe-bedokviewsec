@@ -40,12 +40,26 @@ Our program centers around the theme of sustainability, inspiring students to ex
 
 </p>
 
+##### Program Benefits
 
+Participation in the Project Work offers numerous advantages, including:
 
+•	Enriched learning experiences beyond traditional classrooms.<br>
+•	Practical application of knowledge in real-world contexts.<br>
+•	Enhanced problem-solving abilities through a design-thinking approach.<br>
+•	Improved communication and teamwork skills.<br>
+•	Encouragement of self-directed inquiry, fostering lifelong learning.<br>
 
+##### Program Highlights
+Notable highlights of the program include:
 
+•	Hands-on learning experiences that actively engage students.<br>
+•	Opportunities for students to apply their learning to address genuine community sustainability issues.<br>
+•	Project presentations allowing students to showcase their innovative solutions.<br>
+•	Community engagement as students work towards making a positive impact.
 
-
+##### Conclusion
+The Project Work represents our commitment to offering a comprehensive education that prepares students for a future where creative problem-solving and a deep understanding of sustainability are essential. We eagerly anticipate guiding our students on an exciting journey of exploration, innovation, and sustainability.
 
 <img src="/images/ALP_03.png" style="width:30%;margin-right:15px;" align="left">
 <img src="/images/ALP_04.png" style="width:30%;margin-right:15px;" align="left">
