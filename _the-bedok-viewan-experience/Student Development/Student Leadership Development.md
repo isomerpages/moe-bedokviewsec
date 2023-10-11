@@ -6,7 +6,7 @@ third_nav_title: Student Development
 ---
 ## Overview
 
-The Bedok View (BV)&nbsp;Student Leadership Programme aims to equip Bedok Viewans with the leadership skills and competencies that prepare them to be future-ready in a constantly changing and volatile global landscape. This is underpinned by the BV Leadership Philosophy that every Bedok Viewan is a leader and one who can make a difference.
+The Bedok View (BV)&nbsp;Student Leadership Programme aims to equip Bedok Viewans with the leadership skills and competencies that prepare them to be future-ready in a constantly changing and volatile global landscape. This is underpinned by the BV Leadership Philosophy that every Bedok Viewan can be a leader and one who can make a difference.
 
 **1 \. Three Domains of the BV Student Leadership Programme**
 

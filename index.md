@@ -15,7 +15,7 @@ sections:
         - title: National Day Celebrations
           description: ""
           url: https://www.facebook.com/100064069451562/posts/pfbid0d8BHXMKJ3FgqBAJEEi7EiMDAMdhJeucX5LqXQouWe1rtvXjCBiKr1to5nnXQPQdol/?mibextid=cr9u03
-        - title: End-of-Year Examination Timetable
-          description: Click for more information
+        - title: End-of-Year Examination Timetable for Checking of Paper
+          description: 11 - 17 October
           url: partnerships/info-for-parents-and-students/
 ---

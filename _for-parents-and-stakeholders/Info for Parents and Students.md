@@ -3,6 +3,11 @@ title: Info for Parents and Students
 permalink: /partnerships/info-for-parents-and-students/
 description: ""
 ---
+**2023 End-of-Year Examination Timetable for Checking of Paper (11 - 17 Oct)**<br>
+[Secondary 1 End-of-Year Examination Timetable for Checking of Paper](/files/sec%201%20eye%20timetable%20for%20checking%20of%20paper.pdf)<br>
+[Secondary 2 End-of-Year Examination Timetable for Checking of Paper](/files/sec%202%20eye%20timetable%20for%20checking%20of%20paper.pdf)<br>
+[Secondary 3 End-of-Year Examination Timetable for Checking of Paper](/files/sec%203%20eye%20timetable%20for%20checking%20of%20paper.pdf)
+
 **2023 End-of-Year Examination Timetable**<br>
 [Secondary 1 End of Year Examination Timetable](/files/Info%20for%20Parents%20Stakeholders/secondary%201%20end%20of%20year%20examination%20timetable.pdf)<br>
 [Secondary 2 End of Year Examination Timetable](/files/Info%20for%20Parents%20Stakeholders/secondary%202%20end%20of%20year%20examination%20timetable.pdf)<br>

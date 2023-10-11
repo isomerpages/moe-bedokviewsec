@@ -14,78 +14,62 @@ third_nav_title: Academic Curriculum
 
 ### Our Mission
 
-In Bedok View (BV), there is a strong emphasis to equip students with the skills and knowledge in Mother Tongue Languages (MTL). We aspire to help our students acquire the proficiency and ability to use MTL confidently and learn to appreciate the diverse culture, traditions and history of their roots. With these, they will be able to thrive in the rapidly changing global society.
+In Bedok View (BV), there is a strong emphasis to equip students with the skills and knowledge in Mother Tongue Languages (MTL).
+* We aspire to help our students acquire the proficiency and ability to use MTL confidently.
+*  We aim to nurture effective communicators who are life-long learners of their Mother-Tongue Language and possess deep appreciation of our culture and diversity.
 
 
 ### Our Vision
 
 * To create a nurturing environment for quality learning and holistic development of our students.
 
-### Our Mission
 
-* To nurture effective communicators who are life-long learners of their Mother-Tongue Language and possess deep appreciation of our culture and diversity.
+#### Programmes
 
-**High Standards**
+* Chinese New Year Celebration
+* Hari Raya Celebration 
+* Deepavali Celebration 
+* Mother Tongue Languages Fortnight 
+* Overseas Learning Journey 
+* CPES (CL) 
+* CPEF (ML) 
+
+##### Chinese New Year Celebration
+<center>
+	
+**Concert Segment**
+![](/images/Academic%20Curriculum/Mother%20Tongue/mtl_002.jpg)
+	
+![](/images/Academic%20Curriculum/Mother%20Tongue/mtl_001.jpg)
 
 
-In BV, the MTL department sets high standard through an engaging curriculum. Our team of highly committed teachers are constantly exploring a repertoire of pedagogies to create meaningful learning content and experiences for the students. We aim to develop students who are self-directed learners and possess collaborative skills to enable them to work in teams effectively. In addition to that, the MTL department also leverages on Information Communication and Technology (ICT) tools to facilitate the teaching and learning of MTL. 
-
-**Quality Learning**
-
-
-Lessons conducted are student-centred and are designed to develop in our students 21st Century Competencies. School-based curriculum, learning packages and handbooks are designed to help our students be more competent in the language. Multiple opportunities and platforms are created for students to apply their learning and use the language in a variety of contexts and situations. Students will also be placed in authentic settings to allow them to experience the use of the language in relevant and real-life situations.
-
-**Holistic Development**
-
-The MTL Department also aims to develop our students holistically. We achieve this through meaningful activities and programmes planned for them that take place throughout the year. 
-
-Through these activities and programmes, we hope to provide a holistic MTL learning experience for our students. We hope to inspire the love of the language in students and equip them with competencies to become active learners and proficient users of MTL.
-
-### Programmes
-
-* Chinese New Year Celebration <br>
-* Hari Raya Celebration <br>
-* Deepavali Celebration <br>
-* Mother Tongue Languages Fortnight <br>
-* Overseas Learning Journey <br>
-* CPES (CL) <br>
-* CPEF (ML) <br>
-
-### Chinese New Year Celebration
-
-Bedok View ushered in the year of the Dog with a classroom decoration competition, a VIA project , a CNY learning package and an e-concert performance.  Other than immersing our students in the festive celebration, we also hope to build good values through service towards others and showing appreciation to our non teaching staff. 
 
 **Giving of hampers to show appreciation to our Non-teaching Staff**
 
 <img style="width:60%" src="/images/01.jpg">
 
-**Classroom Decoration Competition Winners**
-
-<img style="width:60%" src="/images/02.jpg">
-
-**Lantern Making in Class**
-
-<img style="width:60%" src="/images/03.jpg">
-
-**E-Concert Team in action**
-
-<img style="width:60%" src="/images/04.png">
+**Classroom Segment
+<br>(Ang Bao Design Competition in collaboration with APSN)**
+![](/images/Academic%20Curriculum/Mother%20Tongue/mtl_003.jpg)
+</center>
 
 ### Mother Tongue Languages Fortnight
 
-Given the changing language environment, the usage of MTL beyond curriculum time is critical to making MTL a living language for our students. As such the school organized various activities during our MTL Fortnight to enable our students to learn and use MTL in a more novel and authentic way.
+<center>
 
-**Ox Clay making for Chinese Language students**
+**Seal Making**
 
-<img src="/images/Ox%20Clay%20making%20for%20Chinese%20Language%20students.jpg" style="width:60%">
+<img src="/images/Academic%20Curriculum/Mother%20Tongue/mtl_004.jpg" style="width:60%">
 
-**Rangoli for Tami Language students**
+**Garland Making**
 
-<img src="/images/Rangoli%20for%20Tami%20Language%20students.jpg" style="width:60%">
+<img src="/images/Academic%20Curriculum/Mother%20Tongue/mtl_005.jpg" style="width:60%">
 
-**Lyrical Poetry for Malay Language students**
+**Batik Painting**
 
-<img style="width:60%" src="/images/Lyrical%20Poetry%20for%20Malay%20Language%20students.jpg">
+<img style="width:60%" src="/images/Academic%20Curriculum/Mother%20Tongue/mtl_006.jpg">
+
+</center>
 
 ### Subjects Offered
 
@@ -110,13 +94,13 @@ Given the changing language environment, the usage of MTL beyond curriculum time
 </thead>
 <tbody>
   <tr>
-    <td style="border: 1px solid white" class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">Higher Chinese Language</span><br><br></td>
-    <td style="border: 1px solid white" class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">Higher Malay Language</span><br><br></td>
-    <td style="border: 1px solid white" class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Tamil Language</span></td>
+    <td style="border: 1px solid white" class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">Higher Chinese Language (G3)</span><br><br></td>
+    <td style="border: 1px solid white" class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">Higher Malay Language (G3)</span><br><br></td>
+    <td style="border: 1px solid white" class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Tamil Language <br>(G1 to G3)</span></td>
   </tr>
   <tr>
-    <td style="border: 1px solid white" class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Chinese Language</span></td>
-    <td style="border: 1px solid white" class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Malay Language</span></td>
+    <td style="border: 1px solid white" class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Chinese Language<br>(G1 to G3)</span></td>
+    <td style="border: 1px solid white" class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Malay Language<br>(G1 to G3)</span></td>
     <td style="border: 1px solid white" class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">Tamil Language B</span><br><span style="color:#222;background-color:#EAEAEA">(at Secondary 4)</span><br><br></td>
   </tr>
   <tr>
