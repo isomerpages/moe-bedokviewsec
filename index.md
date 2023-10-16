@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/main_cover.jfif
+      background: /images/testing.jpg
       key_highlights:
         - title: Achievements
           description: Click here for achievements!
