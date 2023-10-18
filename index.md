@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/testing.jpg
+      background: /images/testing 2.jpg
       key_highlights:
         - title: Achievements
           description: Click here for achievements!
