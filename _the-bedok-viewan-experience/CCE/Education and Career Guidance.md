@@ -20,12 +20,10 @@ Bedok Viewans will be nurtured and developed with the competencies, imbibed with
 
 For more information and updates on ECG matters, please click here: [ECG@BedokView](https://sites.google.com/moe.edu.sg/ecgbedokviewss/)
 
-<center>
+
 
 ![](/images/Academic%20Curriculum/CCE/cce_lessons_1.jpg)
-Sec 3 Students attended the WorldSkills ASEAN 2023 and were exposed to the different industries.
-<br>
+<center>Sec 3 Students attended the WorldSkills ASEAN 2023 and were exposed to the different industries.</center><br>
 
-![](/images/Academic%20Curriculum/CCE/cce_lessons_2.jpg)
-Sec 4 students learnt more about the industries they were interested in when partners and alumni were invited to share about their profession as part of the Career Seminar.
-</center>
+![](/images/Academic%20Curriculum/CCE/cce_lessons_2.jpg) 
+<center>Sec 4 students learnt more about the industries they were interested in when partners and alumni were invited to share about their profession as part of the Career Seminar.</center>
