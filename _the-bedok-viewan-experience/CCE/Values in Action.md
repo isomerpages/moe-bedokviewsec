@@ -35,18 +35,16 @@ We also provide opportunities for students to contribute meaningfully to the com
 We have a sustained partnership with APSN Katong in the programme BV Connects. Our Bedok Viewans befriend students from APSN and this provides the opportunity for them to learn the importance of social integration and inclusivity. BV also partners South East Community Development Council in several initiatives such as the Community Laboratory Project.
 
 In the annual BV Values In Action Marketplace, voluntary welfare organisations (VWO) share with students their missions, beneficiary profiles and needs. Through open conversations and sharing, students develop greater awareness about the needy and underprivileged as well as connect with VWOs they are keen to carry out meaningful VIA projects with. In meeting the needs of the Bedok community, Bedok Viewans learn the importance of the value of Service.
-
-<center>
 	
 ![](/images/Academic%20Curriculum/CCE/via_01.jpg)
-Sec 1 students Spreading the Joy during our annual service to the community during Chinese New Year.
+<center>Sec 1 students Spreading the Joy during our annual service to the community during Chinese New Year.</center><br>
 
 ![](/images/Academic%20Curriculum/CCE/via_02.jpg)
-Sec 4 Bedok Viewans participating in class-initiated VIA activities where they had the opportunity to contribute to the social groups of their choice. 
+<center>Sec 4 Bedok Viewans participating in class-initiated VIA activities where they had the opportunity to contribute to the social groups of their choice. </center><br>
 
 ![](/images/Academic%20Curriculum/CCE/via_03.jpg)
-Sec 3 students imparting life-skills like tooth-brushing to our APSN Katong School students.
+<center>Sec 3 students imparting life-skills like tooth-brushing to our APSN Katong School students.</center><br>
 	
 ![](/images/Academic%20Curriculum/CCE/via_04.jpg)
-Students from Service Learning Club involved in the Siglap Hearty Meals Initiative organised by Siglap CC.
-</center>
+<center>Students from Service Learning Club involved in the Siglap Hearty Meals Initiative organised by Siglap CC.
+</center><br>
