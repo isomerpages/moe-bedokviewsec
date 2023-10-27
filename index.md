@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/whatsapp image.jpeg
+      background: /images/bvs22_0204-min.jpg
       key_highlights:
         - title: Achievements
           description: Click here for achievements!
