@@ -3,6 +3,13 @@ title: Info for Parents and Students
 permalink: /partnerships/info-for-parents-and-students/
 description: ""
 ---
+**2024 Booklists**<br>
+[Secondary 2](/files/Info%20for%20Parents%20Stakeholders/2024%20Booklists/s2%20bv%20booklist%20%20(2024).pdf)<br>
+[Secondary 3](/files/Info%20for%20Parents%20Stakeholders/2024%20Booklists/s3%20bv%20booklist%20(2024).pdf)<br>
+[Secondary 4](/files/Info%20for%20Parents%20Stakeholders/2024%20Booklists/s4%20bv%20booklist%20(2024).pdf)<br>
+[Secondary 5](/files/Info%20for%20Parents%20Stakeholders/2024%20Booklists/s5%20bv%20booklist%20(2024).pdf)
+
+
 **2023 End-of-Year Examination Timetable for Checking of Paper (11 - 17 Oct)**<br>
 [Secondary 1 End-of-Year Examination Timetable for Checking of Paper](/files/sec%201%20eye%20timetable%20for%20checking%20of%20paper.pdf)<br>
 [Secondary 2 End-of-Year Examination Timetable for Checking of Paper](/files/sec%202%20eye%20timetable%20for%20checking%20of%20paper.pdf)<br>
@@ -32,5 +39,3 @@ description: ""
 
 **Secondary 1 CCA Briefing**<br>
 [Secondary 1 CCA Briefing Slides](/files/Secondary%201%20CCA%20Briefing%20Slides%202023.pdf)
-
-
