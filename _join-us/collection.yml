@@ -2,5 +2,6 @@ collections:
   join-us:
     output: true
     order:
+      - BV Open House.md
       - School Corporate Video.md
       - Direct School Admission (DSA).md
