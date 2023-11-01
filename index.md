@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/bvs22_0204-min.jpg
       key_highlights:
-        - title: Achievements
-          description: Click here for achievements!
-          url: /about-us/our-achievements/cca/
+        - title: BV Open House
+          description: Click here for more info!
+          url: join-us/bv-openhouse/
         - title: National Day Celebrations
           description: ""
           url: https://www.facebook.com/100064069451562/posts/pfbid0d8BHXMKJ3FgqBAJEEi7EiMDAMdhJeucX5LqXQouWe1rtvXjCBiKr1to5nnXQPQdol/?mibextid=cr9u03
