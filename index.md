@@ -10,7 +10,7 @@ sections:
       background: /images/bvs22_0204-min.jpg
       key_highlights:
         - title: BV Open House
-          description: Click here for more info!
+          description: Click here to register!
           url: join-us/bv-openhouse/
         - title: National Day Celebrations
           description: ""
