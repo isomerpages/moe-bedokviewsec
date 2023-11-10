@@ -2,12 +2,14 @@
 title: Info for Parents and Students
 permalink: /partnerships/info-for-parents-and-students/
 description: ""
+variant: markdown
 ---
 **2024 Booklists**<br>
 [Secondary 2](/files/Info%20for%20Parents%20Stakeholders/2024%20Booklists/s2%20bv%20booklist%20%20(2024).pdf)<br>
 [Secondary 3](/files/Info%20for%20Parents%20Stakeholders/2024%20Booklists/s3%20bv%20booklist%20(2024).pdf)<br>
 [Secondary 4](/files/Info%20for%20Parents%20Stakeholders/2024%20Booklists/s4%20bv%20booklist%20(2024).pdf)<br>
-[Secondary 5](/files/Info%20for%20Parents%20Stakeholders/2024%20Booklists/s5%20bv%20booklist%20(2024).pdf)
+[Secondary 5](/files/Info%20for%20Parents%20Stakeholders/2024%20Booklists/s5%20bv%20booklist%20(2024).pdf)<br>
+[Sale of Textbooks and School Uniform/PE Attire During School Holidays](/files/Info%20for%20Parents%20Stakeholders/2024%20Booklists/Sale_of_Textbooks_and_School_Uniform.pdf)
 
 
 **2023 End-of-Year Examination Timetable for Checking of Paper (11 - 17 Oct)**<br>
