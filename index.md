@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/bvs22_0204-min.jpg
+      background: /images/Main_Page___L1.jpg
       key_highlights:
         - title: BV Open House
           description: Click here to register!
