@@ -2,8 +2,9 @@
 title: Principal's Welcome Message
 permalink: /about-us/principals-welcome-message/
 description: ""
+variant: markdown
 ---
-<img src="/images/About%20Us/Principal's%20Welcome%20Message/principal_welcome.png" style="width:60%">
+![](/images/P_s_Message___L10.jpg)
 
 On behalf of the school, a warm welcome to Bedok View Secondary School’s website!
 
