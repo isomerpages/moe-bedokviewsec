@@ -8,8 +8,6 @@ variant: markdown
 
 ![](/images/Our_Identity___L7_blurred.jpg)
 
-
-
 ###  Our Vision
 <br>
 Learners who Learn For Life, Leaders who Light the Way
