@@ -3,6 +3,7 @@ title: Modern Dance
 permalink: /cca/performing-arts/modern-dance/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ### CCA Video
 
@@ -49,8 +50,8 @@ Ms Nur Emillia Bte Sulaiman Sim
 
 ### CCA Overview &amp; Highlights
 
-Bedok View Dance aims to help students discover and develop their strengths and abilities. Our members are committed to support each other to put in their best effort consistently to reach greater heights.
+Bedok View Modern Dance Club allows individuals to discover and nurture their talent in dance, by exposing students to different dance genres which range from street jazz, hip hop and more. 
 
-In 2021, our dance members grew in both skills and character through various activities and performances. We had two teams of dancers to participate in the Singapore Youth Festival (SYF) Arts Presentation in which they practiced tirelessly and gained exhilarating and enriching experiences together.
+Trainings are held twice a week to help students improve their physical strength, foundation techniques, choreography and performance. Through choreographing our own routines and working with fellow dance mates, students develop resilience, discipline, independence, and learn how to communicate, cooperate and compromise well as a team. 
 
-We will always be “One Bedok View, One Dance, One FAMILY”
+Our CCA provides many opportunities for students to perform during school events, participate in Singapore Youth Festival (SYF) and competitions such as Super24.

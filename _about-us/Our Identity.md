@@ -2,9 +2,11 @@
 title: Our Identity
 permalink: /about-us/our-identity/
 description: ""
+variant: markdown
 ---
-## School Mission, Vision and Values
+## Our Identity
 
+![](/images/Our_Identity___L7_blurred.jpg)
 
 ###  Our Vision
 <br>

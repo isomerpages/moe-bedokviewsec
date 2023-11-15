@@ -3,6 +3,7 @@ title: National Cadet Corps (NCC) Land Boys
 permalink: /cca/uniformed-groups/national-cadet-corps-ncc-land-boys/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ### CCA Video
 
@@ -55,15 +56,13 @@ Ms Cheng Soon Kuee, Crystal
 
 ### CCA Overview &amp; Highlights
 
-The National Cadet Corps (NCC) Boys’ unit aims to develop responsible and resilient leaders and team players through fun and challenging military-related activities. Through these activities, we hope to develop the boys to become self-motivated leaders who embody resilient minds, fit bodies and committed hearts to serve the unit, school and nation.
 
-The cadets are involved in drills, physical trainings and fun sports activities during their training sessions to train up their fitness levels and develop discipline. They also learn military-related skills and knowledge such as technical handling of the SAR21 rifle, marksmanship, orienteering, individual fieldcraft and urban operations.
+The **National Police Cadet Corps (NPCC**) unit aims to develop cadets to be active citizens and community leaders, by working in partnership with the **Singapore Police Force** to fight crime and keep Singapore safe.
+ 
+Our cadets learn important skills and knowledge with exciting programmes such as** Crime Scene Investigation (CSI)** and **0.22 Revolver Shooting**, and nurture their rugged selves through fun and challenging outdoor activities like **High Ropes Challenge** and **Adventure Camps** in Pulau Ubin. We take part in the **Police Youth Ambassador** projects which aims to equip cadets with practical strategies to address community crime and security. We also collaborate with the **Singapore Police Force** to help spread awareness on **Vehicle Theft** and **Internet Scams** to the public. These projects help to develop our cadets into confident leaders and responsible citizens of the nation.
 
-Our Precision Drill Squad (PDS) consist of a select group of cadets who are skilled in executing complex rifle drills with precision and fluidity. Cadets are auditioned and selected based on their rifle handling skills, drill sharpness and coordination. Our PDS are given a plethora of opportunities to participate in various events, which include competitions, National Day performance and East cluster training, where they conduct a session for an NCC unit from another school to learn and experience basic PDS training. As part of tradition, our PDS performed during a National Day Dinner at the new Siglap Community Club this year to commemorate both its grand opening and our nation’s independence.
+For many years, our unit has received the **Gold Award / Distinction Award** for the **Unit Overall Proficiency Award (UOPA)** as a recognition of our cadets’ and officers’ commitment to high standards of proficiency and efficiency in our programmes and achievements. Our Sec 4 cadets have also made the school proud yearly by achieving the **SPF-NPCC Badge**, the pinnacle badge awarded to the best NPCC cadets in Singapore.
 
-The unit achieved the following awards in recent years and aims to continue to uphold high standards of the Corps:
+We look forward to welcoming you to be part of our NPCC family!
 
-*   Distinction for the Unit Recognition Award in 2019, 2020 and 2021;  
-*   Gold awards for GOTC II Virtual Competition in 2021;
-*   Silver and Bronze awards for GOTC II Virtual Competition in 2020;
-*   1st Runner-Up for Orienteering Competition in 2019
+  
