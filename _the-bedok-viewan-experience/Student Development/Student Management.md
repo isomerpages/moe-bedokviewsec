@@ -3,13 +3,15 @@ title: Student Management
 permalink: /student-development/student-management/
 description: ""
 third_nav_title: Student Development
-variant: tiptap
+variant: markdown
 ---
-### Discipline Framework
+### Student Management Framework
 
 Effective discipline is based on a consistent philosophy and approach. Every student matters and the school aims to nurture a caring school culture and a positive school climate. Such a climate is based on a calm yet firm insistence on high standards of behaviour at all times. To this effect, the school has formulated a set of clear and reasonable school rules to guide the students, which emphasises both reason and compassion, to help students change for their betterment. 
 
  School discipline also means the obligation of teachers and students to follow a code of conduct known usually as school rules. These regulations define exactly what is expected of model student behaviour and the consequences in the event that the student violates this standard. At the same time, our school creates a supportive environment by teaching values, social and emotional skills, and providing opportunities for students to exercise good behaviour by guiding and re-orientating students who have erred in their ways. A Whole School Approach towards Discipline is thus adopted, with the aim of developing our students’ self-discipline so that they become individuals who take responsibility for their decisions and actions. 
+ 
+ ### Our Discipline Approach
 
  The school has adopted the ‘4 P’ Framework to discipline, which stands for being Proactive, Preventive, Pastoral and having good Partnerships with parents and external agencies to enhance the quality of the school as a community and to help maintain high expectations. 
 
