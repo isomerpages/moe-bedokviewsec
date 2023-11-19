@@ -4,7 +4,10 @@ title: Bedok View Secondary School
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: "NOTICE: Please note our General Office will be closed on 20 Nov
+  (Monday) from 8.00am to 4.00pm as our admin staff are out of school for a
+  staff event. For any urgent matters please contact us at 8910 7914. Thank
+  you."
 sections:
   - hero:
       background: /images/Main_Page___L1.jpg
