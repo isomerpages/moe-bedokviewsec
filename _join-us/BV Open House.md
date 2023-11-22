@@ -2,5 +2,6 @@
 title: BV Open House
 permalink: /join-us/bv-openhouse/
 description: ""
+variant: markdown
 ---
-![](/images/bv%20open%20house.png)
+![](/images/Bedok_View_Secondary_School.png)
