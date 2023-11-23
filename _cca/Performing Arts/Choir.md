@@ -3,6 +3,7 @@ title: Choir
 permalink: /cca/performing-arts/choir/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ### CCA Video
 
@@ -50,8 +51,8 @@ Mdm Umi Kalthom Bte Shokor
 
 ### CCA Overview &amp; Highlights
 
-Bedok View Choir aims to develop students’ passion in music-making through singing. Over the years, the choir has acquired an extensive repertoire, from traditional and classical choral works to modern contemporary pieces. In addition to learning vocal techniques and sight-singing, the choir seeks greater exposure through public concerts, choral workshops and exchanges.&nbsp;
+The BV Choir seeks to provide a platform for talented choristers to get together to express their love and passion for singing and music. It is committed to achieving choral excellence through studying and performing a wide variety of choral music. 
 
-Apart from developing members’ musical abilities, we also provide ample opportunities to develop student leadership, as well as a nurturing environment where members grow and excel. The choir leaders and seniors are empowered through student-led activities in the choral programme while students from different levels collaborate with one another to pursue their common interest.
+Through a diverse and comprehensive range of activities and programmes, BV Choir seeks to deepen the choristers' interest and joy for singing. During each rehearsal, the choristers analyse music and work together to produce quality choral singing. To promote holistic development, sectional leaders are empowered to lead and direct their respective sections in learning the music. 
 
-In 2022,&nbsp;the choir took the virtual stage during the school’s Chinese New Year Celebration online broadcast; led the school in community singing to commemorate National Day; and finally, returned to ‘live’ onstage performance during Teacher’s Day celebration.
+Strong teamwork and bond are essential in developing a strong voice and section. This year, choir members took turns to plan and carry out team bonding games and activities to establish a close rapport and develop a strong team spirit among the choir. A close-knit family, BV Choir aims to inspire and engage the community with its passion and love for singing. 
