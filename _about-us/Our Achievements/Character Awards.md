@@ -10,6 +10,36 @@ variant: markdown
 
 The 2RISE &amp; Shine Award serves as a recognition platform to acknowledge Bedok Viewans who have demonstrated the school values through little good deeds in their daily lives. These deeds reflect our school's 2RISE values of Respect, Responsibility, Integrity, Service and Excellence. This allows the school to emphasise on consistent and coherent messaging on CCE.
 
+| <center> August 2023 Winners </center> |
+| -------- |
+| Ethan Chee Yu Jer     |
+| Tio Jun Jie Javier     |
+| Bong Cheng Ping     |
+| Chng Kai Sem     |
+| Ong Jun Rui     |
+| Tan Zi Jing     |
+| Adrian Afandi Bin Azmi     |
+| Megan Olivia Tjendraputra Yan-Zhen Low     |
+| Mohamed Hafiz Bin Anwarudeen     |
+| Farzanah Binte Hashim     |
+| Lee Rui Yang     |
+| Kaif Uthman Bin Mohamed Najeeb     |
+| Muhammad Jawwad Bin Muhammad Majnusha Maricar     |
+| Nur Qistina Binte Mohamed Nizam     |
+| Ameera Binte Salehudin     |
+| Muhammad Hira Bin Amanul Islam     |
+| Jeevan     |
+| Jeevan     |
+| Jeevan     |
+| Jeevan     |
+| Jeevan     |
+| Jeevan     |
+| Jeevan     |
+| Jeevan     |
+
+
+
+
 | <center> July 2023 Winners </center> |
 | -------- |
 | Tan Jwo Xi, Josh     |
