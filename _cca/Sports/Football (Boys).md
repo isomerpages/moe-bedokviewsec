@@ -56,16 +56,6 @@ In Bedok View, the Football CCA training program pivots on guiding learning inte
 
 The players develop these values and build up their skills and strength through training and valuable experiences gained from tournaments like the National School Games, supported by dedicated coaches, teachers and team leaders. All senior footballers play an active role in guiding the juniors during football training sessions and model the way for their juniors during conditioning and strength training exercises, goalkeeper sessions and other team building activities.
 
-This year, we are proud that our C Div boys made it to the Quarter finalist in the National School Games 2022.
+This year, we are proud that both our B and C Div boys made it to the Quarter-Finals of League 4.
 
-<img src="/images/Football_01.jpg" style="width:49%" align="left">
-<img src="/images/Football_02.jpg" style="width:49%" align="right">
-<br clear="left"><br>
-
-<img src="/images/Football_06.jpg" style="width:49%" align="left">
-<img src="/images/Football_04.jpg" style="width:49%" align="right">
-<br clear="left"><br>
-
-<img src="/images/Football_05.jpg" style="width:49%" align="left">
-<img src="/images/Football_03.jpg" style="width:49%" align="right">
 <br clear="left"><br>
