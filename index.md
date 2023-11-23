@@ -12,7 +12,7 @@ sections:
         - title: BV Open House
           description: Click here to register!
           url: join-us/bv-openhouse/
-        - title: Faces of BV
+        - title: Faces of Bedok View
           description: ""
           url: https://www.facebook.com/BedokViewSecondarySchool/posts/pfbid02jzrRLeLBDpH2P837WZFQp3U2wgFWLEwpaVFsG8jfnfjuheMYo5hqTXxBsjkuXoXYl
         - title: Booklists for Year 2024
