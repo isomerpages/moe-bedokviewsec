@@ -40,8 +40,6 @@ The 2RISE &amp; Shine Award serves as a recognition platform to acknowledge Bedo
 | Vasudevan Muruganandham     |
 
 
-
-
 | <center> July 2023 Winners </center> |
 | -------- |
 | Tan Jwo Xi, Josh     |
