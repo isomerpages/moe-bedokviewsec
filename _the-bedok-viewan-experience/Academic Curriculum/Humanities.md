@@ -3,6 +3,7 @@ title: Humanities
 permalink: /academic-curriculum/humanities/
 description: ""
 third_nav_title: Academic Curriculum
+variant: markdown
 ---
 ### Department Video 
 
@@ -33,9 +34,9 @@ Overseas Learning Journey <br>
 NUS Geography Challenge <br>
 History Card Challenge
 
-S1 Geographical Investigation on Water (Bedok Reservoir) <br>
-S2 Geographical Investigation on Sustainability - Collaboration with Project Work <br>
-S3 Geographical Fieldwork Investigation (Physical &amp; Human Geography) <br>
+S1 Bite-Sized FieldworkGeographical Investigation on Water <br>
+S2 Geographical Investigation on Housing <br>
+S3 Bite-Sized and Extended Fieldwork on Geography in Everyday Life <br>
 S1 Historical Investigation (Museums) - Collaboration with NE, Math, Aesthetics <br>
 S2 Historical Investigation (Ford Factory) - Collaboration with NE <br>
 S3 Issue Investigation <br>

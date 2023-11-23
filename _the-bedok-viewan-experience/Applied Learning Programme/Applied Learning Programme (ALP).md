@@ -2,6 +2,8 @@
 title: Applied Learning Programme (ALP)
 permalink: /academic-curriculum/applied-learning-programme-alp/
 description: ""
+third_nav_title: Applied Learning Programme
+variant: markdown
 ---
 ### Overview
 

@@ -1,8 +1,9 @@
 ---
-title: Aesthetics
+title: Aesthetics and Design & Technology
 permalink: /academic-curriculum/aesthetics/
 description: ""
 third_nav_title: Academic Curriculum
+variant: tiptap
 ---
 ### DEPARTMENT VIDEO
 

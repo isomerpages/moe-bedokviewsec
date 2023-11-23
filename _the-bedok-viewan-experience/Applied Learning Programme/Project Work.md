@@ -2,7 +2,7 @@
 title: Project Work
 permalink: /academic-curriculum/project-work/
 description: ""
-third_nav_title: Academic Curriculum
+third_nav_title: Applied Learning Programme
 ---
 ##### Introduction
 

@@ -3,11 +3,108 @@ title: Character Awards
 permalink: /about-us/our-achievements/character-awards/
 description: ""
 third_nav_title: Our Achievements
+variant: markdown
 ---
 # 2RISE &amp; SHINE Awards
 
 
 The 2RISE &amp; Shine Award serves as a recognition platform to acknowledge Bedok Viewans who have demonstrated the school values through little good deeds in their daily lives. These deeds reflect our school's 2RISE values of Respect, Responsibility, Integrity, Service and Excellence. This allows the school to emphasise on consistent and coherent messaging on CCE.
+
+| <center> September 2023 Winners </center> |
+| -------- |
+| Vyom Hitesh Vakharia     |
+| Bazli Bin Muslim     |
+| Perry Tan Yu Heng     |
+| Lai Yanyi     |
+| Rones Jeremy Yoma     |
+| Forrest Lau Iong Teng     |
+| Lim Zhi Xuan     |
+| Jaden Goh Kiat Xun      |
+| Benjamin Stanly Fernandez     |
+| Lee Ju Xian     |
+| Koon Wei Rong     |
+| Chia Ker Hoon, Jazzele     |
+| Ching Si Hong     |
+| Yasmin Binte Ahmad Shahimi     |
+
+
+| <center> August 2023 Winners </center> |
+| -------- |
+| Ethan Chee Yu Jer     |
+| Tio Jun Jie Javier     |
+| Bong Cheng Ping     |
+| Chng Kai Sem     |
+| Ong Jun Rui     |
+| Tan Zi Jing     |
+| Adrian Afandi Bin Azmi     |
+| Megan Olivia Tjendraputra Yan-Zhen Low     |
+| Mohamed Hafiz Bin Anwarudeen     |
+| Farzanah Binte Hashim     |
+| Lee Rui Yang     |
+| Kaif Uthman Bin Mohamed Najeeb     |
+| Muhammad Jawwad Bin Muhammad Majnusha Maricar     |
+| Nur Qistina Binte Mohamed Nizam     |
+| Ameera Binte Salehudin     |
+| Muhammad Hira Bin Amanul Islam     |
+| Isaac Chen Tianci     |
+| Sheikh Ali Bin Sheik Abdul Salam     |
+| Tay Jorus     |
+| Tan Si Ying     |
+| Wayne Tai (Dai Mingfeng)     |
+| Qurratu Janna     |
+| Janise Lau     |
+| Chanel Poh Gek Teng     |
+| B Thanveer Ahamed     |
+| Vasudevan Muruganandham     |
+
+
+| <center> July 2023 Winners </center> |
+| -------- |
+| Tan Jwo Xi, Josh     |
+| Mohamed Firdanish Bin Mohamed Fira     |
+| Cheong Qi Wei, Kyla     |
+| Ho Yu Xuan Paige     |
+| Afiq Fidaie Putera Sazali     |
+| Robin Moncada Singh     |
+| Jing Xin Yun Jerica     |
+| Perry Tan Yu Heng     |
+| Chew Geng Xuan Lucas     |
+| Afreen Khan     |
+| Rhys Loh     |
+| Anreis Chai Xuan Ning     |
+| Cai Xuanye     |
+| Caden Yeow Kai Zheng     |
+| Zahra Safiah Binte Idris     |
+| Kiang Kay En Charlotte     |
+| Wu Jasmine Cassandra Shi     |
+| Yang Tianyi     |
+| Luqman Adam Bin Suhaimi     |
+| Tan Kay Hian     |
+| Yam Kok En Victor     |
+| Khaw Yi Xuan     |
+| Isabel Yik     |
+| Tan Yao En     |
+| Daryl Tay Kong Zhi     |
+| Gan Xuan Ying Dionne     |
+| Airaa Illiyani Abdul Razak     |
+| Aseelah Rasima     |
+| Jazeelah Rasina     |
+| Kally Wan Yuk Teng     |
+| Lee Sze Ying (Li Siying)     |
+| Leshane Phee Jing Xuan     |
+| Nurul Farisha Binte Rohaizad     |
+| Darren Ng Yong Soon     |
+| Sonia Govindasamy     |
+| Chian Yu Xuan     |
+| Tan Wee Ee Ancel     |
+| Lo Hui Ying, Kate     |
+| Nuur Matiin Bin Normohazzam     |
+| Iain Tan Cheng Wen     |
+| Lee Ju Xian     |
+| Ally Ang Sze Xin (Wang Zhixin)     |
+| Lim Guo Ren     |
+| Leong Kah Hou     |
+| Amarnath Chatura     |
 
 | <center> May 2023 Winners </center> |
 | -------- |

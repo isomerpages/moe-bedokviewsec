@@ -12,9 +12,9 @@ sections:
         - title: BV Open House
           description: Click here to register!
           url: join-us/bv-openhouse/
-        - title: National Day Celebrations
-          description: ""
-          url: https://www.facebook.com/100064069451562/posts/pfbid0d8BHXMKJ3FgqBAJEEi7EiMDAMdhJeucX5LqXQouWe1rtvXjCBiKr1to5nnXQPQdol/?mibextid=cr9u03
+        - title: Faces of Bedok View
+          description: Find out who we are!
+          url: https://www.facebook.com/BedokViewSecondarySchool/posts/pfbid02jzrRLeLBDpH2P837WZFQp3U2wgFWLEwpaVFsG8jfnfjuheMYo5hqTXxBsjkuXoXYl
         - title: Booklists for Year 2024
           description: ""
           url: partnerships/info-for-parents-and-students/

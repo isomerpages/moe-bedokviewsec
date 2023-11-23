@@ -3,6 +3,7 @@ title: Badminton (Boys)
 permalink: /cca/sports/badminton-boys/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 ### CCA Video
 
@@ -53,4 +54,4 @@ Mr Teoh Ai Keong
 
 The Badminton CCA seeks to develop passionate players to their fullest potential in their years in Bedok View. Rigorous trainings are conducted to strengthen the physical and mental faculties of every player so as to cultivate their perseverance to pursue the different skills needed for competitive play. Players also develop mastery in the areas of their footwork and racket handling. To further assess their skills and abilities, the team participates in the yearly East Zone Badminton Competition and other external competitions, where they also learn about sportsmanship, integrity and making responsible decisions that uphold moral principles. Each year, the team holds badminton clinics to give players opportunities to give back to the community and impart their knowledge and skills to younger players.
 
-In 2021, the B Division team fought hard and made it into the quarter-finals of the National School Games (NSG) East Zone Championship. Against a group of strong opponents, the boys learnt perseverance and resilience as they stood their ground and gave their best. The experience was an enriching and meaningful one for them.
+This year, the B Division team fought hard and made it into the quarter-finals of the National School Games (NSG) East Zone Championship. Against a group of strong opponents, the boys learnt perseverance and resilience as they stood their ground and gave their best. The experience was an enriching and meaningful one for them.

@@ -4,22 +4,23 @@ collections:
     order:
       - Academic Curriculum/.keep
       - Academic Curriculum/Academic Curriculum.md
-      - Academic Curriculum/Aesthetics.md
+      - Academic Curriculum/Aesthetics and Design & Technology.md
       - Academic Curriculum/English & Literature.md
       - Academic Curriculum/Humanities.md
       - Academic Curriculum/Mathematics.md
       - Academic Curriculum/Mother Tongue.md
       - Academic Curriculum/Physical Education.md
-      - Academic Curriculum/Project Work.md
       - Academic Curriculum/Science.md
       - Academic Curriculum/Home Based Learning (HBL).md
       - Academic Curriculum/National Digital Literacy Programme (NDLP).md
       - Academic Curriculum/Singapore Student Learning Space (SLS).md
-      - Student Development/Student Development.md
       - Student Development/.keep
+      - Student Development/Student Development.md
       - Student Development/Student Leadership Development.md
       - Student Development/Student Management.md
-      - Applied Learning Programme (ALP).md
+      - Applied Learning Programme/.keep
+      - Applied Learning Programme/Applied Learning Programme (ALP).md
+      - Applied Learning Programme/Project Work.md
       - Learning for Life Programme (LLP).md
       - CCE/.keep
       - CCE/Character and Citizenship Education (CCE).md
