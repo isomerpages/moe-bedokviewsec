@@ -14,26 +14,49 @@ The 2RISE &amp; Shine Award serves as a recognition platform to acknowledge Bedo
 | -------- |
 | Tan Jwo Xi, Josh     |
 | Mohamed Firdanish Bin Mohamed Fira     |
-| CHEONG QI WEI, KYLA     |
-| Mohammed Afif Naufual Bin Mohamad Zaini     |
-| Ivoreen Chung Jia En     |
-| Ong Mei Shen Lovelyn     |
-| Bazli Bin Muslim     |
-| Maverick Heng     |
-| Lim Jing Han     |
-| Yap Xin Ling     |
-| Ng Zhe Xuan, Ian    |
-| Rhys Loh    |
+| Cheong Qi Wei, Kyla     |
+| Ho Yu Xuan Paige     |
+| Afiq Fidaie Putera Sazali     |
+| Robin Moncada Singh     |
+| Jing Xin Yun Jerica     |
+| Perry Tan Yu Heng     |
+| Chew Geng Xuan Lucas     |
+| Afreen Khan     |
+| Rhys Loh     |
+| Anreis Chai Xuan Ning     |
 | Cai Xuanye     |
+| Caden Yeow Kai Zheng     |
+| Zahra Safiah Binte Idris     |
+| Kiang Kay En Charlotte     |
+| Wu Jasmine Cassandra Shi     |
+| Yang Tianyi     |
+| Luqman Adam Bin Suhaimi     |
+| Tan Kay Hian     |
+| Yam Kok En Victor     |
+| Khaw Yi Xuan     |
+| Isabel Yik     |
+| Tan Yao En     |
 | Daryl Tay Kong Zhi     |
-| Teng See Che Jayden    |
-| Tan Zong Yi, Zaccheus     |
-| Jarine Tan Chia Min    |
-| Yun Pei Xuan     |
-| Joshua Zheng    |
-| Winston, Foo Zhi Rui    |
-| Pan Yijie    |
-| Prathipkumaran Seenivasan   |
+| Gan Xuan Ying Dionne     |
+| Airaa Illiyani Abdul Razak     |
+| Aseelah Rasima     |
+| Jazeelah Rasina     |
+| Kally Wan Yuk Teng     |
+| Lee Sze Ying (Li Siying)     |
+| Leshane Phee Jing Xuan     |
+| Nurul Farisha Binte Rohaizad     |
+| Darren Ng Yong Soon     |
+| Sonia Govindasamy     |
+| Chian Yu Xuan     |
+| Tan Wee Ee Ancel     |
+| Lo Hui Ying, Kate     |
+| Nuur Matiin Bin Normohazzam     |
+| Iain Tan Cheng Wen     |
+| Lee Ju Xian     |
+| Ally Ang Sze Xin (Wang Zhixin)     |
+| Lim Guo Ren     |
+| Leong Kah Hou     |
+| Amarnath Chatura     |
 
 | <center> May 2023 Winners </center> |
 | -------- |
