@@ -2,6 +2,7 @@ collections:
   the-bedok-viewan-experience:
     output: true
     order:
+      - Applied Learning Programme/.keep
       - Academic Curriculum/.keep
       - Academic Curriculum/Academic Curriculum.md
       - Academic Curriculum/Aesthetics and Design & Technology.md
