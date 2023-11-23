@@ -3,11 +3,37 @@ title: Character Awards
 permalink: /about-us/our-achievements/character-awards/
 description: ""
 third_nav_title: Our Achievements
+variant: markdown
 ---
 # 2RISE &amp; SHINE Awards
 
 
 The 2RISE &amp; Shine Award serves as a recognition platform to acknowledge Bedok Viewans who have demonstrated the school values through little good deeds in their daily lives. These deeds reflect our school's 2RISE values of Respect, Responsibility, Integrity, Service and Excellence. This allows the school to emphasise on consistent and coherent messaging on CCE.
+
+| <center> July 2023 Winners </center> |
+| -------- |
+| Tan Jwo Xi, Josh     |
+| Mohamed Firdanish Bin Mohamed Fira     |
+| CHEONG QI WEI, KYLA     |
+| Mohammed Afif Naufual Bin Mohamad Zaini     |
+| Ivoreen Chung Jia En     |
+| Ong Mei Shen Lovelyn     |
+| Bazli Bin Muslim     |
+| Maverick Heng     |
+| Lim Jing Han     |
+| Yap Xin Ling     |
+| Ng Zhe Xuan, Ian    |
+| Rhys Loh    |
+| Cai Xuanye     |
+| Daryl Tay Kong Zhi     |
+| Teng See Che Jayden    |
+| Tan Zong Yi, Zaccheus     |
+| Jarine Tan Chia Min    |
+| Yun Pei Xuan     |
+| Joshua Zheng    |
+| Winston, Foo Zhi Rui    |
+| Pan Yijie    |
+| Prathipkumaran Seenivasan   |
 
 | <center> May 2023 Winners </center> |
 | -------- |
