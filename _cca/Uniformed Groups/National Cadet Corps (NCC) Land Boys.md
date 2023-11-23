@@ -65,11 +65,8 @@ Our Precision Drill Squad (PDS) consist of a select group of cadets who are skil
 
 The unit achieved the following awards in recent years and aims to continue to uphold high standards of the Corps:
 
-*   Distinction for the Unit Recognition Award in 2019, 2020, 2021 and 2022;
-    
-*   Gold awards for GOTC II Virtual Competition in 2021;
-    
-*   Silver and Bronze awards for GOTC II Virtual Competition in 2020;
-    
+*   Distinction for the Unit Recognition Award in 2019, 2020, 2021 and 2022;    
+*   Gold awards for GOTC II Virtual Competition in 2021;    
+*   Silver and Bronze awards for GOTC II Virtual Competition in 2020;    
 *   1st Runner-Up for Orienteering Competition in 2019
     
