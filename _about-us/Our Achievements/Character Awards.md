@@ -28,14 +28,16 @@ The 2RISE &amp; Shine Award serves as a recognition platform to acknowledge Bedo
 | Nur Qistina Binte Mohamed Nizam     |
 | Ameera Binte Salehudin     |
 | Muhammad Hira Bin Amanul Islam     |
-| Jeevan     |
-| Jeevan     |
-| Jeevan     |
-| Jeevan     |
-| Jeevan     |
-| Jeevan     |
-| Jeevan     |
-| Jeevan     |
+| Isaac Chen Tianci     |
+| Sheikh Ali Bin Sheik Abdul Salam     |
+| Tay Jorus     |
+| Tan Si Ying     |
+| Wayne Tai (Dai Mingfeng)     |
+| Qurratu Janna     |
+| Janise Lau     |
+| Chanel Poh Gek Teng     |
+| B Thanveer Ahamed     |
+| Vasudevan Muruganandham     |
 
 
 
