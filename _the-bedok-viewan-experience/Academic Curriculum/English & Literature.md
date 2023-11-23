@@ -3,6 +3,7 @@ title: English & Literature
 permalink: /academic-curriculum/english-n-literature/
 description: ""
 third_nav_title: Academic Curriculum
+variant: markdown
 ---
 ### Department Video
 
@@ -20,7 +21,7 @@ The English and Literature department believes in strengthening the language edu
 
 **Dream Big Project**
 
-Through this four-month programme, all Secondary 1 students have the opportunity to work in groups to perform a skit. Under the tutelage of their EL teachers, they write their own script and put into practice public speaking skills by presenting their skit to their classmates.
+Through this three-month programme, all Secondary 1 students have the opportunity to work in groups to perform a skit. Under the tutelage of their EL teachers, they write their own script and put into practice public speaking skills by presenting their skit to their classmates.
 
 ![](/images/Academic%20Curriculum/english%20(1).jpeg)
 
@@ -32,8 +33,6 @@ Through this four-month programme, all Secondary 1 students have the opportunity
 **Debates**
 
 As part of the Secondary 3 EL programme, the students learn how to speak in front of an
-audience and carry out a formal debate. They learn the techniques to speak to an audience
-persuasively and confidently as they develop critical thinking discussing points regarding
-various global and local issues.
+audience and carry out a formal debate. They learn the techniques and strategies to present their arguments persuasively and confidently. At the same time, they develop critical thinking skills while  discussing points regarding various global and local issues.
 
 ![Debates](/images/Debating%20Programme.jpg)
