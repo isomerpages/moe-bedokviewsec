@@ -3,6 +3,7 @@ title: Concert Band
 permalink: /cca/performing-arts/concert-band/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ### CCA Video
 
@@ -15,8 +16,8 @@ third_nav_title: Performing Arts
 ### Teachers- In- Charge
 
 Mdm Nur Syafiqah Binte Saini <br>
-Mrs Zarina Bte Mohamed Zakaria Seth <br>
-Miss Wong Wei Leen
+Miss Wong Wei Leen<br>
+Mdm Visalatchi Santhira Segaran
 
 
 ### CCA Schedule
@@ -51,9 +52,7 @@ Miss Wong Wei Leen
 
 ### CCA Overview &amp; Highlights
 
-Bedok View Concert Band equips students with the necessary skills to enhance their proficiency in music as well as play confidently to an audience. In addition, through the training sessions conducted by experienced instructors, the CCA members get to pursue their passion for music, work with one another to create a variety of musical pieces, as well as cultivate the love for the Arts.
-
-&nbsp;In 2021, our members overcame the challenges and persevered to display their talent during the Singapore Youth Festival&nbsp;(SYF)&nbsp;Arts Presentation. As a CCA that constantly seeks to improve, the Concert Band continues to take pride in our members’ musical performance while serving the school and community.
+In its pursuit of excellence, the BV Concert Band equips students with the necessary skills to enhance their proficiency in music as well as play confidently to an audience. The band performs a wide variety of repertoire, including popular contemporary songs and band classics. The band members rose to the occasion at the Singapore Youth Festival Arts Presentation 2023, where their hard work and resilience culminated in their achievement of the coveted Certificate of Accomplishment. Our band leaders are passionate and empowered to be the guiding light of other members. Every band senior makes it their responsibility to mentor and guide junior members to develop their skills in mastering their instrument. As a band that constantly goes above and beyond in order to improve, the Bedok View Concert Band continues to be the light to others in their school and community.
 
 ### BV Concert Band Practices and Events
 
