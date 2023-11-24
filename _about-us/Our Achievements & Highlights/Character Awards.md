@@ -2,7 +2,7 @@
 title: Character Awards
 permalink: /about-us/our-achievements/character-awards/
 description: ""
-third_nav_title: Our Achievements
+third_nav_title: Our Achievements & Highlights
 variant: markdown
 ---
 # 2RISE &amp; SHINE Awards
