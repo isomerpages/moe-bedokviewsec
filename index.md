@@ -15,7 +15,7 @@ sections:
         - title: Faces of Bedok View
           description: Find out who we are!
           url: https://www.facebook.com/BedokViewSecondarySchool/posts/pfbid02jzrRLeLBDpH2P837WZFQp3U2wgFWLEwpaVFsG8jfnfjuheMYo5hqTXxBsjkuXoXYl
-        - title: Booklists for Year 2024
-          description: ""
+        - title: Release of 2023 N-Level Results
+          description: More info for Parents/Students
           url: partnerships/info-for-parents-and-students/
 ---
