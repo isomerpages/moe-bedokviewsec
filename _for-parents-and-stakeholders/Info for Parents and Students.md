@@ -4,6 +4,9 @@ permalink: /partnerships/info-for-parents-and-students/
 description: ""
 variant: markdown
 ---
+**2023 N-Level Results**<br>
+[Release of 2023 N-Level Results (Briefing Slides)](/files/2023_N_Level_Briefing_Slides.pdf)
+
 **2024 Booklists**<br>
 [Secondary 2](/files/Info%20for%20Parents%20Stakeholders/2024%20Booklists/s2%20bv%20booklist%20%20(2024).pdf)<br>
 [Secondary 3](/files/Info%20for%20Parents%20Stakeholders/2024%20Booklists/s3%20bv%20booklist%20(2024).pdf)<br>
