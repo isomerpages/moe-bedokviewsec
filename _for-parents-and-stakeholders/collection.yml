@@ -2,5 +2,6 @@ collections:
   for-parents-and-stakeholders:
     output: true
     order:
+      - S1 (2024 Registration.md
       - Parent Support Group (PSG).md
       - Info for Parents and Students.md
