@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/Main_Page___L1.jpg
       key_highlights:
-        - title: BV Open House
-          description: Click here to register!
-          url: join-us/bv-openhouse/
+        - title: Sec 1 (2024) Registration
+          description: Click here for more info
+          url: /for-parents-and-stakeholders/sec12024/
         - title: Faces of Bedok View
           description: Find out who we are!
           url: https://www.facebook.com/BedokViewSecondarySchool/posts/pfbid02jzrRLeLBDpH2P837WZFQp3U2wgFWLEwpaVFsG8jfnfjuheMYo5hqTXxBsjkuXoXYl
