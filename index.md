@@ -4,7 +4,9 @@ title: Bedok View Secondary School
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: (Updated at 3.50pm) The Parents Gateway Message will be sent out
+  as soon as the system is ready. Please refer to the School Website for the
+  latest information.
 sections:
   - hero:
       background: /images/Main_Page___L1.jpg
