@@ -5,7 +5,7 @@ description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
 notification: (Updated at 4.40pm) Please refer to the Sec 1 (2024) Registration
-  link for the Zoom meeting details.
+  link for the Sec 1 Briefing details
 sections:
   - hero:
       background: /images/Main_Page___L1.jpg
