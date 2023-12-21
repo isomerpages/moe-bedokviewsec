@@ -3,28 +3,30 @@ title: Form Teachers (Sec 4 & 5)
 permalink: /about-us/our-people/form-teachers-sec45/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 ##### Sec 4/1 Form Teachers 
 
 | Name | E-mail |
 | -------- | -------- |
-| Mr Nazarudin Bin Abdul Bakar    | [nazarudin\_abdul\_bakar@schools.gov.sg](mailto:nazarudin_abdul_bakar@schools.gov.sg)     |
-| Ms Kong Wai Leng     | [kong\_wai\_leng@schools.gov.sg](mailto:kong_wai_leng@schools.gov.sg)     |
+| Mrs Zarina Seth    | [nazarudin\_abdul\_bakar@schools.gov.sg](mailto:nazarudin_abdul_bakar@schools.gov.sg)     |
+| Mdm Wong Chiu Yian     | [kong\_wai\_leng@schools.gov.sg](mailto:kong_wai_leng@schools.gov.sg)     |
+| Mr Kwok Wai Fung     | [kong\_wai\_leng@schools.gov.sg](mailto:kong_wai_leng@schools.gov.sg)     |
 
 ##### Sec 4/2 Form Teachers 
 
 | Name | E-mail |
 | -------- | -------- |
-| Ms Marliyana Md Noor     | [marliyana\_mohamad\_noor@schools.gov.sg](mailto:marliyana_mohamad_noor@schools.gov.sg)     |
-| Ms Wong Wei Leen     | [wong\_wei\_leen@schools.gov.sg](mailto:wong_wei_leen@schools.gov.sg)     |
+| Ms Nurulasyikin Md Yunan     | [marliyana\_mohamad\_noor@schools.gov.sg](mailto:marliyana_mohamad_noor@schools.gov.sg)     |
+| Mr Teoh Ai Keong     | [wong\_wei\_leen@schools.gov.sg](mailto:wong_wei_leen@schools.gov.sg)     |
 
 
 ##### Sec 4/3 Form Teachers 
 
 | Name | E-mail |
 | -------- | -------- |
-| Ms Nur Hazwah Binte Mohamed Shah    | [nur\_hazwah\_mohamed\_shah@schools.gov.sg](mailto:nur_hazwah_mohamed_shah@schools.gov.sg)     |
-| Ms Ang Suat Kee, Sally     | [ang\_suat\_kee\_sally@schools.gov.sg](mailto:ang_suat_kee_sally@schools.gov.sg)     |
+| Mr Abdul Adib Md Omar    | [nur\_hazwah\_mohamed\_shah@schools.gov.sg](mailto:nur_hazwah_mohamed_shah@schools.gov.sg)     |
+| Ms Ng Han Yi     | [ang\_suat\_kee\_sally@schools.gov.sg](mailto:ang_suat_kee_sally@schools.gov.sg)     |
 
 
 ##### Sec 4/4 Form Teachers 
