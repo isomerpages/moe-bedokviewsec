@@ -9,33 +9,33 @@ variant: markdown
 
 | Name | E-mail |
 | -------- | -------- |
-| Ms Nur Hafizah Md Yunos     | [wong\_chiu\_yian@schools.gov.sg](mailto:wong_chiu_yian@schools.gov.sg)     |
-| Mr Tan Teck Yong     | [zarina_mohamed_zakaria@schools.gov.sg](mailto:zarina_mohamed_zakaria@schools.gov.sg)     |
-| Ms Lena Ong     | [zarina_mohamed_zakaria@schools.gov.sg](mailto:zarina_mohamed_zakaria@schools.gov.sg)     |
+| Ms Nur Hafizah Md Yunos     | [nur_hafizah_mohammad_yunos@schools.gov.sg](mailto:nur_hafizah_mohammad_yunos@schools.gov.sg)     |
+| Mr Tan Teck Yong     | [tan_teck_yong@schools.gov.sg](mailto:tan_teck_yong@schools.gov.sg)     |
+| Ms Lena Ong     | [ong_lena_a@schools.gov.sg](mailto:ong_lena_a@schools.gov.sg)     |
 
 ##### Sec 3/2 Form Teachers 
 
 | Name | E-mail |
 | -------- | -------- |
-| Ms Sally Ang     | [nurulasyikin\_md\_yunan@schools.gov.sg](mailto:nurulasyikin_md_yunan@schools.gov.sg)     |
-| Mr Roy Cher     | [teoh\_ai\_keong@schools.gov.sg](mailto:teoh_ai_keong@schools.gov.sg)     |
-| Ms Shek Mee Keng     | [teoh\_ai\_keong@schools.gov.sg](mailto:teoh_ai_keong@schools.gov.sg)     |
+| Ms Sally Ang     | [ang_suat_kee_sally@schools.gov.sg](mailto:ang_suat_kee_sally@schools.gov.sg)     |
+| Mr Roy Cher     | [cher_liew_chun_roy@schools.gov.sg](mailto:cher_liew_chun_roy@schools.gov.sg)     |
+| Ms Shek Mee Keng     |     |
 
 ##### Sec 3/3 Form Teachers 
 
 | Name | E-mail |
 | -------- | -------- |
-| Mr David Keng     | [abdul\_adib\_mohd\_omar@schools.gov.sg](mailto:abdul_adib_mohd_omar@schools.gov.sg)     |
-| Ms Noorfatin Beevi Abdul Aziz     | [ng\_han\_yi@schools.gov.sg](mailto:ng_han_yi@schools.gov.sg)     |
-| Mrs Serene Kuek     | [ng\_han\_yi@schools.gov.sg](mailto:ng_han_yi@schools.gov.sg)     |
+| Mr David Keng     | [keng_wei_li@schools.gov.sg](mailto:keng_wei_li@schools.gov.sg)     |
+| Ms Noorfatin Beevi Abdul Aziz     | [noorfatin_beevi_abdul_aziz@schools.gov.sg](mailto:noorfatin_beevi_abdul_aziz@schools.gov.sg)     |
+| Mrs Serene Kuek     | [lee_chuen_sing@schools.gov.sg](mailto:lee_chuen_sing@schools.gov.sg)     |
 
 
 ##### Sec 3/4 Form Teachers 
 
 | Name | E-mail |
 | -------- | -------- |
-| Ms Kong Wai Leng     | [boon\_wei\_yee@schools.gov.sg](mailto:boon_wei_yee@schools.gov.sg)     |
-| Mr Wee Khim Leng     | [Chia\_Pei\_Pei@schools.gov.sg](mailto:Chia_Pei_Pei@schools.gov.sg)     |
+| Ms Kong Wai Leng     | [kong_wai_leng@schools.gov.sg](mailto:kong_wai_leng@schools.gov.sg)     |
+| Mr Wee Khim Leng     | [wee_khim_leng_a@schools.gov.sg](mailto:wee_khim_leng_a@schools.gov.sg)     |
 
 ##### Sec 3/5 Form Teachers 
 
