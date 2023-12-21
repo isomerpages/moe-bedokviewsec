@@ -50,7 +50,7 @@ variant: markdown
 | -------- | -------- |
 | Ms Anuthama     | [anuthama_a@schools.gov.sg](mailto:anuthama_a@schools.gov.sg)     |
 | Mr Hui Da Zun     |      |
-| Ms Ong Cheng Cheng     | [hamzah\_b\_muhit@schools.gov.sg](mailto:hamzah_b_muhit@schools.gov.sg)     |
+| Ms Ong Cheng Cheng     |      |
 
 ##### Sec 3/7 Form Teachers 
 
