@@ -41,20 +41,20 @@ variant: markdown
 
 | Name | E-mail |
 | -------- | -------- |
-| Ms Nur Syafiqah Saini     | [tan\_wee\_ghuan\_jastinian@schools.gov.sg](mailto:tan_wee_ghuan_jastinian@schools.gov.sg)     |
-| Mr Loh Chia Chang   | [Nur\_Adilah\_Binte\_Renohardi@schools.gov.sg](mailto:Nur_Adilah_Binte_Renohardi@schools.gov.sg)     |
-| Mr Wimal Woodward Aamarasuriya   | [Nur\_Adilah\_Binte\_Renohardi@schools.gov.sg](mailto:Nur_Adilah_Binte_Renohardi@schools.gov.sg)     |
+| Ms Nur Syafiqah Saini     | [nur_syafiqah_saini@schools.gov.sg](mailto:nur_syafiqah_saini@schools.gov.sg)     |
+| Mr Loh Chia Chang   | [Loh_CHIA_CHANG@schools.gov.sg](mailto:Loh_CHIA_CHANG@schools.gov.sg)     |
+| Mr Wimal Woodward Aamarasuriya   |      |
 
 ##### Sec 1/6 Form Teachers 
 
 | Name | E-mail |
 | -------- | -------- |
-| Ms Mardiyana Roslie     | [zhang\_lingjia\_mabel@schools.gov.sg](mailto:zhang_lingjia_mabel@schools.gov.sg)     |
-| Mr Md Ahmad Shahrir    | [safura\_abdul\_karim@schools.gov.sg](mailto:safura_abdul_karim@schools.gov.sg)     |
+| Ms Mardiyana Roslie     | [mardiyana_roslie@schools.gov.sg](mailto:mardiyana_roslie@schools.gov.sg)     |
+| Mr Md Ahmad     | [muhammad_ahmad@schools.gov.sg](mailto:muhammad_ahmad@schools.gov.sg)     |
 
 ##### Sec 1/7 Form Teachers 
 
 | Name | E-mail |
 | -------- | -------- |
-| Mr Mohammed Noor Firdaus Sumawi     | [syaiful\_bahari\_abdul\_latif@schools.gov.sg](mailto:syaiful_bahari_abdul_latif@schools.gov.sg)     |
-| Ms Lai Mok Ern    | [sherine\_wong\_choi\_yoong@schools.gov.sg](mailto:sherine_wong_choi_yoong@schools.gov.sg)     |
+| Mr Mohammed Noor Firdaus Sumawi     | [mohammed_noor_firdaus_sumawi@schools.gov.sg](mailto:mohammed_noor_firdaus_sumawi@schools.gov.sg)     |
+| Ms Lai Mok Ern    |      |
