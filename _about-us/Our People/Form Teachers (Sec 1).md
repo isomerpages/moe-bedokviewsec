@@ -16,26 +16,26 @@ variant: markdown
 
 | Name | E-mail |
 | -------- | -------- |
-| Ms Tan Sei Hui     | [tan\_sok\_foon@schools.gov.sg](mailto:tan_sok_foon@schools.gov.sg)     |
-| Mr Sivabalan Kaliaperumal    | [lazaroo\_odilia\_emily@schools.gov.sg](mailto:lazaroo_odilia_emily@schools.gov.sg)     |
-| Ms Chew Bee Kim    | [lazaroo\_odilia\_emily@schools.gov.sg](mailto:lazaroo_odilia_emily@schools.gov.sg)     |
+| Ms Tan Sei Hui     | [tan_sei_hui@schools.gov.sg](mailto:tan_sei_hui@schools.gov.sg)     |
+| Mr Sivabalan Kaliaperumal    | [sivabalan_kaliaperumal@schools.gov.sg](mailto:sivabalan_kaliaperumal@schools.gov.sg)     |
+| Ms Chew Bee Kim    |      |
 
 ##### Sec 1/3 Form Teachers 
 
 | Name | E-mail |
 | -------- | -------- |
-| Ms Nur Hazwah Md Shah     | [nur\_hafizah\_mohammad\_yunos@schools.gov.sg](mailto:nur_hafizah_mohammad_yunos@schools.gov.sg)     |
-| Ms Visalatchy    | [nazatul\_fadzlin\_fadil@schools.gov.sg](mailto:nazatul_fadzlin_fadil@schools.gov.sg)     |
-| Mr Choo Tek Huak    | [nazatul\_fadzlin\_fadil@schools.gov.sg](mailto:nazatul_fadzlin_fadil@schools.gov.sg)     |
+| Ms Nur Hazwah Md Shah     | [nur_hazwah_mohamed_shah@schools.gov.sg](mailto:nur_hazwah_mohamed_shah@schools.gov.sg)     |
+| Ms Visalatchy    | [Visalatchi_santhira_segaran@schools.gov.sg](mailto:Visalatchi_santhira_segaran@schools.gov.sg)     |
+| Mr Choo Tek Huak    | [choo_tek_huak@schools.gov.sg](mailto:choo_tek_huak@schools.gov.sg)     |
 
 
 ##### Sec 1/4 Form Teachers 
 
 | Name | E-mail |
 | -------- | -------- |
-| Mr Nazarudin Abdul Bakar     | [nur\_emillia\_sulaiman\_sim@schools.gov.sg](mailto:nur_emillia_sulaiman_sim@schools.gov.sg)     |
-| Ms Geraldine Chia    | [yong\_de\_jun\_jeremy@schools.gov.sg](mailto:yong_de_jun_jeremy@schools.gov.sg)     |
-| Ms Belinda Chew    | [yong\_de\_jun\_jeremy@schools.gov.sg](mailto:yong_de_jun_jeremy@schools.gov.sg)     |
+| Mr Nazarudin Abdul Bakar     | [nazarudin_abdul_bakar@schools.gov.sg](mailto:nazarudin_abdul_bakar@schools.gov.sg)     |
+| Ms Geraldine Chia    | [geraldine_chia_hui_jun@schools.gov.sg](mailto:geraldine_chia_hui_jun@schools.gov.sg)     |
+| Ms Belinda Chew    | [Chew_Wan_Kuan_Belinda_A@schools.gov.sg](mailto:Chew_Wan_Kuan_Belinda_A@schools.gov.sg)     |
 
 ##### Sec 1/5 Form Teachers 
 
