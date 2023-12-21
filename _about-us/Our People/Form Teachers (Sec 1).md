@@ -9,8 +9,8 @@ variant: markdown
 
 | Name | E-mail |
 | -------- | -------- |
-| Mr Peh Ang Tiong     | [constance\_cheong@schools.gov.sg](mailto:constance_cheong@schools.gov.sg)     |
-| Ms Normohaida Mohamed Noor    | [nur\_iznina\_zainudin@schools.gov.sg](mailto:nur_iznina_zainudin@schools.gov.sg)     |
+| Mr Peh Ang Tiong     |  peh_ang_tiong@schools.gov.sg    |
+| Ms Normohaida Mohamed Noor    | normohaida_mohamed_noor@schools.gov.sg     |
 
 ##### Sec 1/2 Form Teachers 
 
