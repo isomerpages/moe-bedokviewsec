@@ -41,21 +41,21 @@ variant: markdown
 
 | Name | E-mail |
 | -------- | -------- |
-| Ms Umi Kaithom Shokor     | [tay\_soon\_heng@schools.gov.sg](mailto:tay_soon_heng@schools.gov.sg)     |
-| Mr Isaac Phoon     | [ji\_yu@schools.gov.sg](mailto:ji_yu@schools.gov.sg)     |
+| Ms Umi Kaithom Shokor     | [umi_kalthom_shokor@schools.gov.sg](mailto:umi_kalthom_shokor@schools.gov.sg)     |
+| Mr Isaac Phoon     | [phoon_zhi_jian@schools.gov.sg](mailto:phoon_zhi_jian@schools.gov.sg)     |
 
 ##### Sec 3/6 Form Teachers 
 
 | Name | E-mail |
 | -------- | -------- |
-| Ms Anuthama     | [ma\_lay\_hwa@schools.gov.sg](mailto:ma_lay_hwa@schools.gov.sg)     |
-| Mr Hui Da Zun     | [hamzah\_b\_muhit@schools.gov.sg](mailto:hamzah_b_muhit@schools.gov.sg)     |
+| Ms Anuthama     | [anuthama_a@schools.gov.sg](mailto:anuthama_a@schools.gov.sg)     |
+| Mr Hui Da Zun     |      |
 | Ms Ong Cheng Cheng     | [hamzah\_b\_muhit@schools.gov.sg](mailto:hamzah_b_muhit@schools.gov.sg)     |
 
 ##### Sec 3/7 Form Teachers 
 
 | Name | E-mail |
 | -------- | -------- |
-| Mr Choo Meng Kang     | [ma\_lay\_hwa@schools.gov.sg](mailto:ma_lay_hwa@schools.gov.sg)     |
-| Ms Marliyana Md Noor     | [hamzah\_b\_muhit@schools.gov.sg](mailto:hamzah_b_muhit@schools.gov.sg)     |
-| Ms Yeo Liew Cheng Elsie     | [hamzah\_b\_muhit@schools.gov.sg](mailto:hamzah_b_muhit@schools.gov.sg)     |
+| Mr Choo Meng Kang     | [choo_meng_kang@schools.gov.sg](mailto:choo_meng_kang@schools.gov.sg)     |
+| Ms Marliyana Md Noor     | [marliyana_mohamad_noor@schools.gov.sg](mailto:marliyana_mohamad_noor@schools.gov.sg)     |
+| Ms Yeo Liew Cheng Elsie     |      |
