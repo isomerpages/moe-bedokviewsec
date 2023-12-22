@@ -42,17 +42,17 @@ variant: markdown
 | Name | E-mail |
 | -------- | -------- |
 | Mr Tay Soon Heng     | [tay_soon_heng@schools.gov.sg](mailto:tay_soon_heng@schools.gov.sg)     |
-| Ms Ji Yu     | [tan\_siew\_li@schools.gov.sg](mailto:tan_siew_li@schools.gov.sg)     |
-| Ms Helen Lim     | [tan\_siew\_li@schools.gov.sg](mailto:tan_siew_li@schools.gov.sg)     |
+| Ms Ji Yu     | [ji_yu@schools.gov.sg](mailto:ji_yu@schools.gov.sg)     |
+| Ms Helen Lim     |      |
 
 
 ##### Sec 4/6 Form Teachers 
 
 | Name | E-mail |
 | -------- | -------- |
-| Ms Kua Lay Hwa     | [foo\_fook\_seng@schools.gov.sg](mailto:foo_fook_seng@schools.gov.sg)     |
-| Mr Hamzah Muhit     | [heng\_li\_gek\_juliet@schools.gov.sg](mailto:heng_li_gek_juliet@schools.gov.sg)     |
-| Ms Victoria Ching     | [heng\_li\_gek\_juliet@schools.gov.sg](mailto:heng_li_gek_juliet@schools.gov.sg)     |
+| Ms Kua Lay Hwa     | [ma_lay_hwa@schools.gov.sg](mailto:ma_lay_hwa@schools.gov.sg)     |
+| Mr Hamzah Muhit     | [hamzah_b_muhit@schools.gov.sg](mailto:hamzah_b_muhit@schools.gov.sg)     |
+| Ms Victoria Ching     | [Victoria_Ching@schools.gov.sg](mailto:Victoria_Ching@schools.gov.sg)     |
 
 
 ##### Sec 5/1 Form Teachers 
