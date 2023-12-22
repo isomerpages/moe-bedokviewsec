@@ -25,7 +25,7 @@ variant: markdown
 | Name | E-mail |
 | -------- | -------- |
 | Ms Nur Hazwah Md Shah     | [nur_hazwah_mohamed_shah@schools.gov.sg](mailto:nur_hazwah_mohamed_shah@schools.gov.sg)     |
-| Ms Visalatchy    | [Visalatchi_santhira_segaran@schools.gov.sg](mailto:Visalatchi_santhira_segaran@schools.gov.sg)     |
+| Ms Visalatchi    | [Visalatchi_santhira_segaran@schools.gov.sg](mailto:Visalatchi_santhira_segaran@schools.gov.sg)     |
 | Mr Choo Tek Huak    | [choo_tek_huak@schools.gov.sg](mailto:choo_tek_huak@schools.gov.sg)     |
 
 
