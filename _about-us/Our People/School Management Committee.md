@@ -13,7 +13,6 @@ variant: markdown
 | Mr Abdul Malek B Osman     | HOD - Science    | [abdul\_malek\_b\_osman@schools.gov.sg](mailto:abdul_malek_b_osman@schools.gov.sg)   |
 | Mdm Irdawaty Binte Mawardi     | HOD - Aesthetics    | [irdawaty\_mawardi@schools.gov.sg](mailto:irdawaty_mawardi@schools.gov.sg)   |
 | Ms Lian Xue Li Jasmine     | HOD - Information and Communications Technology (covering)    | [lian\_xue\_li\_jasmine@schools.gov.sg](mailto:lian_xue_li_jasmine@schools.gov.sg)  |
-| Mdm Khoo Ghee Suan Christina     | HOD - Mathematics    | [khoo\_ghee\_suan\_christina@schools.gov.sg](mailto:khoo_ghee_suan_christina@schools.gov.sg)   |
 | Mr K T Sivakumar     | HOD - Student Management    | [K\_T\_Sivakumar@schools.gov.sg](mailto:K_T_Sivakumar@schools.gov.sg)   |
 | Mr Phoa Chye Hou Desmond     | HOD - Mother Tongue Language    | [phoa\_chye\_hou\_desmond@schools.gov.sg](mailto:phoa_chye_hou_desmond@schools.gov.sg)   |
 | Mr Su Jee Yee Steven     | HOD - Physical Education &amp;  Co-Curricular Activities    | [su\_jee\_yee\_steven@schools.gov.sg](mailto:su_jee_yee_steven@schools.gov.sg)   |
