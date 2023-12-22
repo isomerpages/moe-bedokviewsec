@@ -59,5 +59,5 @@ variant: markdown
 
 | Name | E-mail |
 | -------- | -------- |
-| Ms Juliet Heng     | [nur\_hafizah\_mohammad\_yunos@schools.gov.sg](mailto:nur_hafizah_mohammad_yunos@schools.gov.sg)     |
-| Ms Rogayah Osman     | [tan\_yok\_siew@schools.gov.sg](mailto:tan_yok_siew@schools.gov.sg)     |
+| Ms Juliet Heng     | [heng_li_gek_juliet@schools.gov.sg](mailto:heng_li_gek_juliet@schools.gov.sg)     |
+| Ms Rogayah Osman     | [Rogayah_Osman@schools.gov.sg](mailto:Rogayah_Osman@schools.gov.sg)     |
