@@ -15,7 +15,7 @@ sections:
         - title: Faces of Bedok View
           description: Find out who we are!
           url: https://www.facebook.com/BedokViewSecondarySchool/posts/pfbid02jzrRLeLBDpH2P837WZFQp3U2wgFWLEwpaVFsG8jfnfjuheMYo5hqTXxBsjkuXoXYl
-        - title: Release of 2023 N-Level Results
+        - title: 2024 Class Timetables (Sem 1)
           description: More info for Parents/Students
           url: partnerships/info-for-parents-and-students/
 ---
