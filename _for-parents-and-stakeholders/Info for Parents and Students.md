@@ -4,10 +4,14 @@ permalink: /partnerships/info-for-parents-and-students/
 description: ""
 variant: markdown
 ---
+**2024 Class Timetables (Semester 1)**<br>
+
+
 **2023 N-Level Results**<br>
 [Release of 2023 N-Level Results (Briefing Slides)](/files/2023_N_Level_Briefing_Slides.pdf)
 
 **2024 Booklists**<br>
+[Secondary 1](/files/S1_BOOKLIST__2024__pdf.pdf)<br>
 [Secondary 2](/files/Info%20for%20Parents%20Stakeholders/2024%20Booklists/s2%20bv%20booklist%20%20(2024).pdf)<br>
 [Secondary 3](/files/Info%20for%20Parents%20Stakeholders/2024%20Booklists/s3%20bv%20booklist%20(2024).pdf)<br>
 [Secondary 4](/files/Info%20for%20Parents%20Stakeholders/2024%20Booklists/s4%20bv%20booklist%20(2024).pdf)<br>
@@ -33,13 +37,6 @@ variant: markdown
 
 **2023 GCE N Level Prelim**<br>
 [GCE N Level Prelim Timetable](/files/Info%20for%20Parents%20Stakeholders/n%20lvl%20prelim%202023%20timetable.pdf)
-
-**2023 Class Timetables (Semester 2)**<br>
-[[Secondary 1 Class Timetable]](/files/Info%20for%20Parents%20Stakeholders/2023%20sec%201%20timetable%20(sem%202).pdf)<br>
-[[Secondary 2 Class Timetable]](/files/Info%20for%20Parents%20Stakeholders/2023%20sec%202%20timetable%20(sem%202).pdf)<br>
-[[Secondary 3 Class Timetable]](/files/Info%20for%20Parents%20Stakeholders/2023%20sec%203%20timetable%20(sem%202).pdf)<br>
-[[Secondary 4 &amp; 5 Class Timetable]](/files/Info%20for%20Parents%20Stakeholders/2023%20sec%204&amp;5%20timetable%20(sem%202).pdf)
-
 
 
 **Secondary 1 CCA Briefing**<br>
