@@ -3,6 +3,7 @@ title: National Police Cadet Corps (NPCC) Boys
 permalink: /cca/uniformed-groups/national-police-cadet-corps-npcc-boys/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ### CCA Video
 
@@ -15,9 +16,8 @@ third_nav_title: Uniformed Groups
 ### Teachers- In- Charge
 
 Mr&nbsp;Abdul Adib Bin Mohd Omar <br>
-Mr Syaiful Bahari Bin Abdul Latif <br>
 Mr Choo Meng Kang <br>
-Mr Syahrulnizam Bin Abdul Rahman
+Mr Loh Chia Chang
 
 
 ### CCA Schedule
