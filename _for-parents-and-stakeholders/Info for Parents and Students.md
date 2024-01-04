@@ -8,7 +8,7 @@ variant: markdown
 [Secondary 1 Timetable](/files/Sem_1_2024_Sec_1_Timetable.pdf)<br>
 [Secondary 2 Timetable](/files/Sem_1_2024_Sec_2_Timetable.pdf)<br>
 [Secondary 3 Timetable](/files/Sem_1_2024_Sec_3_Timetable.pdf)<br>
-[Secondary 4 &amp; 5 Timetable](/files/Sem_1_2024_Sec_4_5_Timetable.pdf)
+[Secondary 4 &amp; 5 Timetable *(updated on 4 Jan)*](/files/Sem_1_2024_Sec_4_5_Timetable__updated_.pdf)
 
 **2023 N-Level Results**<br>
 [Release of 2023 N-Level Results (Briefing Slides)](/files/2023_N_Level_Briefing_Slides.pdf)
