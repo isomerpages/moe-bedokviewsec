@@ -3,6 +3,7 @@ title: English Drama
 permalink: /cca/performing-arts/english-drama/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ### CCA Video
 
@@ -41,8 +42,8 @@ Ms Noorfatin Beevi
 <tbody>
   <tr>
     <td class="tg-y7qa">Tuesday &amp; Thursday</td>
-    <td class="tg-y7qa">3.30pm - 6.00pm</td>
-    <td class="tg-y7qa">Classroom: E3-10 &amp;  <br>Blackbox: B3-04</td>
+    <td class="tg-y7qa">3.30pm - 5.30pm</td>
+    <td class="tg-y7qa">Blackbox: B3-04</td>
   </tr>
 </tbody>
 </table>
