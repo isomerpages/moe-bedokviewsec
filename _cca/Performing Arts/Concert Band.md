@@ -16,7 +16,7 @@ variant: markdown
 ### Teachers- In- Charge
 
 Mdm Nur Syafiqah Binte Saini <br>
-Miss Wong Wei Leen<br>
+Miss Anuthama<br>
 Mdm Visalatchi Santhira Segaran
 
 
