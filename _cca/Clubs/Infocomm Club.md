@@ -3,6 +3,7 @@ title: Infocomm Club
 permalink: /cca/clubs/infocomm-club/
 description: ""
 third_nav_title: Clubs
+variant: markdown
 ---
 ### CCA Video
 
@@ -16,7 +17,7 @@ third_nav_title: Clubs
 
 Ms Mardiyana Bte Roslie <br>
 Mr David Keng <br>
-Mr Foo Fook Seng
+Mrs Zarina Seth
 
 
 ### CCA Schedule
@@ -42,7 +43,7 @@ Mr Foo Fook Seng
 <tbody>
   <tr>
     <td class="tg-y7qa">Tuesday &amp; Thursday</td>
-    <td class="tg-y7qa">4.00pm - 6.00pm</td>
+    <td class="tg-y7qa">3.30pm - 5.30pm</td>
     <td class="tg-y7qa">Computer Lab 1 : E2-09</td>
   </tr>
 </tbody>
