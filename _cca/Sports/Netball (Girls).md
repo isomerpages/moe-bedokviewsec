@@ -16,7 +16,8 @@ variant: markdown
 ### Teachers- In- Charge
 
 Ms Ang Suat Kee Sally <br>
-Ms Chia Pei Pei
+Ms Chia Pei Pei<br>
+Ms Nur Hafizah Bte Mohd Yunos
 
 
 ### CCA Schedule
@@ -43,7 +44,7 @@ Ms Chia Pei Pei
   <tr>
     <td class="tg-y7qa">Tuesday &amp; Thursday</td>
     <td class="tg-y7qa">3.30pm - 6.00pm</td>
-    <td class="tg-y7qa">ISH Level 2 and Parade Square</td>
+    <td class="tg-y7qa">ISH Level 2</td>
   </tr>
 </tbody>
 </table>
