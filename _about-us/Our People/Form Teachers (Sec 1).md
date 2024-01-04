@@ -18,7 +18,7 @@ variant: markdown
 | -------- | -------- |
 | Ms Tan Sei Hui     | [tan_sei_hui@schools.gov.sg](mailto:tan_sei_hui@schools.gov.sg)     |
 | Mr Sivabalan Kaliaperumal    | [sivabalan_kaliaperumal@schools.gov.sg](mailto:sivabalan_kaliaperumal@schools.gov.sg)     |
-| Ms Chew Bee Kim    |      |
+| Ms Chew Bee Kim    |  [Chew_Bee_Kim@schools.gov.sg](mailto:Chew_Bee_Kim@schools.gov.sg)     |
 
 ##### Sec 1/3 Form Teachers 
 
@@ -57,4 +57,4 @@ variant: markdown
 | Name | E-mail |
 | -------- | -------- |
 | Mr Mohammed Noor Firdaus Sumawi     | [mohammed_noor_firdaus_sumawi@schools.gov.sg](mailto:mohammed_noor_firdaus_sumawi@schools.gov.sg)     |
-| Ms Lai Mok Ern    |      |
+| Ms Lai Mok Ern    |  [lai_mok_ern@schools.gov.sg](mailto:lai_mok_ern@schools.gov.sg)    |
