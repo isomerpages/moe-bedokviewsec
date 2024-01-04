@@ -18,7 +18,7 @@ variant: markdown
 Mr Mohammed Noor Firdaus Bin Sumawi <br>
 Mr Tay Soon Heng <br>
 Mr Peh Ang Tiong <br>
-Ms Cheng Soon Kuee, Crystal
+Ms Ng Han Yi
 
 ### CCA Schedule
 
@@ -42,14 +42,14 @@ Ms Cheng Soon Kuee, Crystal
 </thead>
 <tbody>
   <tr>
-    <td class="tg-y7qa">Tuesday &amp; Thursday (For Sec 1s and PDS Team only</td>
-    <td class="tg-y7qa">4.00pm - 6.00pm</td>
-    <td class="tg-y7qa">Mini Parade Square</td>
+    <td class="tg-y7qa">Tuesday - PDS / FSD Sec 1 (Term 2 onwards)</td>
+    <td class="tg-y7qa">3.30pm - 6.00pm</td>
+    <td class="tg-y7qa">Classrooms <br> D2-01 to D2-05</td>
   </tr>
 	  <tr>
     <td class="tg-y7qa">Friday</td>
     <td class="tg-y7qa">2.30pm - 6.00pm</td>
-    <td class="tg-y7qa">Classrooms <br> D2-01 to D2-04</td>
+    <td class="tg-y7qa">Classrooms <br> D2-01 to D2-05</td>
   </tr>
 </tbody>
 </table>
