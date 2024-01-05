@@ -3,6 +3,7 @@ title: Girl Guides
 permalink: /cca/uniformed-groups/girl-guides/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ### CCA Video
 
@@ -14,10 +15,10 @@ third_nav_title: Uniformed Groups
 
 ### Teachers- In- Charge
 
+Miss Nur Adilah Binte Renohardi <br>
 Ms Tan Sok Foon Noelle <br>
 Ms Toh Li Zhen Clarice (Mrs Zhang) <br>
-Miss Nur Adilah Binte Renohardi <br>
-Nur Iznina Binte Zainudin
+Ms Zhang Lingjia Mabel
 
 
 ### CCA Schedule

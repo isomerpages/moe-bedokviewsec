@@ -17,7 +17,7 @@ variant: markdown
 
 Ms Sherine Wong  <br>
 Mdm Nazatul Fadzlin Bte Fadil <br>
-Mdm Umi Kalthom Bte Shokor
+Mdm Lai Mok Ern
 
 
 ### CCA Schedule
@@ -55,4 +55,4 @@ The BV Choir seeks to provide a platform for talented choristers to get together
 
 Through a diverse and comprehensive range of activities and programmes, BV Choir seeks to deepen the choristers' interest and joy for singing. During each rehearsal, the choristers analyse music and work together to produce quality choral singing. To promote holistic development, sectional leaders are empowered to lead and direct their respective sections in learning the music. 
 
-Strong teamwork and bond are essential in developing a strong voice and section. This year, choir members took turns to plan and carry out team bonding games and activities to establish a close rapport and develop a strong team spirit among the choir. A close-knit family, BV Choir aims to inspire and engage the community with its passion and love for singing. 
+Strong teamwork and bond are essential in developing a strong voice and section. This year, choir members took turns to plan and carry out team bonding games and activities to establish a close rapport and develop a strong team spirit among the choir. A close-knit family, BV Choir aims to inspire and engage the community with its passion and love for singing.

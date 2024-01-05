@@ -3,6 +3,7 @@ title: Service Learning Club
 permalink: /cca/clubs/service-learning-club/
 description: ""
 third_nav_title: Clubs
+variant: markdown
 ---
 ### CCA Video
 
@@ -10,9 +11,10 @@ third_nav_title: Clubs
 
 ### Teachers- In- Charge
 
+Mr Fong Yi Shuen <br>
 Mr Yee Boon Wei <br>
-Ms&nbsp;Marliyana Md Noor <br>
-Ms&nbsp;Nur Iznina
+Ms&nbsp;Nur Iznina<br>
+Ms&nbsp;Marliyana Md Noor 
 
 
 ### CCA Schedule
@@ -38,7 +40,7 @@ Ms&nbsp;Nur Iznina
   <tr>
     <td class="tg-y7qa">Tuesday &amp; Thursday</td>
     <td class="tg-y7qa">3.45pm - 5.45pm</td>
-    <td class="tg-y7qa">Classrooms:&nbsp;E4-09</td>
+    <td class="tg-y7qa">Classrooms:&nbsp;C1-03</td>
   </tr>
 </tbody>
 </table>

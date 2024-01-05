@@ -19,7 +19,7 @@ variant: markdown
 | -------- | -------- |
 | Ms Sally Ang     | [ang_suat_kee_sally@schools.gov.sg](mailto:ang_suat_kee_sally@schools.gov.sg)     |
 | Mr Roy Cher     | [cher_liew_chun_roy@schools.gov.sg](mailto:cher_liew_chun_roy@schools.gov.sg)     |
-| Ms Shek Mee Keng     |     |
+| Ms Shek Mee Keng     | [Shek_Mee_Keng_B@schools.gov.sg](mailto:Shek_Mee_Keng_B@schools.gov.sg)     |
 
 ##### Sec 3/3 Form Teachers 
 
@@ -49,8 +49,8 @@ variant: markdown
 | Name | E-mail |
 | -------- | -------- |
 | Ms Anuthama     | [anuthama_a@schools.gov.sg](mailto:anuthama_a@schools.gov.sg)     |
-| Mr Hui Da Zun     |      |
-| Ms Ong Cheng Cheng     |      |
+| Mr Hui Da Zun     |  [Hui_Da_Zun@schools.gov.sg](mailto:Hui_Da_Zun@schools.gov.sg)    |
+| Ms Ong Cheng Cheng     |  [Ong_Cheng_Cheng@schools.gov.sg](mailto:Ong_Cheng_Cheng@schools.gov.sg)    |
 
 ##### Sec 3/7 Form Teachers 
 
@@ -58,4 +58,4 @@ variant: markdown
 | -------- | -------- |
 | Mr Choo Meng Kang     | [choo_meng_kang@schools.gov.sg](mailto:choo_meng_kang@schools.gov.sg)     |
 | Ms Marliyana Md Noor     | [marliyana_mohamad_noor@schools.gov.sg](mailto:marliyana_mohamad_noor@schools.gov.sg)     |
-| Ms Yeo Liew Cheng Elsie     |      |
+| Ms Yeo Liew Cheng Elsie     |   [Yeo_Liew_Cheng_A@schools.gov.sg](mailto:Yeo_Liew_Cheng_A@schools.gov.sg)   |

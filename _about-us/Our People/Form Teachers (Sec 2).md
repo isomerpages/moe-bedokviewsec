@@ -19,7 +19,7 @@ variant: markdown
 | -------- | -------- |
 | Ms Tan Sok Foon     | [tan_sok_foon@schools.gov.sg](mailto:tan_sok_foon@schools.gov.sg)     |
 | Ms Odilia Lazaroo     | [lazaroo_odilia_emily@schools.gov.sg](mailto:lazaroo_odilia_emily@schools.gov.sg)     |
-| Ms Nurul Huda     |      |
+| Ms Nurul Huda     |   [nurul_huda_farid@schools.gov.sg](mailto:nurul_huda_farid@schools.gov.sg)   |
 
 ##### Sec 2/3 Form Teachers
 
