@@ -6,9 +6,9 @@ variant: markdown
 ---
 A strong parent-school partnership is essential in developing our students to their full potential and enabling them to fulfil their aspirations.  
 
-Parents play a critical role in a child’s education. They have the capacity to positively influence, effectively nurture and admonish their children from their youth . These moral and social values develop good character and prepare them to become strong, responsible individuals in their future lives.  
+Parents play a critical role in a child’s education. They have the capacity to positively influence, effectively nurture and provide wise counsel to their children from their youth. These moral and social values inculcated from a young age will develop good character and prepare them to become strong, responsible individuals in their future endeavours.  
 
-BV PSG is the blending together of a dedicated group of parent volunteers from all walks of life, working in tandem with the Principals, HODs, Teachers and Alumni of BV to deliberately create an environment for students to thrive.
+BV PSG is the blending together of a dedicated group of parent volunteers from all walks of life, working in tandem with the School Leadership Teams, Teachers and Alumni of BV to proactively create an environment for students to thrive.
 
 Parents not only communicate their insights and feedback to school, but are also unwavering supporters in the students’ holistic educational journey.  
 
