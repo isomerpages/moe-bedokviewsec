@@ -12,5 +12,5 @@ Bedok View’s Uniformed Groups (UG) are strong character-building platforms tha
 <br>
 
 *  [Girl Guides](/cca/uniformed-groups/girl-guides/)
-*  [National Cadet Corps (NCC) Boys and Girls](/cca/uniformed-groups/national-cadet-corps-ncc-land-boys/)
+*  [National Cadet Corps (NCC) Boys and Girls](/cca/uniformed-groups/national-cadet-corps-ncc/)
 * [National Police Cadet Corps (NPCC) Boys](/cca/uniformed-groups/national-police-cadet-corps-npcc-boys/)
