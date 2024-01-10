@@ -12,8 +12,8 @@ sections:
         - title: Sec 1 (2024) Registration
           description: Click here for more info
           url: /for-parents-and-stakeholders/sec12024/
-        - title: Faces of Bedok View
-          description: Find out who we are!
+        - title: Back to School & Sec 1 Orientation!
+          description: See more at our Facebook page
           url: https://www.facebook.com/BedokViewSecondarySchool/posts/pfbid02jzrRLeLBDpH2P837WZFQp3U2wgFWLEwpaVFsG8jfnfjuheMYo5hqTXxBsjkuXoXYl
         - title: Sec 1 CCA Experience
           description: More info for Parents/Students
