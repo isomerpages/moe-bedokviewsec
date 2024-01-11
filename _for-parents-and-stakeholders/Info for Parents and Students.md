@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 **CCA Experience**<br>
-[CCA Experience Venues &amp; Timings](/files/S1_CCA_Experience_Venues_and_Timing.pdf)
+[CCA Experience Venues and Timings](/files/S1_CCA_Experience_Venues_and_Timing.pdf)
 
 **2024 Class Timetables (Semester 1)**<br>
 [Secondary 1 Timetable](/files/Sem_1_2024_Sec_1_Timetable.pdf)<br>
