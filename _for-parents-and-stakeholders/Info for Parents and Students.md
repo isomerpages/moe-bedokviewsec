@@ -4,6 +4,11 @@ permalink: /partnerships/info-for-parents-and-students/
 description: ""
 variant: markdown
 ---
+**2023 GCE O-Level Results**<br>
+[O Level Briefing Slides](/files/2023_O_Level_Briefing_Slides.pdf)<br>
+[Open Houses and Important Information](/files/2023_O_Level_Information_on_Open_Houses.pdf)
+
+
 **CCA Experience**<br>
 [CCA Experience Venues and Timings](/files/S1_CCA_Experience_Venues_and_Timing.pdf)
 
