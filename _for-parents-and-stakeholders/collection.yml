@@ -2,8 +2,8 @@ collections:
   for-parents-and-stakeholders:
     output: true
     order:
-      - Secondary One CCA Option.md
       - Info for Parents and Students.md
       - 2024 Student's Handbook.md
       - Parent Support Group (PSG).md
       - S1 (2024) Registration.md
+      - Secondary One CCA Option.md
