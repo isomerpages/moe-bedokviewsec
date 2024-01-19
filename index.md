@@ -15,7 +15,7 @@ sections:
         - title: Back to School & Sec 1 Orientation!
           description: See more at our Facebook page
           url: https://www.facebook.com/share/p/Qf7MtzGaDNP6yQjX/?mibextid=WaXdOe
-        - title: 2023 GCE O-Level RESULTS
+        - title: Sec 1 CCA Option
           description: Click for more information
           url: partnerships/info-for-parents-and-students/
 ---
