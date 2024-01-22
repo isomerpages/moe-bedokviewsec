@@ -9,8 +9,8 @@ sections:
   - hero:
       background: /images/Main_Page___L1.jpg
       key_highlights:
-        - title: Sec 1 (2024) Registration
-          description: Click here for more info
+        - title: Interested in joining BV?
+          description: Watch this space for more info
           url: /for-parents-and-stakeholders/sec12024/
         - title: Back to School & Sec 1 Orientation!
           description: See more at our Facebook page
