@@ -43,7 +43,7 @@ Mrs Zarina Seth
 <tbody>
   <tr>
     <td class="tg-y7qa">Tuesday &amp; Thursday</td>
-    <td class="tg-y7qa">3.30pm - 5.30pm</td>
+    <td class="tg-y7qa">4.00pm - 6.00pm</td>
     <td class="tg-y7qa">Computer Lab 1 : E2-09</td>
   </tr>
 </tbody>
