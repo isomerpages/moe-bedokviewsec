@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Interested in joining BV?
           description: Watch this space for more info
-          url: /for-parents-and-stakeholders/2024-dsa
+          url: /join-us/direct-school-admission-dsa/
         - title: Back to School & Sec 1 Orientation!
           description: See more at our Facebook page
           url: https://www.facebook.com/share/p/Qf7MtzGaDNP6yQjX/?mibextid=WaXdOe
