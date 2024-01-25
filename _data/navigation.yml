@@ -1,0 +1,21 @@
+logo: /images/loogo.png
+links:
+  - title: About Us
+    url: /about-us/history/
+    sublinks:
+      - title: Principal's Welcome Message
+        url: /about-us/principals-welcome-message
+      - title: Our History
+        url: /about-us/history
+      - title: Our Identity
+        url: /about-us/our-identity/
+      - title: Our People
+        url: /about-us/our-people/school-management-committee
+      - title: Our Achievements & Highlights
+        url: /about-us/our-achievements/our-highlights/
+  - title: The Bedok Viewan Experience
+    collection: the-bedok-viewan-experience
+  - title: Join Us!
+    collection: join-us
+  - title: For Parents And Stakeholders
+    collection: for-parents-and-stakeholders

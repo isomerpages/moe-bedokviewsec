@@ -1,0 +1,7 @@
+collections:
+  achievements:
+    output: true
+    order:
+      - Co Curricular Activities (CCA).md
+      - Character Awards/.keep
+      - Character Awards/Model Student Awards.md

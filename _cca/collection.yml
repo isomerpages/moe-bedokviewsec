@@ -1,0 +1,23 @@
+collections:
+  cca:
+    output: true
+    order:
+      - Uniformed Groups/.keep
+      - Uniformed Groups/Girl Guides.md
+      - Uniformed Groups/National Cadet Corps (NCC) Boys and Girls.md
+      - Uniformed Groups/National Police Cadet Corps (NPCC) Boys.md
+      - Sports/.keep
+      - Sports/Athletics (Boys & Girls).md
+      - Sports/Badminton (Boys).md
+      - Sports/Basketball (Boys & Girls).md
+      - Sports/Football (Boys).md
+      - Sports/Netball (Girls).md
+      - Performing Arts/.keep
+      - Performing Arts/Choir.md
+      - Performing Arts/Concert Band.md
+      - Performing Arts/English Drama.md
+      - Performing Arts/Guzheng Ensemble.md
+      - Performing Arts/Modern Dance.md
+      - Clubs/.keep
+      - Clubs/Infocomm Club.md
+      - Clubs/Service Learning Club.md

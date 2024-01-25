@@ -1,0 +1,19 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal's Welcome Message.md
+      - Our History.md
+      - Our Identity.md
+      - Our People/.keep
+      - Our People/School Advisory Committee.md
+      - Our People/School Management Committee.md
+      - Our People/Senior Teachers.md
+      - Our People/Form Teachers (Sec 1).md
+      - Our People/Form Teachers (Sec 2).md
+      - Our People/Form Teachers (Sec 3).md
+      - Our People/Form Teachers (Sec 4 & 5).md
+      - Our Achievements & Highlights/Highlights of the Year.md
+      - Our Achievements & Highlights/CCA Achievements.md
+      - Our Achievements & Highlights/.keep
+      - Our Achievements & Highlights/Character Awards.md
