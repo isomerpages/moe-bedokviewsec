@@ -3,6 +3,7 @@ title: Home Based Learning (HBL)
 permalink: /academic-curriculum/home-based-learning/
 description: ""
 third_nav_title: Academic Curriculum
+variant: markdown
 ---
 ### Blended Learning
 
@@ -20,7 +21,7 @@ Please log in to [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/
 
 Alternatively, please click on the respective links below for the instructions to lessons.
 
-Sec 1:  **[Sec 1 HBL instructions](https://docs.google.com/spreadsheets/d/e/2PACX-1vQCX76RTmLcXIJ7QhcNRXZVm9xtryo7HdMpeEE2emnCjJxsTohG9K_eBtWR51RtehRiap2Zwz2cPdQc/pubhtml)**
+Sec 1:  **[Sec 1 HBL instructions](https://docs.google.com/spreadsheets/d/e/2PACX-1vS18eKvq_5X1hMJlUBXS_d0RNK6GP1g-S-eQr4UYoYpOQrNLQevIhWdmpy1X5dpVArRihsM06nLpmRS/pub?gid=1105829671&amp;single=true&amp;output=pdf)**
 
 Sec 2:  **[Sec 2 HBL instructions](https://docs.google.com/spreadsheets/d/e/2PACX-1vTOqVeVvdR3-z3SUycxmI1steTV83pCnTLhM7KCPwCaXh_QK5J7-X3qZ0rUNjKB6oIKdJCtgA090vHK/pubhtml)**
 
