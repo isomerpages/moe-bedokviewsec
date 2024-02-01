@@ -12,9 +12,6 @@ variant: markdown
 [Open Houses and Important Information](/files/2023_O_Level_Information_on_Open_Houses.pdf)
 
 
-**CCA Experience**<br>
-[CCA Experience Venues and Timings](/files/S1_CCA_Experience_Venues_and_Timing.pdf)
-
 **2024 Class Timetables (Semester 1)**<br>
 [Secondary 1 Timetable](/files/Sem_1_2024_Sec_1_Timetable.pdf)<br>
 [Secondary 2 Timetable](/files/Sem_1_2024_Sec_2_Timetable.pdf)<br>
