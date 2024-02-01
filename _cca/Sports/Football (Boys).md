@@ -43,8 +43,8 @@ Mr Phoon Zhi Jian <br>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-y7qa">Tuesday<br>Friday</td>
-    <td class="tg-y7qa">3.30 - 6.00pm <br>2.30 - 5.00pm </td>
+    <td class="tg-y7qa">Monday<br>Tuesday<br>Thursday<br>Friday</td>
+    <td class="tg-y7qa">3.30 - 5.00pm (Sec 1 and 2)<br>3.30 - 5.00pm (Sec 1 and 2), 4.30 - 6.00pm (Sec 3, 4 &amp; 5) <br>3.30 - 5.00pm (Sec 1 and 2), 4.30 - 6.00pm (Sec 3, 4 &amp; 5) <br>3.00 - 4.30pm (Sec 3, 4 &amp; 5)<br>  </td>
     <td class="tg-y7qa">School Field</td>
   </tr>
 </tbody>
