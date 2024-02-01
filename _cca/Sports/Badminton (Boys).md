@@ -42,7 +42,7 @@ Mr Teoh Ai Keong
 </thead>
 <tbody>
   <tr>
-    <td class="tg-y7qa">Tuesday<br>&amp; Friday</td>
+    <td class="tg-y7qa">Tuesday<br>Friday</td>
     <td class="tg-y7qa">3.30pm - 6.00pm<br>2.30pm - 5.00pm</td>
     <td class="tg-y7qa">School Hall</td>
   </tr>
