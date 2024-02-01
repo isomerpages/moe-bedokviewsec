@@ -48,8 +48,8 @@ Ms Ng Han Yi
 </thead>
 <tbody>
   <tr>
-    <td class="tg-y7qa">Tuesday &amp; Thursday - PDS</td>
-    <td class="tg-y7qa">4.00pm - 6.00pm</td>
+    <td class="tg-y7qa">Tuesday - PDS / FSD<br>(Sec 1 Term 2 onwards)</td>
+    <td class="tg-y7qa">3.30pm - 6.00pm</td>
     <td class="tg-y7qa">Classrooms <br> D2-01 to D2-05</td>
   </tr>
 	  <tr>
