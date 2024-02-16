@@ -13,10 +13,11 @@ variant: markdown
 
 
 **2024 Class Timetables (Semester 1)**<br>
-[Secondary 1 Timetable](/files/Sem_1_2024_Sec_1_Timetable.pdf)<br>
-[Secondary 2 Timetable](/files/Sem_1_2024_Sec_2_Timetable.pdf)<br>
-[Secondary 3 Timetable (*updated on 10 Jan*)](/files/Sem_1_2024_Sec_3_Timetable__updated_.pdf)<br>
-[Secondary 4 &amp; 5 Timetable *(updated on 10 Jan)*](/files/Sem_1_2024_Sec_4_5_Timetable__updated_.pdf)
+[Secondary 1 Timetable (updated on 16 Feb)](/files/Sec_1_Timetable.pdf)<br>
+[Secondary 2 Timetable (updated on 16 Feb)](/files/Sec_2_Timetable.pdf)<br>
+[Secondary 3 Timetable (updated on 16 Feb)](/files/Sec_3_Timetable.pdf)<br>
+[Secondary 4 &amp; 5 Timetable (updated on 16 Feb)](/files/Sec_45_Timetable.pdf)
+
 
 **2023 N-Level Results**<br>
 [Release of 2023 N-Level Results (Briefing Slides)](/files/2023_N_Level_Briefing_Slides.pdf)
