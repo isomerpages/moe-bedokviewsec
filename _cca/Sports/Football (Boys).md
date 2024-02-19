@@ -54,10 +54,7 @@ Mr Phoon Zhi Jian <br>
 
 Football is more than just a sport. It requires a strong character that portrays perseverance, determination, discipline, resilience and teamwork. Football is a team sport that builds body and mental strength, agility and coordination.
 
-In Bedok View, the Football CCA training program pivots on guiding learning intentions and success criteria and aims to instill responsibility, confidence and discipline in our students. Beyond honing the players' technical football skills, the Football CCA seeks to provide a space for young men from all walks of life to bond and build lifelong friendships over a shared passion for the game.&nbsp;
+Under the School Football Academy (SFA) programme and the guidance of a team of full-time coaches, our Football CCA aspires to produce young players with sound technical ability through frequent training sessions and games. The Football CCA also seeks to provide a space for young men from all walks of life to bond and build lifelong friendships over a shared passion for the game. 
 
-The players develop these values and build up their skills and strength through training and valuable experiences gained from tournaments like the National School Games, supported by dedicated coaches, teachers and team leaders. All senior footballers play an active role in guiding the juniors during football training sessions and model the way for their juniors during conditioning and strength training exercises, goalkeeper sessions and other team building activities.
-
-This year, we are proud that both our B and C Div boys made it to the Quarter-Finals of League 4.
-
+In 2023, we are proud that both our B and C Div boys made it to the Quarter-Finals of League 4.
 <br clear="left"><br>
