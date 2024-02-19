@@ -12,9 +12,9 @@ sections:
         - title: Interested in joining BV?
           description: Watch this space for more info
           url: /join-us/direct-school-admission-dsa/
-        - title: Back to School & Sec 1 Orientation!
+        - title: Total Defence Day Celebration
           description: See more at our Facebook page
-          url: https://www.facebook.com/share/p/Qf7MtzGaDNP6yQjX/?mibextid=WaXdOe
+          url: https://www.facebook.com/share/p/BjyWZjUmpgFCExj9/?mibextid=WaXdOe
         - title: Sec 1 CCA Option
           description: Click for more information
           url: partnerships/info-for-parents-and-students/
