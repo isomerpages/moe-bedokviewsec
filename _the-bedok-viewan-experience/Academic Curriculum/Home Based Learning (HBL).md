@@ -21,13 +21,13 @@ Please log in to [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/
 
 Alternatively, please click on the respective links below for the instructions to lessons.
 
-Sec 1:  **[Sec 1 HBL instructions](https://docs.google.com/spreadsheets/d/e/2PACX-1vS18eKvq_5X1hMJlUBXS_d0RNK6GP1g-S-eQr4UYoYpOQrNLQevIhWdmpy1X5dpVArRihsM06nLpmRS/pubhtml?gid=1105829671&amp;single=true)**
+Sec 1:  **[Sec 1 HBL instructions](https://docs.google.com/spreadsheets/d/e/2PACX-1vS18eKvq_5X1hMJlUBXS_d0RNK6GP1g-S-eQr4UYoYpOQrNLQevIhWdmpy1X5dpVArRihsM06nLpmRS/pubhtml?gid=1381121516&amp;single=true)**
 
-Sec 2:  **[Sec 2 HBL instructions](https://docs.google.com/spreadsheets/d/e/2PACX-1vRq8rc0z_Ww76rI8Pz82L_VIva0m43eoFODZuSrV6exdYUQbpqh11DhIG1fExZrAe10kzy7T9hYiF-R/pubhtml?gid=1962832325&amp;single=true)**
+Sec 2:  **[Sec 2 HBL instructions](https://docs.google.com/spreadsheets/d/e/2PACX-1vRq8rc0z_Ww76rI8Pz82L_VIva0m43eoFODZuSrV6exdYUQbpqh11DhIG1fExZrAe10kzy7T9hYiF-R/pubhtml?gid=432938913&amp;single=true)**
 
-Sec 3: **[Sec 3 HBL Instructions](https://docs.google.com/spreadsheets/d/e/2PACX-1vS6bQZzvEnsgyYgOgOHz85YDzPF5pKHEQ4KegnrxN9F80TwUX2bQnA9rXXX75KtA-Ohh-onWizFOzad/pubhtml?gid=451723292&amp;single=true)**
+Sec 3: **[Sec 3 HBL Instructions](https://docs.google.com/spreadsheets/d/e/2PACX-1vS6bQZzvEnsgyYgOgOHz85YDzPF5pKHEQ4KegnrxN9F80TwUX2bQnA9rXXX75KtA-Ohh-onWizFOzad/pubhtml?gid=2058463835&amp;single=true)**
 
-Sec 4 &amp; 5: **[Sec 4 &amp; 5 HBL instructions](https://docs.google.com/spreadsheets/d/e/2PACX-1vSHNI7mtjPw89IfjoyEt7sCDmDFVS5tk_X0dkN8zw5w7AhWWSojq9i-kMaSFOThLUa-pMP4nkROkkXq/pubhtml?gid=952533773&amp;single=true)** 
+Sec 4 &amp; 5: **[Sec 4 &amp; 5 HBL instructions](https://docs.google.com/spreadsheets/d/e/2PACX-1vSHNI7mtjPw89IfjoyEt7sCDmDFVS5tk_X0dkN8zw5w7AhWWSojq9i-kMaSFOThLUa-pMP4nkROkkXq/pubhtml?gid=495138549&amp;single=true)** 
 
 Note that the day's lesson instructions will be made available by 7.30 am on the day itself.
 
