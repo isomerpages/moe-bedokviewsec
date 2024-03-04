@@ -43,7 +43,8 @@ variant: markdown
 | -------- | -------- |
 | Ms Nur Syafiqah Saini     | [nur_syafiqah_saini@schools.gov.sg](mailto:nur_syafiqah_saini@schools.gov.sg)     |
 | Mr Loh Chia Chang   | [Loh_CHIA_CHANG@schools.gov.sg](mailto:Loh_CHIA_CHANG@schools.gov.sg)     |
-| Mr Wimal Woodward Aamarasuriya   |      |
+| Mr Wimal Woodward Aamarasuriya   | [Wimal_Woodward_Amarasuriya_A@schools.gov.sg](mailto:Wimal_Woodward_Amarasuriya_A@schools.gov.sg)     |
+    
 
 ##### Sec 1/6 Form Teachers 
 
