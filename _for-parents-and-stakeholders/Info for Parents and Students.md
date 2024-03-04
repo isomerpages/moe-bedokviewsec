@@ -4,6 +4,9 @@ permalink: /partnerships/info-for-parents-and-students/
 description: ""
 variant: markdown
 ---
+**Sec 4 &amp; 5 Academic Support**<br>
+[March Holidays Academic Support Programme Timetable](/files/March_Holidays_Academic_Support_Programme.pdf)
+
 **Sec 1 CCA Option**<br>
 [More information](/for-parents-and-stakeholders/cca-option/)
 
