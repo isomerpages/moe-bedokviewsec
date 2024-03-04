@@ -15,7 +15,7 @@ sections:
         - title: Total Defence Day Celebration
           description: See more at our Facebook page
           url: https://www.facebook.com/share/p/BjyWZjUmpgFCExj9/?mibextid=WaXdOe
-        - title: Sec 1 CCA Option
-          description: Click for more information
+        - title: Sec 4 & 5 Academic Support
+          description: March Holidays Timetable
           url: partnerships/info-for-parents-and-students/
 ---
