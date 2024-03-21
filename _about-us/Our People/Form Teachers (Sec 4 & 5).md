@@ -11,7 +11,7 @@ variant: markdown
 | -------- | -------- |
 | Mrs Zarina Seth    | [zarina_mohamed_zakaria@schools.gov.sg](mailto:zarina_mohamed_zakaria@schools.gov.sg)     |
 | Mdm Wong Chiu Yian     | [wong_chiu_yian@schools.gov.sg](mailto:wong_chiu_yian@schools.gov.sg)     |
-| Mr Kwok Wai Fung     |  [Kwok_Wai_Fung@schools.gov.sg](mailto:Kwok_Wai_Fung@schools.gov.sg)    |
+
 
 ##### Sec 4/2 Form Teachers 
 
