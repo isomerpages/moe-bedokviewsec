@@ -34,7 +34,6 @@ variant: markdown
 | Name | E-mail |
 | -------- | -------- |
 | Ms Emillia Sulaiman Sim     | [nur_emillia_sulaiman_sim@schools.gov.sg](mailto:nur_emillia_sulaiman_sim@schools.gov.sg)     |
-| Mr Jeremy Yong     | [yong_de_jun_jeremy@schools.gov.sg](mailto:yong_de_jun_jeremy@schools.gov.sg)     |
 | Ms Tan Ai Fen     | [tan_ai_fen@schools.gov.sg](mailto:tan_ai_fen@schools.gov.sg)     |
 
 ##### Sec 2/5 Form Teachers
