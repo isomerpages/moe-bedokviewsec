@@ -18,7 +18,6 @@ variant: markdown
 | -------- | -------- |
 | Ms Tan Sei Hui     | [tan_sei_hui@schools.gov.sg](mailto:tan_sei_hui@schools.gov.sg)     |
 | Mr Sivabalan Kaliaperumal    | [sivabalan_kaliaperumal@schools.gov.sg](mailto:sivabalan_kaliaperumal@schools.gov.sg)     |
-| Ms Chew Bee Kim    |  [Chew_Bee_Kim@schools.gov.sg](mailto:Chew_Bee_Kim@schools.gov.sg)     |
 
 ##### Sec 1/3 Form Teachers 
 
@@ -26,7 +25,7 @@ variant: markdown
 | -------- | -------- |
 | Ms Nur Hazwah Md Shah     | [nur_hazwah_mohamed_shah@schools.gov.sg](mailto:nur_hazwah_mohamed_shah@schools.gov.sg)     |
 | Ms Visalatchi    | [Visalatchi_santhira_segaran@schools.gov.sg](mailto:Visalatchi_santhira_segaran@schools.gov.sg)     |
-| Mr Choo Tek Huak    | [choo_tek_huak@schools.gov.sg](mailto:choo_tek_huak@schools.gov.sg)     |
+
 
 
 ##### Sec 1/4 Form Teachers 
