@@ -25,7 +25,7 @@ variant: markdown
 | -------- | -------- |
 | Ms Nur Hazwah Md Shah     | [nur_hazwah_mohamed_shah@schools.gov.sg](mailto:nur_hazwah_mohamed_shah@schools.gov.sg)     |
 | Ms Visalatchi    | [Visalatchi_santhira_segaran@schools.gov.sg](mailto:Visalatchi_santhira_segaran@schools.gov.sg)     |
-
+| Mrs Clarice Zhang    | [toh_li_zhen@schools.gov.sg](mailto:toh_li_zhen@schools.gov.sg)     |
 
 
 ##### Sec 1/4 Form Teachers 
@@ -42,7 +42,7 @@ variant: markdown
 | -------- | -------- |
 | Ms Nur Syafiqah Saini     | [nur_syafiqah_saini@schools.gov.sg](mailto:nur_syafiqah_saini@schools.gov.sg)     |
 | Mr Loh Chia Chang   | [Loh_CHIA_CHANG@schools.gov.sg](mailto:Loh_CHIA_CHANG@schools.gov.sg)     |
-| Mr Wimal Woodward Aamarasuriya   | [Wimal_Woodward_Amarasuriya_A@schools.gov.sg](mailto:Wimal_Woodward_Amarasuriya_A@schools.gov.sg)     |
+| Ms Shek Mee Keng   | [Shek_Mee_Keng_B@schools.gov.sg](mailto:Shek_Mee_Keng_B@schools.gov.sg)     |
     
 
 ##### Sec 1/6 Form Teachers 
