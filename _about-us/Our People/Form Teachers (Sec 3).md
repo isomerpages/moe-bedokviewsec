@@ -19,16 +19,15 @@ variant: markdown
 | -------- | -------- |
 | Ms Sally Ang     | [ang_suat_kee_sally@schools.gov.sg](mailto:ang_suat_kee_sally@schools.gov.sg)     |
 | Mr Roy Cher     | [cher_liew_chun_roy@schools.gov.sg](mailto:cher_liew_chun_roy@schools.gov.sg)     |
-| Ms Shek Mee Keng     | [Shek_Mee_Keng_B@schools.gov.sg](mailto:Shek_Mee_Keng_B@schools.gov.sg)     |
+
 
 ##### Sec 3/3 Form Teachers 
 
 | Name | E-mail |
 | -------- | -------- |
 | Mr David Keng     | [keng_wei_li@schools.gov.sg](mailto:keng_wei_li@schools.gov.sg)     |
-| Ms Noorfatin Beevi Abdul Aziz     | [noorfatin_beevi_abdul_aziz@schools.gov.sg](mailto:noorfatin_beevi_abdul_aziz@schools.gov.sg)     |
 | Mrs Serene Kuek     | [lee_chuen_sing@schools.gov.sg](mailto:lee_chuen_sing@schools.gov.sg)     |
-
+| Mrs Rosini Haniff     | 
 
 ##### Sec 3/4 Form Teachers 
 
