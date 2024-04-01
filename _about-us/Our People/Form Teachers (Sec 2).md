@@ -11,7 +11,8 @@ variant: markdown
 | -------- | -------- |
 | Ms Constance Cheong     | [constance_cheong@schools.gov.sg](mailto:constance_cheong@schools.gov.sg)     |
 | Ms Nur Iznina Zainudin     | [nur_iznina_zainudin@schools.gov.sg](mailto:nur_iznina_zainudin@schools.gov.sg)     |
-| Ms Tan Hsiao Ling     | [Tan_Hsiao_Ling@schools.gov.sg](mailto:Tan_Hsiao_Ling@schools.gov.sg)     |
+| Mrs Tham Lai Yin     | [Tham_Lai_Yin_C@schools.gov.sg](mailto:Tham_Lai_Yin_C@schools.gov.sg)     |
+
 
 ##### Sec 2/2 Form Teachers
 
@@ -19,7 +20,6 @@ variant: markdown
 | -------- | -------- |
 | Ms Tan Sok Foon     | [tan_sok_foon@schools.gov.sg](mailto:tan_sok_foon@schools.gov.sg)     |
 | Ms Odilia Lazaroo     | [lazaroo_odilia_emily@schools.gov.sg](mailto:lazaroo_odilia_emily@schools.gov.sg)     |
-| Ms Nurul Huda     |   [nurul_huda_farid@schools.gov.sg](mailto:nurul_huda_farid@schools.gov.sg)   |
 
 ##### Sec 2/3 Form Teachers
 

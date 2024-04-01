@@ -4,4 +4,4 @@ permalink: /join-us/direct-school-admission-dsa/
 description: ""
 variant: markdown
 ---
-Watch this space for more information on joining Bedok View Secondary through DSA!
+DSA Updates will be given by end of April. Watch this space!

@@ -52,7 +52,7 @@ variant: markdown
 | -------- | -------- |
 | Ms Kua Lay Hwa     | [ma_lay_hwa@schools.gov.sg](mailto:ma_lay_hwa@schools.gov.sg)     |
 | Mr Hamzah Muhit     | [hamzah_b_muhit@schools.gov.sg](mailto:hamzah_b_muhit@schools.gov.sg)     |
-| Ms Victoria Ching     | [Victoria_Ching@schools.gov.sg](mailto:Victoria_Ching@schools.gov.sg)     |
+| Ms Rogayah Osman     | [Rogayah_Osman@schools.gov.sg](mailto:Rogayah_Osman@schools.gov.sg)     |
 
 
 ##### Sec 5/1 Form Teachers 
@@ -60,4 +60,3 @@ variant: markdown
 | Name | E-mail |
 | -------- | -------- |
 | Ms Juliet Heng     | [heng_li_gek_juliet@schools.gov.sg](mailto:heng_li_gek_juliet@schools.gov.sg)     |
-| Ms Rogayah Osman     | [Rogayah_Osman@schools.gov.sg](mailto:Rogayah_Osman@schools.gov.sg)     |
