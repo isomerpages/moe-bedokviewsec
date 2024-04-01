@@ -12,10 +12,10 @@ sections:
         - title: Interested in joining BV?
           description: Watch this space for more info
           url: /join-us/direct-school-admission-dsa/
-        - title: Total Defence Day Celebration
+        - title: Latest Happenings
           description: See more at our Facebook page
-          url: https://www.facebook.com/share/p/BjyWZjUmpgFCExj9/?mibextid=WaXdOe
-        - title: Sec 4 & 5 Academic Support
-          description: March Holidays Timetable
+          url: https://www.facebook.com/BedokViewSecondarySchool
+        - title: Latest info for parents
+          description: ""
           url: partnerships/info-for-parents-and-students/
 ---
