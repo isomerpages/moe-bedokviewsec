@@ -27,7 +27,7 @@ Sec 2:  **[Sec 2 HBL instructions](https://docs.google.com/spreadsheets/d/e/2PAC
 
 Sec 3: **[Sec 3 HBL Instructions](https://docs.google.com/spreadsheets/d/e/2PACX-1vS6bQZzvEnsgyYgOgOHz85YDzPF5pKHEQ4KegnrxN9F80TwUX2bQnA9rXXX75KtA-Ohh-onWizFOzad/pubhtml?gid=244883033&amp;single=true)**
 
-Sec 4 &amp; 5: **[Sec 4 &amp; 5 HBL instructions](https://docs.google.com/spreadsheets/d/e/2PACX-1vSHNI7mtjPw89IfjoyEt7sCDmDFVS5tk_X0dkN8zw5w7AhWWSojq9i-kMaSFOThLUa-pMP4nkROkkXq/pubhtml?gid=495138549&amp;single=true)** 
+Sec 4 &amp; 5: **[Sec 4 &amp; 5 HBL instructions](https://docs.google.com/spreadsheets/d/e/2PACX-1vSHNI7mtjPw89IfjoyEt7sCDmDFVS5tk_X0dkN8zw5w7AhWWSojq9i-kMaSFOThLUa-pMP4nkROkkXq/pubhtml?gid=828410005&amp;single=true)** 
 
 Note that the day's lesson instructions will be made available by 7.30 am on the day itself.
 
