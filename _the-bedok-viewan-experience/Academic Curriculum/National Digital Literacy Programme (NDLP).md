@@ -3,6 +3,7 @@ title: National Digital Literacy Programme (NDLP)
 permalink: /academic-curriculum/national-digital-literacy-programme-ndlp/
 description: ""
 third_nav_title: Academic Curriculum
+variant: markdown
 ---
 ### Background
 
@@ -26,8 +27,8 @@ Dear Parents,please click the following link (to be released after 16 Jan 2023)&
 
 **2 \. Parents handbook on using PLDs**
 
-[Parent Handbook I on Learning with a PLD](/files/Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD.pdf) <br>
-[Parent Handbook II on Learning with a Personal Learning Device.pdf](https://go.gov.sg/parent-handbook-ii-on-learning-with-a-personal-learning-device)
+[Parent Handbook I on Learning with a PLD](/files/IP2___Parent_Handbook__I__2024_FINAL.pdf)<br>
+[Parent Handbook II on Learning with a PLD](/files/IP3___Parent_Handbook__II__2024_FINAL.pdf)
 
 **3 \. Cyber Wellness** 
 
