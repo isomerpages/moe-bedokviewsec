@@ -10,7 +10,7 @@ sections:
       background: /images/Main_Page___L1.jpg
       key_highlights:
         - title: Interested in joining BV?
-          description: Watch this space for more info
+          description: Click here for DSA Info
           url: /join-us/direct-school-admission-dsa/
         - title: Latest Happenings
           description: See more at our Facebook page
