@@ -4,7 +4,6 @@ permalink: /join-us/direct-school-admission-dsa/
 description: ""
 variant: markdown
 ---
-
 #### Direct School Admission (For 2024 Intake)
 
 Thank you for considering Bedok View Secondary School. 
@@ -32,6 +31,4 @@ The Media/Journalism and Photography/Videography programmes in Bedok View Second
 
 **Sports**<br>
 The sports programme in Bedok View Secondary School are offered under the school’s CCA programme. Students selected under the Sports DSA categories will join the respective school sports CCA group. Through the CCA training programme, they will have various development platforms as well as competition opportunities through the National Schools Games.<br>
-***The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at https://www.moe.gov.sg/dsa-sec***
-
-
+***The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)***
