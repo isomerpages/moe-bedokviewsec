@@ -37,10 +37,9 @@ Parents and students are encouraged to choose schools wisely based on the studen
 	
 Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and participate in the activities related to the talent they are selected for from year 1-4.
 
-##### Selection Process
+##### [Selection Process](/files/2024_Selection_Criteria_for_DSA__Bedok_View_Sec_.pdf)
 	
 ##### Key Dates
-	
 	
 
 |  |  |
@@ -49,7 +48,7 @@ Students who are successfully admitted to the school via DSA are expected to hon
 | By 28 June 2024 | Short-listed applicants will be notified. |
 | Between 5 July to 30 August 2024 | Interview sessions/trials will be carried out at Bedok View Secondary School. |
 | By 9 September 2024 | All applicants will receive a reply from school on the outcome of their applications: (i) Confirmed Offer (CO), (ii) Wait List (WL) or (iii) Unsuccessful) |
-| 21 October to 25 October 2024 | <b><u>School Preference Submission </u></b><br><br>Students who receive at least one DSA-Sec offer will receive email and SMS notification via Postman.gov.sg on the School Preference Submission in mid-Oct 2024. Both parents are required to login to the DSA-Sec Portal using their Singpass to submit up to three school preferences. If parents are unable to submit online, they can approach their child’s primary school for assistance to submit the school preferences on their behalf. <br><br>DSA-Sec offers not taken up will be considered as lapsed at the end of the School Preference Submission period. <br><br>Some students may receive concurrent offers from DSA-Sec schools and Singapore Sports School (SSP). Students who wish to accept the SSP offer should not submit their DSA-Sec school preferences. If they do so, their earlier SSP offer will be void. Students who wish to accept the SSP offer should also continue to take part in the S1 Posting. |
+| 21 October to 25 October 2024 | <b><u>School Preference Submission </u></b><br><br>Students who receive at least one DSA-Sec offer will receive email and SMS notification via Postman.gov.sg on the School Preference Submission in mid-Oct 2024. <b>Both parents are required to login to the DSA-Sec Portal using their Singpass to submit up to three school preferences.</b> If parents are unable to submit online, they can approach their child’s primary school for assistance to submit the school preferences on their behalf. <br><br>DSA-Sec offers not taken up will be considered as lapsed at the end of the School Preference Submission period. <br><br>Some students may receive concurrent offers from DSA-Sec schools and Singapore Sports School (SSP). Students who wish to accept the SSP offer should not submit their DSA-Sec school preferences. If they do so, their earlier SSP offer will be void. Students who wish to accept the SSP offer should also continue to take part in the S1 Posting. |
 | Between 20 November and 22 November 2024  | Release of DSA-Sec Allocation Results. |
 
 	
@@ -67,5 +66,5 @@ Parents and students are encouraged to choose schools wisely based on the studen
 	
 Students/parents will be notified of the allocation outcome and to participate in the S1 Posting to submit school choices. 
 
-Should you have any questions, please contact Mr Fathul Rahman Bin Mohamed (Year Head, Lower Secondary) through our General Office at 6443 0563 or email bedokview_ss@moe.edu.sg for assistance.
+Should you have any questions, please contact Mr Fathul Rahman Bin Mohamed (Year Head, Lower Secondary) through our General Office at 6443 0563 or email [bedokview_ss@moe.edu.sg](mailto:bedokview_ss@moe.edu.sg) for assistance.
 We thank you for your interest and we look forward to your application.</p>
