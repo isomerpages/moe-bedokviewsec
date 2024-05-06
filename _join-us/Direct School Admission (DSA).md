@@ -52,7 +52,7 @@ Students who are successfully admitted to the school via DSA are expected to hon
 | Between 20 November and 22 November 2024  | Release of DSA-Sec Allocation Results. |
 
 	
-
+</p><p>
 
 <b>Successful DSA-Sec Students. </b>
 	
