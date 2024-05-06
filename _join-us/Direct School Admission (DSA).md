@@ -44,7 +44,7 @@ Students who are successfully admitted to the school via DSA are expected to hon
 
 |  |  |
 | -------- | -------- |
-| 7 May to 3 June 2024     | Centralised DSA-Sec Application Process <br><br> Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be opened from <b>7 May 2024, 11.00 am to 3 June 2024, 3.00 pm. </b> <br><br>For more details, please refer to MOE website – [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
+| 7 May to 3 June 2024     | <br><u>Centralised DSA-Sec Application Process</u> <br><br> Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be opened from <b>7 May 2024, 11.00 am to 3 June 2024, 3.00 pm. </b> <br><br>For more details, please refer to MOE website – [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
 | By 28 June 2024 | Short-listed applicants will be notified. |
 | Between 5 July to 30 August 2024 | Interview sessions/trials will be carried out at Bedok View Secondary School. |
 | By 9 September 2024 | All applicants will receive a reply from school on the outcome of their applications: (i) Confirmed Offer (CO), (ii) Wait List (WL) or (iii) Unsuccessful) |
