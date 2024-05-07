@@ -31,20 +31,22 @@ The Media/Journalism and Photography/Videography programmes in Bedok View Second
 
 **Sports**<br>
 The sports programme in Bedok View Secondary School are offered under the school’s CCA programme. Students selected under the Sports DSA categories will join the respective school sports CCA group. Through the CCA training programme, they will have various development platforms as well as competition opportunities through the National Schools Games.<br>
-***The selection criteria and process for the talent areas will be updated from early-May. For more information on DSA-Sec, please refer to the MOE website at [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)***
+
+##### Selection Criteria and Timeline
 
 Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.<p>
 	
 Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and participate in the activities related to the talent they are selected for from year 1-4.
 
-##### [Selection Process](/files/2024_Selection_Criteria_for_DSA__Bedok_View_Sec_.pdf)
+
+ [Click here for the selection criteria and process for each domain.](/files/2024_Selection_Criteria_for_DSA__Bedok_View_Sec_.pdf)
 	
 ##### Key Dates
 	
 
 |  |  |
 | -------- | -------- |
-| 7 May to 3 June 2024     | <br><u>Centralised DSA-Sec Application Process</u> <br><br> Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be opened from <b>7 May 2024, 11.00 am to 3 June 2024, 3.00 pm. </b> <br><br>For more details, please refer to MOE website – [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
+| 7 May to 3 June 2024     | <b><u>Centralised DSA-Sec Application Process</u></b> <br><br> Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be opened from <b>7 May 2024, 11.00 am to 3 June 2024, 3.00 pm. </b> <br><br>For more details, please refer to MOE website – [https://www.moe.gov.sg/dsa-sec](https://www.moe.gov.sg/dsa-sec)
 | By 28 June 2024 | Short-listed applicants will be notified. |
 | Between 5 July to 30 August 2024 | Interview sessions/trials will be carried out at Bedok View Secondary School. |
 | By 9 September 2024 | All applicants will receive a reply from school on the outcome of their applications: (i) Confirmed Offer (CO), (ii) Wait List (WL) or (iii) Unsuccessful) |
