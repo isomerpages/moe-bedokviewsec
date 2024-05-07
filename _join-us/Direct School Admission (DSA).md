@@ -53,7 +53,7 @@ Students who are successfully admitted to the school via DSA are expected to hon
 | 21 October to 25 October 2024 | <b><u>School Preference Submission </u></b><br><br>Students who receive at least one DSA-Sec offer will receive email and SMS notification via Postman.gov.sg on the School Preference Submission in mid-Oct 2024. <b>Both parents are required to login to the DSA-Sec Portal using their Singpass to submit up to three school preferences.</b> If parents are unable to submit online, they can approach their child’s primary school for assistance to submit the school preferences on their behalf. <br><br>DSA-Sec offers not taken up will be considered as lapsed at the end of the School Preference Submission period. <br><br>Some students may receive concurrent offers from DSA-Sec schools and Singapore Sports School (SSP). Students who wish to accept the SSP offer should not submit their DSA-Sec school preferences. If they do so, their earlier SSP offer <u>will be void.</u> Students who wish to accept the SSP offer should also continue to take part in the S1 Posting. |
 | Between 20 November and 22 November 2024  | Release of DSA-Sec Allocation Results. |
 
-<b>Successful DSA-Sec Students.</b>
+**Successful DSA-Sec Students.**
 	
 Those who took PSLE but were successful in the DSA-Sec are <b><u>NOT</u></b> allowed to participate in the S1 Posting as they are expected to honour the commitment made to the DSA-Sec school when they exercised their CO or WL offer. However, if they are eligible for third language and/or course options, they may enter these options during the School Choice Submission period. 
 
@@ -61,9 +61,10 @@ Students are also <b><u>NOT</u></b> allowed to transfer to another school after 
 
 Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
 
-<b>Unsuccessful DSA-Sec Students. </b>
+**Unsuccessful DSA-Sec Students.**
 	
 Students/parents will be notified of the allocation outcome and to participate in the S1 Posting to submit school choices. <br>
 
 Should you have any questions, please contact Mr Fathul Rahman Bin Mohamed (Year Head, Lower Secondary) through our General Office at 6443 0563 or email [bedokview_ss@moe.edu.sg](mailto:bedokview_ss@moe.edu.sg) for assistance.
+
 We thank you for your interest and we look forward to your application.</p>
