@@ -15,40 +15,32 @@ larger community.</p>
 following domains.</p>
 <ol data-tight="true" class="tight">
 <li>
-<p><code>Student Leadership</code>
-</p>
+<p>Student Leadership</p>
 </li>
 <li>
-<p><code>Media/Journalism</code>
-</p>
+<p>Media/Journalism</p>
 </li>
 <li>
-<p><code>Photography/Videography</code>
-</p>
+<p>Photography/Videography</p>
 </li>
 <li>
-<p><code>Sports (Badminton – Boys)</code>
-</p>
+<p>Sports (Badminton – Boys)</p>
 </li>
 <li>
-<p><code>Sports (Basketball – Boys &amp;amp; Girls)</code>
-</p>
+<p>Sports (Basketball – Boys &amp; Girls)</p>
 </li>
 <li>
-<p><code>Sports (Football – Boys)</code>
-</p>
+<p>Sports (Football – Boys)</p>
 </li>
 <li>
-<p><code>Sports (Netball – Girls)</code>
-</p>
+<p>Sports (Netball – Girls)</p>
 </li>
 <li>
-<p><code>Sports (Track &amp;amp; Field – Boys &amp;amp; Girls)</code>
-</p>
+<p>Sports (Track &amp; Field – Boys &amp; Girls)</p>
 </li>
 </ol>
 <h5>Description and Criteria</h5>
-<p><strong>Student Leadership</strong>
+<p><strong>Student Leadership</strong> 
 <br>The Student Leadership programme at Bedok View Secondary School is closely
 linked to our school’s Learning for Life Programme (LLP), Good Values @BV
 and it aims to develop students into confident and inspiring leaders. We
@@ -56,7 +48,7 @@ engage student leaders by equipping them with leadership skills so that
 they can grow to be responsible and respectful leaders and citizens. We
 also provide various platforms and opportunities for student leaders to
 demonstrate their leadership skills and to serve the community.</p>
-<p><strong>Media/Journalism &amp; Photography/Videography</strong>
+<p><strong>Media/Journalism &amp; Photography/Videography</strong> 
 <br>The Media/Journalism and Photography/Videography programmes in Bedok View
 Secondary School are offered under the school’s Applied Learning Programme
 (ALP), Global Awareness for the 21st Century @ BV. The ALP is a distinctive
@@ -66,7 +58,7 @@ journalism lessons, workshops and projects for students to be equipped
 with media literacies, oratorical skills and broadcast journalism skills.
 Students are provided with opportunities within school, as well as external
 competitions and events, to apply the skills they have learned.</p>
-<p><strong>Sports</strong>
+<p><strong>Sports</strong> 
 <br>The sports programme in Bedok View Secondary School are offered under
 the school’s CCA programme. Students selected under the Sports DSA categories
 will join the respective school sports CCA group. Through the CCA training
