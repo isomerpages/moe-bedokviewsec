@@ -66,7 +66,7 @@ Parents and students are encouraged to choose schools wisely based on the studen
 
 <b>Unsuccessful DSA-Sec Students. </b>
 	
-Students/parents will be notified of the allocation outcome and to participate in the S1 Posting to submit school choices. 
+Students/parents will be notified of the allocation outcome and to participate in the S1 Posting to submit school choices. <br>
 
 Should you have any questions, please contact Mr Fathul Rahman Bin Mohamed (Year Head, Lower Secondary) through our General Office at 6443 0563 or email [bedokview_ss@moe.edu.sg](mailto:bedokview_ss@moe.edu.sg) for assistance.
 We thank you for your interest and we look forward to your application.</p>
