@@ -9,15 +9,15 @@ Thank you for visiting Bedok View Secondary School's website. By accessing and u
 
 ##### **General**
 
-2. These Terms of Use may be changed from time to time. Changes will be posted on this page and your use of this Web Site after such changes have been posted will constitute your agreement to the modified Terms of Use and all of the changes. 
+2.  These Terms of Use may be changed from time to time. Changes will be posted on this page and your use of this Web Site after such changes have been posted will constitute your agreement to the modified Terms of Use and all of the changes. 
 
 ##### **Proprietary Rights**
 
 3. This Web Site is maintained by Bedok View Secondary School. It is owned by Bedok View Secondary School.
-4. The materials located on this Web Site including the information and software programs (the Contents), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by Bedok View Secondary School.
+4.  The materials located on this Web Site including the information and software programs (the Contents), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by Bedok View Secondary School.
 
 ##### **Privacy Policy**
-5. Click here to review this Web Site Privacy Statement. 
+5. [Click here](https://www.bedokviewsec.moe.edu.sg/privacy/) to review this Web Site Privacy Statement. 
 
 ##### **Restrictions on Use of Materials**
 
