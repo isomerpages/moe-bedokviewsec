@@ -35,7 +35,7 @@ variant: markdown
 | Name | E-mail |
 | -------- | -------- |
 | Ms Chia Pei Pei     | [Chia_Pei_Pei@schools.gov.sg](mailto:Chia_Pei_Pei@schools.gov.sg)     |
-| Mr Tan Yew Hock     | [boon_wei_yee@schools.gov.sg](mailto:boon_wei_yee@schools.gov.sg)     |
+| Mr Tan Yew Hock     | [Tan_YEW_HOCK@schools.gov.sg](mailto:Tan_YEW_HOCK@schools.gov.sg)     |
 
 
 ##### Sec 4/5 Form Teachers 
