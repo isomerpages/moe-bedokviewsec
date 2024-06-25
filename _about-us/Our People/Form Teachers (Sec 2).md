@@ -40,7 +40,7 @@ variant: markdown
 | Name | E-mail |
 | -------- | -------- |
 | Mr Jastinian Tan     | [tan_wee_ghuan_jastinian@schools.gov.sg](mailto:tan_wee_ghuan_jastinian@schools.gov.sg)     |
-| Ms Jasmine Ngo     | [jasmine_ngo_wei_min@schools.gov.sg](mailto:jasmine_ngo_wei_min@schools.gov.sg)     |
+| Ms Jasmine Ngo Wei Min     | [jasmine_ngo_wei_min@schools.gov.sg](mailto:jasmine_ngo_wei_min@schools.gov.sg)     |
 
 ##### Sec 2/6 Form Teachers
 
