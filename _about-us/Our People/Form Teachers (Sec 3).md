@@ -27,7 +27,6 @@ variant: markdown
 | -------- | -------- |
 | Mr David Keng     | [keng_wei_li@schools.gov.sg](mailto:keng_wei_li@schools.gov.sg)     |
 | Mrs Serene Kuek     | [lee_chuen_sing@schools.gov.sg](mailto:lee_chuen_sing@schools.gov.sg)     |
-| Mrs Rosini Haniff     |  [Oth_Rosini_Mohamed_Ali@schools.gov.sg](mailto:Oth_Rosini_Mohamed_Ali@schools.gov.sg)     |
 
 ##### Sec 3/4 Form Teachers 
 
