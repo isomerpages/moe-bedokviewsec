@@ -27,14 +27,15 @@ variant: markdown
 | -------- | -------- |
 | Mr Abdul Adib Md Omar    | [abdul_adib_mohd_omar@schools.gov.sg](mailto:abdul_adib_mohd_omar@schools.gov.sg)     |
 | Ms Ng Han Yi     | [ng_han_yi@schools.gov.sg](mailto:ng_han_yi@schools.gov.sg)     |
+| Mr Ho Kok Leong Jerry     | [ho_kok_leong@schools.gov.sg](mailto:ho_kok_leong@schools.gov.sg)     |
 
 
 ##### Sec 4/4 Form Teachers 
 
 | Name | E-mail |
 | -------- | -------- |
-| Mr Yee Boon Wei     | [boon_wei_yee@schools.gov.sg](mailto:boon_wei_yee@schools.gov.sg)     |
 | Ms Chia Pei Pei     | [Chia_Pei_Pei@schools.gov.sg](mailto:Chia_Pei_Pei@schools.gov.sg)     |
+| Mr Tan Yew Hock     | [Tan_YEW_HOCK@schools.gov.sg](mailto:Tan_YEW_HOCK@schools.gov.sg)     |
 
 
 ##### Sec 4/5 Form Teachers 

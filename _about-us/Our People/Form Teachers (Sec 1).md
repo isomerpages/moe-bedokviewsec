@@ -18,6 +18,7 @@ variant: markdown
 | -------- | -------- |
 | Ms Tan Sei Hui     | [tan_sei_hui@schools.gov.sg](mailto:tan_sei_hui@schools.gov.sg)     |
 | Mr Sivabalan Kaliaperumal    | [sivabalan_kaliaperumal@schools.gov.sg](mailto:sivabalan_kaliaperumal@schools.gov.sg)     |
+| Ms Adeline Chew    | [Adeline_Chew_Hui_Yi@schools.gov.sg](mailto:Adeline_Chew_Hui_Yi@schools.gov.sg)     |
 
 ##### Sec 1/3 Form Teachers 
 
@@ -42,7 +43,7 @@ variant: markdown
 | -------- | -------- |
 | Ms Nur Syafiqah Saini     | [nur_syafiqah_saini@schools.gov.sg](mailto:nur_syafiqah_saini@schools.gov.sg)     |
 | Mr Loh Chia Chang   | [Loh_CHIA_CHANG@schools.gov.sg](mailto:Loh_CHIA_CHANG@schools.gov.sg)     |
-| Ms Shek Mee Keng   | [Shek_Mee_Keng_B@schools.gov.sg](mailto:Shek_Mee_Keng_B@schools.gov.sg)     |
+| Mr Desmond Chan   | *To be updated*     |
     
 
 ##### Sec 1/6 Form Teachers 
