@@ -4,10 +4,15 @@ permalink: /partnerships/info-for-parents-and-students/
 description: ""
 variant: markdown
 ---
+**2024 Class Timetables (Semester 2)**<br>
+[Secondary 1 Timetable (updated on 21 Jun)](/files/Secondary_1_Timetable__updated_on_21_Jun_.pdf)<br>
+[Secondary 2 Timetable (updated on 21 Jun)](/files/Secondary_2_Timetable__updated_on_21_Jun_.pdf)<br>
+[Secondary 3 Timetable (updated on 21 Jun)](/files/Secondary_3_Timetable__updated_on_21_Jun_.pdf)<br>
+[Secondary 4 &amp; 5 Timetable (updated on 21 Jun)](/files/Secondary_4___5_Timetable__updated_on_21_Jun_.pdf)
+
 **Highlights of the Term**<br>
 [Term 2](/files/Term2_Highlights.pdf)<br>
 [Term 1](/files/2024_Term_1_Parent_Letter_Annex.pdf)<br>
-
 
 **Sec 4 &amp; 5 Academic Support**<br>
 [March Holidays Academic Support Programme Timetable](/files/March_Holidays_Academic_Support_Programme.pdf)
@@ -18,14 +23,6 @@ variant: markdown
 **2023 GCE O-Level Results**<br>
 [O Level Briefing Slides](/files/2023_O_Level_Briefing_Slides.pdf)<br>
 [Open Houses and Important Information](/files/2023_O_Level_Information_on_Open_Houses.pdf)
-
-
-**2024 Class Timetables (Semester 2)**<br>
-[Secondary 1 Timetable (updated on 21 Jun)](/files/Secondary_1_Timetable__updated_on_21_Jun_.pdf)<br>
-[Secondary 2 Timetable (updated on 21 Jun)](/files/Secondary_2_Timetable__updated_on_21_Jun_.pdf)<br>
-[Secondary 3 Timetable (updated on 21 Jun)](/files/Secondary_3_Timetable__updated_on_21_Jun_.pdf)<br>
-[Secondary 4 &amp; 5 Timetable (updated on 21 Jun)](/files/Secondary_4___5_Timetable__updated_on_21_Jun_.pdf)
-
 
 **2023 N-Level Results**<br>
 [Release of 2023 N-Level Results (Briefing Slides)](/files/2023_N_Level_Briefing_Slides.pdf)
