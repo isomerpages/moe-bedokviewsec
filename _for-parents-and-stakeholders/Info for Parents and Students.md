@@ -5,8 +5,8 @@ description: ""
 variant: markdown
 ---
 **Highlights of the Term**<br>
+[Term 2](/files/Term2_Highlights.pdf)<br>
 [Term 1](/files/2024_Term_1_Parent_Letter_Annex.pdf)<br>
-[Term 2](/files/Term2_Highlights.pdf)
 
 
 **Sec 4 &amp; 5 Academic Support**<br>
