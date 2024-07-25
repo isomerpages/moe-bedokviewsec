@@ -100,7 +100,7 @@ Do note a&nbsp;**factory reset of your device may be required**&nbsp;for install
 
 #### PDLP Student Device Information Kit
 
-[Click here to download](/files/pdlp%20student%20device%20information%20kit%202023.pdf)
+[Click here to download](/files/PDLP_Student_Device_Information_Kit_2024.pdf)
 
 ### DMA Options ( Using Mobile Guardian)
 
