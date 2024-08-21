@@ -43,7 +43,7 @@ variant: markdown
 | -------- | -------- |
 | Ms Nur Syafiqah Saini     | [nur_syafiqah_saini@schools.gov.sg](mailto:nur_syafiqah_saini@schools.gov.sg)     |
 | Mr Loh Chia Chang   | [Loh_CHIA_CHANG@schools.gov.sg](mailto:Loh_CHIA_CHANG@schools.gov.sg)     |
-| Mr Desmond Chan   | *To be updated*     |
+| Mr Desmond Chan   | [Chan_Kangsheng_Desmond@schools.gov.sg](mailto:Chan_Kangsheng_Desmond@schools.gov.sg)          |
     
 
 ##### Sec 1/6 Form Teachers 
