@@ -3,110 +3,162 @@ title: Mother Tongue
 permalink: /academic-curriculum/mother-tongue/
 description: ""
 third_nav_title: Academic Curriculum
+variant: tiptap
 ---
-### Department Video
-
-<div class="bp-youtube">
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IxSbpiGBt_o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
+<h3>Department Video</h3>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/IxSbpiGBt_o"></iframe>
 </div>
-
-### Our Mission
-
-In Bedok View (BV), there is a strong emphasis to equip students with the skills and knowledge in Mother Tongue Languages (MTL).
-* We aspire to help our students acquire the proficiency and ability to use MTL confidently.
-*  We aim to nurture effective communicators who are life-long learners of their Mother-Tongue Language and possess deep appreciation of our culture and diversity.
-
-
-### Our Vision
-
-* To create a nurturing environment for quality learning and holistic development of our students.
-
-
-#### Programmes
-
-* Chinese New Year Celebration
-* Hari Raya Celebration 
-* Deepavali Celebration 
-* Mother Tongue Languages Fortnight 
-* Overseas Learning Journey 
-* CPES (CL) 
-* CPEF (ML) 
-
-##### Chinese New Year Celebration
-<center>
-	
-**Concert Segment**
-![](/images/Academic%20Curriculum/Mother%20Tongue/mtl_002.jpg)
-	
-![](/images/Academic%20Curriculum/Mother%20Tongue/mtl_001.jpg)
-
-
-
-**Giving of hampers to show appreciation to our Non-teaching Staff**
-
-<img style="width:60%" src="/images/01.jpg">
-
-**Classroom Segment
-<br>(Ang Bao Design Competition in collaboration with APSN)**
-![](/images/Academic%20Curriculum/Mother%20Tongue/mtl_003.jpg)
-</center>
-
-### Mother Tongue Languages Fortnight
-
-<center>
-
-**Seal Making**
-
-<img src="/images/Academic%20Curriculum/Mother%20Tongue/mtl_004.jpg" style="width:60%">
-
-**Garland Making**
-
-<img src="/images/Academic%20Curriculum/Mother%20Tongue/mtl_005.jpg" style="width:60%">
-
-**Batik Painting**
-
-<img style="width:60%" src="/images/Academic%20Curriculum/Mother%20Tongue/mtl_006.jpg">
-
-</center>
-
-### Subjects Offered
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
-.tg .tg-dwlh{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-ano2{background-color:#B0B0B0;border-color:inherit;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
-</style>
-<table style="border: 1px solid white" class="tg">
-<thead>
-  <tr>
-    <th style="border: 1px solid white" class="tg-ano2"><span style="color:#222;background-color:#B0B0B0">Chinese Language</span></th>
-    <th style="border: 1px solid white" class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Malay Language</span></th>
-    <th style="border: 1px solid white" class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Tamil Language</span></th>
-  </tr>
-</thead>
+<h3>Our Mission</h3>
+<p>In Bedok View (BV), there is a strong emphasis to equip students with
+the skills and knowledge in Mother Tongue Languages (MTL).</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>We aspire to help our students acquire the proficiency and ability to
+use MTL confidently.</p>
+</li>
+<li>
+<p>We aim to nurture effective communicators who are life-long learners of
+their Mother-Tongue Language and possess deep appreciation of our culture
+and diversity.</p>
+</li>
+</ul>
+<h3>Our Vision</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>To create a nurturing environment for quality learning and holistic development
+of our students.</p>
+</li>
+</ul>
+<h4>Programmes</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chinese New Year Celebration</p>
+</li>
+<li>
+<p>Hari Raya Celebration</p>
+</li>
+<li>
+<p>Deepavali Celebration</p>
+</li>
+<li>
+<p>Mother Tongue Languages Fortnight</p>
+</li>
+<li>
+<p>Overseas Learning Journey</p>
+</li>
+<li>
+<p>CPES (CL)</p>
+</li>
+<li>
+<p>CPEF (ML)</p>
+</li>
+</ul>
+<h5>Chinese New Year Celebration</h5>
+<p><strong>Concert Segment</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic%20Curriculum/Mother%20Tongue/mtl_002.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic%20Curriculum/Mother%20Tongue/mtl_001.jpg">
+</div>
+<p><strong>Giving of hampers to show appreciation to our Non-teaching Staff</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:60%" height="auto" width="100%" src="/images/01.jpg">
+</div>
+<p><strong>Classroom Segment <br>(Ang Bao Design Competition in collaboration with APSN)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic%20Curriculum/Mother%20Tongue/mtl_003.jpg">
+</div>
+<h3>Mother Tongue Languages Fortnight</h3>
+<p><strong>Seal Making</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:60%" height="auto" width="100%" src="/images/Academic%20Curriculum/Mother%20Tongue/mtl_004.jpg">
+</div>
+<p><strong>Garland Making</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:60%" height="auto" width="100%" src="/images/Academic%20Curriculum/Mother%20Tongue/mtl_005.jpg">
+</div>
+<p><strong>Batik Painting</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:60%" height="auto" width="100%" src="/images/Academic%20Curriculum/Mother%20Tongue/mtl_006.jpg">
+</div>
+<h3>Subjects Offered</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td style="border: 1px solid white" class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">Higher Chinese Language (G3)</span><br><br></td>
-    <td style="border: 1px solid white" class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">Higher Malay Language (G3)</span><br><br></td>
-    <td style="border: 1px solid white" class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Tamil Language <br>(G1 to G3)</span></td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid white" class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Chinese Language<br>(G1 to G3)</span></td>
-    <td style="border: 1px solid white" class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Malay Language<br>(G1 to G3)</span></td>
-    <td style="border: 1px solid white" class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA">Tamil Language B</span><br><span style="color:#222;background-color:#EAEAEA">(at Secondary 4)</span><br><br></td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid white" class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA"> Chinese Language B</span><br><span style="color:#222;background-color:#EAEAEA">(at Secondary 4)</span><br><br></td>
-    <td style="border: 1px solid white" class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Malay Language B</span><br><span style="color:#222;background-color:#EAEAEA">(at Secondary 4) </span></td>
-    <td style="border: 1px solid white" class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> </span></td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Chinese Language</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Malay Language</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Tamil Language</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Higher Chinese Language (G3)
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Higher Malay Language (G3)
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tamil Language
+<br>(G1 to G3)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Language
+<br>(G1 to G3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Malay Language
+<br>(G1 to G3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tamil Language B
+<br>(at Secondary 4)
+<br>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Language B
+<br>(at Secondary 4)
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Malay Language B
+<br>(at Secondary 4)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
