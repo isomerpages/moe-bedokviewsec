@@ -12,7 +12,7 @@ sections:
         - title: Interested in joining BV?
           description: Click here for DSA Info
           url: /join-us/direct-school-admission-dsa/
-        - title: Welcoming alumni for teachers' day
+        - title: Teachers' Day 2024
           description: ""
           url: https://go.gov.sg/bvssalumniteachersdaymessages
         - title: Latest Happenings
