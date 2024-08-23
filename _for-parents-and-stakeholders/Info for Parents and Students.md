@@ -4,6 +4,11 @@ permalink: /partnerships/info-for-parents-and-students/
 description: ""
 variant: markdown
 ---
+**2024 End-of-Year Examination Timetable**<br>
+[Secondary 1 2024 End-of-Year Examination Timetable](/files/Info%20for%20Parents%20Stakeholders/Sec_1_2024_EYE_Timetable.pdf)<br>
+[Secondary 2 2024 End-of-Year Examination Timetable](/files/Info%20for%20Parents%20Stakeholders/Sec_2_2024_EYE_Timetable.pdf)<br>
+[Secondary 3 2024 End-of-Year Examination Timetable](/files/Info%20for%20Parents%20Stakeholders/Sec_3_2024_EYE_Timetable.pdf)
+
 **2024 Class Timetables (Semester 2)**<br>
 [Secondary 1 Timetable (updated on 21 Jun)](/files/Secondary_1_Timetable__updated_on_21_Jun_.pdf)<br>
 [Secondary 2 Timetable (updated on 21 Jun)](/files/Secondary_2_Timetable__updated_on_21_Jun_.pdf)<br>
