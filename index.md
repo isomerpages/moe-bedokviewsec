@@ -18,7 +18,7 @@ sections:
         - title: Latest Happenings
           description: See more at our Facebook page
           url: https://www.facebook.com/BedokViewSecondarySchool
-        - title: Latest info for parents
-          description: ""
+        - title: End-of-Year Examination Timetable 2024
+          description: Click for more announcements
           url: partnerships/info-for-parents-and-students/
 ---
