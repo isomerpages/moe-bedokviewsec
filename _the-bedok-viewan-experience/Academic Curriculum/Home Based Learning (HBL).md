@@ -21,28 +21,17 @@ Please log in to [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/
 
 Alternatively, please click on the respective links below for the instructions to lessons.
 
-Sec 1:  
-**[Sec 1 HBL instructions for 23 Jul (Tue)](https://docs.google.com/spreadsheets/d/e/2PACX-1vS18eKvq_5X1hMJlUBXS_d0RNK6GP1g-S-eQr4UYoYpOQrNLQevIhWdmpy1X5dpVArRihsM06nLpmRS/pubhtml?gid=731550866&amp;single=true)**
+Sec 1:  **[Sec 1 HBL instructions for 23 Aug (Wed)](https://docs.google.com/spreadsheets/d/1aswHbneGTXfMOq-t1X4LVwf3r51J5ivBUyppBlIOlOo/pubhtml?gid=584995644&amp;single=true)**
 
-**[Sec 1 HBL instructions for 24 Jul (Wed)](https://docs.google.com/spreadsheets/d/e/2PACX-1vS18eKvq_5X1hMJlUBXS_d0RNK6GP1g-S-eQr4UYoYpOQrNLQevIhWdmpy1X5dpVArRihsM06nLpmRS/pubhtml?gid=1166053677&amp;single=true)**
+Sec 2:  **[Sec 2 HBL instructions for 23 Aug (Wed)](https://docs.google.com/spreadsheets/d/1QvzgDt2JGA8nzpU7uObcC9LtVDyUhS8dQ2_rEAU5Qs4/pubhtml?gid=843063322&amp;single=true)**
 
-**[Sec 1 HBL instructions for 25 Jul (Thu)](https://docs.google.com/spreadsheets/d/e/2PACX-1vS18eKvq_5X1hMJlUBXS_d0RNK6GP1g-S-eQr4UYoYpOQrNLQevIhWdmpy1X5dpVArRihsM06nLpmRS/pubhtml?gid=2049866155&amp;single=true)**
-
-Sec 2:  
-**[Sec 2 HBL instructions for 23 Jul (Tue)](https://docs.google.com/spreadsheets/d/e/2PACX-1vRq8rc0z_Ww76rI8Pz82L_VIva0m43eoFODZuSrV6exdYUQbpqh11DhIG1fExZrAe10kzy7T9hYiF-R/pubhtml?gid=1718145121&amp;single=true)**
-
-**[Sec 2 HBL instructions for 24 Jul (Wed)](https://docs.google.com/spreadsheets/d/e/2PACX-1vRq8rc0z_Ww76rI8Pz82L_VIva0m43eoFODZuSrV6exdYUQbpqh11DhIG1fExZrAe10kzy7T9hYiF-R/pubhtml?gid=2119547491&amp;single=true)**
-
-**[Sec 2 HBL instructions for 25 Jul (Thu)](https://docs.google.com/spreadsheets/d/e/2PACX-1vRq8rc0z_Ww76rI8Pz82L_VIva0m43eoFODZuSrV6exdYUQbpqh11DhIG1fExZrAe10kzy7T9hYiF-R/pubhtml?gid=1218198702&amp;single=true)**
 
 Sec 3: 
-**[Sec 3 HBL Instructions for 23 Jul (Tue)](https://docs.google.com/spreadsheets/d/e/2PACX-1vS6bQZzvEnsgyYgOgOHz85YDzPF5pKHEQ4KegnrxN9F80TwUX2bQnA9rXXX75KtA-Ohh-onWizFOzad/pubhtml?gid=1876706770&amp;single=true)**
+**[Sec 3 HBL Instructions for 23 Aug (Wed)](https://docs.google.com/spreadsheets/d/1ysFiuwCBa7ZqpW_OVlfZbVC_VLqsZwcIqMHwixnssr0/pubhtml?gid=937457508&amp;single=true)**
 
-**[Sec 3 HBL Instructions for 24 Jul (Wed)](https://docs.google.com/spreadsheets/d/e/2PACX-1vS6bQZzvEnsgyYgOgOHz85YDzPF5pKHEQ4KegnrxN9F80TwUX2bQnA9rXXX75KtA-Ohh-onWizFOzad/pubhtml?gid=2100966171&amp;single=true)**
-
-**[Sec 3 HBL Instructions for 25 Jul (Thu)](https://docs.google.com/spreadsheets/d/e/2PACX-1vS6bQZzvEnsgyYgOgOHz85YDzPF5pKHEQ4KegnrxN9F80TwUX2bQnA9rXXX75KtA-Ohh-onWizFOzad/pubhtml?gid=214647844&amp;single=true)**
-
-Sec 4 &amp; 5: **No HBL lessons due to GCE O-Level and N-Level Oral Examinations. Do engage in self-study and arrange for consultation with your subject teachers.**
+Sec 4 &amp; 5: 
+**[Sec 4N HBL Instructions for 23 Aug (Wed)](https://docs.google.com/spreadsheets/d/1GTUCVS55yzg0bid-aCUbdS0ZcdLR-un8L47iM7N5uO8/pubhtml?gid=2024949586&amp;single=true)**
+**No HBL lessons for 4E5N due to GCE O-Level Preliminary Examinations.**
 
 Note that the day's lesson instructions will be made available by 7.30 am on the day itself.
 
