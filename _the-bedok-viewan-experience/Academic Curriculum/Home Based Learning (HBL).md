@@ -21,16 +21,16 @@ Please log in to [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/
 
 Alternatively, please click on the respective links below for the instructions to lessons.
 
-Sec 1:  **[Sec 1 HBL instructions for 23 Aug (Wed)](https://docs.google.com/spreadsheets/d/1aswHbneGTXfMOq-t1X4LVwf3r51J5ivBUyppBlIOlOo/pubhtml?gid=584995644&amp;single=true)**
+Sec 1:  **[Sec 1 HBL instructions for 28 Aug (Wed)](https://docs.google.com/spreadsheets/d/1aswHbneGTXfMOq-t1X4LVwf3r51J5ivBUyppBlIOlOo/pubhtml?gid=584995644&amp;single=true)**
 
-Sec 2:  **[Sec 2 HBL instructions for 23 Aug (Wed)](https://docs.google.com/spreadsheets/d/1QvzgDt2JGA8nzpU7uObcC9LtVDyUhS8dQ2_rEAU5Qs4/pubhtml?gid=843063322&amp;single=true)**
+Sec 2:  **[Sec 2 HBL instructions for 28 Aug (Wed)](https://docs.google.com/spreadsheets/d/1QvzgDt2JGA8nzpU7uObcC9LtVDyUhS8dQ2_rEAU5Qs4/pubhtml?gid=843063322&amp;single=true)**
 
 
 Sec 3: 
-**[Sec 3 HBL Instructions for 23 Aug (Wed)](https://docs.google.com/spreadsheets/d/1ysFiuwCBa7ZqpW_OVlfZbVC_VLqsZwcIqMHwixnssr0/pubhtml?gid=937457508&amp;single=true)**
+**[Sec 3 HBL Instructions for 28 Aug (Wed)](https://docs.google.com/spreadsheets/d/1ysFiuwCBa7ZqpW_OVlfZbVC_VLqsZwcIqMHwixnssr0/pubhtml?gid=937457508&amp;single=true)**
 
 Sec 4 &amp; 5: 
-**[Sec 4N HBL Instructions for 23 Aug (Wed)](https://docs.google.com/spreadsheets/d/1GTUCVS55yzg0bid-aCUbdS0ZcdLR-un8L47iM7N5uO8/pubhtml?gid=2024949586&amp;single=true)**
+**[Sec 4N HBL Instructions for 28 Aug (Wed)](https://docs.google.com/spreadsheets/d/1GTUCVS55yzg0bid-aCUbdS0ZcdLR-un8L47iM7N5uO8/pubhtml?gid=2024949586&amp;single=true)**
 **No HBL lessons for 4E5N due to GCE O-Level Preliminary Examinations.**
 
 Note that the day's lesson instructions will be made available by 7.30 am on the day itself.
