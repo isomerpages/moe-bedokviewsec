@@ -4,10 +4,7 @@ title: Bedok View Secondary School
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: "NOTICE: Please note that all our staff are out of school for a
-  staff appreciation event on 28 Aug (Wed), from 11.00am to 4.00pm. School will
-  close at 5.00pm. For any urgent matters please contact us at 8910 7914. Thank
-  you."
+notification: ""
 sections:
   - hero:
       background: /images/Main_Page___L1.jpg
