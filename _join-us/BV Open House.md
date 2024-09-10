@@ -4,4 +4,4 @@ permalink: /join-us/bv-openhouse/
 description: ""
 variant: markdown
 ---
-![](/images/Bedok_View_Secondary_School.png)
+Stay tuned for details on our Open House on Saturday, 23rd November 2024!
