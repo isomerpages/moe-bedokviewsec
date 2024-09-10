@@ -53,8 +53,9 @@ to the needs of the community.</p>
 <p>In Service Learning Club, we learn to serve and we serve to learn.</p>
 <p>We focus on engaging the whole being – the head (cognitive), the hands
 (practical), and the heart (emotional), as shown below.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Service Learning Club Vision" src="/images/Service%20Learning.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HHH.png">
 </div>
 <h4>Our Motto</h4>
 <p>Serve.Learn.Care</p>
