@@ -5,6 +5,6 @@ variant: markdown
 description: ""
 third_nav_title: Our Achievements & Highlights
 ---
-**Highlights of the Term**<br>
+**Highlights of the Year**<br>
 [Term 2](/files/Term2_Highlights.pdf)<br>
 [Term 1](/files/2024_Term_1_Parent_Letter_Annex.pdf)<br>
