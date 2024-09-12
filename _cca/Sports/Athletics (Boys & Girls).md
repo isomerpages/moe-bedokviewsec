@@ -5,17 +5,17 @@ description: ""
 third_nav_title: Sports
 variant: tiptap
 ---
-<h3>CCA Video</h3>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rmbZLIUx1to"></iframe>
-</div>
 <h3>Teachers- In- Charge</h3>
-<p>
-<br>Mr Hamzah Bin Muhit
+<p>Mr Hamzah Bin Muhit
 <br>Mr Tan Teck Yong
 <br>Mdm Umi Kalthom Bte Shokor</p>
 <h3>CCA Schedule</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
