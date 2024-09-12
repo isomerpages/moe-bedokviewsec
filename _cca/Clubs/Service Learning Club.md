@@ -5,10 +5,6 @@ description: ""
 third_nav_title: Clubs
 variant: tiptap
 ---
-<h4>CCA Video</h4>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7bKWeHKzgmU?si=EOIdvAVbKUs0DfTp"></iframe>
-</div>
 <h4>Teachers- In- Charge</h4>
 <p>Mr Fong Yi Shuen
 <br>Ms&nbsp;Marliyana Md Noor
