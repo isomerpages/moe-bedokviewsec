@@ -3,57 +3,64 @@ title: National Police Cadet Corps (NPCC) Boys
 permalink: /cca/uniformed-groups/national-police-cadet-corps-npcc-boys/
 description: ""
 third_nav_title: Uniformed Groups
-variant: markdown
+variant: tiptap
 ---
-### CCA Video
-
-<div class="bp-youtube">
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HCU8rSkQoKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-</div>
-
-### Teachers- In- Charge
-
-Mr&nbsp;Abdul Adib Bin Mohd Omar <br>
-Mr Choo Meng Kang <br>
-Mr Loh Chia Chang
-
-
-### CCA Schedule
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
-.tg .tg-rj1p{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-rj1p">Days</th>
-    <th class="tg-rj1p">Time</th>
-    <th class="tg-rj1p">Venue</th>
-  </tr>
-</thead>
+<h3>Teachers- In- Charge</h3>
+<p>Mr&nbsp;Abdul Adib Bin Mohd Omar
+<br>Mr Choo Meng Kang
+<br>Mr Loh Chia Chang</p>
+<h3>CCA Schedule</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-y7qa">Friday</td>
-    <td class="tg-y7qa">2.30pm - 6.00pm</td>
-    <td class="tg-y7qa">Classrooms<br>D1-01</td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Days</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.30pm - 6.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Classrooms
+<br>D1-01</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-### CCA Overview &amp; Highlights
-
-The **National Police Cadet Corps (NPCC)** unit aims to develop cadets to be active citizens and community leaders, by working in partnership with the **Singapore Police Force** to fight crime and keep Singapore safe.
-
-Our cadets learn important skills and knowledge with exciting programmes such as **Crime Scene Investigation (CSI)** and **0.22 Revolver Shooting**, and nurture their rugged selves through fun and challenging outdoor activities like **High Ropes Challenge** and **Adventure Camps** in **Pulau Ubin**. We take part in the **Police Youth Ambassador** projects which aims to equip cadets with practical strategies to address community crime and security. We also collaborate with the **Singapore Police Force** to help spread awareness on **Vehicle Theft** and **Internet Scams** to the public. These projects help to develop our cadets into confident leaders and responsible citizens of the nation.
-
-In 2021, our unit received the **Gold Award** for the **Unit Overall Proficiency Award (UOPA)** as a recognition of our cadets’ and officers’ commitment to high standards of proficiency and efficiency in our programmes and achievements. Our Sec 4 cadets have also made the school proud yearly by achieving the **SPF-NPCC Badge**, the pinnacle badge awarded to the best NPCC cadets in Singapore.
-
-**We look forward to welcoming you to be part of our NPCC family!**
+<h3>CCA Overview &amp; Highlights</h3>
+<p>The <strong>National Police Cadet Corps (NPCC)</strong> unit aims to develop
+cadets to be active citizens and community leaders, by working in partnership
+with the <strong>Singapore Police Force</strong> to fight crime and keep
+Singapore safe.</p>
+<p>Our cadets learn important skills and knowledge with exciting programmes
+such as <strong>Crime Scene Investigation (CSI)</strong> and <strong>0.22 Revolver Shooting</strong>,
+and nurture their rugged selves through fun and challenging outdoor activities
+like <strong>High Ropes Challenge</strong> and <strong>Adventure Camps</strong> in <strong>Pulau Ubin</strong>.
+We take part in the <strong>Police Youth Ambassador</strong> projects which
+aims to equip cadets with practical strategies to address community crime
+and security. We also collaborate with the <strong>Singapore Police Force</strong> to
+help spread awareness on <strong>Vehicle Theft</strong> and <strong>Internet Scams</strong> to
+the public. These projects help to develop our cadets into confident leaders
+and responsible citizens of the nation.</p>
+<p>In 2021, our unit received the <strong>Gold Award</strong> for the <strong>Unit Overall Proficiency Award (UOPA)</strong> as
+a recognition of our cadets’ and officers’ commitment to high standards
+of proficiency and efficiency in our programmes and achievements. Our Sec
+4 cadets have also made the school proud yearly by achieving the <strong>SPF-NPCC Badge</strong>,
+the pinnacle badge awarded to the best NPCC cadets in Singapore.</p>
+<p><strong>We look forward to welcoming you to be part of our NPCC family!</strong>
+</p>
