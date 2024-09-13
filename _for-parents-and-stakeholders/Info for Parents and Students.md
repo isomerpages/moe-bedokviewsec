@@ -4,6 +4,11 @@ permalink: /partnerships/info-for-parents-and-students/
 description: ""
 variant: markdown
 ---
+**Highlights of the Term**<br>
+[Term 3](/files/HighIights_of_Term_3_2024.pdf)<br>
+[Term 2](/files/Term2_Highlights.pdf)<br>
+[Term 1](/files/2024_Term_1_Parent_Letter_Annex.pdf)<br>
+
 **2024 End-of-Year Examination Timetable**<br>
 [Secondary 1 2024 End-of-Year Examination Timetable](/files/Info%20for%20Parents%20Stakeholders/Sec_1_2024_EYE_Timetable.pdf)<br>
 [Secondary 2 2024 End-of-Year Examination Timetable](/files/Info%20for%20Parents%20Stakeholders/Sec_2_2024_EYE_Timetable.pdf)<br>
@@ -14,10 +19,6 @@ variant: markdown
 [Secondary 2 Timetable (updated on 21 Jun)](/files/Secondary_2_Timetable__updated_on_21_Jun_.pdf)<br>
 [Secondary 3 Timetable (updated on 21 Jun)](/files/Secondary_3_Timetable__updated_on_21_Jun_.pdf)<br>
 [Secondary 4 &amp; 5 Timetable (updated on 21 Jun)](/files/Secondary_4___5_Timetable__updated_on_21_Jun_.pdf)
-
-**Highlights of the Term**<br>
-[Term 2](/files/Term2_Highlights.pdf)<br>
-[Term 1](/files/2024_Term_1_Parent_Letter_Annex.pdf)<br>
 
 **Sec 4 &amp; 5 Academic Support**<br>
 [March Holidays Academic Support Programme Timetable](/files/March_Holidays_Academic_Support_Programme.pdf)
