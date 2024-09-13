@@ -29,4 +29,19 @@ third_nav_title: Our Achievements & Highlights
 <iframe allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBedokViewSecondarySchool%2Fposts%2Fpfbid02MtM2Z7f7K2kgVuw8wQggFTuceWi2mfGAHwRez7nnkAnPziYJARFdH198VCpqhNP5l&amp;show_text=true&amp;width=500"></iframe>
 </div>
 <p></p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBedokViewSecondarySchool%2Fposts%2Fpfbid0itawD6dEhz9pwimZ3YS8iGB7WJkBEBaCVhaUvFQowRozQjBxmqr8fYeqgapQvP4Nl&amp;show_text=true&amp;width=500"></iframe>
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBedokViewSecondarySchool%2Fposts%2Fpfbid0Beu7s3Kwyz3LS1iwYDz343Y3MExbUVRKRHgeH9KggAYAi9dNQW26obaBW3VF6wpnl&amp;show_text=true&amp;width=500"></iframe>
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBedokViewSecondarySchool%2Fposts%2Fpfbid09YoVtTXv4jZotbTCkwNH9gkV2Jg8PkGNEoDvTWr2bgtpLN3LyT98JospBWwiERMYl&amp;show_text=true&amp;width=500"></iframe>
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBedokViewSecondarySchool%2Fposts%2Fpfbid0cVP34EHHBF8uZaQm2hSELBjuHBbGAggJZmjYWTQU6kPAtY3TRNhr8LL1NYkAEVjcl&amp;show_text=true&amp;width=500"></iframe>
+</div>
 <p></p>
