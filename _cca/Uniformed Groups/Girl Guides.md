@@ -6,8 +6,7 @@ third_nav_title: Uniformed Groups
 variant: tiptap
 ---
 <h3>Teachers- In- Charge</h3>
-<p>Miss Nur Adilah Binte Renohardi
-<br>Ms Tan Sok Foon Noelle
+<p>Ms Tan Sok Foon Noelle
 <br>Ms Toh Li Zhen Clarice (Mrs Zhang)
 <br>Ms Zhang Lingjia Mabel</p>
 <h3>CCA Schedule</h3>
@@ -48,12 +47,13 @@ variant: tiptap
 for the girls. Through the patrol system, the juniors get to emulate the
 leadership skills demonstrated by the seniors. The CCA encourages girls
 to explore and develop their talents, to aim and achieve excellence and
-also to help and serve others.&nbsp;Our girls worked hard to achieve various
+also to help and serve others. Our girls worked hard to achieve various
 proficiency badges during training sessions and often volunteered their
 services during school and girl guides events. They volunteered in St John’s
 home for the elderly. They organized their own camp in Camp Christine and
 had fun hiking and cooking outdoors.</p>
-<p>In 2022, our girls demonstrated their talents and creativity during East
-Division Day and as a testament to their hard work, they achieved 1 gold
-and 1 Silver in 2 of the competitions. The CCA also achieved Puan Noor
-Aishah Gold in the assessment year of 2021.</p>
+<p>In 2024, our girls demonstrated their talents and creativity during East
+Division Day and as a testament to their hard work, they achieved a Silver
+in one of the competitions. The CCA also achieved Puan Noor Aishah Gold
+in the assessment year of 2023.</p>
+<p></p>
