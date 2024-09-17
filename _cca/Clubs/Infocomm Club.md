@@ -8,7 +8,8 @@ variant: tiptap
 <h3>Teachers- In- Charge</h3>
 <p>Ms Mardiyana Bte Roslie
 <br>Mr David Keng
-<br>Mrs Zarina Seth</p>
+<br>Mdm Zarina Mohamed Zakaria
+<br>Ms Adeline Chew hui yi</p>
 <h3>CCA Schedule</h3>
 <table style="minWidth: 75px">
 <colgroup>
@@ -54,16 +55,17 @@ and providing support in all school events.
 <br>Maintain integrity and high standards in their involvement in competitions
 and conduct of events.</p>
 <h3>CCA Overview</h3>
-<p>Bedok View Infocomm Club engages its infocommers through photography and
-videography with different activities like school events, outdoor shoots
-and annual Infocomm Club camp. The members develop their technical skills
-with the help of our trainer. The PA crew, which also consists of our infocommers,
-assist the school in the setup and control of all media equipment. Our
-members regularly take part in photography competitions such as Our School
-Our Stories and other national level competitions to put into practice
-what they have learnt. It is through these lessons and competitions that
-the club hopes to inculcate soft skills of collaboration, decision making
-and leadership.</p>
+<p>Bedok View Infocomm Club immerses its members in photography and videography
+through a range of activities, including school events and outdoor shoots.
+With guidance from our trainer, members develop their technical skills.
+The PA crew, composed of our infocommers, assists the school by setting
+up and managing media equipment. Our members also regularly compete in
+photography contests such as Our School Our Stories and other national
+events, applying their skills in practical settings. Through these activities
+and competitions, the club aims to cultivate soft skills like collaboration,
+decision-making, and leadership. Additionally, members have opportunities
+to advance their skills through courses like drone operation and content
+creation offered by IMDA.</p>
 <h3>Scope of Activities</h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -85,38 +87,31 @@ and leadership.</p>
 <p>Our School Our Stories Competition</p>
 </li>
 <li>
-<p>S.Y.P.A (Singapore Young Photographers Awards)&nbsp;</p>
+<p>IMDA (Drone - Storytelling in the Skies)</p>
 </li>
 <li>
-<p>S.D.M.A (Schools Digital Media Awards)&nbsp;</p>
+<p>IMDA (Drone - Designing Aerial Shows)</p>
 </li>
 <li>
-<p>Safety Starts With Me Video Competition</p>
+<p>IMDA (Media Content Creation - Mediacorp)</p>
 </li>
 <li>
-<p>K.W.N (Kids Witness News)&nbsp;</p>
+<p>IMDA (Lead Con - Infocomm Media Club Student Leadership)</p>
 </li>
 <li>
-<p>180 Short Film (Singapore Media Academy)&nbsp;</p>
-</li>
-<li>
-<p>N.E Mation (Nanyang Polytechnic)&nbsp;</p>
-</li>
-<li>
-<p>SGCC (Singapore Games Creation Competition)&nbsp;</p>
-</li>
-<li>
-<p>Project Shoout (Touch Services)&nbsp;</p>
-</li>
-<li>
-<p>StrlTwise Integrated IT Camp (Ngee Ann Poly)&nbsp;&nbsp;</p>
+<p>N.E Mation (Nanyang Polytechnic)</p>
 </li>
 <li>
 <p>Learning Journeys (Kent Ridge Park, Hort Park, Marina Bay; Day and Night
-Photography)&nbsp;</p>
-</li>
-<li>
-<p>Infocomm Camp (2day 1 night Camp; Bonding, Mentoring and IT skills revision)</p>
+Photography)</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 </li>
 </ul>
 <p></p>
