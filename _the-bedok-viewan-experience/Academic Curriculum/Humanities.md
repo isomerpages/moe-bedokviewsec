@@ -5,14 +5,6 @@ description: ""
 third_nav_title: Academic Curriculum
 variant: markdown
 ---
-### Department Video 
-
-<div class="bp-youtube">
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nZ0QXV9OW_4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-</div>
-
 ### Overview
 
 The Humanities Department oversees the subjects of Geography, History and Social Studies. In learning these subjects, students will be exposed to complex issues and different perspectives and in the process learn to think critically and develop effective writing and communication skills. Through learning the Humanities, they will have a better understanding of the world around them, learn empathy and be informed and active citizens of society.
