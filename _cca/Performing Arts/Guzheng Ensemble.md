@@ -42,15 +42,19 @@ variant: tiptap
 </tbody>
 </table>
 <h3>CCA Overview &amp; Highlights</h3>
-<p>Bedok View Guzheng Ensemble provides students with the opportunity to
-pick up Guzheng performing skills, and boost their team spirit. Through
-polishing their technical playing skills in every training session, we
-seek to enable students to achieve excellence. We also focus on further
-developing the members’ values of responsibility and resilience, in order
-to develop them holistically.&nbsp;</p>
-<p>&nbsp;In 2021, we had meaningful and fulfilling experiences from putting
-in our best efforts to prepare and perform festive pieces during the school’s
-Chinese New Year Celebration, as well as from our participation in the
-Singapore Youth Festival (SYF) Arts Presentation.&nbsp;Guzheng members
-continued to learn and work together as one to bring the group to greater
-heights.</p>
+<p>Bedok View Guzheng ensemble aims to provide a platform for students to
+venture into the beauty of the Guzheng instrument. Our CCA highlights the
+importance of working cohesively as a team and focuses on improving one
+another, with seniors actively providing support for new members.</p>
+<p>A typical CCA session consists of preparing for SYF as well as playing
+other songs used for performances. A lot of time is taken to refine our
+techniques and make the song more expressive through movements and dynamic
+contrasts in the music. Beyond music practice, our CCA fosters a strong
+sense of camaraderie through a variety of activities such as bonding sessions,
+Teachers’ Day celebration, and farewell party for our graduating seniors.</p>
+<p>In 2023, we participated in the Singapore Youth Festival (SYF) Arts Presentation
+and received the Certificate of Distinction. In 2024, our CCA went on an
+exchange programme with Hougang Secondary School to further enhance our
+knowledge of Guzheng in Singapore, and gain valuable insights from other
+students. This enabled us to engage with students from other schools and
+foster new connections.</p>
