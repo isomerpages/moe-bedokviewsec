@@ -56,7 +56,7 @@ and making responsible decisions that uphold moral principles. Each year,
 the team holds badminton clinics to give players opportunities to give
 back to the community and impart their knowledge and skills to younger
 players.</p>
-<p>This year, the B Division team fought hard and made it into the quarter-finals
+<p>This year the B Division team fought hard and made it into the quarter-finals
 of the National School Games (NSG) East Zone Championship. Against a group
 of strong opponents, the boys learnt perseverance and resilience as they
 stood their ground and gave their best. The experience was an enriching
