@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h3>Teachers- In- Charge</h3>
 <p>Mdm Nur Syafiqah Binte Saini
-<br>Miss Anuthama
+<br>Miss Wong Wei Leen
 <br>Mdm Visalatchi Santhira Segaran</p>
 <h3>CCA Schedule</h3>
 <table style="minWidth: 75px">
@@ -60,12 +60,4 @@ to be the light to others in their school and community.</p>
 <img style="width:90%" height="auto" width="100%" src="/images/Concert_Band_01.jpg">
 </div>
 <p>Our Concert Band members performed for FAME.</p>
-<div class="isomer-image-wrapper">
-<img style="width:90%" height="auto" width="100%" src="/images/Concert_Band_02.jpg">
-</div>
-<p>Our Practice Sessions</p>
-<div class="isomer-image-wrapper">
-<img style="width:90%" height="auto" width="100%" src="/images/Concert_Band_03.jpg">
-</div>
-<p>Our students who helped to distribute flyers for our Values-in-Action
-activity during the National Day celebrations.</p>
+<p></p>
