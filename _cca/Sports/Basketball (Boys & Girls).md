@@ -7,7 +7,6 @@ variant: tiptap
 ---
 <h3>Teachers- In- Charge</h3>
 <p>Mr Tan Wee Ghuan Jastinian
-<br>Mr Jeremy Yong De Jun
 <br>Mdm Wong Chiu Yian
 <br>Mr Syaiful Bahari Bin Abdul Latif</p>
 <h3>CCA Schedule</h3>
@@ -41,44 +40,59 @@ variant: tiptap
 <br>3.30pm - 6.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ISH Level 1</p>
+<p>ISH Level 1 &amp; 2</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h3>CCA Overview &amp; Highlights</h3>
-<p>The Basketball CCA aims to develop confident and resilient players who
-strive for continuous improvement and excellence.</p>
-<p>We have training sessions twice a week in which coaches, teachers and
-student leaders work together to train our students in a variety of exercises
-like ball handling skills and tactical play. The training sessions help
-students develop and master the correct techniques, build their confidence
-and their sportsmanship.</p>
-<p>We took part in the annual East Zone Basketball Competition and external
-tournaments like the T-Net tournaments and ActiveSG Basketball Development
-Leagues. The external competitions provided the players opportunities to
-hone their skills,&nbsp;strengthen their teamwork and build their confidence.</p>
-<p>In line with our school values, our students will continue to be resilient
-and to strive for excellence in coming years.</p>
+<p>Bedok View Basketball Team Boys and Girls team had shown great improvements
+this year. The B Division Boys and Girls team played well in the B Division
+NSG and put up a great fight against the usual powerhouse in the East Zone.
+The players in each team worked hard with one another and in the process,
+forged stronger bonds and built better teamwork.</p>
+<p>The C Division Boys and Girls teams took part in the revamped NSG that
+took up a new format. The C Division Boys started the season very well
+in the Pool Round and won all 3 games! They were then promoted to League
+3 and also did the school proud by winning all 3 games in the Preliminary
+Round. They went on to the Semi-Finals of League 3 where the boys did exceptionally
+well during the final 2 games.&nbsp;</p>
+<p>In line with BVSS school values of Service and Excellence, the team made
+the school proud by <strong>clinching 4<sup>th</sup> position in the NSG Basketball 2024 C Division Boys League 3</strong>.
+With resilience and determination, the team will come back even stronger
+next season!</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/Basketball_01.jpg">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/BBall1.png">
 </div>
 <p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/Basketball_02.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/BBall2.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/Basketball_03.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/BBall3.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/Basketball_04.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/BBall4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/BBall5.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/BBall6.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/BBall7.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/BBall8.jpg">
 </div>
 <p></p>
