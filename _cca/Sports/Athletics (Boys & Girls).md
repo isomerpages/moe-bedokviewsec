@@ -52,19 +52,7 @@ the value of teamwork in our athletes, encouraging them to support and
 celebrate each other’s success. Through their participation in competitions,
 the athletes get exposure, learn about integrity, showcase good sportsmanship
 and reap the fruits of their labour.</p>
-<div class="isomer-image-wrapper">
-<img style="width:23%;margin-right:15px;" height="auto" width="100%" src="/images/Athletics_01.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/Athletics_02.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/Athletics_04.jpg">
-</div>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/Athletics_03.jpg">
-</div>
 <p></p>
