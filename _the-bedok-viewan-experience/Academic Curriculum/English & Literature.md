@@ -5,14 +5,7 @@ description: ""
 third_nav_title: Academic Curriculum
 variant: markdown
 ---
-### Department Video
-
-<div class="bp-youtube">
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YMlb8OR1YqA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-</div>
-                     
+                    
 ### Overview
 
 The English and Literature department believes in strengthening the language education of students by nurturing in them a deep understanding of language and literacy, the value of critical reading and effecting writing, and the richness of literature. We seek to foster knowledge of current affairs and develop a love of literature and of language in our students. To this end, we will provide students with a rich and dynamic curriculum which can engage them and develop them to be confident and skilled communicators.
