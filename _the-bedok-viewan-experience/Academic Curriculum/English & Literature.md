@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Academic Curriculum
 variant: markdown
 ---
-                    
 ### Overview
 
 The English and Literature department believes in strengthening the language education of students by nurturing in them a deep understanding of language and literacy, the value of critical reading and effecting writing, and the richness of literature. We seek to foster knowledge of current affairs and develop a love of literature and of language in our students. To this end, we will provide students with a rich and dynamic curriculum which can engage them and develop them to be confident and skilled communicators.
@@ -27,5 +26,3 @@ Through this three-month programme, all Secondary 1 students have the opportunit
 
 As part of the Secondary 3 EL programme, the students learn how to speak in front of an
 audience and carry out a formal debate. They learn the techniques and strategies to present their arguments persuasively and confidently. At the same time, they develop critical thinking skills while  discussing points regarding various global and local issues.
-
-![Debates](/images/Debating%20Programme.jpg)
