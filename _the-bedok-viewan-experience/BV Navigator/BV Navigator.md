@@ -210,7 +210,6 @@ the theme of “Sustaining Our Singapore”</p>
 </div>
 <p></p>
 <h3>BV Navigator Officer and Captain Level Experience</h3>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
