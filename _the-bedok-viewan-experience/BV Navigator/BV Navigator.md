@@ -132,7 +132,6 @@ the theme of “Sustaining Our Singapore”</p>
 <br>
 </p>
 <h3>BV Navigator Sec 1 Deckhand Level Experience</h3>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -167,7 +166,6 @@ the theme of “Sustaining Our Singapore”</p>
 </div>
 <p></p>
 <h3>BV Navigator Sec 2 Deckhand Level Experience</h3>
-<h3></h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -198,7 +196,71 @@ the theme of “Sustaining Our Singapore”</p>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Internship Programme with TERRA.SG</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Community Education at APSN Katong" src="/images/Deckhand_4.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Community Education at APSN Katong</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
-<h3><br>BV Navigator Officer and Captain Level Experience</h3>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Community Education at APSN Katong" src="/images/Deckhand_4.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Community Education at APSN Katong</div>
+</div>
+</div>
+</div>
+<p></p>
+<h3>BV Navigator Officer and Captain Level Experience</h3>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Participation in Singapore Model Cabinet 2024" src="/images/Officer_1.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Participation in Singapore Model Cabinet 2024</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Participation in World Scholars Cup 2024" src="/images/Officer_2.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Participation in World Scholars Cup 2024</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Formula 1 Talk and Exhibition" src="/images/Officer_3.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Formula 1 Talk and Exhibition</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Hall Assembly Sharing to commemorate UN International Days" src="/images/Officer_4.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Hall Assembly Sharing to commemorate UN International Days</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Participation in STEM Mentoring Programme 2024" src="/images/Officer_5.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Participation in STEM Mentoring Programme 2024</div>
+</div>
+</div>
+</div>
 <p></p>
