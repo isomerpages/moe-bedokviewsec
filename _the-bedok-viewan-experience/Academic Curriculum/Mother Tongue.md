@@ -5,10 +5,6 @@ description: ""
 third_nav_title: Academic Curriculum
 variant: tiptap
 ---
-<h3>Department Video</h3>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/IxSbpiGBt_o"></iframe>
-</div>
 <h3>Our Mission</h3>
 <p>In Bedok View (BV), there is a strong emphasis to equip students with
 the skills and knowledge in Mother Tongue Languages (MTL).</p>
@@ -63,32 +59,13 @@ of our students.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic%20Curriculum/Mother%20Tongue/mtl_001.jpg">
 </div>
-<p><strong>Giving of hampers to show appreciation to our Non-teaching Staff</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/01.jpg">
-</div>
 <p><strong>Classroom Segment <br>(Ang Bao Design Competition in collaboration with APSN)</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic%20Curriculum/Mother%20Tongue/mtl_003.jpg">
 </div>
 <h3>Mother Tongue Languages Fortnight</h3>
-<p><strong>Seal Making</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/Academic%20Curriculum/Mother%20Tongue/mtl_004.jpg">
-</div>
-<p><strong>Garland Making</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/Academic%20Curriculum/Mother%20Tongue/mtl_005.jpg">
-</div>
-<p><strong>Batik Painting</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/Academic%20Curriculum/Mother%20Tongue/mtl_006.jpg">
-</div>
+<p></p>
 <h3>Subjects Offered</h3>
 <table style="minWidth: 75px">
 <colgroup>
