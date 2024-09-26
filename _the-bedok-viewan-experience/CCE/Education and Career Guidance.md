@@ -47,15 +47,17 @@ and to be resilient in their personal pursuits and career developments.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic%20Curriculum/CCE/cce_lessons_1.jpg">
 </div>
 <p>Sec 3 Students attended the WorldSkills ASEAN 2023 and were exposed to
-the different industries.
-<br>
-</p>
+the different industries.</p>
+<hr>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic%20Curriculum/CCE/cce_lessons_2.jpg">
 </div>
 <p>Sec 4 students learnt more about the industries they were interested in
 when partners and alumni were invited to share about their profession as
 part of the Career Seminar.</p>
+<hr>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ECG1.jpg">
 </div>
