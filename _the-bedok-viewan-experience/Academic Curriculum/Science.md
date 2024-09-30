@@ -70,13 +70,13 @@ secondary level. The integrated activities focus on the issue of Sustainable
 Development that is very relevant in our life today.&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science_1.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Science_1.jpg">
 </div>
 <p>Students testing their prototype chemical powered car</p>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science_2.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Science_2.jpg">
 </div>
 <p>Creating a portable water filtration system</p>
 <hr>
@@ -88,130 +88,41 @@ apply what they have learnt from the concept of ecology and try to grow
 their own greens in our in-house Greenhouses. They also have to be creative
 in using recycled materials to produce a solar powered car.</p>
 <p></p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SEW (Food Sustainability)" src="/images/Science5.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science5.png">
 </div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">SEW (Food Sustainability)</div>
-</div>
-</div>
-</div>
-<p></p>
+<p>SEW (Food Sustainability)</p>
+<hr>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic%20Curriculum/Science/science5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science6.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic%20Curriculum/Science/science6.jpg">
-</div>
-<h5><strong>Learning Science Beyond School</strong></h5>
-<p>Ignite Challenge Programme</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:75%" height="auto" width="100%" src="/images/Academic%20Curriculum/Science/science7.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:200%" height="auto" width="100%" src="/images/Academic%20Curriculum/Science/science8.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p>Ignite Challenge Programme</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:150%" height="auto" width="100%" src="/images/Academic%20Curriculum/Science/science9.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:125%" height="auto" width="100%" src="/images/Academic%20Curriculum/Science/science10.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p>Playing Farmer Boot Camp</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:250%" height="auto" width="100%" src="/images/Academic%20Curriculum/Science/science11.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:250%" height="auto" width="100%" src="/images/Academic%20Curriculum/Science/science12.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p>ASTAR-VJC Science Fair competition</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:250%" height="auto" width="100%" src="/images/Academic%20Curriculum/Science/science13.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:250%" height="auto" width="100%" src="/images/Academic%20Curriculum/Science/science14.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p>National SISTEMIC Programme</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:200%" height="auto" width="100%" src="/images/Academic%20Curriculum/Science/science15.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:250%" height="auto" width="100%" src="/images/Academic%20Curriculum/Science/science16.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
+<p>SEW (Harnessing the Sun)</p>
+<hr>
+<h5><strong>3. Applied Learning Modules At Polytechnics (ApLM@Poly)</strong></h5>
+<p>The Applied Learning Modules (ApLM) give our students the opportunity
+to experience life in tertiary education in advance.</p>
+<p>They will gain knowledge and skills through hands-on learning under the
+guidance of lecturers from the various polytechnics. Through customized
+workshops, field trips, group projects and interactions with industry practitioners,
+students will get to explore the uniqueness of different careers over the
+3-day ApLM programme.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Science_7.jpg">
+</div>
+<p>Experience on flight simulator @NP Aerospace Hub</p>
+<hr>
+<h5><strong>3. Learning Journeys</strong></h5>
+<p>Educational tour aboard OceanXplorer, the world’s most advanced research
+and media vessel, expands our students’ understanding of the potential
+of ocean exploration and science. OceanX has been at the forefront of marine
+conservation efforts, achieving remarkable feats such as filming the elusive
+giant squid in the deep. Based in New York, OceanX aims to “explore the
+ocean and bring it back to the world,” providing a platform to drive marine
+conservation efforts.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Science_9.jpg">
+</div>
+<p>Touring the OceanXplorer</p>
