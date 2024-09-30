@@ -5,49 +5,103 @@ description: ""
 third_nav_title: Academic Curriculum
 variant: tiptap
 ---
-<h3>Discover the World of Science at Bedok View Secondary, Science Department</h3>
-<p>At Bedok View, the learning of science transcends traditional boundaries.
-With a commitment to fostering scientific literacy and inquisitiveness,
-the science department stands as a beacon of innovative learning.</p>
-<p>Rooted in the renowned 5E instructional model, our approach to teaching
-science is anything but ordinary. We ignite curiosity and spark intellect
-by Engaging, Exploring, Explaining, Elaborating, and Evaluating. This journey
-empowers students to unravel the mysteries of the universe through hands-on
-experiences that transcend the classroom.</p>
-<p>Our dedication to cultivating well-rounded learners is showcased through
-our diverse learning opportunities. Beyond the confines of textbooks, students
-immerse themselves in the world of science through experiential learning.
-Laboratory sessions aren't just experiments; they're pathways to scientific
-discovery. These sessions embolden our students to investigate, question,
-and validate science concepts, nurturing their analytical prowess.</p>
-<p>But we don't stop there. Our commitment to elevating STEM education has
-led us to curate special programs that take students on a journey into
-the realms of Science, Technology, Engineering, and Mathematics. These
-transformative initiatives empower students to grapple with real-world
-challenges, equipping them with skills that extend far beyond the classroom.</p>
-<p>Our vision? To cultivate scientifically literate and inquisitive learners.
-<br>Our mission? To nurture self-directed individuals who embrace science
-with lifelong passion.&nbsp;</p>
-<p>At Bedok View, we're not just teaching science; we're fostering a generation
-of critical thinkers, problem solvers, and future innovators. Join us in
-our mission to illuminate minds, inspire questions, and drive innovation.
-Together, we're creating a future where scientific curiosity knows no bounds.</p>
-<h5><strong>Experiential Learning of Science</strong></h5>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic%20Curriculum/Science/science1.jpg">
+<h3>Overview</h3>
+<p>At Bedok View Secondary, we are committed to nurturing scientifically
+literate, inquisitive, and self-directed learners with a lifelong passion
+for science.</p>
+<p>We employ an Inquiry-Based Learning Approach, specifically the 5E Instructional
+Model, to guide the teaching and learning of science at all levels. Students'
+scientific knowledge and skills are cultivated through three core platforms:
+Classroom-Based Learning, Laboratory-Based Learning, and Experiential Learning.
+Our Experiential Learning platform, in particular, offers a holistic and
+integrated approach to applied science education.</p>
+<p>STEM education is seamlessly infused into our science curriculum, ensuring
+that students develop critical and inventive thinking skills. Through this
+comprehensive learning experience, we aim to prepare students for the challenges
+of the future.</p>
+<p>In Lower Secondary, we implement a holistic teaching system tailored to
+the needs of students across G1, G2, and G3. At the Upper Secondary level,
+we offer a diverse range of courses, including Pure Biology, Pure Chemistry,
+Pure Physics, as well as Combined Science (Physics and Chemistry) and Combined
+Science (Biology and Chemistry). Our department is dedicated to providing
+equal learning opportunities for all students, ensuring they receive a
+well-rounded and thorough science education.</p>
+<h5><strong>Vision</strong></h5>
+<p>Scientifically literate and Inquisitive Learner.</p>
+<h5><strong>Mission</strong></h5>
+<p>To nurture scientifically literate and self-directed learners who have
+a lifelong passion for Science.</p>
+<h5><strong>Programmes</strong></h5>
+<ol>
+<li>
+<p>Science Integrated Activities (Lower Secondary)</p>
+</li>
+<li>
+<p>Science Experiential Workshops (SEW) (Lower Secondary)</p>
+</li>
+<li>
+<p>STEM Playgorund (Lower Secondary)</p>
+</li>
+<li>
+<p>Applied Learning Modules At Polytechnics (ApLM@Poly) (Upper Secondary)</p>
+</li>
+<li>
+<p>National STEM Challenge (Upper Secondary)</p>
+</li>
+<li>
+<p>Young Sustainability Challenge (Upper Secondary)</p>
+</li>
+<li>
+<p>NXplorers (Upper Secondary)</p>
+</li>
+<li>
+<p>VJC-Astar Science Fair (Upper Secondary)</p>
+</li>
+</ol>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/w8YgFGF3pqQ?si=BAfgj4oG-Y8Z9gDh"></iframe>
 </div>
+<p></p>
+<h5><strong>1. Science Integrated Activities (Secondary 1 &amp; Secondary 2)</strong></h5>
+<p>The science department uses context-based approaches in the teaching and
+learning of secondary school science. This approach is enacted through
+the Science Integrated Activities that are predominantly conducted at lower
+secondary level. The integrated activities focus on the issue of Sustainable
+Development that is very relevant in our life today.&nbsp;</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic%20Curriculum/Science/science2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science_1.jpg">
 </div>
+<p>Students testing their prototype chemical powered car</p>
+<hr>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic%20Curriculum/Science/science3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science_2.jpg">
 </div>
+<p>Creating a portable water filtration system</p>
+<hr>
+<h5><strong>2. Science Experiential Workshops (SEW)</strong></h5>
+<p>SEW are designed to allow students to apply what they have learnt in the
+classrooms to try and address global issues.Signature workshops conducted
+for our students are on Food Sustainability and Harnessing the Sun. Students
+apply what they have learnt from the concept of ecology and try to grow
+their own greens in our in-house Greenhouses. They also have to be creative
+in using recycled materials to produce a solar powered car.</p>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic%20Curriculum/Science/science4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="SEW (Food Sustainability)" src="/images/Science5.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">SEW (Food Sustainability)</div>
+</div>
+</div>
 </div>
 <p></p>
 <p></p>
-<h5><strong>Experiential Learning of Science</strong></h5>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic%20Curriculum/Science/science5.jpg">
 </div>
