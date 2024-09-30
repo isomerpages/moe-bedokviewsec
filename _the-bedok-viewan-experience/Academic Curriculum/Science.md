@@ -58,6 +58,7 @@ a lifelong passion for Science.</p>
 <p>VJC-Astar Science Fair (Upper Secondary)</p>
 </li>
 </ol>
+<p>Our students in action.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/w8YgFGF3pqQ?si=BAfgj4oG-Y8Z9gDh"></iframe>
 </div>
