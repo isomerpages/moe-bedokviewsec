@@ -104,17 +104,62 @@ the school to emphasise on consistent and coherent messaging on CCE.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>RACHEL PANG LI YING</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>MUHAMMAD IMAN BIN IBRAHIM</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>WU JASMINE CASSANDRA SHI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CAYLEIGH BERNADETTE LIM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>OH YING XUAN FAITH</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOE SI RONG, VIVIAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TOH JUN WOON</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NG MIKAYLA (HUANG YUXUAN)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LIEW YAO EN STEFANIE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAY XU KAI CAYDEN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>XAVIER ONG SHI JUN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>XAVIER CHAN LE TIAN</p>
 </td>
 </tr>
 </tbody>
@@ -285,6 +330,29 @@ the school to emphasise on consistent and coherent messaging on CCE.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>LEONG KAH HOU</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Term 2 - BV Model Student Award</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Eavia Tan En Qi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
