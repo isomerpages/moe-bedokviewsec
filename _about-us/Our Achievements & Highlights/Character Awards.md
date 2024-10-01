@@ -472,12 +472,12 @@ the school to emphasise on consistent and coherent messaging on CCE.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>JASON LIM SIONG</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>WANG ZHIJIE</p>
 </td>
 </tr>
 </tbody>
