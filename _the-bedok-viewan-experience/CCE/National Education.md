@@ -84,30 +84,32 @@ and arrive at a common set of ideals and values.</p>
 </div>
 <p>National Day Celebrations 2024 - Marching contingent comprising the Uniformed
 Groups</p>
-<p></p>
+<hr>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic%20Curriculum/CCE/via_students.png">
 </div>
 <p>Contributing to the community by taking part in the school Values-In-Action
 programme</p>
-<p></p>
+<hr>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/VIA.jpg">
 </div>
 <p>Packing goodie-bags and showing appreciation to the migrant workers as
 part of the school Values-In-Action programme</p>
+<hr>
 <h5>Racial Harmony Day</h5>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic%20Curriculum/CCE/rhd_students.png">
 </div>
 <p>Staff &amp; students dressed up in different cultural costumes to emphasise
 the importance of racial diversity in Singapore</p>
-<p></p>
+<hr>
 <div class="isomer-image-wrapper">
 <img style="width:40%" height="auto" width="100%" src="/images/Academic%20Curriculum/CCE/rhd2_students.jpg">
 </div>
 <p>Students try their hands on cultural activities to better understand the
 different cultures in Singapore</p>
+<hr>
 <h4>Bedok View’s Total Defence Award:</h4>
 <p><strong>(Accredited with NS Mark (Gold) and accorded TDA NS Advocate Award for Organisations in the year 2016 and 2019)</strong>
 </p>

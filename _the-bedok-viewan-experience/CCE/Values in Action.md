@@ -68,16 +68,16 @@ Service.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic%20Curriculum/CCE/via_01.jpg">
 </div>
 <p>Sec 1 students Spreading the Joy during our annual service to the community
-during Chinese New Year.
-<br>
-</p>
+during Chinese New Year.</p>
+<hr>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/VIA4.jpg">
 </div>
 <p>Sec 4 Bedok Viewans participating in class-initiated VIA activities where
-they had the opportunity to contribute to the social groups of their choice.
-<br>
-</p>
+they had the opportunity to contribute to the social groups of their choice.</p>
+<hr>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/VIA1.jpg">
 </div>
