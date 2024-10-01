@@ -347,7 +347,132 @@ the school to emphasise on consistent and coherent messaging on CCE.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Eavia Tan En Qi</p>
+<p>EAVIA TAN EN QI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>RAYDEN LIM CHEE KIAT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ARANDIA CAELYN PAIGE LACASANDILE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MAI WANLING ELAINE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ASHAYNNA KAUR</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MUHAMMAD AIDIL BIN MOHAMAD AZLAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KUAH CHANG ZHI ETHAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>IBRAHIM ABDUL GAFFORE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SENTHIL KUMAR SAHITHYAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>COURTNEY CHEONG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ROBIN MONCADA SINGH</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAN WENQI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CLARISSE NG JIA XUAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAN ZHI YU</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JOSHUA TEO KAI DE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KIASATINA BINTE MOHAMED NAIM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CAI XUANYE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHONG JIA XUAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NUR HAYRAH BINTE MOHAMAD KAMIL</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LEA MAZAYA G ISAAK</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MARIA BINTE MOHAMMAD RADZI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SHETTY NIVI SUDARSHAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LOH WEN JUN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ZHENG AOJIA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KOH DUN YAO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
