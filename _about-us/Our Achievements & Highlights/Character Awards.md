@@ -561,3 +561,124 @@ the school to emphasise on consistent and coherent messaging on CCE.</p>
 </tbody>
 </table>
 <p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<h4>Term 1 - 2RISE &amp; SHINE Award</h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SYED KAYRIEN ILKIN BIN SYED MOHAMAD NOH</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>IBRAHIM ABDUL GAFFORE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GOH YI HONG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOHAMMAD AMIRUL AIMAN BIN MOHAMAD YAZMIN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GERRARD QUEK YIA WUI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TOON JIA LE IVAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LI JINYI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GOH XIN YI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AFSHEEN AFIFA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NOORUL HAFSAH BINTI MOHAMED MYDEEN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAN SI YING</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ZHENG AOJIA</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<h4>Term 1 - 2RISE &amp; SHINE Award</h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SYAZIYAH BINTE IRMADY</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WONG YING TUNG (CHLOE)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KIASATINA BINTE MOHAMED NAIM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ZACH CHAW HA-MIN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AARON LEE HSIEN PIN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAY FEDERER WILLIAM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SELINA TINAH WONG</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
