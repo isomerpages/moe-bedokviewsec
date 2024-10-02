@@ -50,14 +50,14 @@ Singapore safe.</p>
 <p>Our cadets learn important skills and knowledge with exciting programmes
 such as <strong>Crime Scene Investigation (CSI)</strong> and <strong>0.22 Revolver Shooting</strong>,
 and nurture their rugged selves through fun and challenging outdoor activities
-like <strong>High Ropes Challenge</strong> and <strong>Adventure Camps</strong> in <strong>Pulau Ubin</strong>.
-We take part in the <strong>Police Youth Ambassador</strong> projects which
+such as <strong>Adventure Camps</strong> in <strong>Pulau Ubin</strong>. We
+take part in the <strong>Police Youth Ambassador</strong> projects which
 aims to equip cadets with practical strategies to address community crime
 and security. We also collaborate with the <strong>Singapore Police Force</strong> to
 help spread awareness on <strong>Vehicle Theft</strong> and <strong>Internet Scams</strong> to
 the public. These projects help to develop our cadets into confident leaders
 and responsible citizens of the nation.</p>
-<p>In 2021, our unit received the <strong>Gold Award</strong> for the <strong>Unit Overall Proficiency Award (UOPA)</strong> as
+<p>In 2024, our unit received the <strong>Gold Award</strong> for the <strong>Unit Overall Proficiency Award (UOPA)</strong> as
 a recognition of our cadets’ and officers’ commitment to high standards
 of proficiency and efficiency in our programmes and achievements. Our Sec
 4 cadets have also made the school proud yearly by achieving the <strong>SPF-NPCC Badge</strong>,
