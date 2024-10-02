@@ -36,24 +36,22 @@ variant: tiptap
 <p>3.30pm - 6.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ISH Level 2</p>
+<p>ISH Level 2 and Parade Square</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h3>CCA Overview &amp; Highlights</h3>
-<p>The Netball CCA's primary objective is to enhance students' competitive
-and self-assured netball skills while fostering their leadership abilities
-and promoting teamwork. By aiming to cultivate a cohort of resilient and
-self-driven individuals, the Netball CCA offers a diverse set of experiential
-learning opportunities that contribute to the holistic development of students.
-These include participation in events such as the National School Games,
-Schools Challenge League, various Netball Carnivals, friendly matches held
-throughout the year, and student-led team-building activities.</p>
-<p>Under our dedicated coach's unwavering guidance, the Netball team embraces
-the sport with passionate commitment, serving as the driving force behind
-their performance. This commitment extends beyond the court, instilling
-discipline and camaraderie while inspiring a profound dedication that resonates
-in their training and gameplay. The Netball team stands as a testament
-to the big impact of a dedicated coach and a united team working together
-to achieve their goals.</p>
+<p>The BV Netball team embodies the spirit of "Be Challenged, Stay Connected",
+offering students holistic growth while refining their netball skills.
+Beyond competing in the National School Games and Netball Carnivals, our
+players are continuously pushed to their limits, honing their abilities
+and excelling on the court. These competitions offer invaluable opportunities
+to test their skills against other teams, fostering resilience and a drive
+for excellence.</p>
+<p>At the same time, we prioritize staying connected through team bonding
+activities that strengthen leadership, teamwork, and lasting friendships.
+With the unwavering support of our dedicated coach, our players grow not
+only as athletes but also as confident individuals.</p>
+<p>Our team remains committed to delivering a rewarding experience, empowering
+each student to reach new heights both in netball and beyond.</p>
