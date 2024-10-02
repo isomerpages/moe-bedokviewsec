@@ -19,7 +19,7 @@ the school to emphasise on consistent and coherent messaging on CCE.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Term 4 - BV Model Student Award</p>
+<h4>Term 4 - BV Model Student Award</h4>
 </th>
 </tr>
 <tr>
@@ -164,162 +164,104 @@ the school to emphasise on consistent and coherent messaging on CCE.</p>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Term 3 - 2RISE &amp; SHINE Award</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
+<h4>Term 3 - 2RISE &amp; SHINE Award</h4>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>CHING JING YING CHLOE</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>ALEXIS LIM ERN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>ASHAYNNA KAUR</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>MAVERICK HENG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>WONG TIAN YOU</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>MISHA YUKI MOHD FAIZAL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>DARYL TAY KONG ZHI</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>LUKE HO LIANG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>YAM KOK EN VICTOR</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>CAI XUANYE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>PRAKASH BABU AKSHAY</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>RAPHAEL TAN JUN YANG</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>SERAPHINA NICOLETTE CHU QI FENG</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>AXEL SUTANTO</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>FOO SAY LIANG DAREN</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>TAY XU KAI CAYDEN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>GOH YEN LONG</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>ETHAN CHUA BOON KANG (CAI WENKANG)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -332,7 +274,7 @@ the school to emphasise on consistent and coherent messaging on CCE.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Term 3 - 2RISE &amp; SHINE Award</p>
+<h4>Term 3 - 2RISE &amp; SHINE Award</h4>
 </th>
 </tr>
 <tr>
@@ -400,7 +342,7 @@ the school to emphasise on consistent and coherent messaging on CCE.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Term 2 - BV Model Student Award</p>
+<h4>Term 2 - BV Model Student Award</h4>
 </th>
 </tr>
 <tr>
@@ -548,7 +490,7 @@ the school to emphasise on consistent and coherent messaging on CCE.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Term 2 - 2RISE &amp; SHINE Award</p>
+<h4>Term 2 - 2RISE &amp; SHINE Award</h4>
 </th>
 </tr>
 <tr>
@@ -598,37 +540,22 @@ the school to emphasise on consistent and coherent messaging on CCE.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>DHISHITA JEGADEESAN</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>LIAM LOW</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>MUHAMED UMAR S/O MOHAMED RAFE</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>TJOA PRINCE XIAN ZE GACIAS</p>
 </td>
 </tr>
 </tbody>
