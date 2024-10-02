@@ -8,6 +8,7 @@ variant: tiptap
 <h3>Teachers- In- Charge</h3>
 <p>Mdm Tan Sei Hui
 <br>Ms Geraldine Chia Hui Jun
+<br>Mr Jerry Ho Kok Leong
 <br>Ms Noorfatin Beevi</p>
 <h3>CCA Schedule</h3>
 <table style="minWidth: 75px">
@@ -45,20 +46,20 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:49%" height="auto" width="100%" src="/images/English_Drama_01.jpg">
 </div>
-<p>Bedok View Drama Club gives students the opportunity to develop confidence
-on stage. Through staging and acting, students ignite their imagination
-as they bring characters and scenarios to life. Students participate in
-activities such as script-writing, vocal delivery and body posturing to
-develop a flair for on-stage speaking, movement, and writing. There are
-ample opportunities for experiential learning in the various areas of dramaturgy.
-Through school-based performances, students are also able to put their
-skills and knowledge to the test. The Drama Club aims to develop students
-who are poised, bold and dynamic communicators and artists in the future.</p>
-<p>In 2021, the Drama Club participated in the Singapore Youth Festival (SYF)
-Arts Presentation, showcasing a moving and insightful piece that highlighted
-the importance of family connections and mental health in the times of
-safe distancing and technological estrangement. In 2022, the Drama Club
-embarked on two school-based performances that brought to life hot-button
-issues of racial harmony, empathy, and preserving traditions in the face
-of modernity. The dedication and excellence that each actor and crew member
-put in made the experience so unforgettable and fulfilling for all involved.</p>
+<p>The BV English Drama club offers opportunities for students to develop
+into confident communicators and expressive performers. We strive to challenge
+perspectives of both performers and audiences through our stagecraft. With
+a passion for theatre and a commitment to excellence, our members constantly
+aim to reach new heights in creativity, collaboration, and performance.&nbsp;</p>
+<p>We have consistently pushed ourselves to look beyond our own experiences,
+fostering empathy by embracing different perspectives. The outstanding
+performances during Teachers' Day and Character and Citizenship Education
+programmes have entertained, inspired, and deeply connected with student
+audiences. Our plays have explored themes of social cohesion and identity,
+engaging viewers in meaningful conversations. By working as a team, our
+members build a strong sense of community and togetherness, enabling them
+to achieve great things together.&nbsp;</p>
+<p>Our club's commitment to artistry and excellence is a testament to the
+power of passion, hard work, and collaboration. By embracing these values,
+we have shown that no challenge is insurmountable, and with dedication,
+we can achieve anything we set our minds to.</p>
