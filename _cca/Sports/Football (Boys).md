@@ -39,10 +39,12 @@ variant: tiptap
 <br>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.30 - 5.00pm (Sec 1 and 2)
-<br>3.30 - 5.00pm (Sec 1 and 2), 4.30 - 6.00pm (Sec 3, 4 &amp; 5)
-<br>3.30 - 5.00pm (Sec 1 and 2), 4.30 - 6.00pm (Sec 3, 4 &amp; 5)
-<br>3.00 - 4.30pm (Sec 3, 4 &amp; 5)
+<p>3.30 - 5.45pm
+<br>3.30 - 5.00pm
+<br>3.30 - 5.45pm
+<br>3.00 - 5.00pm</p>
+<p>(Each student will attend CCA 2 or 3 times a week, based on their groupings
+after selection.)
 <br>
 </p>
 </td>
@@ -63,8 +65,8 @@ players with sound technical ability through frequent training sessions
 and games. The Football CCA also seeks to provide a space for young men
 from all walks of life to bond and build lifelong friendships over a shared
 passion for the game.</p>
-<p>In 2023, we are proud that both our B and C Div boys made it to the Quarter-Finals
-of League 4.
+<p>In 2024, we are proud that our B Div boys made it to the Quarter-Finals
+of League 3!
 <br>
 <br>
 </p>

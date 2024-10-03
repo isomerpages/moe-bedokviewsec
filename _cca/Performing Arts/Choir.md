@@ -8,7 +8,7 @@ variant: tiptap
 <h3>Teachers- In- Charge</h3>
 <p>Ms Sherine Wong
 <br>Mdm Nazatul Fadzlin Bte Fadil
-<br>Mdm Lai Mok Ern</p>
+<br>Ms Lannie Lai</p>
 <h3>CCA Schedule</h3>
 <table style="minWidth: 75px">
 <colgroup>
@@ -43,18 +43,14 @@ variant: tiptap
 </tbody>
 </table>
 <h3>CCA Overview &amp; Highlights</h3>
-<p>The BV Choir seeks to provide a platform for talented choristers to get
-together to express their love and passion for singing and music. It is
-committed to achieving choral excellence through studying and performing
-a wide variety of choral music.</p>
-<p>Through a diverse and comprehensive range of activities and programmes,
-BV Choir seeks to deepen the choristers' interest and joy for singing.
-During each rehearsal, the choristers analyse music and work together to
-produce quality choral singing. To promote holistic development, sectional
-leaders are empowered to lead and direct their respective sections in learning
-the music.</p>
-<p>Strong teamwork and bond are essential in developing a strong voice and
-section. This year, choir members took turns to plan and carry out team
-bonding games and activities to establish a close rapport and develop a
-strong team spirit among the choir. A close-knit family, BV Choir aims
-to inspire and engage the community with its passion and love for singing.</p>
+<p>Bedok View Choir is a close-knit group that thrives on collaboration and
+support. We believe that every voice contributes to the harmony of our
+ensemble. Each rehearsal is a brave step outside our comfort zone and an
+opportunity to grow together. As we explore new musical styles and techniques
+with optimism, we also celebrate our progress.</p>
+<p>It takes courage to try something new, and we celebrate that bravery in
+each other. We also believe that every voice matters — whether you’re a
+seasoned singer or just starting out. If you share our passion for music
+and a desire to grow, we would love for you to join us. Together, we can
+create something beautiful, support one another, and make lasting memories.
+Come be a part of our journey!</p>
