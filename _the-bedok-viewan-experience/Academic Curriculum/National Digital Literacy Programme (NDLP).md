@@ -101,13 +101,3 @@ Do note a&nbsp;**factory reset of your device may be required**&nbsp;for install
 #### PDLP Student Device Information Kit
 
 [Click here to download](/files/PDLP_Student_Device_Information_Kit_2024.pdf)
-
-### DMA Options ( Using Mobile Guardian)
-
-![DMA Options ( Using Mobile Guardian)](/images/DMA%20options.jpg)
-
-The following are guide to using Mobile Guardian ( Device Management Application) for managing your child's usage of the PLD.
-You may click below to see what you can do with the DMA options. <br><br>
-[DMA Parent Guide - Default Option](/files/Academic%20Curriculum/dma%20parent%20guide%20-%20default%20option.pdf)<br>
-[DMA Parent Guide - Option A](/files/Academic%20Curriculum/dma%20parent%20guide%20-%20option%20a.pdf)<br>
-[DMA Parent Guide - Option B](/files/Academic%20Curriculum/dma%20parent%20guide%20-%20option%20b.pdf)
