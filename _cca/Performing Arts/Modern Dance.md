@@ -43,14 +43,17 @@ variant: tiptap
 </tbody>
 </table>
 <h3>CCA Overview &amp; Highlights</h3>
-<p>Bedok View Modern Dance Club allows individuals to discover and nurture
-their talent in dance, by exposing students to different dance genres which
-range from street jazz, hip hop and more.</p>
-<p>Trainings are held twice a week to help students improve their physical
-strength, foundation techniques, choreography and performance. Through
-choreographing our own routines and working with fellow dance mates, students
-develop resilience, discipline, independence, and learn how to communicate,
-cooperate and compromise well as a team.</p>
-<p>Our CCA provides many opportunities for students to perform during school
-events, participate in Singapore Youth Festival (SYF) and competitions
-such as Super24.</p>
+<p>Bedok View Modern Dance Club is a talent incubator that immerses students
+in diverse dance genres, from hip hop and urban to street jazz. Trainings
+are held twice a week, focusing on enhancing physical strength, foundational
+techniques, and choreography skills.</p>
+<p>Beyond the dance floor, the programme cultivates resilience, discipline,
+and teamwork. Through creating our own routines and collaborating, students
+learn essential skills such as communication, cooperation, and compromise.</p>
+<p>Our co-curricular activity (CCA) boasts a strong performance record. We
+offer numerous opportunities for public performances, including school
+events and competitions. In April this year, we earned a four-star achievement
+in the 2024 Open Dance Competition organised by the People’s Association.
+Additionally, Bedok View Modern Dance Club has been consistently awarded
+a Distinction at the SYF for the last three consecutive rounds, including
+2023.</p>
