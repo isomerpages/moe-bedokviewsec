@@ -84,7 +84,7 @@ of our students.</p>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/MTL06.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/MTL08.png">
 </div>
 <p>Pongal Festival Celebration</p>
 <hr>
