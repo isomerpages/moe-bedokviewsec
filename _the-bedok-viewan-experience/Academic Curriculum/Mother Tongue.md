@@ -51,20 +51,43 @@ of our students.</p>
 </li>
 </ul>
 <h5>Chinese New Year Celebration</h5>
-<p><strong>Concert Segment</strong>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic%20Curriculum/Mother%20Tongue/mtl_002.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/MTL01.png">
 </div>
+<p>Concert Segment</p>
+<hr>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic%20Curriculum/Mother%20Tongue/mtl_001.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/MTL02.png">
 </div>
-<p><strong>Classroom Segment <br>(Ang Bao Design Competition in collaboration with APSN)</strong>
-</p>
+<p>Giving of hampers to show appreciation to our Non-teaching Staff</p>
+<hr>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic%20Curriculum/Mother%20Tongue/mtl_003.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/MTL03.png">
 </div>
-<h3>Mother Tongue Languages Fortnight</h3>
+<p>CNY 2024 River Angbao Learning Journey</p>
+<hr>
+<h5>Mother Tongue Languages Fortnight</h5>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/MTL04.png">
+</div>
+<p>Chinese Paper Cutting</p>
+<hr>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/MTL05.png">
+</div>
+<p>Malay Traditional Headdress (Tanjak) folding</p>
+<hr>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/MTL06.png">
+</div>
+<p>Pongal Festival Celebration</p>
+<hr>
 <p></p>
 <h3>Subjects Offered</h3>
 <table style="minWidth: 75px">
