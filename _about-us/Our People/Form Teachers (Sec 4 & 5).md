@@ -26,7 +26,6 @@ variant: markdown
 | Name | E-mail |
 | -------- | -------- |
 | Mr Abdul Adib Md Omar    | [abdul_adib_mohd_omar@schools.gov.sg](mailto:abdul_adib_mohd_omar@schools.gov.sg)     |
-| Ms Ng Han Yi     | [ng_han_yi@schools.gov.sg](mailto:ng_han_yi@schools.gov.sg)     |
 | Mr Ho Kok Leong Jerry     | [ho_kok_leong@schools.gov.sg](mailto:ho_kok_leong@schools.gov.sg)     |
 
 
