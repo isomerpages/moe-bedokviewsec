@@ -13,7 +13,6 @@ variant: tiptap
 <br><a href="/files/Sale_dates.pdf" rel="noopener nofollow" target="_blank">Sale Dates</a>
 <br>
 </p>
-<p></p>
 <p><strong>Highlights of the Term</strong>
 <br><a href="/files/HighIights_of_Term_3_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 3</a>
 <br><a href="/files/Term2_Highlights.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 2</a>
@@ -37,4 +36,3 @@ variant: tiptap
 <p><strong>Sec 1 CCA Option</strong>
 <br><a href="/for-parents-and-stakeholders/cca-option/" rel="noopener noreferrer nofollow" target="_blank">More information</a>
 </p>
-<p></p>
