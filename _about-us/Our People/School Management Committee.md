@@ -10,6 +10,7 @@ variant: markdown
 | Mdm Teo Yvonne     | Principal     | [bedokview\_ss@moe.edu.sg](mailto:bedokview_ss@moe.edu.sg)     |
 | Mr Tyebally Aziz     | Vice Principal    | [bedokview\_ss@moe.edu.sg](mailto:bedokview_ss@moe.edu.sg)     |
 | Mr Chen Ziyang     | Vice Principal    | [bedokview\_ss@moe.edu.sg](mailto:bedokview_ss@moe.edu.sg)     |
+| Mr Neo Wei Chung, Gary     | Vice Principal    | [bedokview\_ss@moe.edu.sg](mailto:bedokview_ss@moe.edu.sg)     |
 | Mr Abdul Malek B Osman     | HOD - Science    | [abdul\_malek\_b\_osman@schools.gov.sg](mailto:abdul_malek_b_osman@schools.gov.sg)   |
 | Ms Lian Xue Li Jasmine     | HOD - Information and Communications Technology (covering)    | [lian\_xue\_li\_jasmine@schools.gov.sg](mailto:lian_xue_li_jasmine@schools.gov.sg)  |
 | Mr K T Sivakumar     | HOD - Student Management    | [K\_T\_Sivakumar@schools.gov.sg](mailto:K_T_Sivakumar@schools.gov.sg)   |
