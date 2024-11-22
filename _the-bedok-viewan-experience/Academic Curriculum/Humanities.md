@@ -11,11 +11,11 @@ The Humanities Department oversees the subjects of Geography, History and Social
 
 **Mission**
 
-To develop critical thinkers who have a sense of national identity and global awareness
+Setting sail on a journey to explore the past, challenge the present and shape the future
 
 **Vision**
 
-Setting sail on a journey to explore the past, challenge the present and shape the future
+Critical thinkers who have a sense of national identity and global awareness
  
 
 ### Programmes
