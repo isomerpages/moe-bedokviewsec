@@ -4,6 +4,10 @@ permalink: /partnerships/info-for-parents-and-students/
 description: ""
 variant: tiptap
 ---
+<p><strong>GCE N-Level Release of Results</strong>
+<br><a href="/files/Briefing_Slides_for_Release_of_N_Level_Results.pdf" rel="noopener noreferrer nofollow" target="_blank">GCE N-Level Release of Results Briefing Slides</a>
+</p>
+<p></p>
 <p><strong>2025 Booklists</strong>
 <br><a href="/files/BVSS__Sec_2_2025_Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 Booklist</a>
 <br><a href="/files/BVSS__Sec_3_2025_Booklist.pdf" rel="noopener nofollow" target="_blank">Secondary 3 Booklist</a>
@@ -24,15 +28,18 @@ variant: tiptap
 <br><a href="/files/Info%20for%20Parents%20Stakeholders/Sec_2_2024_EYE_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 2024 End-of-Year Examination Timetable</a>
 <br><a href="/files/Info%20for%20Parents%20Stakeholders/Sec_3_2024_EYE_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3 2024 End-of-Year Examination Timetable</a>
 </p>
+<p></p>
 <p><strong>2024 Class Timetables (Semester 2)</strong>
 <br><a href="/files/Secondary_1_Timetable__updated_on_21_Jun_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 Timetable (updated on 21 Jun)</a>
 <br><a href="/files/Secondary_2_Timetable__updated_on_21_Jun_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 Timetable (updated on 21 Jun)</a>
 <br><a href="/files/Secondary_3_Timetable__updated_on_21_Jun_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3 Timetable (updated on 21 Jun)</a>
 <br><a href="/files/Secondary_4___5_Timetable__updated_on_21_Jun_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 &amp; 5 Timetable (updated on 21 Jun)</a>
 </p>
+<p></p>
 <p><strong>Sec 4 &amp; 5 Academic Support</strong>
 <br><a href="/files/March_Holidays_Academic_Support_Programme.pdf" rel="noopener noreferrer nofollow" target="_blank">March Holidays Academic Support Programme Timetable</a>
 </p>
+<p></p>
 <p><strong>Sec 1 CCA Option</strong>
 <br><a href="/for-parents-and-stakeholders/cca-option/" rel="noopener noreferrer nofollow" target="_blank">More information</a>
 </p>
