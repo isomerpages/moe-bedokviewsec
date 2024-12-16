@@ -9,7 +9,7 @@ iconic 'BV Lighthouse'. This symbol represents more than just a structure;
 it embodies our commitment to providing a guiding light for our students'
 thoughts and actions. Like a lighthouse that stands firm and confronts
 the waves of challenges and stormy weather conditions,&nbsp; we aim to
-build a solid foundation for every Bedok Viewan.<p></p>
+build a solid foundation for every Bedok Viewan.
 <p>Our vision remains steadfast: to nurture Learners who learn for life and
 Leaders who light the way. Each school day offers a safe and nurturing
 environment that upholds our core values of Respect, Responsibility, Integrity,
@@ -45,7 +45,7 @@ for growth.</p>
 will find a community dedicated to bringing out the best in you. We are
 committed to journeying with you as you aspire, strive, and dare to be
 your best, not just during your school years, but beyond.</p>
-<p>Let me leave you with these inspiring words from the <a rel="noopener noreferrer nofollow" target="_blank">poem "The Lighthouse" by Henry Wadsworth Longfellow</a>:&nbsp;</p>
+<p>Let me leave you with these inspiring words from the poem "The Lighthouse" by Henry Wadsworth Longfellow:&nbsp;</p>
 <p><em>"Steadfast, serene, immovable, the same</em>
 <br><em>Year after year, through all the silent night</em>
 <br><em>Burns on forevermore that quenchless flame,</em>
