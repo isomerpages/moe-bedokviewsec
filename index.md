@@ -15,7 +15,7 @@ sections:
         - title: Latest Happenings
           description: See more at our Facebook page
           url: https://www.facebook.com/BedokViewSecondarySchool
-        - title: 2025 Booklists
+        - title: GCE N-Level Release of Results Briefing Slides
           description: Click for more announcements
           url: partnerships/info-for-parents-and-students/
 ---
