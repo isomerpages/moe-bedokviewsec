@@ -4,15 +4,12 @@ permalink: /about-us/principals-welcome-message/
 description: ""
 variant: markdown
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Principal.png">
-</div>
-<p>As you step into Bedok View Secondary School, you will be greeted by our
+<img align="left" style="width: 50%;" height="auto" width="100%" alt="" src="/images/Principal.png">As you step into Bedok View Secondary School, you will be greeted by our
 iconic 'BV Lighthouse'. This symbol represents more than just a structure;
 it embodies our commitment to providing a guiding light for our students'
 thoughts and actions. Like a lighthouse that stands firm and confronts
 the waves of challenges and stormy weather conditions,&nbsp; we aim to
-build a solid foundation for every Bedok Viewan.</p>
+build a solid foundation for every Bedok Viewan.<p></p>
 <p>Our vision remains steadfast: to nurture Learners who learn for life and
 Leaders who light the way. Each school day offers a safe and nurturing
 environment that upholds our core values of Respect, Responsibility, Integrity,
