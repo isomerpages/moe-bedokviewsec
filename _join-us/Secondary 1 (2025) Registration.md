@@ -61,8 +61,8 @@ from the website or collect a copy from the General Office.&nbsp;</p>
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/MOE_FAS2.png">
 </div>
 <p>&nbsp;You can submit the application form and the supporting documents
-to us via email at <a href="mailto: bedokview_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bedokview_ss@moe.edu.sg</a> or directly
-at our school’s General Office by <strong>Thursday, 26 December 2024</strong>.</p>
+to us via email at <a href="mailto: bedokview_ss@moe.edu.sg" rel="noopener nofollow" target="_blank">bedokview_ss@moe.edu.sg</a> or
+directly at our school’s General Office by <strong>Thursday, 26 December 2024</strong>.</p>
 <p>&nbsp;If your child’s/ward’s primary school has already approved the MOE
 FAS application for the year 2025, kindly forward a copy of the approval
 letter to us.</p>
