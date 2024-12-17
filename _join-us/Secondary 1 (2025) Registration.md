@@ -19,7 +19,7 @@ or have any further clarifications on the <strong>Secondary 1 (2025) Registratio
 please contact the General Office at 6443 0563.</p>
 <p>As most of our communications are done via PG, we strongly encourage parents
 who are not yet onboard PG to register for the PG app. You may wish to
-contact our General Office at 64430563 for assistance.&nbsp;</p>
+contact our General Office at 6443 0563 for assistance.&nbsp;</p>
 <p><strong><u>Secondary 1 (2025) Registration Briefing for Parents/Guardians (20 December 2024)</u></strong>
 </p>
 <p>&nbsp;There will be a briefing for parents/guardians on <strong>Friday, 20 December from 9.00 am to 10.00 am</strong> via <strong>Zoom</strong>.
@@ -57,6 +57,10 @@ you can visit MOE’s website: <a href="https://www.moe.gov.sg/financial-matters
 apply&nbsp;<a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">online</a>.&nbsp;
 Alternatively, you can download the&nbsp;<a href="https://www.moe.gov.sg/financial-matters/-/media/files/financial-matters/moe-fas-application-form.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE FAS application form</a>&nbsp;
 from the website or collect a copy from the General Office.&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/MOE_FAS2.png">
+</div>
 <p>&nbsp;You can submit the application form and the supporting documents
 to us via email at <a href="bedokview_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bedokview_ss@moe.edu.sg</a> or directly at
 our school’s General Office by <strong>Thursday, 26 December 2024</strong>.</p>
@@ -65,27 +69,9 @@ FAS application for the year 2025, kindly forward a copy of the approval
 letter to us.</p>
 <p>&nbsp;<strong>3.&nbsp;&nbsp;&nbsp; Secondary 1 Booklists</strong>
 </p>
-<p><strong>&nbsp;</strong>The Secondary 1 Booklist is attached below:&nbsp;</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Sec 1</strong>
+<p><strong>&nbsp;</strong>The Secondary 1 Booklist is attached below:&nbsp;
+<br><a href="/files/BDVSS__Sec_1_2025_Booklist.pdf" rel="noopener nofollow" target="_blank">Bedok View Secondary - Sec 1 2025 Booklist</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong><a href="/files/BDVSS__Sec_1_2025_Booklist.pdf" rel="noopener nofollow" target="_blank">Bedok View Secondary - Sec 1 2025 Booklist</a>
-</p>
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong>&nbsp;4.&nbsp;&nbsp;&nbsp; Sale of Textbooks and School Uniform/PE Attire</strong>
 </p>
 <p><strong>&nbsp;A. Online Purchase (Preferred Mode)</strong>
@@ -111,8 +97,7 @@ letter to us.</p>
 <p>Website</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p><a href="https://www.pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com</a>
+<p>&nbsp;<a href="https://www.pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com</a>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -130,8 +115,8 @@ order.
 <p>Customer Service Contact</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hotline: 6929 8012 (Lunch break: 12.00pm to 1.00pm)</p>
-<p>Email: <a href="sales@pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">sales@pacificbookstores.com</a>
+<p>Hotline: 6929 8012 (Lunch break: 12.00pm to 1.00pm)
+<br>Email: <a href="sales@pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">sales@pacificbookstores.com</a>
 </p>
 </td>
 </tr>
@@ -193,8 +178,8 @@ entry into the school.&nbsp;</p>
 <p>Sec 1 (2025)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>20 and 23 December (Walk-in Purchase)</p>
-<p>27 December (for FAS collections only)</p>
+<p>20 and 23 December (Walk-in Purchase)
+<br>27 December (for FAS collections only)</p>
 </td>
 </tr>
 <tr>
@@ -202,8 +187,8 @@ entry into the school.&nbsp;</p>
 <p>Operating Hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9.00 am to 3.00 pm (Monday to Friday)</p>
-<p>Lunch break: 12.00pm to 1.00pm</p>
+<p>9.00 am to 3.00 pm (Monday to Friday)
+<br>Lunch break: 12.00pm to 1.00pm</p>
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -213,8 +198,6 @@ entry into the school.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Book appointment through link at: <a href="https://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com/</a>
-</p>
-<p><strong>CUSTOMER</strong>
 </p>
 </td>
 </tr>
