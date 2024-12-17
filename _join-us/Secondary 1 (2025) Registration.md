@@ -43,7 +43,6 @@ the QR code below by <strong>Tuesday, 26 December 2024, 12.00 pm</strong>.</p>
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/S1_Appeal.png">
 </div>
 <p></p>
-<p></p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>For transfer to another school (due to medical reasons)</u>
 </p>
 <p>Please submit the appeal and supporting documents at Bedok View Secondary
@@ -62,8 +61,8 @@ from the website or collect a copy from the General Office.&nbsp;</p>
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/MOE_FAS2.png">
 </div>
 <p>&nbsp;You can submit the application form and the supporting documents
-to us via email at <a href="bedokview_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bedokview_ss@moe.edu.sg</a> or directly at
-our school’s General Office by <strong>Thursday, 26 December 2024</strong>.</p>
+to us via email at <a href="mailto: bedokview_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bedokview_ss@moe.edu.sg</a> or directly
+at our school’s General Office by <strong>Thursday, 26 December 2024</strong>.</p>
 <p>&nbsp;If your child’s/ward’s primary school has already approved the MOE
 FAS application for the year 2025, kindly forward a copy of the approval
 letter to us.</p>
@@ -105,9 +104,7 @@ letter to us.</p>
 </div>
 <p>All users are required to create an account before proceeding with the
 order.
-<br>Online buying guide <a href="https://www.pacificbookstores.com/faq" rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com/faq</a>
-</p>
-<p>&nbsp;</p>
+<br>Online buying guide <a href="https://www.pacificbookstores.com/faq" rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com/faq</a>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -125,9 +122,8 @@ order.
 <p>Payment Mode for Online Purchase</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>PayNow (QR code), Credit/ Debit Cards<strong>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>
+<p>PayNow (QR code), Credit/ Debit Cards<strong>&nbsp;&nbsp;&nbsp;&nbsp;</strong>
 </p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -144,7 +140,6 @@ order.
 </td>
 <td rowspan="1" colspan="1">
 <p>19 and 26 December (self-collection)</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
@@ -156,6 +151,7 @@ online.&nbsp; If you are not able to make your purchase online, please
 make an appointment for your walk-in purchase.&nbsp; We seek your kind
 understanding that walk-ins without prior appointment may not be allowed
 entry into the school.&nbsp;</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -188,8 +184,7 @@ entry into the school.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9.00 am to 3.00 pm (Monday to Friday)
-<br>Lunch break: 12.00pm to 1.00pm</p>
-<p>&nbsp;</p>
+<br>Lunch break: 12.00pm to 1.00pm&nbsp;</p>
 </td>
 </tr>
 <tr>
