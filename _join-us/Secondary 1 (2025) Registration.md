@@ -113,7 +113,7 @@ order.
 </td>
 <td rowspan="1" colspan="1">
 <p>Hotline: 6929 8012 (Lunch break: 12.00pm to 1.00pm)
-<br>Email: <a href="sales@pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">sales@pacificbookstores.com</a>
+<br>Email: <a href="mailto: sales@pacificbookstores.com" rel="noopener nofollow" target="_blank">sales@pacificbookstores.com</a>
 </p>
 </td>
 </tr>
