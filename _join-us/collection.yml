@@ -2,7 +2,7 @@ collections:
   join-us:
     output: true
     order:
-      - Secondary 1 (2025) Registration.md
       - Join Us.md
+      - Secondary 1 (2025) Registration.md
       - BV Open House.md
       - Direct School Admission (DSA).md
