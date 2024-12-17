@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/Main_Page___L1.jpg
       key_highlights:
-        - title: BV Open HOUSE
+        - title: Secondary 1 (2025) Registration
           description: ""
           url: /join-us/bv-openhouse/
         - title: Latest Happenings
