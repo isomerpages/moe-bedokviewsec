@@ -55,7 +55,7 @@ For more information, please refer to <a href="https://www.moe.gov.sg/secondary/
 <p><strong>&nbsp;</strong>For application of MOE FAS for your child/ward,
 you can visit MOE’s website: <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a> and
 apply&nbsp;<a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">online</a>.&nbsp;
-Alternatively, you can download the&nbsp;<a href="https://www.moe.gov.sg/financial-matters/-/media/932c5159d07c4a128d30374925806a6a.ashx" rel="noopener noreferrer nofollow" target="_blank">MOE FAS application form</a>&nbsp;
+Alternatively, you can download the&nbsp;<a href="https://www.moe.gov.sg/financial-matters/-/media/files/financial-matters/moe-fas-application-form.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE FAS application form</a>&nbsp;
 from the website or collect a copy from the General Office.&nbsp;</p>
 <p>&nbsp;You can submit the application form and the supporting documents
 to us via email at <a href="bedokview_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bedokview_ss@moe.edu.sg</a> or directly at
