@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Secondary 1 (2025) Registration
           description: ""
-          url: /join-us/bv-openhouse/
+          url: /secondary-1-2025-registration/
         - title: Latest Happenings
           description: See more at our Facebook page
           url: https://www.facebook.com/BedokViewSecondarySchool
