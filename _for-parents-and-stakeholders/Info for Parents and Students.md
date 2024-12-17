@@ -9,6 +9,7 @@ variant: tiptap
 </p>
 <p></p>
 <p><strong>2025 Booklists</strong>
+<br><a href="/files/BDVSS__Sec_1_2025_Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 Booklist</a>
 <br><a href="/files/BVSS__Sec_2_2025_Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 Booklist</a>
 <br><a href="/files/BVSS__Sec_3_2025_Booklist.pdf" rel="noopener nofollow" target="_blank">Secondary 3 Booklist</a>
 <br><a href="/files/BVSS__Sec_4_2025_Booklist.pdf" rel="noopener nofollow" target="_blank">Secondary 4 Booklist</a>
