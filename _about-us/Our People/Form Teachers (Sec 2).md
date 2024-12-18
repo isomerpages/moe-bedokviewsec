@@ -66,7 +66,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Adeline Chew</p>
+<p>Miss Adeline Chew</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Adeline_Chew_Hui_Yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Adeline_Chew_Hui_Yi@schools.gov.sg</a>
@@ -101,7 +101,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Visalatchi</p>
+<p>Mdm Visalatchi Santhira Segaran</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Visalatchi_santhira_segaran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Visalatchi_santhira_segaran@schools.gov.sg</a>
@@ -136,7 +136,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Geraldine Chia</p>
+<p>Ms Chia Hui Jun Geraldine</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:geraldine_chia_hui_jun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">geraldine_chia_hui_jun@schools.gov.sg</a>
@@ -250,7 +250,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Victoria Ching</p>
+<p>Ms Victoria Ching Ngai Men</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Victoria_Ching@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Victoria_Ching@schools.gov.sg</a>
