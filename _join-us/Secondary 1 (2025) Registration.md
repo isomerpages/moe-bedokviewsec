@@ -30,9 +30,8 @@ the Secondary 1 Registration.</p>
 <p>As part of the registration briefing, a segment on the Offer of Subjects
 at More Demanding Level (MDL) will be carried out for parents and eligible
 students. Parents of PG1 and PG2 students who are eligible to offer subjects
-at MDL will receive the offers via PG on Friday, 20 December from 12.00pm
-onwards.</p>
-<p></p>
+at MDL will receive the offers via PG on <strong>Friday, 20 December from 12.00pm onwards.</strong>
+</p>
 <p>&nbsp;Thank you.&nbsp;</p>
 <p><strong>Additional details on Secondary 1 (2025) Registration matters:</strong>
 </p>
