@@ -31,7 +31,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Desmond Phoa</p>
+<p>Mr Phoa Chye Hou Desmond</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:phoa_chye_hou_desmond@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">phoa_chye_hou_desmond@schools.gov.sg</a>
@@ -66,7 +66,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms&nbsp;Sally Ang</p>
+<p>Ms&nbsp;Ang Suat Kee, Sally</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ang_suat_kee_sally@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_suat_kee_sally@schools.gov.sg</a>
@@ -75,7 +75,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Roy Cher</p>
+<p>Mr Cher Liew Chun Roy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:cher_liew_chun_roy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cher_liew_chun_roy@schools.gov.sg</a>
@@ -215,19 +215,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Azuan Tan</p>
+<p>Mr Mohd Azuan Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mohd_azuan_tan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohd_azuan_tan@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Rogayah Osman</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Rogayah_Osman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Rogayah_Osman@schools.gov.sg</a>
 </p>
 </td>
 </tr>
