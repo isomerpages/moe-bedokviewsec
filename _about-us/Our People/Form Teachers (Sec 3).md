@@ -57,7 +57,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Sherine Wong</p>
+<p>Ms Sherine Wong Choi Yoong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sherine_wong_choi_yoong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sherine_wong_choi_yoong@schools.gov.sg</a>
@@ -92,7 +92,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Jastinian Tan</p>
+<p>Mr Tan Wee Ghuan Jastinian</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_wee_ghuan_jastinian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wee_ghuan_jastinian@schools.gov.sg</a>
@@ -188,7 +188,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Jerry Ho</p>
+<p>Mr Ho Kok Leong, Jerry</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ho_kok_leong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ho_kok_leong@schools.gov.sg</a>
@@ -197,7 +197,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Clarice Zhang</p>
+<p>Mdm Toh Li Zhen Clarice</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>toh_li_zhen@schools.gov.sg</p>
