@@ -165,7 +165,7 @@ variant: tiptap
 <p>Mr Nur Syafiqah Saini</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_wee_ghuan_jastinian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wee_ghuan_jastinian@schools.gov.sg</a>
+<p><a href="mailto:nur_syafiqah_saini@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_syafiqah_saini@schools.gov.sg</a>
 </p>
 </td>
 </tr>
