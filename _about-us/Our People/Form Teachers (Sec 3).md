@@ -200,7 +200,8 @@ variant: tiptap
 <p>Mdm Toh Li Zhen Clarice</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>toh_li_zhen@schools.gov.sg</p>
+<p><a href="mailto:toh_li_zhen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_li_zhen@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
