@@ -27,6 +27,12 @@ Parents/guardians are strongly encouraged to attend this briefing as important
 administrative information and instructions will be shared during this
 session. Log-in instructions on the briefing will be provided upon completing
 the Secondary 1 Registration.</p>
+<p>As part of the registration briefing, a segment on the Offer of Subjects
+at More Demanding Level (MDL) will be carried out for parents and eligible
+students. Parents of PG1 and PG2 students who are eligible to offer subjects
+at MDL will receive the offers via PG on Friday, 20 December from 12.00pm
+onwards.</p>
+<p></p>
 <p>&nbsp;Thank you.&nbsp;</p>
 <p><strong>Additional details on Secondary 1 (2025) Registration matters:</strong>
 </p>
@@ -104,7 +110,9 @@ letter to us.</p>
 </div>
 <p>All users are required to create an account before proceeding with the
 order.
-<br>Online buying guide <a href="https://www.pacificbookstores.com/faq" rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com/faq</a>&nbsp;</p>
+<br>Online buying guide
+<br><a href="https://www.pacificbookstores.com/faqs" rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com/faqs</a>
+</p>
 </td>
 </tr>
 <tr>
