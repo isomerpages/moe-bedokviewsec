@@ -69,7 +69,7 @@ variant: tiptap
 <p>Ms Adeline Chew</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lazaroo_odilia_emily@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lazaroo_odilia_emily@schools.gov.sg</a>
+<p><a href="mailto:Adeline_Chew_Hui_Yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Adeline_Chew_Hui_Yi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -95,7 +95,7 @@ variant: tiptap
 <p>Ms Nur Hazwah Md Shah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cherie_chow_min_er@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cherie_chow_min_er@schools.gov.sg</a>
+<p><a href="mailto:nur_hazwah_mohamed_shah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_hazwah_mohamed_shah@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -104,7 +104,7 @@ variant: tiptap
 <p>Ms Visalatchi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nazatul_fadzlin_fadil@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nazatul_fadzlin_fadil@schools.gov.sg</a>
+<p><a href="mailto:Visalatchi_santhira_segaran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Visalatchi_santhira_segaran@schools.gov.sg</a>
 </p>
 </td>
 </tr>
