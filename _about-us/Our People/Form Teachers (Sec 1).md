@@ -145,7 +145,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Teo Chee Yang Travis</p>
+<p>Mr Teo Chee Yong Travis</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em>To be updated</em>
@@ -320,7 +320,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Sherlene</p>
+<p>Mr Sebastian Ooi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em>To be updated</em>
