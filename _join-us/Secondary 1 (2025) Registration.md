@@ -9,7 +9,7 @@ description: ""
 <p>Dear Parents/Guardians,
 <br>A warm welcome to Bedok View Secondary School!</p>
 <p></p>
-<p><strong><u>Secondary 1 (2025) Registration (23 December 2024)</u></strong>&nbsp;</p>
+<p><strong><u>Secondary 1 (2025) Registration (20 December 2024)</u></strong>&nbsp;</p>
 <p>Parents/guardians of&nbsp;<strong>Secondary 1 (2025)</strong>&nbsp;students
 who are successfully posted to our school will receive the registration
 details via Parents Gateway (PG) on <strong>Thursday, 19 December 2024.</strong> Please
