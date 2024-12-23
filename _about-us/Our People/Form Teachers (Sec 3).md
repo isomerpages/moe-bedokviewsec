@@ -22,10 +22,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Abdul Adib Md Omar</p>
+<p>Ms Chia Pei Pei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:abdul_adib_mohd_omar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">abdul_adib_mohd_omar@schools.gov.sg</a>
+<p><a href="mailto:Chia_Pei_Pei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Chia_Pei_Pei@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -153,10 +153,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chia Pei Pei</p>
+<p>Mr Abdul Adib Md Omar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Chia_Pei_Pei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Chia_Pei_Pei@schools.gov.sg</a>
+<p><a href="mailto:abdul_adib_mohd_omar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">abdul_adib_mohd_omar@schools.gov.sg</a>
 </p>
 </td>
 </tr>
