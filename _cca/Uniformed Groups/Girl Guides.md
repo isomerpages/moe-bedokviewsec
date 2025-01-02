@@ -8,7 +8,8 @@ variant: tiptap
 <h3>Teachers- In- Charge</h3>
 <p>Ms Tan Sok Foon Noelle
 <br>Ms Toh Li Zhen Clarice (Mrs Zhang)
-<br>Ms Zhang Lingjia Mabel</p>
+<br>Ms Adeline Chew Hui Yi
+<br>Ms Lazaroo Odilia Emily</p>
 <h3>CCA Schedule</h3>
 <table style="minWidth: 75px">
 <colgroup>
@@ -30,10 +31,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Friday</p>
+<p>Monday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.30pm - 6.00pm</p>
+<p>3.00pm - 6.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Classrooms
