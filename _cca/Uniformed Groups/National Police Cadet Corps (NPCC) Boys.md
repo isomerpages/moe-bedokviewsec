@@ -6,9 +6,9 @@ third_nav_title: Uniformed Groups
 variant: tiptap
 ---
 <h3>Teachers- In- Charge</h3>
-<p>Mr&nbsp;Abdul Adib Bin Mohd Omar
-<br>Mr Choo Meng Kang
-<br>Mr Loh Chia Chang</p>
+<p>Mr Choo Meng Kang
+<br>Mr Loh Chia Chang
+<br>Mr Hui Da Zun</p>
 <h3>CCA Schedule</h3>
 <table style="minWidth: 75px">
 <colgroup>
@@ -30,10 +30,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Friday</p>
+<p>Monday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.30pm - 6.00pm</p>
+<p>3.00pm - 6.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Classrooms

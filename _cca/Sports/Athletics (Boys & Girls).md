@@ -6,9 +6,9 @@ third_nav_title: Sports
 variant: tiptap
 ---
 <h3>Teachers- In- Charge</h3>
-<p>Mr Hamzah Bin Muhit
-<br>Mr Tan Teck Yong
-<br>Mdm Umi Kalthom Bte Shokor</p>
+<p>Mdm Umi Kalthom Bte Shokor
+<br>Mr Abdul Adib Bin Mohd Omar
+<br>Mr Tan Teck Yong</p>
 <h3>CCA Schedule</h3>
 <table style="minWidth: 75px">
 <colgroup>

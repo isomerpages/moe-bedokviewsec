@@ -9,7 +9,7 @@ variant: tiptap
 <p>Ms Mardiyana Bte Roslie
 <br>Mr David Keng
 <br>Mdm Zarina Mohamed Zakaria
-<br>Ms Adeline Chew hui yi</p>
+<br>Ms Nur Syafiqah Binte Saini</p>
 <h3>CCA Schedule</h3>
 <table style="minWidth: 75px">
 <colgroup>
@@ -34,7 +34,7 @@ variant: tiptap
 <p>Tuesday &amp; Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.30pm - 5.30pm</p>
+<p>3.30pm - 6.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Computer Lab 1 : E2-09</p>

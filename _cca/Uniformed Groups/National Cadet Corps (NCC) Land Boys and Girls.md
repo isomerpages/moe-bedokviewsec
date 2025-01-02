@@ -1,5 +1,5 @@
 ---
-title: National Cadet Corps (NCC) Boys and Girls
+title: National Cadet Corps (NCC) Land Boys and Girls
 permalink: /cca/uniformed-groups/national-cadet-corps-ncc/
 description: ""
 third_nav_title: Uniformed Groups
@@ -9,7 +9,8 @@ variant: tiptap
 <p>Mr Mohammed Noor Firdaus Bin Sumawi
 <br>Mr Tay Soon Heng
 <br>Mr Peh Ang Tiong
-<br>Ms Ng Han Yi</p>
+<br>Ms Felicia Chew
+<br>Mr Teo Chee Yong Travis</p>
 <h3>CCA Schedule</h3>
 <table style="minWidth: 75px">
 <colgroup>
@@ -31,23 +32,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tuesday - PDS / FSD
-<br>(Sec 1 Term 2 onwards)</p>
+<p>Monday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.30pm - 6.00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Classrooms
-<br>D2-01 to D2-05</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Friday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2.30pm - 6.00pm</p>
+<p>3.00pm - 6.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Classrooms

@@ -8,8 +8,7 @@ variant: tiptap
 <h3>Teachers- In- Charge</h3>
 <p>Mdm Tan Sei Hui
 <br>Ms Geraldine Chia Hui Jun
-<br>Mr Jerry Ho Kok Leong
-<br>Ms Noorfatin Beevi</p>
+<br>Mr Jerry Ho Kok Leong</p>
 <h3>CCA Schedule</h3>
 <table style="minWidth: 75px">
 <colgroup>
