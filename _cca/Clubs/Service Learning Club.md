@@ -7,8 +7,9 @@ variant: tiptap
 ---
 <h4>Teachers- In- Charge</h4>
 <p>Mr Fong Yi Shuen
-<br>Ms&nbsp;Marliyana Md Noor
 <br>Ms&nbsp;Nur Iznina
+<br>Mdm Marliyana Bte Mohd Noor
+<br>Mr Teoh Ai Keong
 <br>
 </p>
 <h4>CCA Schedule</h4>
@@ -35,7 +36,7 @@ variant: tiptap
 <p>Tuesday &amp; Thursday*</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.45pm - 5.45pm</p>
+<p>3.30pm - 6.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Classrooms:&nbsp;C1-03</p>
