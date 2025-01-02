@@ -6,9 +6,9 @@ third_nav_title: Performing Arts
 variant: tiptap
 ---
 <h3>Teachers- In- Charge</h3>
-<p>Mdm Nur Syafiqah Binte Saini
-<br>Miss Wong Wei Leen
-<br>Mdm Visalatchi Santhira Segaran</p>
+<p>Ms Anuthama
+<br>Mr Muhammad Ahmad
+<br>Mr Hamzah Bin Muhit</p>
 <h3>CCA Schedule</h3>
 <table style="minWidth: 75px">
 <colgroup>
