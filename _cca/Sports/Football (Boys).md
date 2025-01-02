@@ -8,8 +8,8 @@ variant: tiptap
 <h3>Teachers-In-Charge</h3>
 <p>Ms Nur Hazwah Binte Mohamed Shah
 <br>Mr Sivabalan Kaliaperumal
-<br>Ms Lazaroo Odilia Emily
 <br>Mr Phoon Zhi Jian
+<br>Mr Kwok Wai Fung
 <br>
 </p>
 <h3>CCA Schedule</h3>
@@ -35,21 +35,27 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Monday
 <br>Tuesday
+<br>Wednesday
 <br>Thursday
-<br>Friday</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.30 - 5.45pm
-<br>3.30 - 5.00pm
-<br>3.30 - 5.45pm
-<br>3.00 - 5.00pm</p>
-<p>(Each student will attend CCA 2 or 3 times a week, based on their groupings
-after selection.)
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>6.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>School Field</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
