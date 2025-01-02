@@ -8,7 +8,8 @@ variant: tiptap
 <h3>Teachers- In- Charge</h3>
 <p>Mr Tan Wee Ghuan Jastinian
 <br>Mdm Wong Chiu Yian
-<br>Mr Syaiful Bahari Bin Abdul Latif</p>
+<br>Mr Syaiful Bahari Bin Abdul Latif
+<br>Mrs Lena Ong</p>
 <h3>CCA Schedule</h3>
 <table style="minWidth: 75px">
 <colgroup>
@@ -32,12 +33,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>
-<br>Monday &amp; Thursday</p>
+<p>Monday &amp; Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>3.30pm - 6.00pm</p>
+<p>3.30pm - 6.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ISH Level 1 &amp; 2</p>
