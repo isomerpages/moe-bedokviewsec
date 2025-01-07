@@ -31,10 +31,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chew Hui Shi Felicia</p>
+<p>Mrs Zarina Seth</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>To be updated</em>
+<p><a href="mailto:zarina_mohamed_zakaria@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zarina_mohamed_zakaria@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -69,7 +69,7 @@ variant: tiptap
 <p>Ms Siti Sufiah Ruhyani Bte M Nasir</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>To be updated</em>
+<p><a href="mailto:siti_sufiah_ruhyani_mohamed@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_sufiah_ruhyani_mohamed@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -162,10 +162,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Zarina Seth</p>
+<p>Ms Chew Hui Shi Felicia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zarina_mohamed_zakaria@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zarina_mohamed_zakaria@schools.gov.sg</a>
+<p><a href="mailto:chew_hui_shi_felicia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chew_hui_shi_felicia@schools.gov.sg</a>
 </p>
 </td>
 </tr>
