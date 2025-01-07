@@ -41,7 +41,7 @@ levels to meet varying developmental needs:</p>
 with the values and necessary skills to keep learning, to be adaptable
 and to be resilient in their personal pursuits and career developments.</p>
 <p>For more information and updates on ECG matters, please click here:
-<a href="https://sites.google.com/moe.edu.sg/ecgbedokviewss/" rel="noopener noreferrer nofollow" target="_blank">ECG@BedokView</a>
+<a href="http://go.gov.sg/bvssecgsite" rel="noopener noreferrer nofollow" target="_blank">ECG@BedokView</a>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic%20Curriculum/CCE/cce_lessons_1.jpg">
