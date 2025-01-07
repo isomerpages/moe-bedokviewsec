@@ -43,7 +43,7 @@ variant: tiptap
 <p>Mr Dan Yeo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>To be updated</em>
+<p><a href="mailto:yeo_jiunn_hou@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_jiunn_hou@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -148,7 +148,7 @@ variant: tiptap
 <p>Mr Teo Chee Yong Travis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>To be updated</em>
+<p><a href="mailto:teo_chee_yong_travis@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_chee_yong_travis@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -183,7 +183,7 @@ variant: tiptap
 <p>Ms Ho Huiying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>To be updated</em>
+<p><a href="mailto:ho_huiying_he_huiying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ho_huiying_he_huiying@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -323,7 +323,7 @@ variant: tiptap
 <p>Mr Sebastian Ooi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>To be updated</em>
+<p><a href="mailto:ooi_kian_tiong_sebastian_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ooi_kian_tiong_sebastian_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
