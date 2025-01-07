@@ -262,7 +262,7 @@ variant: tiptap
 <p>Mr Jason Ng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>To be updated</em>
+<p><a href="mailto:NG_CHIEH_SHING@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">NG_CHIEH_SHING@schools.gov.sg</a>
 </p>
 </td>
 </tr>
