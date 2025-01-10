@@ -18,7 +18,7 @@ sections:
         - title: Sec 1 CCA Option 2025
           description: Click for more information
           url: /for-parents-and-stakeholders/cca-option/
-        - title: 2025 Class Timetables
+        - title: GCE O-Level Release of Results Briefing Slides
           description: Click for more announcements
           url: partnerships/info-for-parents-and-students/
 ---
