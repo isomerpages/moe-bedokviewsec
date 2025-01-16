@@ -15,24 +15,7 @@ Hence, Blended Learning will be a key feature of the schooling experience to fur
 
 [20201229 blended learning to enhance schooling experience and further develop students into self directed learners](https://www.moe.gov.sg/news/press-releases/20201229-blended-learning-to-enhance-schooling-experience-and-further-develop-students-into-self-directed-learners)
 
-### Instructions for students on HBL days
 
-Please log in to [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login) for your lesson instructions.
-
-Alternatively, please click on the respective links below for the instructions to lessons.
-
-Sec 1:  **[Sec 1 HBL instructions for 11 Sep (Wed)](https://docs.google.com/spreadsheets/d/e/2PACX-1vS18eKvq_5X1hMJlUBXS_d0RNK6GP1g-S-eQr4UYoYpOQrNLQevIhWdmpy1X5dpVArRihsM06nLpmRS/pubhtml?gid=1192539301&amp;single=true)**
-
-Sec 2:  **[Sec 2 HBL instructions for 11 Sep (Wed)](https://docs.google.com/spreadsheets/d/e/2PACX-1vRq8rc0z_Ww76rI8Pz82L_VIva0m43eoFODZuSrV6exdYUQbpqh11DhIG1fExZrAe10kzy7T9hYiF-R/pubhtml?gid=512380478&amp;single=true)**
-
-
-Sec 3: 
-**No HBL lessons due to oral examination.**
-
-Sec 4 &amp; 5: 
-**4E5N students are to arrange for online consultation with subject teachers.**
-
-Note that the day's lesson instructions will be made available by 7.30 am on the day itself.
 
 Click [Instruction Sheet For Students On HBL Days](/files/Instruction%20Sheet%20for%20Students_BV.pdf) for guide to learning on HBL day.
 
