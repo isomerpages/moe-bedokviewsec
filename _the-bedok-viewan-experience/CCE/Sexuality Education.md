@@ -14,6 +14,6 @@ Sexuality Education is conducted through structured lessons, workshops
 and Assembly programmes.</p>
 <p>For more information on MOE Sexuality Education, please click <a href="/files/2025_Info_on_SEd_for_schs_website.pdf" rel="noopener noreferrer nofollow" target="_blank">here.</a>
 <br><a href="/files/2025_SEd_Letter_to_Parents.pdf" rel="noopener nofollow" target="_blank">Sexuality Education Letter to Parents</a>
-<br><a href="/files/2025_SEd_Lessons_Parent_Opt_Out_Form.pdf" rel="noopener nofollow" target="_blank">Sexuality Education (GY years) Opt-out Form</a>
-<br><a href="/files/2025_eTeens_Parent_Opt_out_Form.pdf" rel="noopener nofollow" target="_blank">Sexuality Education (E-Teens) Opt-out Form</a>
+<br><a href="/files/2025_SEd_Lessons_Parent_Opt_Out_Form.pdf" rel="noopener nofollow" target="_blank">Sexuality Education Lessons Opt-out Form</a>
+<br><a href="/files/2025_eTeens_Parent_Opt_out_Form.pdf" rel="noopener nofollow" target="_blank">eTeens Opt-out Form</a>
 </p>
