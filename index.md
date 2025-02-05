@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/Main_Page___L1.jpg
       key_highlights:
-        - title: Secondary 1 (2025) Registration
+        - title: Key Dates in TERM 1
           description: ""
-          url: /secondary-1-2025-registration/
+          url: /key-dates-in-term-1-2025/
         - title: Latest Happenings
           description: See more at our Facebook page
           url: https://www.facebook.com/BedokViewSecondarySchool
