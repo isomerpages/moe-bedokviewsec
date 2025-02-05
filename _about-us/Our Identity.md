@@ -10,7 +10,7 @@ variant: tiptap
 </div>
 <h3>Our Vision</h3>
 <p>
-<br>Learners who Learn For Life, Leaders who Light the Way</p>
+<br>Learners who Learn for Life, Leaders who Light the Way</p>
 <h3>Our Mission</h3>
 <p>
 <br>To Nurture Bedok Viewans as Learners and Leaders who Aspire, Strive and
