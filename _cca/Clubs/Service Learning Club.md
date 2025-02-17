@@ -9,7 +9,7 @@ variant: tiptap
 <p>Mr Fong Yi Shuen
 <br>Ms&nbsp;Nur Iznina
 <br>Mdm Marliyana Bte Mohd Noor
-<br>Mr Teoh Ai Keong
+<br>Mr Keng Wei Li, David
 <br>
 </p>
 <h4>CCA Schedule</h4>
@@ -36,10 +36,10 @@ variant: tiptap
 <p>Tuesday &amp; Thursday*</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.30pm - 6.00pm</p>
+<p>3.30pm - 5.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Classrooms:&nbsp;C1-03</p>
+<p>Oasis Cyberspace</p>
 </td>
 </tr>
 </tbody>
