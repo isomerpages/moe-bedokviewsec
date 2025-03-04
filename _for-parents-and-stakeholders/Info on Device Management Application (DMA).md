@@ -23,8 +23,6 @@ details on the different After-School DMA Parent Options.</p>
 <p>Please indicate your choice via the FormSG link: <a href="https://go.gov.sg/bv-dma-option" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/bv-dma-option</a>.
 These changes will only take effect within 2 weeks. If you do not indicate
 a choice, the Default option will be applied.</p>
-<p>Submission of After-School DMA Options: <a href="https://go.gov.sg/bv-dma-option" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/bv-dma-option</a>
-</p>
 <h4>After- School DMA Settings</h4>
 <ul data-tight="true" class="tight">
 <li>
