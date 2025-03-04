@@ -16,15 +16,15 @@ conducive to teaching and learning, and to encourage good online practices.
 Please refer to <strong>Annexes A-C</strong> for more information about the
 DMA. You may also refer to the links to the Parent User Guides for more
 details on the different After-School DMA Parent Options.</p>
-<p>Annex A: Functions of the DMA
-<br>Annex B: MOE DMA After School Hours Settings for iPad PLDs
-<br>Annex C: Privacy and Data Security</p>
+<p><a href="/files/DMA_Annex_A.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex A: Functions of the DMA </a>
+<br><a href="/files/DMA_Annex_B.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex B: MOE DMA After School Hours Settings for iPad PLDs</a> 
+<br><a href="/files/DMA_Annex_C.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex C: Privacy and Data Security</a>
+</p>
 <p>Please indicate your choice via the FormSG link: <a href="https://go.gov.sg/bv-dma-option" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/bv-dma-option</a>.
 These changes will only take effect within 2 weeks. If you do not indicate
 a choice, the Default option will be applied.</p>
 <p>Submission of After-School DMA Options: <a href="https://go.gov.sg/bv-dma-option" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/bv-dma-option</a>
 </p>
-<p></p>
 <h4>After- School DMA Settings</h4>
 <ul data-tight="true" class="tight">
 <li>
