@@ -18,7 +18,7 @@ sections:
         - title: Sec 1 CCA Option 2025
           description: Click for more information
           url: /for-parents-and-stakeholders/cca-option/
-        - title: Info for Parents and Students
+        - title: March Holidays Academic Support Programme Schedule
           description: Click for more announcements
           url: partnerships/info-for-parents-and-students/
 ---
