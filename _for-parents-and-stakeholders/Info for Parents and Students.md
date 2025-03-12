@@ -40,10 +40,4 @@ variant: tiptap
 <br><a href="/files/Sale_dates.pdf" rel="noopener nofollow" target="_blank">Sale Dates</a>
 <br>
 </p>
-<p><strong>Highlights of the Term (2024)</strong>
-<br><a href="/files/HighIights_of_Term_3_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 3</a>
-<br><a href="/files/Term2_Highlights.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 2</a>
-<br><a href="/files/2024_Term_1_Parent_Letter_Annex.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 1</a>
-<br>
-</p>
 <p></p>
