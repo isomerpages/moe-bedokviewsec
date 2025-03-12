@@ -4,6 +4,10 @@ permalink: /partnerships/info-for-parents-and-students/
 description: ""
 variant: tiptap
 ---
+<p><strong>March Holidays Academic Support Programme Schedule </strong>
+<br><a href="/files/S4_5_MARCH_HOLIDAYS_ACADEMIC_SUPPORT_PROGRAMME.pdf" rel="noopener noreferrer nofollow" target="_blank">Schedule Link</a>
+</p>
+<p></p>
 <p><strong>Instructions for students on HBL days</strong>
 <br><strong> Sec 1: </strong><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSKPvBmb2JIThrnQqZxL6hBNy3iOtDG-5i3tYo7uxdfJWC3m8HSc0NPCbxw_e17aRIKVi0k4ye_hYPg/pubhtml?gid=494354800&amp;single=true" rel="noopener nofollow" target="_blank">Sec 1 HBL Instructions for 28 Feb (Fri)</a>
 <br><strong>Sec 2</strong>: <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ5YQ0xuaZ2472Ltxz7bJpzd_yyb7lZiPueV_1KvcHVeXKWu-WYJsuVrD18oR8GKBQpRdAJlii4cFOU/pubhtml?gid=494354800&amp;single=true" rel="noopener nofollow" target="_blank">Sec 2 HBL Instructions for 28 Feb (Fri)</a>
