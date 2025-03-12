@@ -4,8 +4,8 @@ permalink: /partnerships/info-for-parents-and-students/
 description: ""
 variant: tiptap
 ---
-<p><strong>March Holidays Academic Support Programme Schedule </strong>
-<br><a href="/files/S4_5_MARCH_HOLIDAYS_ACADEMIC_SUPPORT_PROGRAMME.pdf" rel="noopener noreferrer nofollow" target="_blank">Schedule Link</a>
+<p><strong>March Holidays Academic Support </strong>
+<br><a href="/files/S4_5_MARCH_HOLIDAYS_ACADEMIC_SUPPORT_PROGRAMME.pdf" rel="noopener noreferrer nofollow" target="_blank">Programme Schedule</a>
 </p>
 <p></p>
 <p><strong>Instructions for students on HBL days</strong>
