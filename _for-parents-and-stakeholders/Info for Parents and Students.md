@@ -4,6 +4,10 @@ permalink: /partnerships/info-for-parents-and-students/
 description: ""
 variant: tiptap
 ---
+<p><strong>March Holidays Academic Support </strong>
+<br><a href="/files/S4_5_MARCH_HOLIDAYS_ACADEMIC_SUPPORT_PROGRAMME.pdf" rel="noopener noreferrer nofollow" target="_blank">Programme Schedule</a>
+</p>
+<p></p>
 <p><strong>Instructions for students on HBL days</strong>
 <br><strong> Sec 1: </strong><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSKPvBmb2JIThrnQqZxL6hBNy3iOtDG-5i3tYo7uxdfJWC3m8HSc0NPCbxw_e17aRIKVi0k4ye_hYPg/pubhtml?gid=494354800&amp;single=true" rel="noopener nofollow" target="_blank">Sec 1 HBL Instructions for 28 Feb (Fri)</a>
 <br><strong>Sec 2</strong>: <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ5YQ0xuaZ2472Ltxz7bJpzd_yyb7lZiPueV_1KvcHVeXKWu-WYJsuVrD18oR8GKBQpRdAJlii4cFOU/pubhtml?gid=494354800&amp;single=true" rel="noopener nofollow" target="_blank">Sec 2 HBL Instructions for 28 Feb (Fri)</a>
@@ -34,12 +38,6 @@ variant: tiptap
 <br><a href="/files/BVSS__Sec_5_2025_Booklist.pdf" rel="noopener nofollow" target="_blank">Secondary 5 Booklist</a>
 <br><a href="/files/Annex_A.pdf" rel="noopener nofollow" target="_blank">Sale of Textbooks and School Uniform/PE Attire During School Holidays</a>
 <br><a href="/files/Sale_dates.pdf" rel="noopener nofollow" target="_blank">Sale Dates</a>
-<br>
-</p>
-<p><strong>Highlights of the Term (2024)</strong>
-<br><a href="/files/HighIights_of_Term_3_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 3</a>
-<br><a href="/files/Term2_Highlights.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 2</a>
-<br><a href="/files/2024_Term_1_Parent_Letter_Annex.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 1</a>
 <br>
 </p>
 <p></p>
