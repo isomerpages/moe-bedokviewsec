@@ -9,15 +9,15 @@ sections:
   - hero:
       background: /images/Main_Page___L1.jpg
       key_highlights:
-        - title: Key Dates in TERM 1
+        - title: Key Dates in TERM 2
           description: ""
-          url: /key-dates-in-term-1-2025/
+          url: /key-dates-in-term-2-2025/
         - title: Latest Happenings
           description: See more at our Facebook page
           url: https://www.facebook.com/BedokViewSecondarySchool
-        - title: Sec 1 CCA Option 2025
+        - title: 2025 Student's Handbook
           description: Click for more information
-          url: /for-parents-and-stakeholders/cca-option/
+          url: /for-parents-and-stakeholders/student-handbook/
         - title: March Holidays Academic Support Programme Schedule
           description: Click for more announcements
           url: partnerships/info-for-parents-and-students/
