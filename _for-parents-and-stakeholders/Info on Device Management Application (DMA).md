@@ -50,3 +50,7 @@ inactive after school hours</p>
 <br><a href="/files/iPad_DMA_Parent_Guide_for_Option_B.pdf" rel="noopener noreferrer nofollow" target="_blank">iPad DMA Parent Guide for Option B</a>
 </p>
 <p></p>
+<h4>Student Information Kit</h4>
+<p><a href="/files/PDLP_Student_Device_Information_Kit_2025.pdf" rel="noopener nofollow" target="_blank">Student Information Kit</a>
+</p>
+<p></p>
