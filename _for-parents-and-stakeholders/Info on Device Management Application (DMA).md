@@ -52,5 +52,5 @@ inactive after school hours</p>
 <p></p>
 <h4>Student Information Kit</h4>
 <p><a href="/files/PDLP_Student_Device_Information_Kit_2025.pdf" rel="noopener nofollow" target="_blank">Student Information Kit</a>
+<br><a href="/files/Apple_getSupport_Guide.pdf" rel="noopener nofollow" target="_blank">Apple getSupport Guide</a>
 </p>
-<p></p>
