@@ -38,6 +38,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Timothy Leong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Timothy_Leong_Tze_Ian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Timothy_Leong_Tze_Ian@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h5>Sec 2/2 Form Teachers</h5>
