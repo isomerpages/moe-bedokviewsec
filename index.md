@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/Main_Page___L1.jpg
       key_highlights:
-        - title: Key Dates in TERM 2
+        - title: Information on Direct School Admission (DSA)
           description: ""
-          url: /key-dates-in-term-2-2025/
+          url: /join-us/direct-school-admission-dsa/
         - title: Latest Happenings
           description: See more at our Facebook page
           url: https://www.facebook.com/BedokViewSecondarySchool
