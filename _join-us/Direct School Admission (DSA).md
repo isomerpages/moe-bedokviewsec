@@ -297,8 +297,7 @@ minimum criteria.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p>2</p>
+<p>&nbsp;2</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
