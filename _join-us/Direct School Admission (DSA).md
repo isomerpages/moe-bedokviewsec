@@ -135,8 +135,7 @@ an offer.</p>
 <p>&nbsp;</p>
 <p><strong>2b. Internal: selection criteria</strong>
 </p>
-<p>&nbsp;</p>
-<p><strong><u>For leadership</u></strong>
+<p><strong>For leadership</strong>
 </p>
 <table style="minWidth: 125px">
 <colgroup>
@@ -353,7 +352,6 @@ have differing standards.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p></p>
 <p><strong>For Sports Talent Areas&nbsp;</strong>
 </p>
