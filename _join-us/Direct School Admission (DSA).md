@@ -463,171 +463,6 @@ have differing standards.</p>
 </tbody>
 </table>
 <p></p>
-<ol start="3" data-tight="true" class="tight">
-<li>
-<p><strong>Brief write-up of DSA-Sec selection work-flow</strong>
-</p>
-</li>
-</ol>
-<table style="minWidth: 175px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="9" colspan="1">
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>All applicants
-<br>(i.e. prior to interview)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="9" colspan="1">
-<p>All applicants are shortlisted &amp; &nbsp;
-<br>invited to come for interview/trials</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="5" colspan="1">
-<p>Shortlisted applicants who turned up for interview/trials</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-</td>
-<td rowspan="1" colspan="1">
-<p>Confirmed Offer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="2" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Put on Waiting List</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p></p>
-</td>
-<td rowspan="2" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Rejected</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="3" colspan="1">
-<p>Did not turn up</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="3" colspan="1">
-<p>Called for make-up interview/trials</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
 <p><strong>Key Dates</strong>
 </p>
 <table style="minWidth: 50px">
@@ -696,10 +531,7 @@ applications: (i) Confirmed Offer (CO), (ii) Wait List (WL) or (iii) Unsuccessfu
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>27 October to 31 October 2025</p>
+<p>&nbsp;27 October to 31 October 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>School Preference Submission</u></strong>
@@ -724,8 +556,7 @@ also continue to take part in the S1 Posting.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p>By end November 2025 (tentative)</p>
+<p>&nbsp;By end November 2025 (tentative)</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
