@@ -9,10 +9,10 @@ variant: tiptap
 </p>
 <p></p>
 <p><strong>Instructions for students on HBL days</strong>
-<br><strong> Sec 1: </strong><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSKPvBmb2JIThrnQqZxL6hBNy3iOtDG-5i3tYo7uxdfJWC3m8HSc0NPCbxw_e17aRIKVi0k4ye_hYPg/pubhtml?gid=4106409&amp;single=true" rel="noopener nofollow" target="_blank">Sec 1 HBL Instructions for 4 Apr (Fri)</a>
-<br><strong>Sec 2</strong>: <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ5YQ0xuaZ2472Ltxz7bJpzd_yyb7lZiPueV_1KvcHVeXKWu-WYJsuVrD18oR8GKBQpRdAJlii4cFOU/pubhtml?gid=1821073481&amp;single=true" rel="noopener nofollow" target="_blank">Sec 2 HBL Instructions for 4 Apr (Fri)</a>
-<br><strong>Sec 3</strong>: <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vStsb40ADSQG0a28hKWL8Nb4KwRAs88Cmy7VpDEG_MX9qmys9stF2R3jhzHeSkUNFRmf3LeEDT0o_uH/pubhtml?gid=1706059049&amp;single=true" rel="noopener nofollow" target="_blank">Sec 3 HBL Instructions for 4 Apr (Fri)</a>
-<br><strong> Sec 4 &amp; 5</strong>: <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSFWtMKViBMCrzcezo3Cj7iJjOBzCUCmP-_MmBlLNd2FWicL2VZ_ndUc-5yzMi-zN5IY9cOu6lENnv4/pubhtml?gid=588900229&amp;single=true" rel="noopener nofollow" target="_blank">Sec 4&amp;5 HBL Instructions for 4 Apr (Fri)</a>
+<br><strong> Sec 1: </strong><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSKPvBmb2JIThrnQqZxL6hBNy3iOtDG-5i3tYo7uxdfJWC3m8HSc0NPCbxw_e17aRIKVi0k4ye_hYPg/pubhtml?gid=1269819549&amp;single=true" rel="noopener nofollow" target="_blank">Sec 1 HBL Instructions for 2 May (Fri)</a>
+<br><strong>Sec 2</strong>: <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ5YQ0xuaZ2472Ltxz7bJpzd_yyb7lZiPueV_1KvcHVeXKWu-WYJsuVrD18oR8GKBQpRdAJlii4cFOU/pubhtml?gid=1666023204&amp;single=true" rel="noopener nofollow" target="_blank">Sec 2 HBL Instructions for 2 May (Fri)</a>
+<br><strong>Sec 3</strong>: <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vStsb40ADSQG0a28hKWL8Nb4KwRAs88Cmy7VpDEG_MX9qmys9stF2R3jhzHeSkUNFRmf3LeEDT0o_uH/pubhtml?gid=2011298501&amp;single=true" rel="noopener nofollow" target="_blank">Sec 3 HBL Instructions for 2 May (Fri)</a>
+<br><strong> Sec 4 &amp; 5</strong>: <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSFWtMKViBMCrzcezo3Cj7iJjOBzCUCmP-_MmBlLNd2FWicL2VZ_ndUc-5yzMi-zN5IY9cOu6lENnv4/pubhtml?gid=25780272&amp;single=true" rel="noopener nofollow" target="_blank">Sec 4&amp;5 HBL Instructions for 2 May (Fri)</a>
 </p>
 <p></p>
 <p><strong>GCE O-Level Release of Results</strong>
