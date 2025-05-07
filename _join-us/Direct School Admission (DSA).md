@@ -473,27 +473,16 @@ have differing standards.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 May 2025 (tentative)</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>DSA-Sec Press Release by MOE.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>7 May to 3 June 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Centralised DSA-Sec Application Process</u></strong>
 </p>
-<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
+<p>Application for DSA-Sec can be submitted through the online <a href="https://www.dsa-is.moe.gov.sg/login/mainstreamapplicant" rel="noopener nofollow" target="_blank">DSA-Sec Portal</a>.
 The application is free-of-charge and will be open from <strong>7 May 2025, 11.00 am to 3 June 2025, 3.00 pm.</strong>
 </p>
-<p>&nbsp;</p>
 <p>For more details, please refer to MOE website –</p>
 <p><a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">http://www.moe.gov.sg/dsa-sec</a>.</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -501,21 +490,16 @@ The application is free-of-charge and will be open from <strong>7 May 2025, 11.0
 <p>By 27 June 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Short-listed applicants will be notified.</p>
-<p>&nbsp;</p>
+<p>Short-listed applicants will be notified.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p>Between 30 June to 4 September 2025</p>
-<p>&nbsp;</p>
+<p>&nbsp;Between 30 June to 4 September 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p>Interview sessions/trials will be carried out at Bedok View Secondary
+<p>&nbsp;Interview sessions/trials will be carried out at Bedok View Secondary
 School.</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -523,10 +507,8 @@ School.</p>
 <p>Between 25 August - 4 September 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 <p>All applicants will receive a reply from school on the outcome of their
-applications: (i) Confirmed Offer (CO), (ii) Wait List (WL) or (iii) Unsuccessful)</p>
-<p>&nbsp;</p>
+applications: (i) Confirmed Offer (CO), (ii) Wait List (WL) or (iii) Unsuccessful</p>
 </td>
 </tr>
 <tr>
@@ -536,22 +518,20 @@ applications: (i) Confirmed Offer (CO), (ii) Wait List (WL) or (iii) Unsuccessfu
 <td rowspan="1" colspan="1">
 <p><strong><u>School Preference Submission</u></strong>
 </p>
-<p>&nbsp;</p>
 <p>Students who receive at least one DSA-Sec offer will receive email and
 SMS notification via <a href="http://postman.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">postman.gov.sg</a> on the School Preference
 Submission in end-Oct 2025. <strong>Both parents are required to login to the DSA-Sec Portal using their Singpass to submit up to three school preferences.</strong> If
 parents are unable to submit online, they can approach their child’s primary
 school for assistance to submit the school preferences on their behalf.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>DSA-Sec offers not taken up will be considered as lapsed at the end of
 the School Preference Submission period.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Some students may receive concurrent offers from DSA-Sec schools and Singapore
 Sports School (SSP). Students who wish to accept the SSP offer should not
 submit their DSA-Sec school preferences. If they do so, their earlier SSP
 offer <u>will be void</u>. Students who wish to accept the SSP offer should
 also continue to take part in the S1 Posting.</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
