@@ -122,6 +122,9 @@ trials.</p>
 <td rowspan="1" colspan="1">
 <p>Meeting all the criteria does not guarantee the applicants will be shortlisted/given
 an offer.</p>
+<p>Applicants who do not have prior experience may also apply. The school
+will assess applicants based on the selection criteria, which may include
+assessing the potential of the applicants.</p>
 </td>
 </tr>
 </tbody>
@@ -235,9 +238,7 @@ an offer.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The school may consider a `Good’ Conduct Grade as different schools may
-have differing standards, provided the leadership positions held meet the
-minimum criteria.</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -345,8 +346,7 @@ minimum criteria.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The school may consider a `Good’ Conduct Grade as different schools may
-have differing standards.</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -456,8 +456,7 @@ suitability.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The school may consider a `Good’ Conduct Grade as different schools may
-have differing standards.</p>
+<p></p>
 </td>
 </tr>
 </tbody>
