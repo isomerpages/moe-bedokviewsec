@@ -4,8 +4,12 @@ permalink: /partnerships/info-for-parents-and-students/
 description: ""
 variant: tiptap
 ---
-<p><strong>March Holidays Academic Support Programme</strong>
-<br><a href="/files/S4_5_MARCH_HOLIDAYS_ACADEMIC_SUPPORT_PROGRAMME.pdf" rel="noopener noreferrer nofollow" target="_blank">Programme Schedule</a>
+<p><strong>June Holidays Academic Support Programme</strong>
+<br><a href="/files/2025_S4_5_JUNE_HOLIDAYS_ACADEMIC_SUPPORT_PROGRAMME.pdf" rel="noopener noreferrer nofollow" target="_blank">Programme Schedule</a>
+</p>
+<p></p>
+<p><strong>2025 Prelim - N Level</strong>
+<br><a href="/files/2025_PRELIM_TIMETABLE___N_Level.pdf" rel="noopener noreferrer nofollow" target="_blank">Prelim Timetable</a>
 </p>
 <p></p>
 <p><strong>Instructions for students on HBL days</strong>
