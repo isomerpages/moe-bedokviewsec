@@ -18,7 +18,7 @@ sections:
         - title: 2025 Student's Handbook
           description: Click for more information
           url: /for-parents-and-stakeholders/student-handbook/
-        - title: March Holidays Academic Support Programme Schedule
+        - title: June Holidays Academic Support Programme Schedule
           description: Click for more announcements
           url: partnerships/info-for-parents-and-students/
 ---
