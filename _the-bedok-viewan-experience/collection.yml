@@ -2,7 +2,6 @@ collections:
   the-bedok-viewan-experience:
     output: true
     order:
-      - National Youth Achievement Award.md
       - Academic Curriculum/.keep
       - Academic Curriculum/Academic Curriculum.md
       - Academic Curriculum/Aesthetics and Design & Technology.md
@@ -39,3 +38,4 @@ collections:
       - CCA/Sports.md
       - CCA/Performing Arts.md
       - CCA/Clubs.md
+      - National Youth Achievement Award.md
