@@ -83,7 +83,3 @@ third_nav_title: Our Achievements & Highlights
 <iframe style="border:none;overflow:hidden" height="792" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBedokViewSecondarySchool%2Fposts%2Fpfbid0jxstvnWNEttc1U3oKtrCX2aC81jimjoryb1bPhCdh5p19QS7ALRj41jnqgVbkjqfl&amp;show_text=true&amp;width=500"></iframe>
 </div>
 <p></p>
-<div class="iframe-wrapper">
-<iframe style="border:none;overflow:hidden" height="543" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBedokViewSecondarySchool%2Fposts%2Fpfbid0RbRaHZK74gXySm4PYJvMs6fwksKsgueRNubKvJ4CPyrYh8Cxv9sfjPwqxgFupBAKl&amp;show_text=true&amp;width=500"></iframe>
-</div>
-<p></p>
