@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Our Achievements & Highlights
 ---
-<p><strong>2025 School Events</strong>
-</p>
+<h4><strong>2025 School Events</strong></h4>
 <div class="iframe-wrapper">
 <iframe style="border:none;overflow:hidden" height="849" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBedokViewSecondarySchool%2Fposts%2Fpfbid02r3xG4nfaDyqXg4v2Tes5nC4Y8a47iBWTmitJ212YD1D5jddyQYwhEYdFXHArCyT3l&amp;show_text=true&amp;width=500"></iframe>
 </div>
