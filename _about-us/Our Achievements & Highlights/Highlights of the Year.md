@@ -5,132 +5,85 @@ variant: tiptap
 description: ""
 third_nav_title: Our Achievements & Highlights
 ---
-<p><strong>Highlights of the Year</strong>
-<br><a href="/files/HighIights_of_Term_3_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 3</a>
-<br><a href="/files/Term2_Highlights.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 2</a>
-<br><a href="/files/2024_Term_1_Parent_Letter_Annex.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 1</a>
-<br>
+<p><strong>2025 School Events</strong>
 </p>
-<p><strong>School Events</strong>
-</p>
-<p></p>
 <div class="iframe-wrapper">
-<iframe style="border:none;overflow:hidden" height="786" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBedokViewSecondarySchool%2Fposts%2Fpfbid02VmKYF3BB44CJbzUULPJJz7G84ioBo9jM1jmK5cPSeguX4qeMKEDWkgcifCyNDuNnl&amp;show_text=true&amp;width=500"></iframe>
+<iframe style="border:none;overflow:hidden" height="849" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBedokViewSecondarySchool%2Fposts%2Fpfbid02r3xG4nfaDyqXg4v2Tes5nC4Y8a47iBWTmitJ212YD1D5jddyQYwhEYdFXHArCyT3l&amp;show_text=true&amp;width=500"></iframe>
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe style="border:none;overflow:hidden" height="737" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBedokViewSecondarySchool%2Fposts%2Fpfbid0C4XZ9YRC7X6bQWSxNKc5tu2b2gpqLbdiA1o5U36rpYgrXyq4PuLQY378gRRfRaq6l&amp;show_text=true&amp;width=500"></iframe>
+<iframe style="border:none;overflow:hidden" height="750" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBedokViewSecondarySchool%2Fposts%2Fpfbid02iNhnNWcRGEWePeKk9SHgj4YgLsyRiGE8k732BbucGj6qFxHNaMqQcSNSixXJVKM4l&amp;show_text=true&amp;width=500"></iframe>
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe style="border:none;overflow:hidden" height="800" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBedokViewSecondarySchool%2Fposts%2Fpfbid0QJvXCCJR6TCkQSpo6YU6HX39KJSHutknhctwb9cQHgBLuqjCS1Tfy4SfxR2opTxvl&amp;show_text=true&amp;width=500"></iframe>
+<iframe style="border:none;overflow:hidden" height="517" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBedokViewSecondarySchool%2Fposts%2Fpfbid0Pt3SVts6Qhoqp2GP1g8ZJNNypC9mGdeW1P9yk4noLpLFXAEZegftXHG6vEsav3pHl&amp;show_text=true&amp;width=500"></iframe>
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe style="border:none;overflow:hidden" height="787" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBedokViewSecondarySchool%2Fposts%2Fpfbid025deRvdLvz2f8xTpRLFxy2LkF9BpVmcHvcuuHsGcwX1gE76icXHf2bGXwVt65sEgJl&amp;show_text=true&amp;width=500"></iframe>
+<iframe style="border:none;overflow:hidden" height="793" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBedokViewSecondarySchool%2Fposts%2Fpfbid02rcprHnqjfRyLxbN8KDNGJ9gJw1FvxoPzAau8BVNfywe9kKQgDTgaJAyCJN724hXzl&amp;show_text=true&amp;width=500"></iframe>
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe style="border:none;overflow:hidden" height="762" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBedokViewSecondarySchool%2Fposts%2Fpfbid0219BRNVwYfNKE1U7vzqvbKwPhw4uLsbwgd57Q32aFrxZ2Zcr9ZKfYqgem6ZSUM9Bvl&amp;show_text=true&amp;width=500"></iframe>
+<iframe style="border:none;overflow:hidden" height="728" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBedokViewSecondarySchool%2Fposts%2Fpfbid034Lz8xmh1iAfM9tJGXRG4zmaX3v2BBdgLpZSCyaCWcBA1pejYTCyL769UfnRm9CJal&amp;show_text=true&amp;width=500"></iframe>
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe style="border:none;overflow:hidden" height="761" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBedokViewSecondarySchool%2Fposts%2Fpfbid0629MgqMmW33tuHQyYsJFQZLkx1f253SriPEu8yiVSyDkrJgwZYcNCouSR9uVaYRyl&amp;show_text=true&amp;width=500"></iframe>
+<iframe style="border:none;overflow:hidden" height="531" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBedokViewSecondarySchool%2Fposts%2Fpfbid02NzbyjDV5iML4K68gk8F9gqb9cT5iXtaxxFmmkXkZAFM62mfUijLsQ8ZZeX2dCox1l&amp;show_text=true&amp;width=500"></iframe>
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe style="border:none;overflow:hidden" height="741" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBedokViewSecondarySchool%2Fposts%2Fpfbid0JAYqLom1eRjwbGTyaPbQ6AKTTTAevdNvn7D6cYZ7xQzH6ziVAnoAhorj94437URKl&amp;show_text=true&amp;width=500"></iframe>
+<iframe style="border:none;overflow:hidden" height="792" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBedokViewSecondarySchool%2Fposts%2Fpfbid02Jsm8yDX5DFsufuBWc33fEaSPXn6JwgubLswJ8YX4LKQMjEh9wrdA4CqNRdC3tWgUl&amp;show_text=true&amp;width=500"></iframe>
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe style="border:none;overflow:hidden" height="780" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBedokViewSecondarySchool%2Fposts%2Fpfbid02nZse6dHKjuzqiJZR9YgEDtCWLwH6Knixe2qob3U1oHpoFQDBX7gZQCppSGgD5UGfl&amp;show_text=true&amp;width=500"></iframe>
+<iframe style="border:none;overflow:hidden" height="492" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBedokViewSecondarySchool%2Fposts%2Fpfbid0EuDhuNXu1qPgptnSzGsAUqhJZ1LfSvJAwG1V4fYpLJYjZNY5wLm1gUGmp1eTVqEtl&amp;show_text=true&amp;width=500"></iframe>
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe style="border:none;overflow:hidden" height="708" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBedokViewSecondarySchool%2Fposts%2Fpfbid0MVdhaMmeqk9D3iFUcUiZYj2DGMcrC5SMvHAYwVQZUhfyqFRwX2e6N66gdxefWfDCl&amp;show_text=true&amp;width=500"></iframe>
+<iframe style="border:none;overflow:hidden" height="792" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBedokViewSecondarySchool%2Fposts%2Fpfbid0QF1dS3QvVmfeuBwmR6LncvHe8RtbcxSjEjiJwETyqFm3S6wQhNk9b6V5fbRhJswRl&amp;show_text=true&amp;width=500"></iframe>
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe style="border:none;overflow:hidden" height="639" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBedokViewSecondarySchool%2Fposts%2Fpfbid0BnYdqQMgAftuGgVg5e1dtjMBZB6HB5jzttBBEXrkH47FKDDcDBy7XzARKcDBkGiMl&amp;show_text=true&amp;width=500"></iframe>
+<iframe style="border:none;overflow:hidden" height="0" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBedokViewSecondarySchool%2Fposts%2Fpfbid028Nv3qLsXYu9R7SFQ2agvNa1urRq4jz4zEPBscYUy3somyEvUxxXK5srqULjJ1P2Sl&amp;show_text=true&amp;width=500"></iframe>
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe style="border:none;overflow:hidden" height="697" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBedokViewSecondarySchool%2Fposts%2Fpfbid02DE6CmzC16ngdvnmYYLhrVEuRCtMmKtdjHkEwSr2d2TDqGscckwqp3rUN5sTjbYePl&amp;show_text=true&amp;width=500"></iframe>
+<iframe style="border:none;overflow:hidden" height="728" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBedokViewSecondarySchool%2Fposts%2Fpfbid02MrkTu1Nyuf4qfe4DGkiTFUkpKwYrXaNoh8WWTJtkaM1Dn4nH4EyKCtTLyYg6JP2rl&amp;show_text=true&amp;width=500"></iframe>
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe style="border:none;overflow:hidden" height="703" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBedokViewSecondarySchool%2Fposts%2Fpfbid02gAfjwkwNDGHS965VXr3D4PXeoP4YfgqP9XcLoJrMZawsWvaanwGWxT49YDr1dArXl&amp;show_text=true&amp;width=500"></iframe>
+<iframe style="border:none;overflow:hidden" height="811" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBedokViewSecondarySchool%2Fposts%2Fpfbid0ThCC7XqpCKJ4mY3DXJxQCdQDvLffa7harUoavKkCNmGREYenfhE8a3VhrPQNP7pJl&amp;show_text=true&amp;width=500"></iframe>
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe style="border:none;overflow:hidden" height="639" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBedokViewSecondarySchool%2Fposts%2Fpfbid02gUMuPpqxStiLJqP4bHihA4Pv33z4damZ91tufdrSMcua9ijncHCS811m1WsjffJYl&amp;show_text=true&amp;width=500"></iframe>
+<iframe style="border:none;overflow:hidden" height="792" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBedokViewSecondarySchool%2Fposts%2Fpfbid02FZSdrKRxMSmb1oCKeiFfQMUgdhVLiKi1F5rT9VFyqQ7Ac4xC6zw2md9RB6eMo2w1l&amp;show_text=true&amp;width=500"></iframe>
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe style="border:none;overflow:hidden" height="678" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBedokViewSecondarySchool%2Fposts%2Fpfbid02CpiiHrKLGW17fAPBAVeFAmYj5ZvkG43R95arAQDg3xE4psbvgu4Env73MCr2fx8tl&amp;show_text=true&amp;width=500"></iframe>
+<iframe style="border:none;overflow:hidden" height="741" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBedokViewSecondarySchool%2Fposts%2Fpfbid02HWgYjSzn4PCBQbYNC1UaH6Q7pwpbQ252svUqpBo5kNdhzWPQxNR2kxAaWLhLuBDl&amp;show_text=true&amp;width=500"></iframe>
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe style="border:none;overflow:hidden" height="697" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBedokViewSecondarySchool%2Fposts%2Fpfbid024RCuT9BQ2TzQYoE2uLVFzYZ7zQZQVRTjs3ZgxcKCgU7YHEBtiSEsgHWtbYRRHiqSl&amp;show_text=true&amp;width=500"></iframe>
+<iframe style="border:none;overflow:hidden" height="792" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBedokViewSecondarySchool%2Fposts%2Fpfbid0sq3mU6PtCcM2JtVFU89W44oXi1sgqsYn61Fo4N4jpTjpZtLVSjhZwAgxUxtVGd2Ml&amp;show_text=true&amp;width=500"></iframe>
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe style="border:none;overflow:hidden" height="543" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBedokViewSecondarySchool%2Fposts%2Fpfbid02BrawXgPB61EbjqKyiUXXcnbBRA4fUxpDiUJcAgM38YrK5dJ1V5qMpLpjoHo3ifYbl&amp;show_text=true&amp;width=500"></iframe>
+<iframe style="border:none;overflow:hidden" height="780" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBedokViewSecondarySchool%2Fposts%2Fpfbid0HxMnFLMSfumWRZzSGzNE2ss8uirCQAEHsxBwVm9ajb3xjc9BzwhtbrDE5VoG65fil&amp;show_text=true&amp;width=500"></iframe>
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe style="border:none;overflow:hidden" height="658" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBedokViewSecondarySchool%2Fposts%2Fpfbid0zjhYdh2uDsG9sGqLBXYyzScKxgSpSKaSn3N9csZ8US7LpWaktHQxzixTMC5H169Tl&amp;show_text=true&amp;width=500"></iframe>
+<iframe style="border:none;overflow:hidden" height="824" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBedokViewSecondarySchool%2Fposts%2Fpfbid0u3NyzcSk4rn4Zrw6Vcc9YBYtGnvRp8So5TwgS45QLxNQuLtFPvGkkJFJSxQAsqHwl&amp;show_text=true&amp;width=500"></iframe>
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe style="border:none;overflow:hidden" height="888" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBedokViewSecondarySchool%2Fposts%2Fpfbid02ewTsnrVQkkW8s6VT5VG1YMmsGacUia1gYfNmbVajUUgwpmse4iXcyLwrXZVJgdLkl&amp;show_text=true&amp;width=500"></iframe>
+<iframe style="border:none;overflow:hidden" height="772" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBedokViewSecondarySchool%2Fposts%2Fpfbid02FGQUhU41gmzD2VRWdNA1rc6GvcSu9dkv4BdSMTWSgjaG4jMfSwLpir8PNE6bgHyfl&amp;show_text=true&amp;width=500"></iframe>
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe style="border:none;overflow:hidden" height="761" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBedokViewSecondarySchool%2Fposts%2Fpfbid09vD86MfFE1bcpPjABvHfgMo6EDqw9MSbb3BZ5Q7axXxe9EByvs7uVesGuKzw7dzhl&amp;show_text=true&amp;width=500"></iframe>
+<iframe style="border:none;overflow:hidden" height="792" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBedokViewSecondarySchool%2Fposts%2Fpfbid0jxstvnWNEttc1U3oKtrCX2aC81jimjoryb1bPhCdh5p19QS7ALRj41jnqgVbkjqfl&amp;show_text=true&amp;width=500"></iframe>
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe style="border:none;overflow:hidden" height="786" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBedokViewSecondarySchool%2Fposts%2Fpfbid026TvAZSaRARydWxRBqVDqGo5WDuUeC2R1H3i2d4HBxkmCf1CPSjLB4y3cJQTw88yfl&amp;show_text=true&amp;width=500"></iframe>
-</div>
-<p></p>
-<div class="iframe-wrapper">
-<iframe style="border:none;overflow:hidden" height="562" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBedokViewSecondarySchool%2Fposts%2Fpfbid0GBLHvE9t47M1cxcxTb4MoFW5RtB1w3eAQggyst69TgLgEbLfFm8JurfVphsLYw1Ll&amp;show_text=true&amp;width=500"></iframe>
-</div>
-<p></p>
-<div class="iframe-wrapper">
-<iframe style="border:none;overflow:hidden" height="716" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBedokViewSecondarySchool%2Fposts%2Fpfbid029wC54xZ49Wi35VSJ2Qp2KThvn4ADnHiZVpAMf9Cquzh6HHAA3wrGDXmu5s6RuTHCl&amp;show_text=true&amp;width=500"></iframe>
-</div>
-<p></p>
-<div class="iframe-wrapper">
-<iframe style="border:none;overflow:hidden" height="709" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBedokViewSecondarySchool%2Fposts%2Fpfbid026ti2TSuFuRVsDT7bcAe6ri6RfZNAhLhSkJNn46WZHCrEXBt8G7pocD9YFnnu1dRKl&amp;show_text=true&amp;width=500"></iframe>
-</div>
-<p></p>
-<div class="iframe-wrapper">
-<iframe style="border:none;overflow:hidden" height="728" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBedokViewSecondarySchool%2Fposts%2Fpfbid0dawdb86Wr8Lod2egVcfQWokyVRL6brDURRVbzZsi6gqhyJshX9NpomFwWYiUfwD2l&amp;show_text=true&amp;width=500"></iframe>
-</div>
-<p></p>
-<div class="iframe-wrapper">
-<iframe style="border:none;overflow:hidden" height="857" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBedokViewSecondarySchool%2Fposts%2Fpfbid02LZTroNtB6kSoUg6AHfAtRggPcUv2pNxpcWG7ASH8cnhtba9ZW8TYFhxfWeFoknBWl&amp;show_text=true&amp;width=500"></iframe>
-</div>
-<p></p>
-<div class="iframe-wrapper">
-<iframe style="border:none;overflow:hidden" height="709" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBedokViewSecondarySchool%2Fposts%2Fpfbid0SvhoXpYMM63QZfxTD41TxbguPHyEY3fZuc7NDPveV3F9ZatrENvVW7up4JZqn5FAl&amp;show_text=true&amp;width=500"></iframe>
-</div>
-<p></p>
-<div class="iframe-wrapper">
-<iframe style="border:none;overflow:hidden" height="805" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBedokViewSecondarySchool%2Fposts%2Fpfbid02vAeR6bPie1j9vNJYjqjY5EAitxpqRT7MYKE4T9TW8jN6eYEdS5dmaNGVUTRjH4adl&amp;show_text=true&amp;width=500"></iframe>
-</div>
-<p></p>
-<div class="iframe-wrapper">
-<iframe style="border:none;overflow:hidden" height="773" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBedokViewSecondarySchool%2Fposts%2Fpfbid02z68XUkWGS8CprSqDVPNjJpP2L4dvEtJUTgiJBY7JtzTuJHWRKSka5ZJKCk5MNxzSl&amp;show_text=true&amp;width=500"></iframe>
-</div>
-<p></p>
-<div class="iframe-wrapper">
-<iframe style="border:none;overflow:hidden" height="678" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBedokViewSecondarySchool%2Fposts%2Fpfbid07wYE9ZBtSDFqEbSqwMZiUA4HAxvHcjN79HbxVVGx3AVR7jb3cTAxJ4oKsWy5x25rl&amp;show_text=true&amp;width=500"></iframe>
-</div>
-<p></p>
-<div class="iframe-wrapper">
-<iframe style="border:none;overflow:hidden" height="811" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBedokViewSecondarySchool%2Fposts%2Fpfbid02gmwgbDia5NENAeLxT53K1shUbDuBUUJUhX6mDETahovz7weeq2T8TPBvZSZWxzapl&amp;show_text=true&amp;width=500"></iframe>
+<iframe style="border:none;overflow:hidden" height="543" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBedokViewSecondarySchool%2Fposts%2Fpfbid0RbRaHZK74gXySm4PYJvMs6fwksKsgueRNubKvJ4CPyrYh8Cxv9sfjPwqxgFupBAKl&amp;show_text=true&amp;width=500"></iframe>
 </div>
 <p></p>
