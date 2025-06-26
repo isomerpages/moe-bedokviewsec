@@ -4,7 +4,9 @@ title: Bedok View Secondary School
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: "NOTICE: Please note that our office team is out of school for a
+  staff event on 26 June 2025 (Thursday), from 11.30am. For urgent matters
+  please contact us at 8910 5662. Thank you."
 sections:
   - hero:
       background: /images/Main_Page___L1.jpg
