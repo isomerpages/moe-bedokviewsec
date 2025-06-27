@@ -18,7 +18,7 @@ sections:
         - title: 2025 Student's Handbook
           description: Click for more information
           url: /for-parents-and-stakeholders/student-handbook/
-        - title: June Holidays Academic Support Programme Schedule
+        - title: 2025 Class Timetables (Semester 2)
           description: Click for more announcements
           url: partnerships/info-for-parents-and-students/
 ---
