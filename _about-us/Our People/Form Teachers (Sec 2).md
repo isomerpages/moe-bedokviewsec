@@ -38,15 +38,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Timothy Leong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Timothy_Leong_Tze_Ian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Timothy_Leong_Tze_Ian@schools.gov.sg</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h5>Sec 2/2 Form Teachers</h5>
@@ -215,15 +206,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tay Soon Heng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tay_soon_heng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_soon_heng@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Ong Cheng Cheng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -263,6 +245,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Victoria_Ching@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Victoria_Ching@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Elsie Yeo Liew Cheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yeo_liew_cheng_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_liew_cheng_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
