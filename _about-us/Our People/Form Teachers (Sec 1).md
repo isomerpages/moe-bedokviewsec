@@ -222,15 +222,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Claudia Yap</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Claudia_Yap_Neng_A@schools.gov.sg</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h5>Sec 1/7 Form Teachers</h5>
@@ -329,10 +320,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Yok Siew</p>
+<p>Ms Heng Li Gek, Juliet</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_yok_siew_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yok_siew_a@schools.gov.sg</a>
+<p><a href="mailto:heng_li_gek_juliet@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">heng_li_gek_juliet@schools.gov.sg</a>
 </p>
 </td>
 </tr>
