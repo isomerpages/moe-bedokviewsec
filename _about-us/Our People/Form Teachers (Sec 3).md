@@ -38,6 +38,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Bryan Koh Ting Rong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Bryan_Koh_Ting_Rong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Bryan_Koh_Ting_Rong@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h5>Sec 3/2 Form Teachers</h5>
@@ -134,6 +143,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ng Jia Yue Moon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Ng_Jia_Yue_Moon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ng_Jia_Yue_Moon@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h5>Sec 3/5 Form Teachers</h5>
@@ -197,10 +215,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Toh Li Zhen Clarice</p>
+<p>Mdm Tuan Chui Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:toh_li_zhen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_li_zhen@schools.gov.sg</a>
+<p><a href="mailto:tuan_chui_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tuan_chui_lin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -228,6 +246,14 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nurulasyikin_md_yunan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurulasyikin_md_yunan@schools.gov.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
