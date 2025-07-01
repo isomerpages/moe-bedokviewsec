@@ -250,15 +250,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Marliyana Md Noor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:marliyana_mohamad_noor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">marliyana_mohamad_noor@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Jason Ng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -290,6 +281,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_teck_yong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_teck_yong@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Gabrielle Lee Shuen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Gabrielle_Lee_Shuen_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Gabrielle_Lee_Shuen_A@schools.gov.sg</a>
 </p>
 </td>
 </tr>
