@@ -4,8 +4,7 @@ title: Bedok View Secondary School
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: "NOTICE: Please note that the school will be closed at 5pm on
-  Thursday, 7 Aug and 4pm on  Friday, 8 Aug. Thank you."
+notification: ""
 sections:
   - hero:
       background: /images/Main_Page___L1.jpg
