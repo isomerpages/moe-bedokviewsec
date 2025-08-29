@@ -18,7 +18,7 @@ sections:
         - title: 2025 Student's Handbook
           description: Click for more information
           url: /for-parents-and-stakeholders/student-handbook/
-        - title: 2025 Class Timetables (Semester 2)
+        - title: Sept Holidays Academic Support Programme
           description: Click for more announcements
           url: partnerships/info-for-parents-and-students/
 ---

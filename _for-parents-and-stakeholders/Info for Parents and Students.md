@@ -4,6 +4,10 @@ permalink: /partnerships/info-for-parents-and-students/
 description: ""
 variant: tiptap
 ---
+<p><strong>Sept Holidays Academic Support Programme</strong>
+<br><a href="/files/2025_Secondary_4NA_Academic_Support_Timetable__11___12_Sep_.pdf" rel="noopener noreferrer nofollow" target="_blank">Programme Schedule</a>
+</p>
+<p></p>
 <p><strong>2025 Class Timetables (Semester 2)</strong>
 <br><a href="/files/Sec_1_2025_Sem2.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 Timetable</a>
 <br><a href="/files/Sec_2_2025_Sem2.pdf" rel="noopener nofollow" target="_blank">Secondary 2 Timetable</a>
