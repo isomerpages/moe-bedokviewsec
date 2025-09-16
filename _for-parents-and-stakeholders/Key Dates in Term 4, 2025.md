@@ -27,75 +27,83 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fri, 28 Mar</p>
+<p>Mon 15 Sep,
+<br>Tue 16 Sep–Wed 17 Sep,
+<br>Wed 17 Sep–Thu 18 Sep,
+<br>Mon 22 Sep,
+<br>Mon 6 Oct–Tue 14 Oct</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Issue of Personal Learning Devices</p>
+<p>N-Level Written Exams
+<br>N-Level Listening Comprehension Exams
+<br>N-Level Written Exams</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mon, 31 Mar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Hari Raya Puasa (Public Holiday)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>All</p>
+<p>Sec 4N</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fri, 4 Apr</p>
+<p>Mon 15 Sep</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Home-Based Learning (HBL) Day 6</p>
+<p>O-Level Prelim Exams</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>All</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mon, 14 Apr to Tue, 15 Apr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mid-Term Activities</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>All</p>
+<p>Sec 4 and 5</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wed, 16 Apr</p>
+<p>Wed 24 Sep–Wed 8 Oct</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.4km Run Challenge</p>
+<p>Sec 1–3 End-of-Year Exams</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>All</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Thu, 17 Apr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Awards Day &amp; Student Leaders’ Investiture</p>
-<p>SIL Day <em>(Students will have home-based student-initiated learning activities unless they are involved in the event)</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>All</p>
+<p>Sec 1 to 3</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fri, 18 Apr</p>
+<p>Thu 25 Sep</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Graduation Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 4 and 5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mon 29 Sep</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Start of study break for graduating students</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 4 and 5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wed 1 Oct,
+<br>Mon 6 Oct,
+<br>Thu 9 Oct,
+<br>Tue 14 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>O-Level Science Practical Exams</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 4 and 5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Thu 9 Oct,</p>
+<p>Fri 10 Oct</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Good Friday (Public Holiday)</p>
