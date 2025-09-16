@@ -106,40 +106,20 @@ description: ""
 <p>Fri 10 Oct</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Good Friday (Public Holiday)</p>
+<p>Marking Day
+<br>Self-Initiated Learning Day
+<br>(Sec 1 to 3 students need not return to school on these two days)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>All</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Thu, 1 May</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Labour Day (Public Holiday)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>All</p>
+<p>Sec 1 to 3</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fri, 2 May&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>Fri 10 Oct</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HBL Day 7</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>All</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Fri, 2 May</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Secondary 4 &amp; 5 CCA Stand down</p>
+<p>O-Level Art Exam (Paper 3)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 4 and 5</p>
@@ -147,10 +127,56 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mon, 12 May</p>
+<p>Mon 13 Oct–Tue 14 Oct&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vesak Day (Public Holiday)</p>
+<p>Exam Paper Checking Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1 to 3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wed 15 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Exam Paper Checking Day
+<br>End-of-Term Activities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 3
+<br>S1 and S2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Thu 16 Oct–Thu 23 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>End-of-Term Activities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1 to 3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Thu 16 Oct – Mon 10 Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>O-Level Written Exams</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 4 and 5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mon 20 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Deepavali Public Holiday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All</p>
@@ -158,21 +184,11 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tue, 13 May</p>
+<p>Fri 24 Oct</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Performing Arts-Based Learning (Yong Siew Toh Concert Hall)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 2</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Fri, 16 May</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HBL Day 8</p>
+<p>End-of-Year Meet-the-Parents Session) &amp; Last Day of School for Sec
+1 to 3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All</p>
@@ -180,21 +196,21 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tue, 27 May to Thu, 29 May</p>
+<p>Thu 13 Nov</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HPV Vaccination</p>
+<p>BV Stars - Graduation Day and Prom Night</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 1 and 2 Girls only</p>
+<p>Sec 4 and 5</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fri, 30 May</p>
+<p>Sat 22 Nov</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mid-Year Meet-the-Parents Session</p>
+<p>BV Open House</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All</p>
@@ -202,47 +218,14 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sun, 1 Jun to Fri, 6 Jun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Overseas Learning Journey (Vietnam)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Selected Sec 3 students</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Wed, 4 Jun to Fri, 6 Jun</p>
+<p>Sun 23 Nov – Sun 21 Dec</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Academic Support Lessons</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 4 and 5</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mon, 9 Jun to Sun, 22 Jun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>June Holidays Protected Time</p>
+<p>November &amp; December Staff Protected Time</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mon 23 Jun to Wed 25 Jun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Academic Support Lessons</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 4 and 5</p>
 </td>
 </tr>
 </tbody>
