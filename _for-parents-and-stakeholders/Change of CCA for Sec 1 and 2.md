@@ -4,6 +4,12 @@ permalink: /for-parents-and-stakeholders/cca/
 variant: tiptap
 description: ""
 ---
-<p><a href="/files/Sec_1_CCA_instruction.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 CCA Orientation, Experience &amp; Options</a>
-<br><a href="/files/Sec_1_CCA_Appeal.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 CCA Appeal</a>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_09_29_at_8_14_32_AM.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_09_29_at_8_14_32_AM__1_.jpg">
+</div>
+<p></p>
