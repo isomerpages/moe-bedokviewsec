@@ -4,4 +4,8 @@ permalink: /join-us/bv-openhouse/
 description: ""
 variant: markdown
 ---
-Do check back soon for info on 2025's BV Open House!
+##### [2025 Bedok View Secondary School Open House Registration](https://go.gov.sg/bv-openhouse2025)
+
+![](/images/QRCode.png)
+
+Check back for more info!
