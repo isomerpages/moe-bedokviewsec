@@ -8,7 +8,8 @@ variant: tiptap
 <h3>Teachers- In- Charge</h3>
 <p>Mr Choo Meng Kang
 <br>Mr Loh Chia Chang
-<br>Mr Hui Da Zun</p>
+<br>Mr Hui Da Zun
+<br>Mr Syaiful Bahari Bin Abdul Latif</p>
 <h3>CCA Schedule</h3>
 <table style="minWidth: 75px">
 <colgroup>
