@@ -48,7 +48,7 @@ the necessary skills to enhance their proficiency in music as well as play
 confidently to an audience. The band performs a wide variety of repertoire,
 including popular contemporary songs and band classics. The band members
 rose to the occasion at the Singapore Youth Festival Arts Presentation
-2023, where their hard work and resilience culminated in their achievement
+2025, where their hard work and resilience culminated in their achievement
 of the coveted Certificate of Accomplishment. Our band leaders are passionate
 and empowered to be the guiding light of other members. Every band senior
 makes it their responsibility to mentor and guide junior members to develop
