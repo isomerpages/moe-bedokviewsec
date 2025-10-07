@@ -61,4 +61,7 @@ to achieve great things together.&nbsp;</p>
 <p>Our club's commitment to artistry and excellence is a testament to the
 power of passion, hard work, and collaboration. By embracing these values,
 we have shown that no challenge is insurmountable, and with dedication,
-we can achieve anything we set our minds to.</p>
+we can achieve anything we set our minds to. The drama members rose to
+the occasion at the Singapore Youth Festival Arts Presentation 2025, where
+their hard work and resilience culminated in their achievement of the coveted
+Certificate of Accomplishment.</p>
