@@ -53,9 +53,9 @@ techniques and make the song more expressive through movements and dynamic
 contrasts in the music. Beyond music practice, our CCA fosters a strong
 sense of camaraderie through a variety of activities such as bonding sessions,
 Teachers’ Day celebration, and farewell party for our graduating seniors.</p>
-<p>In 2023, we participated in the Singapore Youth Festival (SYF) Arts Presentation
-and received the Certificate of Distinction. In 2024, our CCA went on an
-exchange programme with Hougang Secondary School to further enhance our
-knowledge of Guzheng in Singapore, and gain valuable insights from other
-students. This enabled us to engage with students from other schools and
-foster new connections.</p>
+<p>In 2024, our CCA went on an exchange programme with Hougang Secondary
+School to further enhance our knowledge of Guzheng in Singapore, and gain
+valuable insights from other students. This enabled us to engage with students
+from other schools and foster new connections. In 2025, we participated
+in the Singapore Youth Festival (SYF) Arts Presentation and received the
+Certificate of Accomplishment.</p>

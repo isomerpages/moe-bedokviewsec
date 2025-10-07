@@ -7,7 +7,6 @@ variant: tiptap
 ---
 <h3>Teachers- In- Charge</h3>
 <p>Ms Tan Sok Foon Noelle
-<br>Ms Toh Li Zhen Clarice (Mrs Zhang)
 <br>Ms Adeline Chew Hui Yi
 <br>Ms Lazaroo Odilia Emily</p>
 <h3>CCA Schedule</h3>
@@ -54,7 +53,7 @@ services during school and girl guides events. They volunteered in St John’s
 home for the elderly. They organized their own camp in Camp Christine and
 had fun hiking and cooking outdoors.</p>
 <p>In 2024, our girls demonstrated their talents and creativity during East
-Division Day and as a testament to their hard work, they achieved a Silver
+Division Day and as a testament to their hard work, they achieved a Merit
 in one of the competitions. The CCA also achieved Puan Noor Aishah Gold
-in the assessment year of 2023.</p>
+in the assessment year of 2025.</p>
 <p></p>
