@@ -57,4 +57,4 @@ events and competitions. In April this year, we earned a four-star achievement
 in the 2024 Open Dance Competition organised by the People’s Association.
 Additionally, Bedok View Modern Dance Club has been consistently awarded
 a Distinction at the SYF for the last three consecutive rounds, including
-2023.</p>
+2025.</p>
