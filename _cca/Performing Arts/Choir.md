@@ -47,7 +47,9 @@ variant: tiptap
 support. We believe that every voice contributes to the harmony of our
 ensemble. Each rehearsal is a brave step outside our comfort zone and an
 opportunity to grow together. As we explore new musical styles and techniques
-with optimism, we also celebrate our progress.</p>
+with optimism, we also celebrate our progress. In 2025, we participated
+in the Singapore Youth Festival (SYF) Arts Presentation and received the
+Certificate of Accomplishment.</p>
 <p>It takes courage to try something new, and we celebrate that bravery in
 each other. We also believe that every voice matters — whether you’re a
 seasoned singer or just starting out. If you share our passion for music
