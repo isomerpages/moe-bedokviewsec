@@ -53,7 +53,7 @@ services during school and girl guides events. They volunteered in St John’s
 home for the elderly. They organized their own camp in Camp Christine and
 had fun hiking and cooking outdoors.</p>
 <p>In 2024, our girls demonstrated their talents and creativity during East
-Division Day and as a testament to their hard work, they achieved a Silver
+Division Day and as a testament to their hard work, they achieved a Merit
 in one of the competitions. The CCA also achieved Puan Noor Aishah Gold
 in the assessment year of 2025.</p>
 <p></p>
