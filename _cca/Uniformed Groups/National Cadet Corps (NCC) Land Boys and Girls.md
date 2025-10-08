@@ -7,10 +7,10 @@ variant: tiptap
 ---
 <h3>Teachers- In- Charge</h3>
 <p>Mr Mohammed Noor Firdaus Bin Sumawi
-<br>Mr Tay Soon Heng
 <br>Mr Peh Ang Tiong
 <br>Ms Felicia Chew
-<br>Mr Teo Chee Yong Travis</p>
+<br>Mr Teo Chee Yong Travis
+<br>Mr Bryan Koh Ting Rong</p>
 <h3>CCA Schedule</h3>
 <table style="minWidth: 75px">
 <colgroup>
@@ -32,10 +32,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Monday</p>
+<p>Monday
+<br>Thursday (PDS &amp; FSD only)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.00pm - 6.00pm</p>
+<p>3.00pm - 6.00pm
+<br>3.00pm - 6.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Classrooms
@@ -45,52 +47,42 @@ variant: tiptap
 </tbody>
 </table>
 <h3>CCA Overview &amp; Highlights</h3>
-<p>The National Cadet Corps (NCC) Land unit aims to develop responsible and
+<p>The National Cadet Corps (NCC) Land Unit aims to develop responsible and
 resilient leaders and team players through fun and challenging military-related
-activities. Through these activities, we hope to develop the boys to become
-self-motivated leaders who embody resilient minds, fit bodies and committed
-hearts to serve the unit, school and nation. During training sessions,
-the cadets are involved in drills, physical training and sports activities
-that help to increase their fitness levels and develop discipline. They
-also learn military-related skills and knowledge such as the handling of
-the SAR21 rifle, marksmanship, orienteering, individual fieldcraft and
-urban operations. The cadets are given opportunities to enjoy the combined
-Uniformed Group (UG) camp conducted in school and NCC HQ activities such
-as Camp FORGE and Camp STEEL, the Senior Specialist Leaders’ Course, Sports
-and Games Competitions, Orienteering Competition and Cluster Training sessions.
-Our unit also consists of Precision Drill Squad (PDS) and Freestyle Drill
-(FSD) teams. Cadets are auditioned and selected based on their drill sharpness
-and coordination. Our PDS and FSD teams are given a plethora of opportunities
-to participate in various events, which include competitions, National
-Day performances and outreach programmes for primary school students. The
-unit achieved the following awards in recent years and aims to continue
-to uphold high standards of the Corps:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Distinction for the Unit Recognition Award in 2019, 2020, 2021 and 2022;</p>
-</li>
-<li>
-<p>Champions (Girls) for Orienteering Competition in 2019</p>
-</li>
-<li>
-<p>1st Runner-Up (Boys) for Orienteering Competition in 2019</p>
-</li>
-<li>
-<p>Champions in the 11th NCC FSD Competition (East District) in 2019</p>
-</li>
-<li>
-<p>Gold awards for GOTC II Virtual Competition in 2021 and 2022;</p>
-</li>
-<li>
-<p>Silver awards for GOTC II Virtual Competition in 2023;</p>
-</li>
-<li>
-<p>2nd Runner-Up in the 12th NCC PDS Competition (East District) in 2023</p>
-</li>
-<li>
-<p>10th in the 12th NCC PDS Competition Grand Finals in 2023</p>
-</li>
-</ul>
+activities. Through these experiences, we strive to nurture self-motivated
+leaders who embody resilient minds, fit bodies, and committed hearts —
+ready to serve the unit, school, and nation.</p>
+<p>During training sessions, cadets participate in drills, physical training,
+and sports, which help to build fitness, discipline, and teamwork. They
+also acquire military-related skills and knowledge such as handling the
+SAR21 rifle, marksmanship, orienteering, individual fieldcraft, and urban
+operations.</p>
+<p>Beyond regular training, cadets enjoy opportunities to participate in
+a range of engaging programmes, including the combined Uniformed Group
+(UG) camp, and NCC HQ events such as Camp FORGE, Camp STEEL, the Senior
+Specialist Leaders’ Course, as well as Sports Championship and orienteering
+competitions.</p>
+<p>Our unit also features the Precision Drill Squad (PDS) and Freestyle Drill
+(FSD) teams. Cadets are auditioned and selected based on their drill sharpness,
+coordination, and commitment. These teams regularly perform at competitions,
+National Day celebrations, and outreach programmes for primary school students.
+The PDS is a longstanding source of pride for the unit, having consistently
+qualified for the Grand Finals in recent years. In 2025, the team achieved
+a new milestone by securing second place in the 14th NCC PDS Competition
+Grand Finals.</p>
+<p>The unit has attained commendable achievements in recent years and strives
+to continue upholding the high standards of the Corps.</p>
+<p><u>Unit Recognition Award</u>
+</p>
+<p>Distinction – Unit Recognition Award (2019 to 2024)</p>
+<p><u>NCC PDS Competition</u>
+</p>
+<p>1st Runner-Up – 14th NCC PDS Competition Grand Finals (2025)</p>
+<p>1st Runner-Up – 14th NCC PDS Competition (East District, 2025)</p>
+<p>1st Runner-Up – 13th NCC PDS Competition (East District, 2024)</p>
+<p>2nd Runner-Up – 12th NCC PDS Competition (East District, 2023)</p>
 <p>As of 2024, the NCC Land boys’ and girls’ units will merge as a combined
 mixed NCC Land unit. With the combined strengths of both boys and girls,
 we will achieve greater heights in years to come.</p>
+<p></p>
+<p></p>
