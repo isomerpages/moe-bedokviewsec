@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/Main_Page___L1.jpg
       key_highlights:
-        - title: Information on Direct School Admission (DSA)
-          description: ""
-          url: /join-us/direct-school-admission-dsa/
+        - title: BV Open House 2025
+          description: 22 Nov 2025 (Saturday)
+          url: /join-us/bv-openhouse/
         - title: Latest Happenings
           description: See more at our Facebook page
           url: https://www.facebook.com/BedokViewSecondarySchool
