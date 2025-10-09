@@ -16,10 +16,11 @@ can engage them and develop them to be confident and skilled communicators.</p>
 <h3>Programmes</h3>
 <p><strong>Dream Big Project</strong>
 </p>
-<p>Through this three-month programme, all Secondary 1 students have the
-opportunity to work in groups to perform a skit. Under the tutelage of
-their EL teachers, they write their own script and put into practice public
-speaking skills by presenting their skit to their classmates.</p>
+<p>Through this two-month programme, all Secondary 1 students have the opportunity
+to work in groups to perform a skit. Under the tutelage of their EL teachers,
+they write their own script and put into practice public speaking skills
+by presenting their skit to their classmates. At the end of the programme,
+they are required to record a video of their own skit.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic%20Curriculum/english%20(1).jpeg">
 </div>
