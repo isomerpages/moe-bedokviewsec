@@ -4,6 +4,12 @@ permalink: /partnerships/info-for-parents-and-students/
 description: ""
 variant: tiptap
 ---
+<p><strong>End-of-Year Examination Paper Checking Schedule (13 to 15 October)</strong>
+<br><a href="/files/S1_EYE_Paper_Checking_Schedule__13_15_Oct_.pdf" rel="noopener noreferrer nofollow" target="_blank">S1 EYE Paper Checking Schedule</a>
+<br><a href="/files/S2_EYE_Paper_Checking_Schedule__13_15_Oct_.pdf" rel="noopener noreferrer nofollow" target="_blank">S2 EYE Paper Checking Schedule</a>
+<br><a href="/files/S3_EYE_Paper_Checking_Schedule__13_15_Oct_.pdf" rel="noopener noreferrer nofollow" target="_blank">S3 EYE Paper Checking Schedule</a>
+</p>
+<p></p>
 <p><strong>Sept Holidays Academic Support Programme</strong>
 <br><a href="/files/2025_Secondary_4NA_Academic_Support_Timetable__11___12_Sep_.pdf" rel="noopener noreferrer nofollow" target="_blank">Programme Schedule</a>
 </p>
