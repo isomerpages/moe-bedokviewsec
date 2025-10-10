@@ -18,7 +18,7 @@ sections:
         - title: 2025 Student's Handbook
           description: Click for more information
           url: /for-parents-and-stakeholders/student-handbook/
-        - title: Sept Holidays Academic Support Programme
-          description: Click for more announcements
+        - title: End-of-Year Examination Paper Checking Schedule
+          description: (13 to 15 October)
           url: partnerships/info-for-parents-and-students/
 ---
