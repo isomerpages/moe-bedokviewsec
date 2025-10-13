@@ -17,4 +17,3 @@ School Tours: 8.30am onwards
 Location: Bedok View Secondary School
 ###### [2025 Bedok View Secondary School Open House Registration Link](https://go.gov.sg/bv-openhouse2025)
 ![](/images/QRCode.png)
-
