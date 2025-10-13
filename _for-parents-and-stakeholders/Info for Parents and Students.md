@@ -4,6 +4,13 @@ permalink: /partnerships/info-for-parents-and-students/
 description: ""
 variant: tiptap
 ---
+<p><strong>2026 Booklists</strong>
+<br><a href="/files/BEDOK_VIEW_SEC_BOOKLIST_S2_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 Booklist</a>
+<br><a href="/files/BEDOK_VIEW_SEC_BOOKLIST_S3_2026.pdf" rel="noopener nofollow" target="_blank">Secondary 3 Booklist</a>
+<br><a href="/files/BEDOK_VIEW_SEC_BOOKLIST_S4_2026.pdf" rel="noopener nofollow" target="_blank">Secondary 4 Booklist</a>
+<br><a href="/files/Approved_selling_dates_of_2025.pdf" rel="noopener nofollow" target="_blank">Sale Dates</a>
+</p>
+<p></p>
 <p><strong>End-of-Year Examination Paper Checking Schedule (13 to 15 October)</strong>
 <br><a href="/files/S1_EYE_Paper_Checking_Schedule__13_15_Oct_.pdf" rel="noopener noreferrer nofollow" target="_blank">S1 EYE Paper Checking Schedule</a>
 <br><a href="/files/S2_EYE_Paper_Checking_Schedule__13_15_Oct_.pdf" rel="noopener noreferrer nofollow" target="_blank">S2 EYE Paper Checking Schedule</a>
