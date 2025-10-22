@@ -18,7 +18,7 @@ sections:
         - title: 2025 Student's Handbook
           description: Click for more information
           url: /for-parents-and-stakeholders/student-handbook/
-        - title: End-of-Year Examination Paper Checking Schedule
-          description: (13 to 15 October)
+        - title: 2026 Booklists
+          description: ""
           url: partnerships/info-for-parents-and-students/
 ---
