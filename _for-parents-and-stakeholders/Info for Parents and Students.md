@@ -9,6 +9,7 @@ variant: tiptap
 <br><a href="/files/BEDOK_VIEW_SEC_BOOKLIST_S3_2026.pdf" rel="noopener nofollow" target="_blank">Secondary 3 Booklist</a>
 <br><a href="/files/BEDOK_VIEW_SEC_BOOKLIST_S4_2026.pdf" rel="noopener nofollow" target="_blank">Secondary 4 Booklist</a>
 <br><a href="/files/BEDOK_VIEW_SEC_BOOKLIST_S5NA_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 5NA Booklist</a>
+<br><a href="/files/Annex_A_2026.pdf" rel="noopener nofollow" target="_blank">Sale of Textbooks and School Uniform/PE Attire During School Holidays</a>
 <br><a href="/files/Approved_selling_dates_of_2025.pdf" rel="noopener nofollow" target="_blank">Sale Dates</a>
 </p>
 <p></p>
