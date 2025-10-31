@@ -8,8 +8,8 @@ variant: tiptap
 <h3>Teachers- In- Charge</h3>
 <p>Mr Tan Wee Ghuan Jastinian
 <br>Mdm Wong Chiu Yian
-<br>Mr Syaiful Bahari Bin Abdul Latif
-<br>Mrs Lena Ong</p>
+<br>Mr Dan Yeo
+<br>Mdm Lena Ong</p>
 <h3>CCA Schedule</h3>
 <table style="minWidth: 75px">
 <colgroup>
@@ -45,53 +45,105 @@ variant: tiptap
 </tbody>
 </table>
 <h3>CCA Overview &amp; Highlights</h3>
-<p>Bedok View Basketball Team Boys and Girls team had shown great improvements
-this year. The B Division Boys and Girls team played well in the B Division
-NSG and put up a great fight against the usual powerhouse in the East Zone.
-The players in each team worked hard with one another and in the process,
-forged stronger bonds and built better teamwork.</p>
-<p>The C Division Boys and Girls teams took part in the revamped NSG that
-took up a new format. The C Division Boys started the season very well
-in the Pool Round and won all 3 games! They were then promoted to League
-3 and also did the school proud by winning all 3 games in the Preliminary
-Round. They went on to the Semi-Finals of League 3 where the boys did exceptionally
-well during the final 2 games.&nbsp;</p>
-<p>In line with BVSS school values of Service and Excellence, the team made
-the school proud by <strong>clinching 4<sup>th</sup> position in the NSG Basketball 2024 C Division Boys League 3</strong>.
-With resilience and determination, the team will come back even stronger
-next season!</p>
+<p>Bedok View Secondary Basketball Co-Curricular Activity (CCA) aims to nurture
+students’ passion for the sport while developing their physical fitness,
+teamwork, and character. Through regular training sessions, members learn
+essential skills such as dribbling, passing, shooting, and defensive strategies.
+They also develop a deeper understanding of game tactics and effective
+communication on the court.</p>
+<p>Beyond technical skills, BV basketball emphasises important life and school
+values such as Respect, Resilience, Integrity, Service and Excellence.
+Members are encouraged to support one another, overcome challenges, and
+demonstrate resilience both in training and during matches.</p>
+<p>Our teams participate actively in friendly games, the National School
+Games and school events, providing students with opportunities to showcase
+their skills and represent the school with pride. Through these experiences,
+they not only grow as athletes but also as confident and responsible individuals.</p>
+<p>Whether you are new to basketball or an experienced player, BV Basketball
+offers an inclusive and supportive environment for all students to learn,
+grow, and achieve their potential — both on and off the court. Join us
+and be part of a dynamic and dedicated team.</p>
 <p></p>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/BBall1.png">
+<img style="width: 100%" height="auto" width="100%" alt="Basketball" src="/images/BB_01.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Basketball at BV" src="/images/BB_02.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Basketball at BV" src="/images/BB_03.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BB_04.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BB_05.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BB_06.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BB_07.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title"></div>
+</div>
+</div>
 </div>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/BBall2.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/BBall3.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/BBall4.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/BBall5.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/BBall6.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/BBall7.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/BBall8.jpg">
-</div>
 <p></p>
