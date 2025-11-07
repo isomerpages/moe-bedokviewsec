@@ -49,21 +49,26 @@ of our students.</p>
 <li>
 <p>CPEF (ML)</p>
 </li>
+<li>
+<p>CCM</p>
+</li>
 </ul>
 <h5>Chinese New Year Celebration</h5>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/MTL01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL01_2025.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL02_2025.jpg">
 </div>
 <p>Concert Segment</p>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/MTL02.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL03_2025.jpg">
 </div>
 <p>Giving of hampers to show appreciation to our Non-teaching Staff</p>
 <hr>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/MTL03.png">
 </div>
@@ -72,23 +77,31 @@ of our students.</p>
 <h5>Mother Tongue Languages Fortnight</h5>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/MTL04.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL05_2025.jpg">
 </div>
-<p>Chinese Paper Cutting</p>
+<p>Kite Making</p>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/MTL05.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL06_2025.jpg">
 </div>
-<p>Malay Traditional Headdress (Tanjak) folding</p>
+<p>Clay Modelling</p>
 <hr>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL07_2025.jpg">
+</div>
+<p>Learning Journey- Drama Appreciation</p>
+<hr>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/MTL08.png">
 </div>
 <p>Pongal Festival Celebration</p>
 <hr>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL09_2025.jpg">
+</div>
+<p>Basket Making</p>
+<hr>
 <h3>Subjects Offered</h3>
 <table style="minWidth: 75px">
 <colgroup>
@@ -122,8 +135,7 @@ of our students.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tamil Language
-<br>(G1 to G3)</p>
+<p>Higher Tamil Language (at Secondary 1 2026)</p>
 </td>
 </tr>
 <tr>
@@ -136,11 +148,8 @@ of our students.</p>
 <br>(G1 to G3)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tamil Language B
-<br>(at Secondary 4)
-<br>
-<br>
-</p>
+<p>Tamil Language
+<br>(G1 to G3)</p>
 </td>
 </tr>
 <tr>
@@ -156,7 +165,10 @@ of our students.</p>
 <br>(at Secondary 4)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Tamil Language B
+<br>(at Secondary 4)
+<br>
+</p>
 </td>
 </tr>
 </tbody>
