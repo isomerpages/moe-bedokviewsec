@@ -10,6 +10,7 @@ variant: tiptap
 <br>Mr Sivabalan Kaliaperumal
 <br>Mr Phoon Zhi Jian
 <br>Mr Kwok Wai Fung
+<br>Mdm Tuan Chui Lin
 <br>
 </p>
 <h3>CCA Schedule</h3>
@@ -41,7 +42,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6.00pm</p>
+<p>3.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Field</p>
@@ -71,8 +72,8 @@ players with sound technical ability through frequent training sessions
 and games. The Football CCA also seeks to provide a space for young men
 from all walks of life to bond and build lifelong friendships over a shared
 passion for the game.</p>
-<p>In 2024, we are proud that our B Div boys made it to the Quarter-Finals
-of League 3!
-<br>
+<p>In 2025, we are proud that our B Div boys made it to League 2 of the National
+School Games while our C Div boys achieved 4th placing in League 4, having
+been promoted from League 5 in the previous year.
 <br>
 </p>
