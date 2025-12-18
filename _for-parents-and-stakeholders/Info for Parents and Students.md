@@ -10,7 +10,6 @@ variant: tiptap
 <br><a href="/files/BEDOK_VIEW_SEC_BOOKLIST_S4_2026.pdf" rel="noopener nofollow" target="_blank">Secondary 4 Booklist</a>
 <br><a href="/files/BEDOK_VIEW_SEC_BOOKLIST_S5NA_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 5NA Booklist</a>
 <br><a href="/files/Annex_A_2026.pdf" rel="noopener nofollow" target="_blank">Sale of Textbooks and School Uniform/PE Attire During School Holidays</a>
-<br><a href="/files/Approved_selling_dates_of_2025.pdf" rel="noopener nofollow" target="_blank">Sale Dates</a>
 </p>
 <p></p>
 <p><strong>End-of-Year Examination Paper Checking Schedule (13 to 15 October)</strong>
@@ -49,7 +48,7 @@ Practical Exam</p>
 <br><a href="/files/Briefing_Slides_for_Release_of_O_Level_Results.pdf" rel="noopener nofollow" target="_blank">GCE O-Level Release of Results Briefing Slides</a>
 </p>
 <p></p>
-<p><strong>2024 GCE N-Level Release of Results</strong>
-<br><a href="/files/Briefing_Slides_for_Release_of_N_Level_Results.pdf" rel="noopener noreferrer nofollow" target="_blank">GCE N-Level Release of Results Briefing Slides</a>
+<p><strong>2025 GCE N-Level Release of Results</strong>
+<br><a href="/files/Briefing_Slides_for_Release_of_N_Level_Results_school_website.pdf" rel="noopener nofollow" target="_blank">GCE N-Level Release of Results Briefing Slides</a>
 </p>
 <p></p>

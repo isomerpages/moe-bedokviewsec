@@ -1,6 +1,6 @@
 ---
-title: Secondary 1 (2025) Registration
-permalink: /secondary-1-2025-registration/
+title: Secondary 1 (2026) Registration
+permalink: /secondary-1-2026-registration/
 variant: tiptap
 description: ""
 ---
