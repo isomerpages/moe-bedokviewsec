@@ -48,7 +48,7 @@ Practical Exam</p>
 <br><a href="/files/Briefing_Slides_for_Release_of_O_Level_Results.pdf" rel="noopener nofollow" target="_blank">GCE O-Level Release of Results Briefing Slides</a>
 </p>
 <p></p>
-<p><strong>2024 GCE N-Level Release of Results</strong>
-<br><a href="/files/Briefing_Slides_for_Release_of_N_Level_Results.pdf" rel="noopener noreferrer nofollow" target="_blank">GCE N-Level Release of Results Briefing Slides</a>
+<p><strong>2025 GCE N-Level Release of Results</strong>
+<br><a href="/files/Briefing_Slides_for_Release_of_N_Level_Results_school_website.pdf" rel="noopener nofollow" target="_blank">GCE N-Level Release of Results Briefing Slides</a>
 </p>
 <p></p>
