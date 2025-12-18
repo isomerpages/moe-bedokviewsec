@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/Main_Page___L1.jpg
       key_highlights:
-        - title: BV Open House 2025
-          description: 22 Nov 2025 (Saturday)
-          url: /join-us/bv-openhouse/
+        - title: Secondary 1 (2026) Registration Information
+          description: ""
+          url: /secondary-1-2026-registration/
         - title: Latest Happenings
           description: See more at our Facebook page
           url: https://www.facebook.com/BedokViewSecondarySchool
