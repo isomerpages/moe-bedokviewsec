@@ -4,8 +4,7 @@ permalink: /secondary-1-2026-registration/
 variant: tiptap
 description: ""
 ---
-<p><strong>Secondary 1 (2026) Registration Information</strong>
-</p>
+<h4><strong>Secondary 1 (2026) Registration Information</strong></h4>
 <p><strong>Welcome to Bedok View Secondary School</strong>
 </p>
 <p>Dear Parents/Guardians,
