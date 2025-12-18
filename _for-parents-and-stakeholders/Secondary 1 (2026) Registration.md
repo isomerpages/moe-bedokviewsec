@@ -200,7 +200,7 @@ or collect a hard copy from our General Office.</p>
 <p>Completed application forms and supporting documents may be submitted:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Via email: <a rel="noopener noreferrer nofollow" target="_blank">bedokview_ss@moe.edu.sg</a>,
+<p>Via email: <a href="mailto: bedokview_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bedokview_ss@moe.edu.sg</a>,
 or</p>
 </li>
 <li>
