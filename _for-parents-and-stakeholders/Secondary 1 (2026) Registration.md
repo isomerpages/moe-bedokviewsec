@@ -174,15 +174,12 @@ be sent by <strong>6 pm Friday, 19 December.</strong>
 </p>
 <p>The school offers Higher Chinese Language and Higher Malay Language. Eligibility
 is based on students’ PSLE results and aptitude. Parents will receive a
-consent form via Parents Gateway/WhatsApp by 19 December.</p>
-<p>&nbsp;</p>
-<p>For enquiries, please contact (i) <a href="mailto: phoa_chye_hou_desmond@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">phoa_chye_hou_desmond@schools.gov.sg</a> (ii)
-<a href="mailto: ji_yu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ji_yu@schools.gov.sg</a>
-</p>
-<p>&nbsp;</p>
+consent form via Parents Gateway/WhatsApp by 19 December.&nbsp;
+<br>For enquiries, please contact
+<br>(i) <a href="mailto: phoa_chye_hou_desmond@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">phoa_chye_hou_desmond@schools.gov.sg</a> 
+<br>(ii) <a href="mailto: ji_yu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ji_yu@schools.gov.sg</a>&nbsp;</p>
 <p><u>Third Language</u>
-</p>
-<p>Students who have applied for a Third Language will be notified of their
+<br>Students who have applied for a Third Language will be notified of their
 application outcomes via Parents Gateway.</p>
 </div>
 </details>
@@ -194,19 +191,13 @@ application outcomes via Parents Gateway.</p>
 <br>The MOE Art Elective Programme (AEP) and Music Elective Programme (MEP)
 are offered at selected secondary schools and centres for students with
 strong aptitude and passion in these areas, regardless of their Posting
-Group.</p>
-<p>&nbsp;</p>
+Group.&nbsp;</p>
 <p>As Bedok View is not an AEP/MEP centre, interested students may apply
-to join the centre-based AEP/MEP as external students.</p>
-<p>&nbsp;</p>
+to join the centre-based AEP/MEP as external students.&nbsp;</p>
 <p>An information sheet with details on these programmes will be shared via
 Parents Gateway. Art and Music teachers will also brief students during
-lessons.
-<br>
-<br>
-</p>
-<p>Students who wish to apply should inform their subject teachers.</p>
-<p>&nbsp;</p>
+lessons.</p>
+<p>Students who wish to apply should inform their subject teachers.&nbsp;</p>
 <p>Application window: <strong>2 – 15 January 2026</strong>
 </p>
 </div>
@@ -306,15 +297,11 @@ and submit the <strong>S1 Appeal Application Form</strong> via <a href="https://
 <br><u>Reporting Time</u>
 </p>
 <p>Students are to report to school by <strong>7.20 a.m.</strong> on the first
-day of school, <strong>Friday, 2 January 2026.</strong>
-</p>
-<p>&nbsp;</p>
+day of school, <strong>Friday, 2 January 2026.</strong>&nbsp;</p>
 <p><u>Attire</u>
-</p>
-<p>Students should be dressed in half-uniform (school T-shirt with shorts
+<br>Students should be dressed in half-uniform (school T-shirt with shorts
 or skirt). If students are unable to purchase the half-uniform prior to
-the first day of school, they may turn up in their primary school uniform.</p>
-<p>&nbsp;</p>
+the first day of school, they may turn up in their primary school uniform.&nbsp;</p>
 <p><u>What to Bring</u>
 </p>
 <p>As the day will focus on the Orientation Programme, students do not need
@@ -332,22 +319,19 @@ some dry snacks.</p>
 <br><u>Programme Overview</u>
 </p>
 <p>A Meet-the-Parents Session and Commencement Ceremony will be held on <strong>Tuesday, 6 January 2026</strong>,
-around 3 pm in school.</p>
-<p>&nbsp;</p>
+around 3 pm in school.&nbsp;</p>
 <p><u>Briefing for Parents &amp; Commencement Ceremony</u>
 </p>
 <p>During this session, parents will be briefed on the secondary school curriculum,
 key programmes, and school expectations.&nbsp; This will be followed by
 the Commencement Ceremony, that marks the culmination of the Orientation
-Programme for our new Secondary One students.</p>
-<p><strong>&nbsp;</strong>
+Programme for our new Secondary One students.<strong>&nbsp;</strong>
 </p>
 <p><u>PSG Welcome Tea</u>
 </p>
 <p>Following the ceremony, parents who are interested to learn more about
 the Parent Support Group (PSG) are warmly invited to attend the PSG Welcome
-Tea.</p>
-<p>&nbsp;</p>
+Tea.&nbsp;</p>
 <p>A Parents Gateway notification with more details will be sent to all parents
 closer to the date.</p>
 </div>
