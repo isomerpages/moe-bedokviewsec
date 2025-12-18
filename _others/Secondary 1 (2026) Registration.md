@@ -4,83 +4,35 @@ permalink: /secondary-1-2026-registration/
 variant: tiptap
 description: ""
 ---
-<p><strong>Secondary 1 (2025) Registration</strong>
+<p><strong>Secondary 1 (2026) Registration Information</strong>
+</p>
+<p><strong>Welcome to Bedok View Secondary School</strong>
 </p>
 <p>Dear Parents/Guardians,
-<br>A warm welcome to Bedok View Secondary School!</p>
+<br>A warm welcome to the Bedok View family. We look forward to partnering
+you in your child’s learning and growth.</p>
+<p>&nbsp;Please note that <strong>students newly posted to Bedok View do not need to report physically to the school on 19 December 2025</strong>.</p>
+<p>All key registration details and next steps are provided below.&nbsp;</p>
+<p>For queries, please contact our General Office at <strong>6443 0563</strong>.</p>
+<p><strong><u>Contents</u></strong>
+</p>
+<p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp; <u>Sale of Textbooks and School Uniform/PE Attire</u></strong>
+<br><strong>2.&nbsp;&nbsp;&nbsp;&nbsp; <u>Subjects at More Demanding Level (MDL) and Less Demanding Level (LDL)</u></strong>
+<br><strong>3.&nbsp;&nbsp;&nbsp;&nbsp; <u>MTL Matters</u></strong>
+<br><strong>4.&nbsp;&nbsp;&nbsp;&nbsp; <u>Art and Music Elective Programmes</u></strong>
+<br><strong>5.&nbsp;&nbsp;&nbsp;&nbsp; <u>MOE Financial Assistance Scheme (MOE FAS)</u></strong>
+<br><strong>6.&nbsp;&nbsp;&nbsp;&nbsp; <u>Transfer Application</u></strong>
+<br><strong>7.&nbsp;&nbsp;&nbsp;&nbsp; <u>Important Notes for First Day of School on Friday, 2 January 2026</u></strong>
+<br><strong>8.&nbsp;&nbsp;&nbsp;&nbsp; <u>Commencement Ceremony and Meet-the-Parents Session on Tuesday, 6 January 2026</u></strong>
+</p>
 <p></p>
-<p><strong><u>Secondary 1 (2025) Registration (20 December 2024)</u></strong>&nbsp;</p>
-<p>Parents/guardians of&nbsp;<strong>Secondary 1 (2025)</strong>&nbsp;students
-who are successfully posted to our school will receive the registration
-details via Parents Gateway (PG) on <strong>Thursday, 19 December 2024.</strong> Please
-register your child/ward <strong>by Friday, 20 December 2024, 8.00 am</strong>.&nbsp;</p>
-<p>If you have yet to receive the announcement via PG by <strong>Thursday, 19 December, 4.00pm</strong>,
-or have any further clarifications on the <strong>Secondary 1 (2025) Registration</strong>,
-please contact the General Office at 6443 0563.</p>
-<p>As most of our communications are done via PG, we strongly encourage parents
-who are not yet onboard PG to register for the PG app. You may wish to
-contact our General Office at 6443 0563 for assistance.&nbsp;</p>
-<p><strong><u>Secondary 1 (2025) Registration Briefing for Parents/Guardians (20 December 2024)</u></strong>
+<p><strong>1. Sale of Textbooks and School Uniform/PE Attire</strong>
 </p>
-<p>&nbsp;There will be a briefing for parents/guardians on <strong>Friday, 20 December from 9.00 am to 10.00 am</strong> via <strong>Zoom</strong>.
-Parents/guardians are strongly encouraged to attend this briefing as important
-administrative information and instructions will be shared during this
-session. Log-in instructions on the briefing will be provided upon completing
-the Secondary 1 Registration.</p>
-<p>As part of the registration briefing, a segment on the Offer of Subjects
-at More Demanding Level (MDL) will be carried out for parents and eligible
-students. Parents of PG1 and PG2 students who are eligible to offer subjects
-at MDL will receive the offers via PG on <strong>Friday, 20 December from 12.00pm onwards.</strong>
-</p>
-<p>&nbsp;Thank you.&nbsp;</p>
-<p><strong>Additional details on Secondary 1 (2025) Registration matters:</strong>
-</p>
-<p>&nbsp;<strong>1.&nbsp;&nbsp;&nbsp; Transfer Application</strong>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>For transfer into Bedok View Secondary School</u>
-<br>Students appealing for transfer into our school, will need to meet the
-Cut-Off Point (COP) and cannot have been assigned a school via the DSA
-route. Once these considerations are met, the school may consider applications
-subject to vacancies. Please complete and submit the <strong>S1 Appeal Application Form</strong> via
-this link: <a href="https://go.gov.sg/bv-s1appeal-2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/bv-s1appeal-2025</a> or
-the QR code below by <strong>Tuesday, 26 December 2024, 12.00 pm</strong>.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/S1_Appeal.png">
-</div>
-<p></p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <u>For transfer to another school (due to medical reasons)</u>
-</p>
-<p>Please submit the appeal and supporting documents at Bedok View Secondary
-School <strong>in person</strong> on <strong>Thursday, 19 December 2024, from 8.30 am to 12.00 pm</strong>.
-For more information, please refer to <a href="https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer/" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer/</a>.</p>
-<p></p>
-<p><strong>2.&nbsp;&nbsp;&nbsp; MOE Financial Assistance Scheme (MOE FAS)</strong>
-</p>
-<p><strong>&nbsp;</strong>For application of MOE FAS for your child/ward,
-you can visit MOE’s website: <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a> and
-apply&nbsp;<a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">online</a>.&nbsp;
-Alternatively, you can download the&nbsp;<a href="https://www.moe.gov.sg/financial-matters/-/media/files/financial-matters/moe-fas-application-form.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE FAS application form</a>&nbsp;
-from the website or collect a copy from the General Office.&nbsp;</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/MOE_FAS2.png">
-</div>
-<p>&nbsp;You can submit the application form and the supporting documents
-to us via email at <a href="mailto:bedokview_ss@moe.edu.sg" rel="noopener nofollow" target="_blank">bedokview_ss@moe.edu.sg</a> or
-directly at our school’s General Office by <strong>Thursday, 26 December 2024</strong>.</p>
-<p>&nbsp;If your child’s/ward’s primary school has already approved the MOE
-FAS application for the year 2025, kindly forward a copy of the approval
-letter to us.</p>
-<p>&nbsp;<strong>3.&nbsp;&nbsp;&nbsp; Secondary 1 Booklists</strong>
-</p>
-<p><strong>&nbsp;</strong>The Secondary 1 Booklist is attached below:&nbsp;
-<br><a href="/files/BDVSS__Sec_1_2025_Booklist.pdf" rel="noopener nofollow" target="_blank">Bedok View Secondary - Sec 1 2025 Booklist</a>
-</p>
-<p><strong>&nbsp;4.&nbsp;&nbsp;&nbsp; Sale of Textbooks and School Uniform/PE Attire</strong>
+<p>The <a href="/files/BEDOK_VIEW_SEC_BOOKLIST_S1_2026.pdf" rel="noopener nofollow" target="_blank">Secondary 1 Booklist is available here.</a>
+<br>
 </p>
 <p><strong>&nbsp;A. Online Purchase (Preferred Mode)</strong>
 </p>
-<p>&nbsp;&nbsp;&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -101,17 +53,15 @@ letter to us.</p>
 <p>Website</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<a href="https://www.pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com</a>
+<p><a href="https://www.pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com</a>
+<br>
 </p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/pacificbookstore.png">
-</div>
 <p>All users are required to create an account before proceeding with the
-order.
-<br>Online buying guide
+order.</p>
+<p>Online buying guide
 <br><a href="https://www.pacificbookstores.com/faqs" rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com/faqs</a>
 </p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -119,8 +69,8 @@ order.
 <p>Customer Service Contact</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hotline: 6929 8012 (Lunch break: 12.00pm to 1.00pm)
-<br>Email: <a href="mailto:sales@pacificbookstores.com" rel="noopener nofollow" target="_blank">sales@pacificbookstores.com</a>
+<p>Hotline: 6929 8012 (Lunch break: 12.00pm to 1.00pm)</p>
+<p>Email: <a href="mailto: sales@pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">sales@pacificbookstores.com</a>
 </p>
 </td>
 </tr>
@@ -129,7 +79,7 @@ order.
 <p>Payment Mode for Online Purchase</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>PayNow (QR code), Credit/ Debit Cards<strong>&nbsp;&nbsp;&nbsp;&nbsp;</strong>
+<p>PayNow (QR code), Credit/ Debit Cards<strong>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>
 </p>
 </td>
 </tr>
@@ -146,19 +96,16 @@ order.
 <p>Collection in school</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>19 and 26 December (self-collection)</p>
+<p>22 and 23 December (self-collection)</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;B. Walk-In Purchase (by Appointment only)</strong>
-</p>
-<p><strong>&nbsp;</strong>We strongly advise parents to make their purchases
-online.&nbsp; If you are not able to make your purchase online, please
-make an appointment for your walk-in purchase.&nbsp; We seek your kind
-understanding that walk-ins without prior appointment may not be allowed
-entry into the school.&nbsp;</p>
 <p></p>
+<p><strong>B. Walk-In Purchase</strong>
+</p>
+<p>We strongly encourage parents to purchase online. If you are unable to
+do so, please refer to the details below for walk-in purchases..</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -173,16 +120,15 @@ entry into the school.&nbsp;</p>
 <td rowspan="1" colspan="1">
 <p><strong>Pacific Bookstores Pte Ltd</strong>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 1 (2025)</p>
+<p>Sec 1 (2026)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>20 and 23 December (Walk-in Purchase)
-<br>27 December (for FAS collections only)</p>
+<p>29 December (Walk-in Purchase)
+<br>26 December (for FAS collections only)</p>
 </td>
 </tr>
 <tr>
@@ -191,16 +137,7 @@ entry into the school.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9.00 am to 3.00 pm (Monday to Friday)
-<br>Lunch break: 12.00pm to 1.00pm&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Walk-In Appointment</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Book appointment through link at: <a href="https://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com/</a>
-</p>
+<br>&nbsp;Lunch break: 12.00pm to 1.00pm</p>
 </td>
 </tr>
 <tr>
@@ -208,12 +145,162 @@ entry into the school.&nbsp;</p>
 <p>Payment Mode for Walk-In Purchase</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Cash, PayNow</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
+<p>Cash, PayNow</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+<p><strong>Note:</strong> Parents/Guardians of students eligible to offer
+subjects at a More Demanding Level (MDL), Less Demanding Level (LDL), and/or
+Higher Mother Tongue Language (HMTL) will receive the offer letter via
+the Parents Gateway (PG) app. Please purchase textbooks for the respective
+subjects <strong>only after confirming your child’s chosen subject levels.</strong>
+</p>
+<p></p>
+<p><strong><a rel="noopener noreferrer nofollow" target="_blank">2.&nbsp; Subjects at More Demanding Level (MDL) and Less Demanding Level (LDL)</a></strong>
+</p>
+<p>A live briefing session via <strong>Microsoft Teams</strong> will be held
+on <strong>Monday, 22 December</strong>, to help parents and students understand
+the process of offering subjects at both the More Demanding Level (MDL)
+and Less Demanding Level (LDL). All parents will receive the MS Teams link
+to join the session and find out more about the subject offering process.</p>
+<p>A Parents Gateway notification containing the Microsoft Teams link will
+be sent by <strong>6 pm Friday, 19 December.</strong>
+</p>
+<p><strong><a rel="noopener noreferrer nofollow" target="_blank">3.&nbsp; MTL &amp; Third Language Matters</a></strong>
+<br>
+<br><u>Higher MTL</u>
+<br>The school offers Higher Chinese Language and Higher Malay Language. Eligibility
+is based on students’ PSLE results and aptitude. Parents will receive a
+consent form via Parents Gateway/SMS by 19 December.</p>
+<p>For enquiries, please contact <a href="mailto: phoa_chye_hou_desmond@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">phoa_chye_hou_desmond@schools.gov.sg</a>&nbsp;</p>
+<p><u>Third Language</u>
+<br>Students who have applied for a Third Language will be notified of their
+application outcomes via Parents Gateway.&nbsp;&nbsp;</p>
+<p><strong>4.&nbsp; Art and Music Elective Programmes</strong>
+</p>
+<p>The MOE Art Elective Programme (AEP) and Music Elective Programme (MEP)
+are offered at selected secondary schools and centres for students with
+strong aptitude and passion in these areas, regardless of their Posting
+Group.&nbsp;</p>
+<p>As Bedok View is not an AEP/MEP centre, interested students may apply
+to join the centre-based AEP/MEP as external students.&nbsp;</p>
+<p>An information sheet with details on these programmes will be shared via
+Parents Gateway. Art and Music teachers will also brief students during
+lessons.</p>
+<p>Students who wish to apply should inform their subject teachers.
+<br>
+<br>Application window: <strong>2 – 15 January 2026&nbsp;&nbsp;</strong>
+</p>
+<p><strong>5.&nbsp; MOE Financial Assistance Scheme (MOE FAS)</strong>
+</p>
+<p>To apply for the MOE FAS for your child/ward, please visit <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_new">MOE’s website</a> and
+apply online. Alternatively, you may download the form from the same website
+or collect a hard copy from our General Office.</p>
+<p>Completed application forms and supporting documents may be submitted:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Via email: <a rel="noopener noreferrer nofollow" target="_blank">bedokview_ss@moe.edu.sg</a>,
+or</p>
+</li>
+<li>
+<p>In person at the General Office
+<br>Deadline: <strong>Friday, 26 December 2025</strong>
+</p>
+</li>
+</ul>
+<p>If your child’s primary school has already approved the 2026 MOE FAS application,
+please forward a copy of the approval letter to us.</p>
+<p><strong>Please wait for the FAS approval letter from Bedok View Secondary School before purchasing any books or uniform.</strong>
+<br>
+<br>Families who proceed with purchases before receiving the approval letter
+will <strong>not be eligible for reimbursement</strong>.&nbsp;</p>
+<p><strong>6.&nbsp; Transfer Application</strong>
+</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank"><u>For transfer to another school (due to medical reasons)</u></a>
+</p>
+<p>If you feel that Bedok View Secondary School is unable to meet your child’s
+physical or health needs, you may submit a transfer appeal, in person at
+Bedok View Secondary School. Appeals must be submitted by <strong>12pm on 22 December 2025.</strong>&nbsp;
+Appeals are considered only in exceptional cases, such as:&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Serious medical conditions (e.g. chronic heart or kidney problems)</p>
+</li>
+<li>
+<p>Severe physical impairments (e.g. requiring a wheelchair)</p>
+</li>
+</ul>
+<p>Please bring along the supporting documents (e.g. medical reports, doctor’s
+letters) for the transfer appeal.</p>
+<p>School staff will assist you with the process. Appeal outcomes will be
+released by early January.
+<br>Students should continue attending their posted school while waiting for
+the results.</p>
+<p>More information can be found at <a href="https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer/" rel="noopener noreferrer nofollow" target="_new">MOE’s website</a>.</p>
+<p><u>For transfer to another school (due to non-medical reasons)</u>
+</p>
+<p>If you wish to appeal for a transfer due to non-medical reasons, please
+note:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Appeals should be submitted directly
+to your preferred school.
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Your child must meet the school’s <strong>cut-off point (COP)</strong> and
+admission criteria.
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Admission is subject to <strong>available vacancies</strong>.
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Schools manage their own appeals
+and may request additional documents.
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Appeal outcomes are usually available <strong>from mid-January</strong>.</p>
+<p>Changing schools can disrupt your child’s learning. We encourage parents
+to allow their child to settle into the posted school to ease their adjustment
+to secondary school life.</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank"><u>For transfer into Bedok View Secondary School</u></a><u><br></u>Students
+appealing to transfer into Bedok View Secondary School must:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Meet the school’s <strong>Cut-Off Point (COP)</strong>; and</p>
+</li>
+<li>
+<p>Not have been admitted through the DSA route.</p>
+</li>
+</ul>
+<p>Applications will be considered subject to vacancies. Please complete
+and submit the <strong>S1 Appeal Application Form</strong> via <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/bv-s1appeal-2026</a> or
+scan the QR code below by <strong>Friday, 26 December 2025, 12.00 pm.&nbsp;</strong>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/S1_Appeal_2026.png">
+</div>
+<p><strong>7.&nbsp; <u>Important Notes for First Day of School on Friday, 2 January 2026</u></strong>
+</p>
+<p><u>Reporting Time</u>
+<br>Students are to report to school by <strong>7.20 a.m.</strong> on the first
+day of school, <strong>Friday, 2 January 2026.</strong>&nbsp;</p>
+<p><u>Attire</u>
+<br>Students should be dressed in half-uniform (school T-shirt with shorts
+or skirt). If students are unable to purchase the half-uniform prior to
+the first day of school, they may turn up in their primary school uniform.&nbsp;</p>
+<p><u>What to Bring</u>
+<br>As the day will focus on the Orientation Programme, students do not need
+to bring their school books. However, they should bring along their stationery
+and a storybook for silent reading, which begins at 7.20 a.m. before Morning
+Assembly.&nbsp; Students are also encouraged to bring a water bottle and
+some dry snacks.&nbsp;</p>
+<p><strong>8.&nbsp; <u>Meet-the-Parents Session/Commencement Ceremony and PSG Welcome Tea on Tuesday, 6 January 2026&nbsp;</u></strong>
+</p>
+<p><u>Programme Overview</u>
+</p>
+<p>A Meet-the-Parents Session and Commencement Ceremony will be held on <strong>Tuesday, 6 January 2026</strong>,
+around 3 pm in school.&nbsp;</p>
+<p><u>Briefing for Parents &amp; Commencement Ceremony</u>
+<br>During this session, parents will be briefed on the secondary school curriculum,
+key programmes, and school expectations.&nbsp; This will be followed by
+the Commencement Ceremony, that marks the culmination of the Orientation
+Programme for our new Secondary One students.<strong>&nbsp;</strong>
+</p>
+<p><u>PSG Welcome Tea</u>
+<br>Following the ceremony, parents who are interested to learn more about
+the Parent Support Group (PSG) are warmly invited to attend the PSG Welcome
+Tea.&nbsp;</p>
+<p>A Parents Gateway notification with more details will be sent to all parents
+closer to the date.</p>
