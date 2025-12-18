@@ -2,10 +2,10 @@ collections:
   for-parents-and-stakeholders:
     output: true
     order:
-      - Secondary 1 (2026) Registration.md
       - Info for Parents and Students.md
       - Parent Support Group (PSG).md
       - Key Dates in Term 4, 2025.md
       - 2025 Student's Handbook.md
       - Info on Device Management Application (DMA).md
       - Change of CCA for Sec 1 and 2.md
+      - Secondary 1 (2026) Registration.md
