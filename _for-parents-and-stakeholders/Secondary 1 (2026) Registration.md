@@ -208,8 +208,8 @@ lessons.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p>To apply for the MOE FAS for your child/ward, please visit <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_new">MOE’s website</a> and
-apply online. Alternatively, you may download the form from the same website
-or collect a hard copy from our General Office.</p>
+<a href="https://go.gov.sg/moe-efasggas" rel="noopener nofollow" target="_blank">apply online</a>. Alternatively, you may download the form from the same
+website or collect a hard copy from our General Office.</p>
 <p>Completed application forms and supporting documents may be submitted:</p>
 <ul data-tight="true" class="tight">
 <li>
