@@ -19,7 +19,7 @@ the<strong> </strong>Secondary 1 Registration will be conducted online<strong>. 
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>1. Sale of Textbooks and School Uniform/PE Attire</strong>
+<summary><strong>1.  Sale of Textbooks and School Uniform/PE Attire</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -290,7 +290,7 @@ and submit the <strong>S1 Appeal Application Form</strong> via <a href="https://
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>7. Important Notes for First Day of School on Friday, 2 January 2026</strong>
+<summary><strong>7.  Important Notes for First Day of School on Friday, 2 January 2026</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>
