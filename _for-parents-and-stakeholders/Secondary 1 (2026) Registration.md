@@ -208,20 +208,10 @@ lessons.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p>To apply for the MOE FAS for your child/ward, please visit <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_new">MOE’s website</a> and
-<a href="https://go.gov.sg/moe-efasggas" rel="noopener nofollow" target="_blank">apply online</a>. Alternatively, you may download the form from the same
-website or collect a hard copy from our General Office.</p>
-<p>Completed application forms and supporting documents may be submitted:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Via email: <a href="mailto: bedokview_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bedokview_ss@moe.edu.sg</a>,
-or</p>
-</li>
-<li>
-<p>In person at the General Office
+<a href="https://go.gov.sg/moe-efasggas" rel="noopener nofollow" target="_blank">apply online</a>.
+<br>
 <br>Deadline: <strong>Friday, 26 December 2025</strong>
 </p>
-</li>
-</ul>
 <p>If your child’s primary school has already approved the 2026 MOE FAS application,
 please forward a copy of the approval letter to us.</p>
 <p><strong>Please wait for the FAS approval letter from Bedok View Secondary School before purchasing any books or uniform.</strong>
