@@ -19,7 +19,7 @@ the<strong> </strong>Secondary 1 Registration will be conducted online<strong>. 
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>1.  Sale of Textbooks and School Uniform/PE Attire</strong>
+<summary><strong>1. Sale of Textbooks and School Uniform/PE Attire</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -151,7 +151,7 @@ subjects <strong>only after confirming your child’s chosen subject levels.</st
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>2.&nbsp; Subjects at More Demanding Level (MDL) and Less Demanding Level (LDL)</strong>
+<summary><strong>2.&nbsp;Subjects at More Demanding Level (MDL) and Less Demanding Level (LDL)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>
@@ -166,7 +166,7 @@ be sent by <strong>6 pm Friday, 19 December.</strong>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>3.&nbsp; MTL &amp; Third Language Matters</strong>
+<summary><strong>3. MTL &amp; Third Language Matters</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>
@@ -184,7 +184,7 @@ application outcomes via Parents Gateway.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>4.&nbsp; Art and Music Elective Programmes</strong>
+<summary><strong>4.&nbsp;Art and Music Elective Programmes</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>
@@ -203,7 +203,7 @@ lessons.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>5.&nbsp; MOE Financial Assistance Scheme (MOE FAS)</strong>
+<summary><strong>5.&nbsp;MOE Financial Assistance Scheme (MOE FAS)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
@@ -231,7 +231,7 @@ will <strong>not be eligible for reimbursement</strong>.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>6.&nbsp; Transfer Application</strong>
+<summary><strong>6.&nbsp;Transfer Application</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>
@@ -312,7 +312,7 @@ some dry snacks.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>8.&nbsp; Meet-the-Parents Session/Commencement Ceremony and PSG Welcome Tea on Tuesday, 6 January 2026</strong>
+<summary><strong>8.&nbsp;Meet-the-Parents Session/Commencement Ceremony and PSG Welcome Tea on Tuesday, 6 January 2026</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>
