@@ -235,7 +235,7 @@ will <strong>not be eligible for reimbursement</strong>.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>
-<br><a rel="noopener noreferrer nofollow" target="_blank"><u>For transfer to another school (due to medical reasons)</u></a>
+<br><u>For transfer to another school (due to medical reasons)</u>
 </p>
 <p>If you feel that Bedok View Secondary School is unable to meet your child’s
 physical or health needs, you may submit a transfer appeal, in person at
@@ -274,8 +274,8 @@ to allow their child to settle into the posted school to ease their adjustment
 to secondary school life.
 <br>
 </p>
-<p><a rel="noopener noreferrer nofollow" target="_blank"><u>For transfer into Bedok View Secondary School</u></a><u><br></u>Students
-appealing to transfer into Bedok View Secondary School must:</p>
+<p><u>For transfer into Bedok View Secondary School<br></u>Students appealing
+to transfer into Bedok View Secondary School must:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Meet the school’s <strong>Cut-Off Point (COP)</strong>; and</p>
