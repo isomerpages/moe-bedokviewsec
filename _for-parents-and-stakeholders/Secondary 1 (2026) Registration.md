@@ -151,7 +151,7 @@ subjects <strong>only after confirming your child’s chosen subject levels.</st
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>2.&nbsp; Subjects at More Demanding Level (MDL) and Less Demanding Level (LDL)</strong>
+<summary><strong>2.&nbsp;Subjects at More Demanding Level (MDL) and Less Demanding Level (LDL)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>
@@ -166,7 +166,7 @@ be sent by <strong>6 pm Friday, 19 December.</strong>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>3.&nbsp; MTL &amp; Third Language Matters</strong>
+<summary><strong>3. MTL &amp; Third Language Matters</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>
@@ -184,7 +184,7 @@ application outcomes via Parents Gateway.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>4.&nbsp; Art and Music Elective Programmes</strong>
+<summary><strong>4.&nbsp;Art and Music Elective Programmes</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>
@@ -203,25 +203,15 @@ lessons.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>5.&nbsp; MOE Financial Assistance Scheme (MOE FAS)</strong>
+<summary><strong>5.&nbsp;MOE Financial Assistance Scheme (MOE FAS)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p>To apply for the MOE FAS for your child/ward, please visit <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_new">MOE’s website</a> and
-apply online. Alternatively, you may download the form from the same website
-or collect a hard copy from our General Office.</p>
-<p>Completed application forms and supporting documents may be submitted:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Via email: <a href="mailto: bedokview_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bedokview_ss@moe.edu.sg</a>,
-or</p>
-</li>
-<li>
-<p>In person at the General Office
+<a href="https://go.gov.sg/moe-efasggas" rel="noopener nofollow" target="_blank">apply online</a>.
+<br>
 <br>Deadline: <strong>Friday, 26 December 2025</strong>
 </p>
-</li>
-</ul>
 <p>If your child’s primary school has already approved the 2026 MOE FAS application,
 please forward a copy of the approval letter to us.</p>
 <p><strong>Please wait for the FAS approval letter from Bedok View Secondary School before purchasing any books or uniform.</strong>
@@ -231,7 +221,7 @@ will <strong>not be eligible for reimbursement</strong>.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>6.&nbsp; Transfer Application</strong>
+<summary><strong>6.&nbsp;Transfer Application</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>
@@ -312,7 +302,7 @@ some dry snacks.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>8.&nbsp; Meet-the-Parents Session/Commencement Ceremony and PSG Welcome Tea on Tuesday, 6 January 2026</strong>
+<summary><strong>8.&nbsp;Meet-the-Parents Session/Commencement Ceremony and PSG Welcome Tea on Tuesday, 6 January 2026</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>
