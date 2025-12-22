@@ -154,14 +154,11 @@ subjects <strong>only after confirming your child’s chosen subject levels.</st
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>
-<br>A live briefing session via <strong>Microsoft Teams</strong> will be held
-on <strong>Monday, 22 December</strong>, to help parents and students understand
-the process of offering subjects at both the More Demanding Level (MDL)
-and Less Demanding Level (LDL). All parents will receive the MS Teams link
-to join the session and find out more about the subject offering process.</p>
-<p>A Parents Gateway notification containing the Microsoft Teams link will
-be sent by <strong>6 pm Friday, 19 December.</strong>
-</p>
+<br>A live briefing session via <strong>Microsoft Teams</strong> was held on <strong>Monday, 22 December</strong>,
+to help parents and students understand the process of offering subjects
+at both the More Demanding Level (MDL) and Less Demanding Level (LDL).</p>
+<p></p>
+<p>The <a href="/files/2026_S1_MDL_Briefing_Slides.pdf" rel="noopener noreferrer nofollow" target="_blank">briefing slides can be found here</a>.</p>
 </div>
 </details>
 <details class="isomer-details">
