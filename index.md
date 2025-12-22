@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/Main_Page___L1.jpg
       key_highlights:
-        - title: Secondary 1 (2026) Registration
+        - title: Secondary 1 (2026) Information
           description: Click for more information
           url: /secondary-1-2026-registration/
         - title: Latest Happenings
