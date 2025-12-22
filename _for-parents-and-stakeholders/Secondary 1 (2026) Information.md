@@ -10,7 +10,7 @@ description: ""
 <p>Dear Parents/Guardians,
 <br>A warm welcome to the Bedok View family. We look forward to partnering
 you in your child’s learning and growth.</p>
-<p>&nbsp;Please note that <strong>students newly posted to Bedok View do not need to report physically to the school. All key information and next steps are provided below.</strong>
+<p>Please note that <strong>students newly posted to Bedok View do not need to report physically to the school in December. All key information and next steps are provided below.</strong>
 </p>
 <p>For queries, please contact our General Office at <strong>6443 0563</strong>.</p>
 <p><strong><u>Contents</u></strong>
