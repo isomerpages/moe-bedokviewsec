@@ -4,7 +4,8 @@ title: Bedok View Secondary School
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: "NOTICE: Please note that the school will be closed on 12 noon on
+  24th & 31st December. Thank you."
 sections:
   - hero:
       background: /images/Main_Page___L1.jpg
