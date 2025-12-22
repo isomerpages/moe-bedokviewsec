@@ -4,14 +4,13 @@ permalink: /secondary-1-2026-information/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Secondary 1 (2026) Registration Information</strong></h4>
+<h4><strong>Secondary 1 (2026) Information</strong></h4>
 <p><strong>Welcome to Bedok View Secondary School</strong>
 </p>
 <p>Dear Parents/Guardians,
 <br>A warm welcome to the Bedok View family. We look forward to partnering
 you in your child’s learning and growth.</p>
-<p>&nbsp;Please note that <strong>students newly posted to Bedok View do not need to report physically to the school </strong>as
-the<strong> </strong>Secondary 1 Registration will be conducted online<strong>. All key registration details and next steps are provided below to guide you through the registration process.</strong>
+<p>&nbsp;Please note that <strong>students newly posted to Bedok View do not need to report physically to the school. All key information and next steps are provided below.</strong>
 </p>
 <p>For queries, please contact our General Office at <strong>6443 0563</strong>.</p>
 <p><strong><u>Contents</u></strong>
