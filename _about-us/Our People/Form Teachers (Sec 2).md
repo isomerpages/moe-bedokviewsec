@@ -155,7 +155,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Nur Syafiqah Saini</p>
+<p>Ms Nur Iznina Zainudin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nur_syafiqah_saini@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_syafiqah_saini@schools.gov.sg</a>
@@ -164,11 +164,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Loh Chia Chang</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Loh_CHIA_CHANG@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Loh_CHIA_CHANG@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -190,20 +189,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Mardiyana Roslie</p>
+<p>Ms Tan Ai Fen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mardiyana_roslie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mardiyana_roslie@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ong Cheng Cheng</p>
+<p>Mr Hamzah Muhit</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Ong_Cheng_Cheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ong_Cheng_Cheng@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
