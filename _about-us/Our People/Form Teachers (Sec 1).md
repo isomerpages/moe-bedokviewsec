@@ -189,19 +189,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Iznina Zainudin</p>
+<p>Ms Ho Huiying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_iznina_zainudin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_iznina_zainudin@schools.gov.sg</a>
+<p><a href="mailto: ho_huiying_he_huiying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ho_huiying_he_huiying@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ho Huiying</p>
+<p>Mdm Visalatchi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ho_huiying_he_huiying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ho_huiying_he_huiying@schools.gov.sg</a>
+<p><a href="mailto: Visalatchi_santhira_segaran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Visalatchi_santhira_segaran@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -224,19 +224,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Ai Fen</p>
+<p>Mr Roy Cher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_ai_fen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_ai_fen@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Hamzah Muhit</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:hamzah_b_muhit@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hamzah_b_muhit@schools.gov.sg</a>
+<p><a href="mailto: cher_liew_chun_roy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cher_liew_chun_roy@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -259,89 +250,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohammed Noor Firdaus Sumawi</p>
+<p>Mr Syaiful Bahari Abdul Latif</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mohammed_noor_firdaus_sumawi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohammed_noor_firdaus_sumawi@schools.gov.sg</a>
+<p><a href="mailto: syaiful_bahari_abdul_latif@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">syaiful_bahari_abdul_latif@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Wong Chiu Yian</p>
+<p>Ms Esther Tay Hwee Kiang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_chiu_yian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_chiu_yian@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h5>Sec 1/8 Form Teachers</h5>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>E-mail</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Ji Yu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ji_yu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ji_yu@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Nur Emillia Bte Sulaiman Sim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nur_emillia_sulaiman_sim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_emillia_sulaiman_sim@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h5>Sec 1/9 Form Teachers</h5>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>E-mail</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Sok Foon Noelle</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_sok_foon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_sok_foon@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Heng Li Gek, Juliet</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:heng_li_gek_juliet@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">heng_li_gek_juliet@schools.gov.sg</a>
+<p><a href="mailto: tay_hwee_kiang_esther@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_hwee_kiang_esther@schools.gov.sg</a>
 </p>
 </td>
 </tr>
