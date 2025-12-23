@@ -22,20 +22,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Peh Ang Tiong</p>
+<p>Ms Cherie Chow</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:peh_ang_tiong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">peh_ang_tiong@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms&nbsp;Normohaida Mohamed Noor</p>
+<p>Mr Dan Yeo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:normohaida_mohamed_noor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">normohaida_mohamed_noor@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -57,7 +55,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Sei Hui</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_sei_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_sei_hui@schools.gov.sg</a>
