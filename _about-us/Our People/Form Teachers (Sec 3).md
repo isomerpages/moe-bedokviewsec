@@ -31,10 +31,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Liew Chu Ying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><em>To be updated</em>
+</p>
 </td>
 </tr>
 </tbody>
@@ -107,6 +108,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Naurana Badalge Ethan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>To be updated</em>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h5>Sec 3/4 Form Teachers</h5>
@@ -168,9 +178,53 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Fatimah Zahra</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>To be updated</em>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h5>Sec 3/6 Form Teachers</h5>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>E-mail</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Hazwah Md Shah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_hazwah_mohamed_shah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_hazwah_mohamed_shah@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Vincent Chong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chong_weng_chiew_vincent_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chong_weng_chiew_vincent_b@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h5>Sec 3/7 Form Teachers</h5>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -194,29 +248,12 @@ variant: tiptap
 </p>
 </td>
 </tr>
-</tbody>
-</table>
-<h5>Sec 3/7 Form Teachers</h5>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>E-mail</p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Hazwah Md Shah</p>
+<p>Ms Choong Kau Choo, Ivy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_hazwah_mohamed_shah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_hazwah_mohamed_shah@schools.gov.sg</a>
+<p><a href="mailto:choong_kau_choo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">choong_kau_choo@schools.gov.sg</a>
 </p>
 </td>
 </tr>
