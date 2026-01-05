@@ -38,6 +38,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Siti Rafidah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>To be updated</em>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h5>Sec 2/2 Form Teachers</h5>
@@ -101,10 +110,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Lim Yu Qing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lim_yu_qing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_yu_qing@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -170,10 +180,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Feroze S/O Amzah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:feroze_amzah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">feroze_amzah@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -277,7 +288,7 @@ variant: tiptap
 <p>Ms Tan Yok Khoon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>To be updated</em>
+<p><a href="mailto:tan_yok_khoon_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yok_khoon_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
