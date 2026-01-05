@@ -97,30 +97,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohd Azuan Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD - Aesthetics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;<a href="mailto:mohd_azuan_tan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohd_azuan_tan@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Phoa Chye Hou Desmond</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD - Mother Tongue Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:phoa_chye_hou_desmond@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">phoa_chye_hou_desmond@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Su Jee Yee Steven</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -128,6 +104,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:su_jee_yee_steven@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">su_jee_yee_steven@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Su Ling, Serene</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD - Aesthetics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_su_ling_serene@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_su_ling_serene@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -164,6 +152,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:steven_teo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">steven_teo@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Hendri Adriadi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD - Humanities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Hendri_Adriadi_Rizal@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Hendri_Adriadi_Rizal@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -220,7 +220,7 @@ variant: tiptap
 <p>Mr Hui Da Zun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head - Co-Curricular Activities</p>
+<p>Subject Head - EdTech</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Hui_Da_Zun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Hui_Da_Zun@schools.gov.sg</a>
@@ -293,7 +293,7 @@ variant: tiptap
 <p>Mr Fathul Rahman Bin Mohamed</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (Lower Sec and Sec 1)</p>
+<p>Year Head (Lower Sec and Sec 2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;<a href="mailto:fathul_rahman_b_mohamed@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fathul_rahman_b_mohamed@schools.gov.sg</a>
@@ -302,10 +302,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Fong Yi Shuen</p>
+<p>Ms Pei Hui Shan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Sec 2)</p>
+<p>Assistant Year Head (Sec 3)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Fong_Yi_Shuen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Fong_Yi_Shuen@schools.gov.sg</a>
@@ -317,7 +317,7 @@ variant: tiptap
 <p>Mdm Irdawaty Binte Mawardi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (Upper Sec and Sec 3)</p>
+<p>Year Head (Upper Sec and Sec 4)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:irdawaty_mawardi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">irdawaty_mawardi@schools.gov.sg</a>
@@ -326,10 +326,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Goh Wui Huat, Alex</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head (Upper Sec)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:goh_wui_huat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_wui_huat@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Umi Kalthom Bte Shokor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Level Coordinator</p>
+<p>Level Coordinator (Sec 1)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:umi_kalthom_shokor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">umi_kalthom_shokor@schools.gov.sg</a>
