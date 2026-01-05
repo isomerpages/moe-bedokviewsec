@@ -277,6 +277,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Umi Kalthom Bte Shokor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Level Coordinator (Sec 1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:umi_kalthom_shokor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">umi_kalthom_shokor@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Fathul Rahman Bin Mohamed</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -320,18 +332,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:goh_wui_huat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_wui_huat@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Umi Kalthom Bte Shokor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Level Coordinator (Sec 1)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:umi_kalthom_shokor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">umi_kalthom_shokor@schools.gov.sg</a>
 </p>
 </td>
 </tr>
