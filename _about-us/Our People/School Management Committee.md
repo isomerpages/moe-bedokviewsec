@@ -205,6 +205,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Fong Yi Shuen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head - Professional Development</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Fong_Yi_Shuen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Fong_Yi_Shuen@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Ho Huiying (He Huiying)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -232,35 +244,10 @@ variant: tiptap
 <p>Mr Muhammad Ahmad B Mohamed Shahrir</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head -&nbsp;Character and Citizenship Education</p>
+<p>Subject Head -Character and Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:muhammad_ahmad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_ahmad@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Normohaida Mohamed Noor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head - Information and Communications Technology</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:normohaida_mohamed_noor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">normohaida_mohamed_noor@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Serene Kuek</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head - Student Well-Being
-<br>(covering)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lee_chuen_sing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_chuen_sing@schools.gov.sg</a>
 </p>
 </td>
 </tr>
