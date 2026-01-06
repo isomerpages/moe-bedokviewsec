@@ -5,5 +5,5 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<h4><a href="https://indd.adobe.com/view/0f4bee8b-7361-41d6-a9ae-6840a0c9bfb6" rel="noopener noreferrer nofollow" target="_blank">2025 Student's Handbook</a></h4>
+<h4><a href="https://online.fliphtml5.com/obrr/BVSS_Handbook2026/" rel="noopener noreferrer nofollow" target="_blank">2026 Student's Handbook</a></h4>
 <p></p>
