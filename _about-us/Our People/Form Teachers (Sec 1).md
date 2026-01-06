@@ -38,6 +38,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Joyce Tang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:low_siew_lang_mrs@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_siew_lang_mrs@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h5>Sec 1/2 Form Teachers</h5>
@@ -205,6 +214,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Elaine Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>To be updated</em>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h5>Sec 1/6 Form Teachers</h5>
@@ -228,6 +246,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto: cher_liew_chun_roy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cher_liew_chun_roy@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Natalie Teo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>To be updated</em>
 </p>
 </td>
 </tr>
