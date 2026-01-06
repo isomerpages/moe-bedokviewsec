@@ -12,6 +12,7 @@ variant: tiptap
 </p>
 <p></p>
 <p><strong>2026 Booklists</strong>
+<br><a href="/files/BEDOK_VIEW_SEC_BOOKLIST_S1_2026.pdf" rel="noopener nofollow" target="_blank">Secondary 1 Booklist</a>
 <br><a href="/files/BEDOK_VIEW_SEC_BOOKLIST_S2_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 Booklist</a>
 <br><a href="/files/BEDOK_VIEW_SEC_BOOKLIST_S3_2026.pdf" rel="noopener nofollow" target="_blank">Secondary 3 Booklist</a>
 <br><a href="/files/BEDOK_VIEW_SEC_BOOKLIST_S4_2026.pdf" rel="noopener nofollow" target="_blank">Secondary 4 Booklist</a>
