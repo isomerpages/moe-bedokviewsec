@@ -2,6 +2,7 @@ collections:
   for-parents-and-stakeholders:
     output: true
     order:
+      - Key Dates in Term 1, 2026.md
       - Info for Parents and Students.md
       - Parent Support Group (PSG).md
       - 2026 Student's Handbook.md
