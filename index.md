@@ -18,7 +18,7 @@ sections:
         - title: 2026 Student's Handbook
           description: Click for more information
           url: /for-parents-and-stakeholders/student-handbook/
-        - title: 2026 Booklists
-          description: ""
+        - title: 2026 Class Timetables
+          description: Click for more announcements
           url: partnerships/info-for-parents-and-students/
 ---
