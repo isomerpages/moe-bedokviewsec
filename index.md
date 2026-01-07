@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/Main_Page___L1.jpg
       key_highlights:
-        - title: Secondary 1 (2026) Information
+        - title: Key Dates in Term 1, 2026
           description: Click for more information
-          url: /secondary-1-2026-information/
+          url: /key-dates/
         - title: Latest Happenings
           description: See more at our Facebook page
           url: https://www.facebook.com/BedokViewSecondarySchool
