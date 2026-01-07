@@ -4,6 +4,8 @@ permalink: /key-dates/
 variant: tiptap
 description: ""
 ---
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -21,162 +23,17 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Levels Involved</strong>
+<p><strong>Levels involved</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mon 15 Sep,
-<br>Tue 16 Sep–Wed 17 Sep,
-<br>Wed 17 Sep–Thu 18 Sep,
-<br>Mon 22 Sep,
-<br>Mon 6 Oct–Tue 14 Oct</p>
+<p>2 Jan (Fri) to
+<br>6 Jan (Tue)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>N-Level Written Exams
-<br>N-Level Listening Comprehension Exams
-<br>N-Level Written Exams</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 4N</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mon 15 Sep</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>O-Level Prelim Exams</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 4 and 5</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Wed 24 Sep–Wed 8 Oct</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 1–3 End-of-Year Exams</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 1 to 3</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Thu 25 Sep</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Graduation Day</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 4 and 5</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mon 29 Sep</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Start of study break for graduating students</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 4 and 5</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Wed 1 Oct,
-<br>Mon 6 Oct,
-<br>Thu 9 Oct,
-<br>Tue 14 Oct</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>O-Level Science Practical Exams</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 4 and 5</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Thu 9 Oct,</p>
-<p>Fri 10 Oct</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Marking Day
-<br>Self-Initiated Learning Day
-<br>(Sec 1 to 3 students need not return to school on these two days)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 1 to 3</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Fri 10 Oct</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>O-Level Art Exam (Paper 3)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 4 and 5</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mon 13 Oct–Tue 14 Oct&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Exam Paper Checking Day</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 1 to 3</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Wed 15 Oct</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Exam Paper Checking Day
-<br>End-of-Term Activities</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 3
-<br>S1 and S2</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Thu 16 Oct–Thu 23 Oct</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>End-of-Term Activities</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 1 to 3</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Thu 16 Oct – Mon 10 Nov</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>O-Level Written Exams</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 4 and 5</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mon 20 Oct</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Deepavali Public Holiday</p>
+<p>Orientation &amp; Back-to-school Activities</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All</p>
@@ -184,11 +41,42 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fri 24 Oct</p>
+<p>6 Jan (Tue)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>End-of-Year Meet-the-Parents Session) &amp; Last Day of School for Sec
-1 to 3</p>
+<p>Meet-the-Parents Sessions (MTPS) &amp; Commencement Ceremony (3pm to 5pm)</p>
+<p>PSG Welcome Tea (5pm to 6pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1 (In-person)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8 Jan (Thu) to 22 Jan (Thu)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Secondary 1 CCA Experience
+<br><em>(4 sessions for Sports CCA,</em>
+<br><em>4 sessions for Performing Arts and Clubs, and 2 sessions for Uniformed Groups)</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16 Jan (Fri),
+<br>30 Jan (Fri),
+<br>16 Feb (Mon),
+<br>27 Feb (Fri),
+<br>13 Mar (Fri)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+<br>Home-based Learning (HBL) Days</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All</p>
@@ -196,21 +84,57 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Thu 13 Nov</p>
+<p>20 Jan (Tue)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>BV Stars - Graduation Day and Prom Night</p>
+<p>NRIC Registration Exercise</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 4 and 5</p>
+<p>Sec 3</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sat 22 Nov</p>
+<p>
+<br>
+<br>23 Jan (Fri)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>BV Open House</p>
+<p>
+<br>
+<br>Meet-the-Parents Sessions (MTPS) (5pm to 6pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 3 (In-Person)</p>
+<p>Sec 2 (Virtual)
+<br>
+<br>Sec 4 &amp; 5 (Virtual)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26 Jan (Mon) to 29 Jan (Thu)&nbsp;</p>
+<p>27 Jan (Tue) to 29 Jan (Thu)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mid-Term Activities
+<br>
+</p>
+<p>
+<br>Residential Level Camps</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All levels</p>
+<p>
+<br>Sec 1 &amp; 3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13 Feb (Fri)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Special Timetable and Chinese New Year Celebrations</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All</p>
@@ -218,11 +142,21 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sun 23 Nov – Sun 21 Dec</p>
-<p>&nbsp;</p>
+<p>17 Feb (Tue) and 18 Feb (Wed)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>November &amp; December Staff Protected Time</p>
+<p>Chinese New Year (Public Holiday)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16 Mar (Mon) to 20 Mar (Fri)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Holidays</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All</p>
@@ -230,5 +164,6 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
+<p>
+<br>
+</p>
