@@ -301,13 +301,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Pei Hui Shan</p>
+<p>Ms Peh Hui Shan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head (Sec 3)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Fong_Yi_Shuen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Fong_Yi_Shuen@schools.gov.sg</a>
+<p><a href="mailto:peh_hui_shan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">peh_hui_shan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
