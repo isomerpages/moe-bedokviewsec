@@ -73,18 +73,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss&nbsp;Nurulasyikin Bte Md Yunan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nurulasyikin_md_yunan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurulasyikin_md_yunan@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Miss Safura Bte Abdul Karim</p>
 </td>
 <td rowspan="1" colspan="1">

@@ -10,9 +10,8 @@ variant: tiptap
 <br>Ms Jasmine Ngo Wei Min
 <br>Mr Hamzah B Muhit</p>
 <h3>CCA Schedule</h3>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -24,9 +23,6 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Time</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Venue</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -37,9 +33,6 @@ variant: tiptap
 <p>3.30pm - 6.00pm
 <br>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Hall</p>
 </td>
 </tr>
 </tbody>

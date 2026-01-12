@@ -6,14 +6,14 @@ third_nav_title: Performing Arts
 variant: tiptap
 ---
 <h3>Teachers- In- Charge</h3>
-<p>Ms Lee Chuen Sing Serene Kuek
-<br>Ms Heng Li Gek Juliet
-<br>Ms Nur Emillia Bte Sulaiman Sim
-<br>Mdm Visalatchi Santhira Segaran</p>
+<p>Ms Nur Emillia Bte Sulaiman Sim
+<br>Mdm Visalatchi Santhira Segaran
+<br>Mdm Haryati Bt Hussin
+<br>
+</p>
 <h3>CCA Schedule</h3>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -25,9 +25,6 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Time</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Venue</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -35,10 +32,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>3.30pm - 6.00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dance Studio
-<br>E4-10</p>
 </td>
 </tr>
 </tbody>

@@ -7,12 +7,12 @@ variant: tiptap
 ---
 <h3>Teachers- In- Charge</h3>
 <p>Mdm Tan Sei Hui
-<br>Ms Geraldine Chia Hui Jun
-<br>Mr Jerry Ho Kok Leong</p>
+<br>Mr Jerry Ho Kok Leong
+<br>Mdm Wong Chiu Yian
+<br>Ms Geraldine Chia Hui Jun</p>
 <h3>CCA Schedule</h3>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -24,9 +24,6 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Time</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Venue</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -34,9 +31,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>3.30pm - 5.30pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Blackbox: B3-04</p>
 </td>
 </tr>
 </tbody>

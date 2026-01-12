@@ -18,7 +18,7 @@ sections:
         - title: 2026 Student's Handbook
           description: Click for more information
           url: /for-parents-and-stakeholders/student-handbook/
-        - title: 2026 Class Timetables
-          description: Click for more announcements
-          url: partnerships/info-for-parents-and-students/
+        - title: 2025 O Level Results Release
+          description: Click for more information
+          url: /2025-o-level-results-release/
 ---

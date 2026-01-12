@@ -11,9 +11,8 @@ variant: tiptap
 <br>Mr Peh Ang Tiong
 <br>Mr Bryan Koh Ting Rong</p>
 <h3>CCA Schedule</h3>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -24,9 +23,6 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <p>Time</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Venue</p>
 </th>
 </tr>
 <tr>
@@ -39,10 +35,6 @@ variant: tiptap
 <p>3.00pm - 6.00pm
 <br>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Classrooms
-<br>D2-01 to D2-05</p>
 </td>
 </tr>
 </tbody>
