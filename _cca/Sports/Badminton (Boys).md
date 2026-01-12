@@ -8,7 +8,7 @@ variant: tiptap
 <h3>Teachers- In- Charge</h3>
 <p>Mr Wee Khim Leng
 <br>Ms Jasmine Ngo Wei Min
-<br>Ms Siti Sufiah Ruhyani Bte M Nasir</p>
+<br>Mr Hamzah B Muhit</p>
 <h3>CCA Schedule</h3>
 <table style="minWidth: 75px">
 <colgroup>
