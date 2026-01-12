@@ -7,9 +7,9 @@ variant: tiptap
 ---
 <h3>Teachers- In- Charge</h3>
 <p>Mr Tan Wee Ghuan Jastinian
-<br>Mdm Wong Chiu Yian
-<br>Mr Dan Yeo
-<br>Mdm Lena Ong</p>
+<br>Mdm Esther Tay Hwee Kiang
+<br>Mdm Lena Ong
+<br>Mr Dan Yeo</p>
 <h3>CCA Schedule</h3>
 <table style="minWidth: 75px">
 <colgroup>
