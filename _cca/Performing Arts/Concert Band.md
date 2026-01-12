@@ -6,9 +6,9 @@ third_nav_title: Performing Arts
 variant: tiptap
 ---
 <h3>Teachers- In- Charge</h3>
-<p>Ms Anuthama
-<br>Mr Muhammad Ahmad
-<br>Mr Hamzah Bin Muhit</p>
+<p>Mr Muhammad Ahmad
+<br>Ms Lai Mok Ern
+<br>Miss Siti Sufiah Ruhyani</p>
 <h3>CCA Schedule</h3>
 <table style="minWidth: 75px">
 <colgroup>
