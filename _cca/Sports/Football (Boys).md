@@ -6,11 +6,13 @@ third_nav_title: Sports
 variant: tiptap
 ---
 <h3>Teachers-In-Charge</h3>
-<p>Ms Nur Hazwah Binte Mohamed Shah
+<p>Mdm Tuan Chui Lin
+<br>Ms Nur Hazwah Binte Mohamed Shah
 <br>Mr Sivabalan Kaliaperumal
 <br>Mr Phoon Zhi Jian
 <br>Mr Kwok Wai Fung
-<br>Mdm Tuan Chui Lin
+<br>Miss Nur Syafiqah Binte Saini
+<br>
 <br>
 </p>
 <h3>CCA Schedule</h3>
