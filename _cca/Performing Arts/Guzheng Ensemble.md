@@ -12,9 +12,8 @@ variant: tiptap
 <br>
 </p>
 <h3>CCA Schedule</h3>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -26,9 +25,6 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Time</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Venue</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -36,9 +32,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>3.30pm - 6.00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Guzheng Room:&nbsp;E3-12</p>
 </td>
 </tr>
 </tbody>
