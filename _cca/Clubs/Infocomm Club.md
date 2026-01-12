@@ -6,10 +6,13 @@ third_nav_title: Clubs
 variant: tiptap
 ---
 <h3>Teachers- In- Charge</h3>
-<p>Ms Mardiyana Bte Roslie
+<p>Mr Teoh Ai Keong
+<br>Mr Tan Teck Yong
+<br>Miss Lim Yu Qing
 <br>Mr David Keng
-<br>Mdm Zarina Mohamed Zakaria
-<br>Ms Nur Syafiqah Binte Saini</p>
+<br>Ms Mardiyana Bte Roslie
+<br>
+</p>
 <h3>CCA Schedule</h3>
 <table style="minWidth: 75px">
 <colgroup>
