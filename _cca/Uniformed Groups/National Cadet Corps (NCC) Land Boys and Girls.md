@@ -7,9 +7,8 @@ variant: tiptap
 ---
 <h3>Teachers- In- Charge</h3>
 <p>Mr Mohammed Noor Firdaus Bin Sumawi
-<br>Mr Peh Ang Tiong
 <br>Ms Felicia Chew
-<br>Mr Teo Chee Yong Travis
+<br>Mr Peh Ang Tiong
 <br>Mr Bryan Koh Ting Rong</p>
 <h3>CCA Schedule</h3>
 <table style="minWidth: 75px">
@@ -33,11 +32,13 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Monday
-<br>Thursday (PDS &amp; FSD only)</p>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3.00pm - 6.00pm
-<br>3.00pm - 6.00pm</p>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Classrooms
