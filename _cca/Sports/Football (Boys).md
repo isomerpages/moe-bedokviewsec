@@ -13,7 +13,6 @@ variant: tiptap
 <br>Mr Kwok Wai Fung
 <br>Miss Nur Syafiqah Binte Saini
 <br>
-<br>
 </p>
 <h3>CCA Schedule</h3>
 <table style="minWidth: 75px">
