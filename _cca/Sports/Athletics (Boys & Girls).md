@@ -11,9 +11,8 @@ variant: tiptap
 <br>Ms Shanthini D/O Sinivasan
 <br>Mr Feroze s/o Amzah</p>
 <h3>CCA Schedule</h3>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -25,9 +24,6 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Time</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Venue</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -35,9 +31,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>4.00pm - 6.00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ISH Level 1 / Temasek JC</p>
 </td>
 </tr>
 </tbody>
