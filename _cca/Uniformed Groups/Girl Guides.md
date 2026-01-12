@@ -7,8 +7,9 @@ variant: tiptap
 ---
 <h3>Teachers- In- Charge</h3>
 <p>Ms Tan Sok Foon Noelle
+<br>Ms Lazaroo Odilia Emily
 <br>Ms Adeline Chew Hui Yi
-<br>Ms Lazaroo Odilia Emily</p>
+<br>Ms Peh Hui Shan</p>
 <h3>CCA Schedule</h3>
 <table style="minWidth: 75px">
 <colgroup>
