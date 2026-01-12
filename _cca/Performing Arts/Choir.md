@@ -8,8 +8,7 @@ variant: tiptap
 <h3>Teachers- In- Charge</h3>
 <p>Ms Sherine Wong
 <br>Mdm Nazatul Fadzlin Bte Fadil
-<br>Ms Lannie Lai</p>
-<h3>CCA Schedule</h3>
+<br>CCA Schedule</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
