@@ -6,10 +6,11 @@ third_nav_title: Performing Arts
 variant: tiptap
 ---
 <h3>Teachers- In- Charge</h3>
-<p>Ms Lee Chuen Sing Serene Kuek
-<br>Ms Heng Li Gek Juliet
-<br>Ms Nur Emillia Bte Sulaiman Sim
-<br>Mdm Visalatchi Santhira Segaran</p>
+<p>Ms Nur Emillia Bte Sulaiman Sim
+<br>Mdm Visalatchi Santhira Segaran
+<br>Mdm Haryati Bt Hussin
+<br>
+</p>
 <h3>CCA Schedule</h3>
 <table style="minWidth: 75px">
 <colgroup>
