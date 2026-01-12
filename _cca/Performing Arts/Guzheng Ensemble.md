@@ -6,10 +6,11 @@ third_nav_title: Performing Arts
 variant: tiptap
 ---
 <h3>Teachers- In- Charge</h3>
-<p>Mdm Ji Yu
+<p>Ms Cherie Chow Min Er
+<br>Mdm Ji Yu
 <br>Mdm Yu Baixin
-<br>Ms Cherie Chow Min Er
-<br>Mr Steven Su Jee Yee</p>
+<br>
+</p>
 <h3>CCA Schedule</h3>
 <table style="minWidth: 75px">
 <colgroup>
