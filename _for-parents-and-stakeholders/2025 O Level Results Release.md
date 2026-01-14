@@ -30,4 +30,8 @@ are required to produce the relevant documents for the school’s verification
 when collecting the results.</p>
 <p>Students may start reporting from 1.30pm and be seated in the hall by
 1.55pm.</p>
+<p><u>Briefing Materials</u>
+<br><a href="/files/Briefing_Slides_for_Release_of_O_Level_Results_school_website.pdf" rel="noopener noreferrer nofollow" target="_blank">Briefing Slides</a> and
+<a href="/files/2026_JC_Open_House_Details_school_website.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 JC Open House Details</a>
+</p>
 <p></p>
