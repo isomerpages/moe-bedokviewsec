@@ -18,7 +18,7 @@ sections:
         - title: 2026 Student's Handbook
           description: Click for more information
           url: /for-parents-and-stakeholders/student-handbook/
-        - title: 2025 O Level Results Release
+        - title: HBL Day Lesson Instructions (16 Jan)
           description: Click for more information
-          url: /2025-o-level-results-release/
+          url: /partnerships/info-for-parents-and-students/
 ---
