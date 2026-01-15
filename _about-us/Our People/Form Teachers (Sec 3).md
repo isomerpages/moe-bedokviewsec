@@ -34,7 +34,7 @@ variant: tiptap
 <p>Ms Liew Chu Ying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>To be updated</em>
+<p><a href="mailto:liew_chu_ying_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liew_chu_ying_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -113,7 +113,7 @@ variant: tiptap
 <p>Mr Naurana Badalge Ethan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>To be updated</em>
+<p><a href="mailto:naurana_badalge_ethan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">naurana_badalge_ethan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -183,7 +183,7 @@ variant: tiptap
 <p>Ms Fatimah Zahra</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>To be updated</em>
+<p><a href="mailto:fatimah_zahra_mohd_rafique@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fatimah_zahra_mohd_rafique@schools.gov.sg</a>
 </p>
 </td>
 </tr>
