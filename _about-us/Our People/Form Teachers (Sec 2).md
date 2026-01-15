@@ -43,7 +43,7 @@ variant: tiptap
 <p>Ms Siti Rafidah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>To be updated</em>
+<p><a href="mailto:Siti_Rafidah_Rahman_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Siti_Rafidah_Rahman_A@schools.gov.sg</a>
 </p>
 </td>
 </tr>

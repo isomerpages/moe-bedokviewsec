@@ -219,7 +219,7 @@ variant: tiptap
 <p>Ms Elaine Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>To be updated</em>
+<p><a href="mailto:Lim_Beng_Neo_Elaine_C@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lim_Beng_Neo_Elaine_C@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -254,7 +254,7 @@ variant: tiptap
 <p>Ms Natalie Teo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>To be updated</em>
+<p><a href="mailto:teo_huien_natalie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_huien_natalie@schools.gov.sg</a>
 </p>
 </td>
 </tr>
