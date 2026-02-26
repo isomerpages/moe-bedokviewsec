@@ -4,7 +4,7 @@ permalink: /partnerships/info-for-parents-and-students/
 description: ""
 variant: tiptap
 ---
-<p><strong>Home-Based Learning (HBL) Day Instructions (16 Feb)</strong>
+<p><strong>Home-Based Learning (HBL) Day Instructions (27 Feb)</strong>
 <br><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSQ-qj_QrhH7Qj3nn5JKxRNCOvLCdu0_i4VWWcvFh4a5unGKdCaeXvOsUnUe1QhLQEHyoGYuQtmqNBf/pubhtml" rel="noopener nofollow" target="_blank">Secondary 1: HBL Instructions for Lessons</a>
 <br><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSAop6Ca0t2e62vR3xg40rVnbq75XFLGjdfQD5J_HFvSvDgJNIcMCfZOQpalBcAfgmnIrHZuTdZZV5_/pubhtml" rel="noopener nofollow" target="_blank">Secondary 2: HBL Instructions for Lessons</a>
 <br><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRW9FJ3K8wIDdn7bx4U3xss0MLzmLhQJBXYwWYEBFFZQ14fLH9c8A_eTQnABQnyX85p9GOmVhLSCuh_/pubhtml" rel="noopener nofollow" target="_blank">Secondary 3: HBL Instructions for Lessons</a>
