@@ -18,7 +18,7 @@ sections:
         - title: 2026 Student's Handbook
           description: Click for more information
           url: /for-parents-and-stakeholders/student-handbook/
-        - title: HBL Day Lesson Instructions (16 Feb)
+        - title: HBL Day Lesson Instructions
           description: Click for more information
           url: /partnerships/info-for-parents-and-students/
 ---
