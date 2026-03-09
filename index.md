@@ -19,6 +19,6 @@ sections:
           description: Click for more information
           url: /for-parents-and-stakeholders/student-handbook/
         - title: HBL Day Lesson Instructions
-          description: Click for more information
+          description: March Holidays Acad Support
           url: /partnerships/info-for-parents-and-students/
 ---
