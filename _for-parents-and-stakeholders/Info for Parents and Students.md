@@ -4,6 +4,10 @@ permalink: /partnerships/info-for-parents-and-students/
 description: ""
 variant: tiptap
 ---
+<p><strong>2026 March Holidays Academic Support</strong>
+<br><a href="/files/2026_March_Holidays_Academic_Support_Programme.pdf" rel="noopener nofollow" target="_blank">Academic Support Schedule</a>
+<br>
+</p>
 <p><strong>Home-Based Learning (HBL) Day Instructions (27 Feb)</strong>
 <br><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSQ-qj_QrhH7Qj3nn5JKxRNCOvLCdu0_i4VWWcvFh4a5unGKdCaeXvOsUnUe1QhLQEHyoGYuQtmqNBf/pubhtml" rel="noopener nofollow" target="_blank">Secondary 1: HBL Instructions for Lessons</a>
 <br><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSAop6Ca0t2e62vR3xg40rVnbq75XFLGjdfQD5J_HFvSvDgJNIcMCfZOQpalBcAfgmnIrHZuTdZZV5_/pubhtml" rel="noopener nofollow" target="_blank">Secondary 2: HBL Instructions for Lessons</a>
