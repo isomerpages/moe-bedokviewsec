@@ -45,9 +45,9 @@ inactive after school hours</p>
 </li>
 </ul>
 <h4>Parent Guides</h4>
-<p><a href="/files/iPad_DMA_Parent_Guide_for_Default_Option.pdf" rel="noopener noreferrer nofollow" target="_blank">iPad DMA Parent Guide for Default Option</a>
-<br><a href="/files/iPad_DMA_Parent_Guide_for_Option_A.pdf" rel="noopener noreferrer nofollow" target="_blank">iPad DMA Parent Guide for Option A</a>
-<br><a href="/files/iPad_DMA_Parent_Guide_for_Option_B.pdf" rel="noopener noreferrer nofollow" target="_blank">iPad DMA Parent Guide for Option B</a>
+<p><a href="/files/iPadOS_DMA_Parent_Default_Option.pdf" rel="noopener nofollow" target="_blank">iPad DMA Parent Guide for Default Option</a>
+<br><a href="/files/iPadOS_DMA_Parent_Option_A.pdf" rel="noopener nofollow" target="_blank">iPad DMA Parent Guide for Option A</a>
+<br><a href="/files/iPadOS_DMA_Parent_Option_B.pdf" rel="noopener nofollow" target="_blank">iPad DMA Parent Guide for Option B</a>
 </p>
 <p></p>
 <h4>Student Information Kit</h4>
