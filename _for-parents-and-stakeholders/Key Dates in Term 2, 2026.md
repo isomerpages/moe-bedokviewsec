@@ -29,11 +29,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Jan (Fri) to
-<br>6 Jan (Tue)</p>
+<p>*23 Mar (Mon)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Orientation &amp; Back-to-school Activities</p>
+<p>Hari Raya Puasa (School Holiday)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All</p>
@@ -41,14 +40,16 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 Jan (Tue)</p>
+<p>24 Mar (Tue) to
+<br>6 Apr (Thu)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Meet-the-Parents Sessions (MTPS) &amp; Commencement Ceremony (3pm to 5pm)</p>
-<p>PSG Welcome Tea (5pm to 6pm)</p>
+<p>Health Screening &amp;</p>
+<p>HPV Vaccination</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 1 (In-person)</p>
+<p>All Sec 1 &amp; 2</p>
+<p>Sec 1 &amp; 2 Girls</p>
 </td>
 </tr>
 <tr>
