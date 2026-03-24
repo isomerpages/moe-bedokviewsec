@@ -54,13 +54,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8 Jan (Thu) to 22 Jan (Thu)</p>
+<p>Fri 27 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Secondary 1 CCA Experience
-<br><em>(4 sessions for Sports CCA,</em>
-<br><em>4 sessions for Performing Arts and Clubs, and 2 sessions for Uniformed Groups)</em>
-</p>
+<p>Issue of Personal Learning Devices</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 1</p>
@@ -68,27 +65,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>16 Jan (Fri),
-<br>30 Jan (Fri),
-<br>16 Feb (Mon),
-<br>27 Feb (Fri),
-<br>13 Mar (Fri)</p>
+<p>Mon 6 Apr to Fri 10 Apr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-<br>Home-based Learning (HBL) Days</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>All</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>20 Jan (Tue)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>NRIC Registration Exercise</p>
+<p>Issue of NRIC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 3</p>
@@ -96,46 +76,66 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-<br>23 Jan (Fri)</p>
+<p>Fri 10 Apr to Sun 12 Apr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-<br>Meet-the-Parents Sessions (MTPS) (5pm to 6pm)</p>
+<p>Leadership Camp</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 3 (In-Person)</p>
-<p>Sec 2 (Virtual)
-<br>
-<br>Sec 4 &amp; 5 (Virtual)</p>
+<p>Selected Sec 3</p>
+<p>Student Leaders</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>26 Jan (Mon) to 29 Jan (Thu)&nbsp;</p>
-<p>27 Jan (Tue) to 29 Jan (Thu)</p>
+<p>Tue 14 Apr to Thurs 16 Apr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mid-Term Activities
-<br>
+<p>Mid-Term Activities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tue 14 Apr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.4km Run Challenge</p>
+<p>&nbsp;</p>
+<p>BVConnects:Run&amp;LunchwithPSG&amp; Alumni</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All</p>
+<p>&nbsp;</p>
+<p>Interested parents/ guardians&amp;alumni</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fri 17 Apr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Awards Day &amp; Investiture (Day 1)</p>
+<p>&nbsp;</p>
+<p>SIL Day <em>(Students will have home-based student-initiated learning activities unless they are involved in the event)</em>
 </p>
-<p>
-<br>Residential Level Camps</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>All levels</p>
-<p>
-<br>Sec 1 &amp; 3</p>
+<p>All
+<br>
+<br>Sec 1 to 3</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>13 Feb (Fri)</p>
+<p>Mon 20 Apr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Special Timetable and Chinese New Year Celebrations</p>
+<p>Awards Day &amp; Investiture (Day 2)</p>
+<p>(this&nbsp;&nbsp;&nbsp;&nbsp; will&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+take&nbsp;&nbsp;&nbsp;&nbsp; place&nbsp;&nbsp; during&nbsp; morning assembly)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All</p>
@@ -143,24 +143,13 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>17 Feb (Tue) and 18 Feb (Wed)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chinese New Year (Public Holiday)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>All</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>16 Mar (Mon) to 20 Mar (Fri)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Holidays</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>All</p>
+<p></p>
 </td>
 </tr>
 </tbody>
