@@ -40,10 +40,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Joyce Tang</p>
+<p>Mr Venkat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:low_siew_lang_mrs@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_siew_lang_mrs@schools.gov.sg</a>
+<p><a href="mailto:Swaminathan_Venkataraman_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Swaminathan_Venkataraman_A@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -79,15 +79,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto: haryati_hussin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">haryati_hussin@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Rogayah Osman</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto: Rogayah_Osman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Rogayah_Osman@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -128,10 +119,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Yok Siew</p>
+<p>Mdm Rogayah Osman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: tan_yok_siew@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yok_siew@schools.gov.sg</a>
+<p><a href="mailto: Rogayah_Osman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Rogayah_Osman@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -211,15 +202,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto: Visalatchi_santhira_segaran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Visalatchi_santhira_segaran@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Elaine Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Lim_Beng_Neo_Elaine_C@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lim_Beng_Neo_Elaine_C@schools.gov.sg</a>
 </p>
 </td>
 </tr>
