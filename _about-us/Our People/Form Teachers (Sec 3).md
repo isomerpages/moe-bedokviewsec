@@ -110,10 +110,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Naurana Badalge Ethan</p>
+<p>Mr Jonathan Chen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:naurana_badalge_ethan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">naurana_badalge_ethan@schools.gov.sg</a>
+<p><a href="mailto:jonathan_chen_junhong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jonathan_chen_junhong@schools.gov.sg</a>
 </p>
 </td>
 </tr>
