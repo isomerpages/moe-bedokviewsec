@@ -73,15 +73,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Geraldine Chia</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:geraldine_chia_hui_jun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">geraldine_chia_hui_jun@schools.gov.sg</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h5>Sec 3/3 Form Teachers</h5>
