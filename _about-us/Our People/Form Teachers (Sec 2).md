@@ -38,15 +38,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Siti Rafidah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Siti_Rafidah_Rahman_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Siti_Rafidah_Rahman_A@schools.gov.sg</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h5>Sec 2/2 Form Teachers</h5>
@@ -280,15 +271,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nur_emillia_sulaiman_sim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_emillia_sulaiman_sim@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Yok Khoon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_yok_khoon_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yok_khoon_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
