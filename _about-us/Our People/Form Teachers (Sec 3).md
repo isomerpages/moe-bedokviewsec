@@ -180,10 +180,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Fatimah Zahra</p>
+<p>Mr Naurana Badalge Ethan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:fatimah_zahra_mohd_rafique@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fatimah_zahra_mohd_rafique@schools.gov.sg</a>
+<p><a href="mailto:naurana_badalge_ethan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">naurana_badalge_ethan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -250,10 +250,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Choong Kau Choo, Ivy</p>
+<p>Ms Fatimah Zahra</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:choong_kau_choo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">choong_kau_choo@schools.gov.sg</a>
+<p><a href="mailto:fatimah_zahra_mohd_rafique@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fatimah_zahra_mohd_rafique@schools.gov.sg</a>
 </p>
 </td>
 </tr>
