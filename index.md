@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/Main_Page___L1.jpg
       key_highlights:
-        - title: Key Dates in Term 1, 2026
+        - title: Key Dates in Term 2, 2026
           description: Click for more information
           url: /key-dates/
         - title: Latest Happenings
@@ -18,7 +18,7 @@ sections:
         - title: 2026 Student's Handbook
           description: Click for more information
           url: /for-parents-and-stakeholders/student-handbook/
-        - title: HBL Day Lesson Instructions
-          description: March Holidays Acad Support
+        - title: Term 2 Class Timetables
+          description: Click for more information
           url: /partnerships/info-for-parents-and-students/
 ---
