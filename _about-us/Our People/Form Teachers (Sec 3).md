@@ -108,6 +108,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Fong Yi Shuen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:fong_yi_shuen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fong_yi_shuen@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h5>Sec 3/4 Form Teachers</h5>
