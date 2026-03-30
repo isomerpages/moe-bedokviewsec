@@ -53,7 +53,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fri 27 Mar</p>
+<p>27 Mar (Fri)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Issue of Personal Learning Devices</p>
@@ -75,7 +75,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mon 6 Apr to Fri 10 Apr</p>
+<p>6 Apr (Mon) to
+<br>10 Apr (Fri)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Issue of NRIC</p>
@@ -86,7 +87,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fri 10 Apr to Sun 12 Apr</p>
+<p>10 Apr (Fri) to
+<br>12 Apr (Sun)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Leadership Camp</p>
@@ -98,7 +100,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tue 14 Apr to Thurs 16 Apr</p>
+<p>14 Apr (Tue) to
+<br>16 Apr (Thurs)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mid-Term Activities</p>
@@ -109,7 +112,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tue 14 Apr</p>
+<p>14 Apr (Tue)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2.4km Run Challenge</p>
@@ -124,7 +127,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fri 17 Apr</p>
+<p>17 Apr (Fri)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Awards Day &amp; Investiture (Day 1)</p>
@@ -140,7 +143,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mon 20 Apr</p>
+<p>20 Apr (Mon)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Awards Day &amp; Investiture (Day 2)</p>
@@ -153,7 +156,7 @@ take&nbsp;&nbsp;&nbsp;&nbsp; place&nbsp;&nbsp; during&nbsp; morning assembly)</p
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fri 30 Apr</p>
+<p>30 Apr (Fri)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Secondary 4 &amp; 5 CCA Stand down</p>
@@ -164,7 +167,7 @@ take&nbsp;&nbsp;&nbsp;&nbsp; place&nbsp;&nbsp; during&nbsp; morning assembly)</p
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fri 1 May</p>
+<p>1 May (Fri)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Labour Day (Public Holiday)</p>
@@ -175,7 +178,7 @@ take&nbsp;&nbsp;&nbsp;&nbsp; place&nbsp;&nbsp; during&nbsp; morning assembly)</p
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Fri 15 May</p>
+<p>15 May (Fri)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Prelim Oral Exam (EL&amp;MTL)</p>
@@ -195,7 +198,8 @@ take&nbsp;&nbsp;&nbsp;&nbsp; place&nbsp;&nbsp; during&nbsp; morning assembly)</p
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Thurs 14 May to Tue 19 May</p>
+<p>14 May (Thurs) to
+<br>19 May (Tue)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Overseas Learning Journey: Hong Kong – Shenzhen, China</p>
@@ -206,7 +210,7 @@ take&nbsp;&nbsp;&nbsp;&nbsp; place&nbsp;&nbsp; during&nbsp; morning assembly)</p
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wed 27 May</p>
+<p>27 May (Wed)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Hari Raya Haji (Public Holiday)</p>
@@ -217,7 +221,7 @@ take&nbsp;&nbsp;&nbsp;&nbsp; place&nbsp;&nbsp; during&nbsp; morning assembly)</p
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fri 29 May</p>
+<p>29 May (Fri)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mid-Year Meet-the-Parents Session</p>
@@ -228,7 +232,8 @@ take&nbsp;&nbsp;&nbsp;&nbsp; place&nbsp;&nbsp; during&nbsp; morning assembly)</p
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sun 31 May to Thurs 4 June</p>
+<p>31 May (Sun) to
+<br>4 June (Thurs)</p>
 <p>(TBC)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -236,44 +241,74 @@ take&nbsp;&nbsp;&nbsp;&nbsp; place&nbsp;&nbsp; during&nbsp; morning assembly)</p
 <p>Medan-LakeToba,Indonesia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Selected Sec 3</p>
+<p>students</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1 Jun (Mon)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Vesak Day (Public Holiday)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>All</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2 Jun (Tue) to
+<br>5 Jun (Fri)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Parent-Child Bonding Activity organized by BV Parent Support Group (PSG)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Interested parents/ guardians &amp; students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Jun (Wed) to
+<br>5 Jun (Fri)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Academic Support Lessons</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 4 and 5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9 Jun (Mon) to
+<br>22 Jun (Sun)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>June Holidays Protected Time</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23 Jun (Tue) to
+<br>25 Jun (Thurs)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Academic Support Lessons</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 4 and 5</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p>
-<br>
+<br>* As Sat 21 Mar is a Public Holiday, Mon 23 Mar will be a designated day
+off-in-lieu for schools.
+<br><strong>All students will return to school on Tue 24 Mar.</strong>
 </p>
+<p></p>
