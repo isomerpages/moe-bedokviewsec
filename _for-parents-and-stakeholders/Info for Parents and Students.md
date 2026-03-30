@@ -4,7 +4,13 @@ permalink: /partnerships/info-for-parents-and-students/
 description: ""
 variant: tiptap
 ---
-<p><strong>2026 March Holidays Academic Support</strong>
+<p><strong>2026 Class Timetables (Term 2)</strong>
+<br><a href="/files/2026_Sec_1_Timetable__Term_2_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 Timetable</a>
+<br><a href="/files/2026_Sec_2_Timetable__Term_2_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 Timetable</a>
+<br><a href="/files/2026_Sec_3_Timetable__Term_2_.pdf" rel="noopener nofollow" target="_blank">Secondary 3 Timetable</a>
+<br><a href="/files/2026_Sec_4_5_Timetable__Term_2_.pdf" rel="noopener nofollow" target="_blank">Secondary 4 &amp; 5 Timetable</a>
+<br>
+<br><strong>2026 March Holidays Academic Support</strong>
 <br><a href="/files/2026_March_Holidays_Academic_Support_Programme.pdf" rel="noopener nofollow" target="_blank">Academic Support Schedule</a>
 <br>
 </p>
@@ -15,14 +21,7 @@ variant: tiptap
 <br><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRRwZl03Yqd7F0vrlmnp2rsQyuSofTo4VhgP4gYSMnsvCYyfqCkMK-bsn_gcr-dYaerirxKWvI_RWtj/pubhtml" rel="noopener nofollow" target="_blank">Secondary 4 &amp; 5: HBL Instructions for Lessons</a>
 <br><a href="http://go.gov.sg/bv-ict-helpline" rel="noopener nofollow" target="_blank">For Password Reset Requests</a>
 <br>
-<br><strong>2026 Class Timetables (Semester 1)</strong>
-<br><a href="/files/2026_Sec_1_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 Timetable</a>
-<br><a href="/files/2026_Sec_2_Timetable.pdf" rel="noopener nofollow" target="_blank">Secondary 2 Timetable</a>
-<br><a href="/files/2026_Sec_3_Timetable.pdf" rel="noopener nofollow" target="_blank">Secondary 3 Timetable</a>
-<br><a href="/files/2026_Sec_4_Timetable.pdf" rel="noopener nofollow" target="_blank">Secondary 4 &amp; 5 Timetable</a>
-</p>
-<p></p>
-<p><strong>2026 Booklists</strong>
+<br><strong>2026 Booklists</strong>
 <br><a href="/files/BEDOK_VIEW_SEC_BOOKLIST_S1_2026.pdf" rel="noopener nofollow" target="_blank">Secondary 1 Booklist</a>
 <br><a href="/files/BEDOK_VIEW_SEC_BOOKLIST_S2_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 Booklist</a>
 <br><a href="/files/BEDOK_VIEW_SEC_BOOKLIST_S3_2026.pdf" rel="noopener nofollow" target="_blank">Secondary 3 Booklist</a>

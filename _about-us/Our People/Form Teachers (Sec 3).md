@@ -73,15 +73,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Geraldine Chia</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:geraldine_chia_hui_jun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">geraldine_chia_hui_jun@schools.gov.sg</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h5>Sec 3/3 Form Teachers</h5>
@@ -110,10 +101,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Naurana Badalge Ethan</p>
+<p>Mr Jonathan Chen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:naurana_badalge_ethan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">naurana_badalge_ethan@schools.gov.sg</a>
+<p><a href="mailto:jonathan_chen_junhong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jonathan_chen_junhong@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Fong Yi Shuen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:fong_yi_shuen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fong_yi_shuen@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -180,10 +180,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Fatimah Zahra</p>
+<p>Mr Naurana Badalge Ethan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:fatimah_zahra_mohd_rafique@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fatimah_zahra_mohd_rafique@schools.gov.sg</a>
+<p><a href="mailto:naurana_badalge_ethan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">naurana_badalge_ethan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -250,10 +250,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Choong Kau Choo, Ivy</p>
+<p>Ms Fatimah Zahra</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:choong_kau_choo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">choong_kau_choo@schools.gov.sg</a>
+<p><a href="mailto:fatimah_zahra_mohd_rafique@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fatimah_zahra_mohd_rafique@schools.gov.sg</a>
 </p>
 </td>
 </tr>

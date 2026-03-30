@@ -4,545 +4,85 @@ permalink: /join-us/direct-school-admission-dsa/
 description: ""
 variant: tiptap
 ---
-<h4><strong>BEDOK VIEW SECONDARY SCHOOL</strong></h4>
-<p><strong>&nbsp;1. Published DSA categories and criteria</strong>
+<h4><strong>&nbsp;1. Published DSA categories and criteria</strong></h4>
+<h4><strong>Sports Talent Areas</strong></h4>
+<p><strong>Offered Sports</strong>
 </p>
-<p></p>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Talent Area</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>CCA/Leadership Experience</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Badminton (Boys)</p>
+</li>
+<li>
+<p>Basketball (Boys &amp; Girls)</p>
+</li>
+<li>
+<p>Football (Boys)</p>
+</li>
+<li>
+<p>Netball (Girls)</p>
+</li>
+<li>
+<p>Track &amp; Field (Boys &amp; Girls)</p>
+</li>
+</ul>
 <p><strong>Selection Criteria</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
+<br>Applicants should demonstrate the following:
+<br>i. <strong>Strong passion and aptitude</strong> in a specific sport. Students
+must demonstrate a relatively high level of skill and interest in the sport
+they are applying for.
+<br>ii. <strong>CCA participation and achievements</strong> — preferably represented
+their school at the <strong>National School Games (NSG)</strong> level or
+equivalent platforms.
+<br>iii. <strong>Academic performance</strong> of at least <strong>50% overall</strong> for
+Primary 5 and Primary 6 results.
+<br>iv. <strong>Conduct Grade</strong> of at least <em>Very Good</em>.
+<br>v. <strong>Relevant sporting experience and achievements</strong> will be
+considered, where available.&nbsp;</p>
 <p><strong>Selection Process</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Student Leadership</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>e.g. Student Council, Prefectorial Board, Sports Captain, Class Committee,
-Peer Support Leader</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Leadership in service to school and community (e.g led in class VIA activity,
-co-organised cohort/class activity)</p>
-<p>ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Conduct Grade of at least Very Good</p>
-<p>iii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Be passionate to serve</p>
-<p>Be a confident communicator and good team player</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Shortlisted applicants will be required to undergo an interview</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp; Media/ Journalism</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp; Photography/ Videography</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>e.g. Media Journalism Club, Info-Communication Club, Photography Club</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Experience with media and journalism related programmes (community service
-or enrichment programmes using media tools or researching and writing articles)</p>
-<p>ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Conduct Grade of at least Very Good</p>
-<p>iii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Relevant samples of writing / photos / videos done by the student will
-be useful, if available.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Shortlisted applicants will be required to undergo an interview</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1.&nbsp;&nbsp; Badminton (Boys)</p>
-<p>2.&nbsp;&nbsp; Basketball (Boys &amp; Girls)</p>
-<p>3.&nbsp;&nbsp; Football (Boys)</p>
-<p>4.&nbsp;&nbsp; Netball (Girls)</p>
-<p>5.&nbsp;&nbsp; Track &amp; Field (Boys &amp; Girls)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Relevant sports experience e.g. Badminton, Basketball, Football, Netball,
-Track &amp; Field</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Strong passion and aptitude in a specific sport. Student must demonstrate
-a relatively high level of skill and interest in the particular sport for
-which they are applying for</p>
-<p>ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Conduct Grade of at least Very Good</p>
-<p>iii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Past participation and achievements in the relevant sport will be considered,
-if available.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Shortlisted applicants will be required to undergo an interview and selection
-trials.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Meeting all the criteria does not guarantee the applicants will be shortlisted/given
-an offer.</p>
-<p>Applicants who do not have prior experience may also apply. The school
-will assess applicants based on the selection criteria, which may include
-assessing the potential of the applicants.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
+<br>Shortlisted applicants will be required to attend an <strong>interview and selection trials</strong>.
 <br>
 </p>
-<p><strong>2a. Internal: shortlisting criteria</strong>
+<hr>
+<h4><strong>Performing Arts Talent Areas</strong></h4>
+<p><strong>Offered Performing Arts</strong>
 </p>
-<p>All applicants are shortlisted.</p>
-<p>&nbsp;</p>
-<p><strong>2b. Internal: selection criteria</strong>
-</p>
-<p><strong>For leadership</strong>
-</p>
-<table style="minWidth: 125px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>S/N</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Criteria</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Minimum requirement</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Weightage</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Other remarks</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Leadership Positions held</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>At least class vice-chairperson / or equivalent</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Key consideration</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;P6 results</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>At least 50% overall</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Used as academic benchmark</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Interview outcome</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Must clear interview</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Key consideration as interview allows us to assess suitability</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Conduct Grade</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>At least `Very Good’</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Concert Band (Boys &amp; Girls</p>
+</li>
+<li>
+<p>Choir (Girls)</p>
+</li>
+<li>
+<p>English Drama (Boys &amp; Girls)</p>
+</li>
+<li>
+<p>Guzheng Ensemble (Boys &amp; Girls)</p>
+</li>
+<li>
+<p>Modern Dance (Boys &amp; Girls)</p>
+</li>
+</ul>
 <p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
-<p><strong>For Media/Journalism</strong>
-</p>
-<table style="minWidth: 125px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>S/N</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Criteria</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Minimum requirement</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Weightage</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Other remarks</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Experience with media</p>
-<p>and journalism</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Some experience related to media and journalism</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Key consideration</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;2</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P6 results</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>At least 50% overall</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Used as academic benchmark</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Interview outcome</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Must clear interview</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Key consideration as interview allows us to assess suitability &nbsp;</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Conduct Grade</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>At least `Very Good’</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<p><strong>For Sports Talent Areas&nbsp;</strong>
-</p>
-<table style="minWidth: 125px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>S/N</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Criteria</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Minimum requirement</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Weightage</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Other remarks</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Trial/Interview</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Must clear interview and demonstrate strong passion and aptitude in a
-specific sport. Student must demonstrate a relatively high level of skill
-and interest in the particular sport for which they are applying for</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Key consideration as interview/trials allows us to assess competency and
-suitability.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p>2</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CCA Achievements</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Preferably have represented at least school at NSG level.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P6 results</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>At least 50% overall</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Used as academic benchmark</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Conduct Grade</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>At least `Very Good’</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<p><strong>Key Dates</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>7 May to 3 June 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><u>Centralised DSA-Sec Application Process</u></strong>
-</p>
-<p>Application for DSA-Sec can be submitted through the online <a href="https://www.dsa-is.moe.gov.sg/login/mainstreamapplicant" rel="noopener nofollow" target="_blank">DSA-Sec Portal</a>.
-The application is free-of-charge and will be open from <strong>7 May 2025, 11.00 am to 3 June 2025, 3.00 pm.</strong>
-</p>
-<p>For more details, please refer to MOE website –</p>
-<p><a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">http://www.moe.gov.sg/dsa-sec</a>.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>By 27 June 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Short-listed applicants will be notified.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Between 30 June to 4 September 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Interview sessions/trials will be carried out at Bedok View Secondary
-School.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Between 25 August - 4 September 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>All applicants will receive a reply from school on the outcome of their
-applications: (i) Confirmed Offer (CO), (ii) Wait List (WL) or (iii) Unsuccessful</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;27 October to 31 October 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><u>School Preference Submission</u></strong>
-</p>
-<p>Students who receive at least one DSA-Sec offer will receive email and
-SMS notification via <a href="http://postman.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">postman.gov.sg</a> on the School Preference
-Submission in end-Oct 2025. <strong>Both parents are required to login to the DSA-Sec Portal using their Singpass to submit up to three school preferences.</strong> If
-parents are unable to submit online, they can approach their child’s primary
-school for assistance to submit the school preferences on their behalf.</p>
-<p></p>
-<p>DSA-Sec offers not taken up will be considered as lapsed at the end of
-the School Preference Submission period.</p>
-<p></p>
-<p>Some students may receive concurrent offers from DSA-Sec schools and Singapore
-Sports School (SSP). Students who wish to accept the SSP offer should not
-submit their DSA-Sec school preferences. If they do so, their earlier SSP
-offer <u>will be void</u>. Students who wish to accept the SSP offer should
-also continue to take part in the S1 Posting.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;By end November 2025 (tentative)</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Release of DSA-Sec Allocation Results.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
+<p><strong>Selection Criteria</strong>
+<br>Applicants should demonstrate the following:</p>
+<p>i. <strong>Strong passion and aptitude</strong> in a specific performing
+art. Students must demonstrate a relatively high level of skill and interest
+in the performing art they are applying for.
+<br>ii. <strong>CCA participation and achievements</strong> — preferably represented
+their school at the <strong>Singapore Youth Festival (SYF)</strong> level
+or equivalent platforms.
+<br>iii. <strong>Academic performance</strong> of at least <strong>50% overall</strong> for
+Primary 5 and Primary 6 results.
+<br>iv. <strong>Conduct Grade</strong> of at least <em>Very Good</em>.
+<br>v. <strong>Relevant performing art experience and achievements</strong> will
+be considered, where available.&nbsp;</p>
+<p><strong>Selection Process</strong>
+<br>Shortlisted applicants will be required to attend an <strong>interview and selection trials</strong>.</p>
+<p><strong>Important Notes</strong>
+<br>Meeting all the stated criteria does not guarantee that applicants will
+be shortlisted or offered admission.</p>
+<p>Applicants without prior experience are also welcome to apply. The school
+will assess all applicants holistically based on the selection criteria,
+which may include an evaluation of the applicant’s potential.</p>
 <p>&nbsp;</p>
