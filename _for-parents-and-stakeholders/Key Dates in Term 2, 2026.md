@@ -4,8 +4,7 @@ permalink: /key-dates/
 variant: tiptap
 description: ""
 ---
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p>&nbsp;&nbsp;</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -61,6 +60,17 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Apr (Fri)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Good Friday (Public Holiday)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All</p>
 </td>
 </tr>
 <tr>
@@ -139,6 +149,116 @@ take&nbsp;&nbsp;&nbsp;&nbsp; place&nbsp;&nbsp; during&nbsp; morning assembly)</p
 </td>
 <td rowspan="1" colspan="1">
 <p>All</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fri 30 Apr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Secondary 4 &amp; 5 CCA Stand down</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 4 and 5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fri 1 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Labour Day (Public Holiday)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Fri 15 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Prelim Oral Exam (EL&amp;MTL)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 4&amp;5 and Sec 3 HMTL students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Home-Based Learning (HBL) Day 6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S1, S2, S3</p>
+<p>non-HMTL students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Thurs 14 May to Tue 19 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Overseas Learning Journey: Hong Kong – Shenzhen, China</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Selected Sec 3 students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wed 27 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hari Raya Haji (Public Holiday)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fri 29 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mid-Year Meet-the-Parents Session</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sun 31 May to Thurs 4 June</p>
+<p>(TBC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Overseas Learning Journey:</p>
+<p>Medan-LakeToba,Indonesia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
