@@ -48,7 +48,7 @@ considered, where available.&nbsp;</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Concert Band (Boys &amp; Girls</p>
+<p>Concert Band (Boys &amp; Girls)</p>
 </li>
 <li>
 <p>Choir (Girls)</p>
