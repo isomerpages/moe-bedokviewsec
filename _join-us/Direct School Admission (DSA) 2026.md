@@ -4,7 +4,7 @@ permalink: /join-us/direct-school-admission-dsa/
 description: ""
 variant: tiptap
 ---
-<h4><strong>&nbsp;1. Published DSA categories and criteria</strong></h4>
+<h4><strong><u>Published DSA categories and criteria</u></strong></h4>
 <h4><strong>Sports Talent Areas</strong></h4>
 <p><strong>Offered Sports</strong>
 </p>
