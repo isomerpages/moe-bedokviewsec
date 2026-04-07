@@ -2,7 +2,6 @@
 title: Character Awards
 permalink: /about-us/our-achievements/character-awards/
 description: ""
-third_nav_title: Our Achievements & Highlights
 variant: tiptap
 ---
 <h1>Model Student Award and 2RISE &amp; SHINE Award</h1>
