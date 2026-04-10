@@ -18,7 +18,7 @@ sections:
         - title: 2026 Student's Handbook
           description: Click for more information
           url: /for-parents-and-stakeholders/student-handbook/
-        - title: Term 2 Class Timetables
+        - title: Term 2 Mid-Term Activities
           description: Click for more information
           url: /partnerships/info-for-parents-and-students/
 ---
