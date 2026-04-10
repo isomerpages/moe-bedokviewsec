@@ -4,6 +4,13 @@ permalink: /partnerships/info-for-parents-and-students/
 description: ""
 variant: tiptap
 ---
+<p><strong>Term 2 Mid-Term Activities</strong>
+<br><a href="/files/T2_MTA_WEEK_TT___S1_CLASSES.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 Classes</a>
+<br><a href="/files/T2_MTA_WEEK_TT___S2_CLASSES.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 Classes</a>
+<br><a href="/files/T2_MTA_WEEK_TT___S3_CLASSES.pdf" rel="noopener nofollow" target="_blank">Secondary 3 Classes</a>
+<br><a href="/files/T2_MTA_WEEK_TT___S4_5_CLASSES.pdf" rel="noopener nofollow" target="_blank">Secondary 4 &amp; 5 Classes</a>
+</p>
+<p></p>
 <p><strong>2026 Class Timetables (Term 2)</strong>
 <br><a href="/files/2026_Sec_1_Timetable__Term_2_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 Timetable</a>
 <br><a href="/files/2026_Sec_2_Timetable__Term_2_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 Timetable</a>
