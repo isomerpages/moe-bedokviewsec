@@ -4,27 +4,13 @@ permalink: /partnerships/info-for-parents-and-students/
 description: ""
 variant: tiptap
 ---
-<p><strong>Term 2 Mid-Term Activities</strong>
-<br><a href="/files/T2_MTA_WEEK_TT___S1_CLASSES.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 Classes</a>
-<br><a href="/files/T2_MTA_WEEK_TT___S2_CLASSES.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 Classes</a>
-<br><a href="/files/T2_MTA_WEEK_TT___S3_CLASSES.pdf" rel="noopener nofollow" target="_blank">Secondary 3 Classes</a>
-<br><a href="/files/T2_MTA_WEEK_TT___S4_5_CLASSES.pdf" rel="noopener nofollow" target="_blank">Secondary 4 &amp; 5 Classes</a>
-</p>
-<p></p>
-<p><strong>Bedok View 2.4 KM Challenge</strong>
-<br><a href="https://go.gov.sg/2-4challenge" rel="noopener nofollow" target="_blank">Briefing Slides</a>
-</p>
 <p><strong>2026 Class Timetables (Term 2)</strong>
 <br><a href="/files/2026_Sec_1_Timetable__Term_2_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 Timetable</a>
 <br><a href="/files/2026_Sec_2_Timetable__Term_2_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 Timetable</a>
 <br><a href="/files/2026_Sec_3_Timetable__Term_2_.pdf" rel="noopener nofollow" target="_blank">Secondary 3 Timetable</a>
 <br><a href="/files/2026_Sec_4_5_Timetable__Term_2_.pdf" rel="noopener nofollow" target="_blank">Secondary 4 &amp; 5 Timetable</a>
 <br>
-<br><strong>2026 March Holidays Academic Support</strong>
-<br><a href="/files/2026_March_Holidays_Academic_Support_Programme.pdf" rel="noopener nofollow" target="_blank">Academic Support Schedule</a>
-<br>
-</p>
-<p><strong>Home-Based Learning (HBL) Day Instructions (13 Mar)</strong>
+<br><strong>Home-Based Learning (HBL) Day Instructions (13 Mar)</strong>
 <br><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSQ-qj_QrhH7Qj3nn5JKxRNCOvLCdu0_i4VWWcvFh4a5unGKdCaeXvOsUnUe1QhLQEHyoGYuQtmqNBf/pubhtml" rel="noopener nofollow" target="_blank">Secondary 1: HBL Instructions for Lessons</a>
 <br><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSAop6Ca0t2e62vR3xg40rVnbq75XFLGjdfQD5J_HFvSvDgJNIcMCfZOQpalBcAfgmnIrHZuTdZZV5_/pubhtml" rel="noopener nofollow" target="_blank">Secondary 2: HBL Instructions for Lessons</a>
 <br><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRW9FJ3K8wIDdn7bx4U3xss0MLzmLhQJBXYwWYEBFFZQ14fLH9c8A_eTQnABQnyX85p9GOmVhLSCuh_/pubhtml" rel="noopener nofollow" target="_blank">Secondary 3: HBL Instructions for Lessons</a>
