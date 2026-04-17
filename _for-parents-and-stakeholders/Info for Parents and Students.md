@@ -26,10 +26,3 @@ variant: tiptap
 <br><a href="/files/Annex_A_2026.pdf" rel="noopener nofollow" target="_blank">Sale of Textbooks and School Uniform/PE Attire During School Holidays</a>
 </p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
