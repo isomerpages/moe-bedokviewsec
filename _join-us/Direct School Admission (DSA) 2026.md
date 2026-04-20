@@ -131,7 +131,7 @@ at <strong>Bedok View Secondary School</strong>.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Students with at least one DSA offer (including from SOTA) will receive
-an SMS and email via <a href="http://Postman.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Postman.gov.sg</a>.</p>
+an SMS and email via Postman.gov.sg</p>
 </li>
 <li>
 <p>Only <strong>one parent</strong> is required to log in to the DSA-Sec Portal
