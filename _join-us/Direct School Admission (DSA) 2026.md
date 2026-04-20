@@ -174,8 +174,7 @@ an offer.</p>
 <li>
 <p>Students who are successfully admitted to the school via DSA are required
 to honour their commitment to the school and participate in the activities
-related to the talent they are selected for from Sec 1 to Sec 4.</p>
+related to the talent they are selected for from Sec 1 to Sec 4.&nbsp;</p>
 </li>
 </ul>
 <p></p>
-<p>&nbsp;</p>
