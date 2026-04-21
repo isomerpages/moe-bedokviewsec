@@ -14,7 +14,8 @@ locations:
 contacts:
   - content:
       - phone: +65 6443 0563
-      - email: bedokview_ss@moe.edu.sg
-      - other: "<br>General Office (Fax):\t<br> 6449 4286"
+      - email: bedokview_ss@schools.gov.sg
+      - other: ""
     title: General Enquiries & Feedback
+feedback: ""
 ---
