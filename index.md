@@ -4,7 +4,11 @@ title: Bedok View Secondary School
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: Please be informed that our General Office will be closed on
+  Friday, 12 Jun, due to upgrading works and will not be contactable by
+  phone.  For urgent matters, please send your enquiries to our school's general
+  email address. We apologise for any inconvenience caused and thank you for
+  your understanding.
 sections:
   - hero:
       background: /images/Main_Page___L1.jpg
