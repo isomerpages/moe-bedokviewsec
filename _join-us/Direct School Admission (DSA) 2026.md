@@ -98,7 +98,7 @@ be considered, where available.&nbsp;</p>
 </ul>
 <hr>
 <p><strong>📩 Shortlisting Notification</strong>
-<br><strong>By 26 June 2026</strong>
+<br><strong>By 29 June 2026 </strong><em>(updated on 22 Jun)</em>
 </p>
 <ul data-tight="true" class="tight">
 <li>
