@@ -4,10 +4,7 @@ title: Bedok View Secondary School
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Please be informed that our office staff will be out of school the
-  entire day on Monday, 22 June. For urgent matters, please contact 8910
-  7914.  We apologise for any inconvenience caused and thank you for your
-  understanding.
+notification: ""
 sections:
   - hero:
       background: /images/Main_Page___L1.jpg
