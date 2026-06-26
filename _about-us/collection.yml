@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - Principal's Welcome Message.md
+      - Principal's Message.md
       - Our History.md
       - Our Identity.md
       - Our People/.keep
