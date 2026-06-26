@@ -2,60 +2,70 @@
 title: Principal's Welcome Message
 permalink: /about-us/principals-welcome-message/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<img align="left" style="width: 50%;" height="auto" width="100%" alt="" src="/images/Principal.png">As you step into Bedok View Secondary School, you will be greeted by our
-iconic 'BV Lighthouse'. This symbol represents more than just a structure;
-it embodies our commitment to providing a guiding light for our students'
-thoughts and actions. Like a lighthouse that stands firm and confronts
-the waves of challenges and stormy weather conditions,&nbsp; we aim to
-build a solid foundation for every Bedok Viewan.
-<p>Our vision remains steadfast: to nurture Learners who learn for life and
-Leaders who light the way. Each school day offers a safe and nurturing
-environment that upholds our core values of Respect, Responsibility, Integrity,
-Service and Excellence (2RISE).</p>
-<p>In 2025, we will continue to emphasise on the three guiding principles
-that shape BV’s curriculum design and schooling experience:</p>
 <p></p>
-<p><u>Honing Skills</u>: Our distinctive Applied Learning Programme (ALP)
-– Global Awareness for the 21st Century @ BV – aims to connect classroom
-learning with real-world applications.</p>
-<p>The BV Navigator Programme integrates our ALP, Project Work, STEM disciplines,
-and 21st Century Competencies, providing immersive experiences in areas
-such as STEM learning, Broadcast Journalism, and industry attachments.
-These opportunities cultivate critical thinking, global awareness, and
-effective communication skills.</p>
-<p><u>Strengthening Character</u>: Our Learning for Life Programme - Good
-Values @ BV – focuses on developing outstanding character traits. Through
-our two-tiered programme, students, &nbsp;‘learn, act, lead and teach'
-to become change agents and leaders of exemplary character. Anchored on
-The Leadership Challenge, we instill the five leadership practices that
-empower every Bedok Viewan to shine as a well-balanced individual who serves
-beyond self.</p>
-<p><u>Broadening Perspectives</u>: We have enhanced our curriculum to offer
-a truly broad-based education. By integrating diverse subjects, harnessing
-the affordance in educational technology, encouraging interdisciplinary
-thinking, and providing exposure to various fields, we aim to broaden our
-students' horizons and prepare them for an ever-changing world.</p>
-<p>As we approach our 50th anniversary in 2027, we are proud of our strong
-partnerships with the community, parents, and alumni network. These collaborations
-enrich our students' learning experiences and provide diverse opportunities
-for growth.</p>
-<p>&nbsp;To our new students, I offer this assurance: at Bedok View, you
-will find a community dedicated to bringing out the best in you. We are
-committed to journeying with you as you aspire, strive, and dare to be
-your best, not just during your school years, but beyond.</p>
-<p>Let me leave you with these inspiring words from the poem "The Lighthouse" by Henry Wadsworth Longfellow:&nbsp;</p>
-<p><em>"Steadfast, serene, immovable, the same</em>
-<br><em>Year after year, through all the silent night</em>
-<br><em>Burns on forevermore that quenchless flame,</em>
-<br><em>Shines on that inextinguishable light!"</em>&nbsp;</p>
-<p>Like the steadfast lighthouse in Longfellow's poem, may your education
-at Bedok View be a guiding light in your life journey. I encourage all
-Bedok Viewans to embrace lifelong learning, leveraging the broad-based
-education we offer and aspire to become leaders who light the way for yourselves,
-others, and the greater community.</p>
-<p>We Aspire, We Strive, We Dare for a better future!</p>
-<p><strong>Ms Cheng Hwee Yeang</strong>
-<br><em>Principal</em>
+<h4><strong>Principal’s Message 2026: Rising Above, Moving Ahead <em>(updated Jun 2026)&nbsp;</em></strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture_header.png">
+</div>
+<p>&nbsp;Bedok Viewans, colleagues, parents, and friends,&nbsp;</p>
+<p>As we stepped into 2026, we did so with a renewed sense of purpose, guided
+by our theme for the year: <em>“Rising Above, Moving Ahead”.</em> This theme
+reflects our collective ambition to transcend challenges and continuously
+progress toward excellence in all that we do.</p>
+<h4>A Foundation of Gratitude and Commitment</h4>
+<p>We are immensely proud of our 2025 cohort. Their hard work and persistence
+were reflected in our national examination results, which stand as a testament
+to the unwavering support of our teachers and our deep belief in the boundless
+potential of every Bedok Viewan who walks through our gates.<strong>&nbsp;</strong>
 </p>
+<h4>Foundation of Culture: Safety</h4>
+<p>Our shared commitments remain the cornerstone of the Bedok View experience.
+We are dedicated to ensuring a school environment that <em>keeps everyone SAFE, helps every student STRIVE, and enables every individual to SHINE</em>.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2.png">
+</div>
+<p>To "<em>Rise Above</em>," we must first ensure a strong foundation of
+safety. At Bedok View, safety is the bedrock of growth. It is not merely
+a set of rules but a psychological state where every student feels secure
+enough to take risks. Through our Safety Code, we empower our students
+to take ownership of this culture through three ways:</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture3.png">
+</div>
+<h4>The Journey Toward Growth: Striving and Shining</h4>
+<p>By consistently practicing these three "Ways," our students do more than
+just follow rules; they become the authors of their own stories. Real growth
+occurs when we courageously step out of our <em>Comfort Zone</em>, navigate
+through the<em> Fear Zone</em>, and finally flourish in the <em>Growth Zone</em>.
+By balancing the discipline that builds integrity with the creativity that
+fosters self-confidence, we create a vibrant space where everyone can truly
+shine.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture4.png">
+</div>
+<p></p>
+<p><u>Moving Ahead Together: Toward BV50 and Beyond</u>
+</p>
+<p>As we move ahead into the latter half of 2026, our sights are set on a
+momentous milestone: BV50, which arrives in just a few months. Let us work
+together to curate these events and make BV50 a memorable experience for
+everyone, ensuring the BV story continues long beyond 2027.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture5.png">
+</div>
+<p>I encourage all students to lead alongside their teachers and the wider
+BV family using the three "Ways." Let us keep our eyes firmly on <em>the golden horizon</em> as
+we shape the next 50 years and beyond for Bedok View with C<em>are, Courage, and Challenge, </em>unwaveringly
+anchored in our educational approach: Keeping all Safe, Helping all Strive,
+and Enabling every Bedok Viewan to Shine!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture6.png">
+</div>
+<p></p>
