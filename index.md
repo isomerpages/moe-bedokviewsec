@@ -18,7 +18,7 @@ sections:
         - title: 2026 Student's Handbook
           description: Click for more information
           url: /for-parents-and-stakeholders/student-handbook/
-        - title: Info for Parents and Students
+        - title: Term 3 Letter to Parents
           description: Click for more information
           url: /partnerships/info-for-parents-and-students/
 ---
