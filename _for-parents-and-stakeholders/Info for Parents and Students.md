@@ -4,11 +4,7 @@ permalink: /partnerships/info-for-parents-and-students/
 description: ""
 variant: tiptap
 ---
-<p><strong>2026 Class Timetables (Term 2)</strong>
-<br><a href="/files/2026_Sec_1_Timetable__Term_2_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 Timetable</a>
-<br><a href="/files/2026_Sec_2_Timetable__Term_2_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 Timetable</a>
-<br><a href="/files/2026_Sec_3_Timetable__Term_2_.pdf" rel="noopener nofollow" target="_blank">Secondary 3 Timetable</a>
-<br><a href="/files/2026_Sec_4_5_Timetable__Term_2_.pdf" rel="noopener nofollow" target="_blank">Secondary 4 &amp; 5 Timetable</a>
+<p><strong><a href="/files/Term_3_Parents__Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 3 Letter to Parents</a></strong>
 <br>
 <br><strong>Home-Based Learning (HBL) Day Instructions (13 Mar)</strong>
 <br><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSQ-qj_QrhH7Qj3nn5JKxRNCOvLCdu0_i4VWWcvFh4a5unGKdCaeXvOsUnUe1QhLQEHyoGYuQtmqNBf/pubhtml" rel="noopener nofollow" target="_blank">Secondary 1: HBL Instructions for Lessons</a>
