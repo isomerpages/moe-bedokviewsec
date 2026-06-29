@@ -28,46 +28,11 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>*23 Mar (Mon)</p>
+<p>6 Jul (Mon)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hari Raya Puasa (School Holiday)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>All</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>24 Mar (Tue) to
-<br>6 Apr (Thu)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Health Screening &amp;</p>
-<p>HPV Vaccination</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>All Sec 1 &amp; 2</p>
-<p>Sec 1 &amp; 2 Girls</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>27 Mar (Fri)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Issue of Personal Learning Devices</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3 Apr (Fri)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Good Friday (Public Holiday)</p>
+<p>Youth Day (School</p>
+<p>Holiday)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All</p>
@@ -75,80 +40,189 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 Apr (Mon) to
-<br>10 Apr (Fri)</p>
+<p>7 Jul (Tue)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Issue of NRIC</p>
+<p>GCE `O’ Level Mother</p>
+<p>Tongue Listening</p>
+<p>Comprehension Exam</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Sec 4 and 5</p>
+<p>Sec 3 HMTL
+<br>
+</p>
+<p><strong><u>Dismissal Time:</u></strong>
+</p>
+<p><strong>Students taking the exam (Sec</strong>
+</p>
+<p><strong>3HMT, 4N(O), 4E5N) will be</strong>
+</p>
+<p><strong>dismissed at 12.15pm or 1.15pm</strong>
+</p>
+<p><strong>depending on their scheduled</strong>
+</p>
+<p><strong>exam time.</strong>
+<br>
+</p>
+<p><strong>Students not taking the exam</strong>
+</p>
+<p><strong>(Sec 1 to 3 and 4N) will be</strong>
+</p>
+<p><strong>dismissed at 1.15pm.</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10 Jul (Fri)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HBL Day 7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13 Jul (Mon) to
+<br>17 Jul (Fri)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GCE ‘O’ / ‘NA’ EL &amp; MT</p>
+<p>Oral Exam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 4 and 5</p>
+<p>Sec 3 HMTL</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14 Jul (Tue) to
+<br>16 Jul (Thu)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HBL Days 8, 9 and 10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1 - 3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23 Jul (Thu) to
+<br>31 Jul (Fri)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>‘N’ Level Prelim Exams</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24 Jul (Fri)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HBL Day 11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1 – 3</p>
+<p>Sec 4E &amp; 5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 Aug (Thu)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>F.A.M.E.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7 Aug (Fri)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Day Celebrations</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All</p>
+<p><strong><u>Early Dismissal:</u></strong>
+</p>
+<p><strong>Students will be dismissed at</strong>
+</p>
+<p><strong>about 10.30am.</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10 Aug (Mon)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Day (School</p>
+<p>Holiday)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18 Aug (Tue) to
+<br>1 Sep (Tue)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>`O’ Level Prelim Exams</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 4 and 5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>21 Aug (Fri)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HBL Day 12</p>
+<p>S3 EL/MTL Oral Exam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1 &amp; 2</p>
 <p>Sec 3</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>10 Apr (Fri) to
-<br>12 Apr (Sun)</p>
+<p>3 Sep (Thu)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Leadership Camp</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Selected Sec 3</p>
-<p>Student Leaders</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>14 Apr (Tue) to
-<br>16 Apr (Thurs)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mid-Term Activities</p>
+<p>Teachers’ Day Celebration</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>14 Apr (Tue)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2.4km Run Challenge</p>
-<p>&nbsp;</p>
-<p>BVConnects:Run&amp;LunchwithPSG&amp; Alumni</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>All</p>
-<p>&nbsp;</p>
-<p>Interested parents/ guardians&amp;alumni</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>17 Apr (Fri)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Awards Day &amp; Investiture (Day 1)</p>
-<p>&nbsp;</p>
-<p>SIL Day <em>(Students will have home-based student-initiated learning activities unless they are involved in the event)</em>
+<p><strong><u>Early Dismissal:</u></strong>
+</p>
+<p><strong>Students will be dismissed at</strong>
+</p>
+<p><strong>about 10.30am.</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p>All
-<br>
-<br>Sec 1 to 3</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>20 Apr (Mon)</p>
+<p>4 Sep (Fri)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Awards Day &amp; Investiture (Day 2)</p>
-<p>(this&nbsp;&nbsp;&nbsp;&nbsp; will&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-take&nbsp;&nbsp;&nbsp;&nbsp; place&nbsp;&nbsp; during&nbsp; morning assembly)</p>
+<p>Teachers’ Day (School</p>
+<p>Holiday)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All</p>
@@ -156,159 +230,20 @@ take&nbsp;&nbsp;&nbsp;&nbsp; place&nbsp;&nbsp; during&nbsp; morning assembly)</p
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>30 Apr (Fri)</p>
+<p>7 Sep (Mon) to
+<br>9 Sep (Wed)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Secondary 4 &amp; 5 CCA Stand down</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 4 and 5</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1 May (Fri)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Labour Day (Public Holiday)</p>
+<p>September Holidays</p>
+<p>Protected Time</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>All</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>15 May (Fri)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Prelim Oral Exam (EL&amp;MTL)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 4&amp;5 and Sec 3 HMTL students</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Home-Based Learning (HBL) Day 6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>S1, S2, S3</p>
-<p>non-HMTL students</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>14 May (Thurs) to
-<br>19 May (Tue)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Overseas Learning Journey: Hong Kong – Shenzhen, China</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Selected Sec 3 students</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>27 May (Wed)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Hari Raya Haji (Public Holiday)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>All</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>29 May (Fri)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mid-Year Meet-the-Parents Session</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>All</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>31 May (Sun) to
-<br>4 June (Thurs)</p>
-<p>(TBC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Overseas Learning Journey:</p>
-<p>Medan-LakeToba,Indonesia</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Selected Sec 3</p>
-<p>students</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1 Jun (Mon)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vesak Day (Public Holiday)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>All</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 Jun (Tue) to
-<br>5 Jun (Fri)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Parent-Child Bonding Activity organized by BV Parent Support Group (PSG)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Interested parents/ guardians &amp; students</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3 Jun (Wed) to
-<br>5 Jun (Fri)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Academic Support Lessons</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 4 and 5</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>9 Jun (Mon) to
-<br>22 Jun (Sun)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>June Holidays Protected Time</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>All</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>23 Jun (Tue) to
-<br>25 Jun (Thurs)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Academic Support Lessons</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 4 and 5</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p>
-<br>* As Sat 21 Mar is a Public Holiday, Mon 23 Mar will be a designated day
-off-in-lieu for schools.
-<br><strong>All students will return to school on Tue 24 Mar.</strong>
+<br>
 </p>
 <p></p>
