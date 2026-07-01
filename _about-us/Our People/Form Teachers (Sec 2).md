@@ -73,6 +73,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Chan Jing Wei Keoni</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Chan_Jing_Wei_Keoni@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Chan_Jing_Wei_Keoni@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h5>Sec 2/3 Form Teachers</h5>
@@ -140,6 +149,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:teo_chee_yong_travis@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_chee_yong_travis@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Cheryl Koh Rui En</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>To be updated</em>
 </p>
 </td>
 </tr>
@@ -271,6 +289,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nur_emillia_sulaiman_sim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_emillia_sulaiman_sim@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Kua Lay Hwa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ma_lay_hwa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ma_lay_hwa@schools.gov.sg</a>
 </p>
 </td>
 </tr>
