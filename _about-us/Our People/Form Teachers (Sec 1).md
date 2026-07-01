@@ -78,7 +78,8 @@ variant: tiptap
 <p>Ms Zaheda Akhter Hussain</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Zaheda_Akhter_Hussain@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Zaheda_Akhter_Hussain@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
