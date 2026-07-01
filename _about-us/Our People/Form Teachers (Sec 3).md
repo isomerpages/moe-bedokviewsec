@@ -73,6 +73,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Geraldine Chia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:geraldine_chia_hui_jun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">geraldine_chia_hui_jun@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h5>Sec 3/3 Form Teachers</h5>
@@ -215,10 +224,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Vincent Chong</p>
+<p>Ms Liu Yan Ping</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chong_weng_chiew_vincent_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chong_weng_chiew_vincent_b@schools.gov.sg</a>
+<p><em>To be updated</em>
 </p>
 </td>
 </tr>
