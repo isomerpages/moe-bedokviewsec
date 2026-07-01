@@ -38,15 +38,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Venkat</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Swaminathan_Venkataraman_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Swaminathan_Venkataraman_A@schools.gov.sg</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h5>Sec 1/2 Form Teachers</h5>
@@ -79,6 +70,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto: haryati_hussin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">haryati_hussin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Zaheda Akhter Hussain</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Zaheda_Akhter_Hussain@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Zaheda_Akhter_Hussain@schools.gov.sg</a>
 </p>
 </td>
 </tr>
