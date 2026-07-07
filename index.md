@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/Main_Page___L1.jpg
       key_highlights:
-        - title: Key Dates in Term 2, 2026
+        - title: Key Dates in Term 3, 2026
           description: Click for more information
           url: /key-dates/
         - title: Latest Happenings
