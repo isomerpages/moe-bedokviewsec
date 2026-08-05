@@ -181,18 +181,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Syed Alwi B S Abdullah Alattas</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Staff Developer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:syed_alwi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">syed_alwi@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Cher Liew Chun Roy</p>
 </td>
 <td rowspan="1" colspan="1">
